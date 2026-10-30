@@ -12,7 +12,11 @@ Open <http://localhost:3000>. Quiz history is saved in the browser; disputes are
 
 ## Deployment
 
-The deployment target is Coolify at <https://legal.peteryates.net>, running `npm start` on port 3000. Persist `data/disputes.json` across deployments so disputes remain shared between users.
+The deployment target is Coolify at <https://legal.peteryates.net>, serving the Node backend on port 3000 from the included Dockerfile (not `dist/`). Deploy branch `main`.
+
+Mount a persistent Coolify volume at **`/app/storage`**. The Docker image sets `DISPUTES_FILE=/app/storage/disputes.json`; the writable directory belongs to the unprivileged `node` user (UID/GID 1000). Keep one application replica so the shared JSON file has a single writer. Do **not** mount a volume over `/app/data` or `/app/data/papers`: papers are bundled with each image.
+
+Outside Docker, `DISPUTES_FILE` can select another persistent file path; the default remains `data/disputes.json`. Writes use atomic replacement. Back up the storage volume separately; container/image rollbacks do not roll back disputes. To verify a deployment, check `/api/papers` returns 52 papers and create a temporary dispute, redeploy, confirm it survives, then delete only that test dispute.
 
 ## Static build
 

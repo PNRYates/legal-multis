@@ -6,7 +6,9 @@ const crypto = require("crypto");
 const ROOT = __dirname;
 const PUBLIC = path.join(ROOT, "public");
 const PAPERS = path.join(ROOT, "data", "papers");
-const DISPUTES = path.join(ROOT, "data", "disputes.json");
+const DISPUTES = process.env.DISPUTES_FILE
+  ? path.resolve(process.env.DISPUTES_FILE)
+  : path.join(ROOT, "data", "disputes.json");
 const PORT = process.env.PORT || 3000;
 
 const TYPES = {
@@ -21,7 +23,10 @@ const TYPES = {
 const readDisputes = () => (fs.existsSync(DISPUTES) ? JSON.parse(fs.readFileSync(DISPUTES, "utf8")) : []);
 const writeDisputes = (list) => {
   fs.mkdirSync(path.dirname(DISPUTES), { recursive: true });
-  fs.writeFileSync(DISPUTES, JSON.stringify(list, null, 2) + "\n");
+  // Replace atomically so a restart cannot leave partially written JSON.
+  const temporary = DISPUTES + ".tmp";
+  fs.writeFileSync(temporary, JSON.stringify(list, null, 2) + "\n");
+  fs.renameSync(temporary, DISPUTES);
 };
 
 const send = (res, status, body, type = "application/json") => {
