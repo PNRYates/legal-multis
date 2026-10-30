@@ -1,0 +1,313 @@
+{
+  "id": "2019-hsc",
+  "year": 2019,
+  "school": "HSC",
+  "kind": "hsc",
+  "title": "2019 HSC Legal Studies",
+  "sourceFile": "2019 HSC Legal Studies.pdf",
+  "answerStatus": "all-verified",
+  "notes": "No answer key was present in the PDF; answers are reasoned guesses pending official marking-guideline confirmation.",
+  "groups": [],
+  "questions": [
+    {
+      "number": 1,
+      "groupId": null,
+      "stem": "Which of the following is NOT a basic feature of human rights?",
+      "images": [],
+      "options": {
+        "A": "They are inherent.",
+        "B": "They are universal.",
+        "C": "They are inalienable.",
+        "D": "They are enforceable."
+      },
+      "answer": "D",
+      "answerSource": "official",
+      "answerNote": "NESA 2019 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2019-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 2,
+      "groupId": null,
+      "stem": "Alex is arrested on her way to rob a bank. What category of crime can she be charged with?",
+      "images": [],
+      "options": {
+        "A": "Driving",
+        "B": "Economic",
+        "C": "Preliminary",
+        "D": "Public Order"
+      },
+      "answer": "C",
+      "answerSource": "official",
+      "answerNote": "NESA 2019 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2019-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 3,
+      "groupId": null,
+      "stem": "Which of the following is a transnational crime?",
+      "images": [],
+      "options": {
+        "A": "Treason",
+        "B": "Sedition",
+        "C": "Genocide",
+        "D": "Drug trafficking"
+      },
+      "answer": "D",
+      "answerSource": "official",
+      "answerNote": "NESA 2019 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2019-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 4,
+      "groupId": null,
+      "stem": "Pat does not have a criminal record. He pleads guilty to a charge in the Local Court. Which of the following is true?",
+      "images": [],
+      "options": {
+        "A": "Pat is very likely to go to prison.",
+        "B": "Pat’s case will be heard by a jury.",
+        "C": "A judge will determine an appropriate penalty.",
+        "D": "A magistrate will determine an appropriate penalty."
+      },
+      "answer": "D",
+      "answerSource": "official",
+      "answerNote": "NESA 2019 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2019-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 5,
+      "groupId": null,
+      "stem": "In 2006, the Crimes Legislation Amendment (Gangs) Act (NSW) came into force. This increased both police search powers and maximum sentences for gang-related offences. The passing of this act is an example of",
+      "images": [],
+      "options": {
+        "A": "law reform.",
+        "B": "police discretion.",
+        "C": "judicial discretion.",
+        "D": "separation of powers."
+      },
+      "answer": "A",
+      "answerSource": "official",
+      "answerNote": "NESA 2019 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2019-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 6,
+      "groupId": null,
+      "stem": "The prosecution and defence agree an offender will plead guilty to manslaughter instead of being tried for murder. What is this agreement an example of?",
+      "images": [],
+      "options": {
+        "A": "A partial defence",
+        "B": "Charge negotiation",
+        "C": "A complete defence",
+        "D": "Alternative sentencing"
+      },
+      "answer": "B",
+      "answerSource": "official",
+      "answerNote": "NESA 2019 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2019-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 7,
+      "groupId": null,
+      "stem": "Which of the following describes the defence of duress?",
+      "images": [],
+      "options": {
+        "A": "The accused establishes they acted in self-defence.",
+        "B": "The accused lost control due to the victim’s actions.",
+        "C": "The accused establishes the victim consented to the crime.",
+        "D": "The accused establishes they committed a crime against their free will."
+      },
+      "answer": "D",
+      "answerSource": "official",
+      "answerNote": "NESA 2019 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2019-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 8,
+      "groupId": null,
+      "stem": "The government announces a program that aims to improve school attendance for students who have high absentee rates. How could this initiative best be described?",
+      "images": [],
+      "options": {
+        "A": "Social crime prevention",
+        "B": "A diversionary program",
+        "C": "A rehabilitation program",
+        "D": "Situational crime prevention"
+      },
+      "answer": "A",
+      "answerSource": "official",
+      "answerNote": "NESA 2019 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2019-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 9,
+      "groupId": null,
+      "stem": "An Australian citizen is unable to achieve a remedy in the Australian court system. The United Nations Human Rights Council agrees to hear the case and recommends a remedy. Which of the following statements regarding the recommendation is correct?",
+      "images": [],
+      "options": {
+        "A": "It will be binding on an Australian court.",
+        "B": "It will become an international legal precedent.",
+        "C": "It will place pressure on the Australian government to act.",
+        "D": "The Australian government must follow the recommendation."
+      },
+      "answer": "C",
+      "answerSource": "official",
+      "answerNote": "NESA 2019 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2019-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 10,
+      "groupId": null,
+      "stem": "Which of the following describes a situation where police require a warrant?",
+      "images": [],
+      "options": {
+        "A": "To question a suspect",
+        "B": "To record a phone conversation",
+        "C": "To search a car suspected of containing illegal drugs",
+        "D": "To pull over a person suspected of driving a stolen car"
+      },
+      "answer": "B",
+      "answerSource": "official",
+      "answerNote": "NESA 2019 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2019-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 11,
+      "groupId": null,
+      "stem": "Which of the following is an example of how the International Criminal Court promotes compliance with human rights standards?",
+      "images": [],
+      "options": {
+        "A": "By prosecuting nations accused of genocide",
+        "B": "By prosecuting individuals accused of war crimes",
+        "C": "By prosecuting individuals charged with terrorism",
+        "D": "By adjudicating when one country has accused another of human trafficking"
+      },
+      "answer": "B",
+      "answerSource": "official",
+      "answerNote": "NESA 2019 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2019-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 12,
+      "groupId": null,
+      "stem": "Kim has been found guilty of drink driving. What did the prosecution prove?",
+      "images": [],
+      "options": {
+        "A": "Kim was the person driving the vehicle.",
+        "B": "Kim knew her blood alcohol concentration was above the legal limit.",
+        "C": "Kim was the person driving the vehicle and her blood alcohol concentration was above the legal limit.",
+        "D": "Kim was the person driving the vehicle and she knew her blood alcohol concentration was above the legal limit."
+      },
+      "answer": "C",
+      "answerSource": "official",
+      "answerNote": "NESA 2019 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2019-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 13,
+      "groupId": null,
+      "stem": "A phone app is released to make it easier for citizens to report suspected crimes to the police. How could this improve the criminal justice system?",
+      "images": [],
+      "options": {
+        "A": "Citizens could contribute to the criminal investigation process.",
+        "B": "Citizens would be obliged to report all suspected criminal activity.",
+        "C": "Once a citizen report was made police would have to investigate the matter.",
+        "D": "Without a citizen report police would not be able to use their investigative powers."
+      },
+      "answer": "A",
+      "answerSource": "official",
+      "answerNote": "NESA 2019 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2019-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 14,
+      "groupId": null,
+      "stem": "How does the NSW Circle Sentencing process seek to improve the sentencing of offenders?",
+      "images": [],
+      "options": {
+        "A": "By only applying to first time offenders",
+        "B": "By reducing available sentencing options",
+        "C": "By involving the community in sentencing",
+        "D": "By requiring the victim to be involved in the sentencing process"
+      },
+      "answer": "C",
+      "answerSource": "official",
+      "answerNote": "NESA 2019 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2019-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 15,
+      "groupId": null,
+      "stem": "Jordyn is a homeless youth and is being sentenced for armed robbery. This is his second offence. Which of the following is a mitigating circumstance?",
+      "images": [],
+      "options": {
+        "A": "Jordyn’s age",
+        "B": "Jordyn’s homelessness",
+        "C": "Jordyn’s prior conviction",
+        "D": "Jordyn’s use of a weapon"
+      },
+      "answer": "A",
+      "answerSource": "official",
+      "answerNote": "NESA 2019 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2019-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 16,
+      "groupId": null,
+      "stem": "A 12-year-old child is on trial for a crime. The prosecution must show that the necessary mens rea was present when the child committed the crime. Which of the following must the prosecution prove?",
+      "images": [],
+      "options": {
+        "A": "The child knew they were misbehaving.",
+        "B": "The child knew the act was morally wrong.",
+        "C": "The child disobeyed the directions of an adult.",
+        "D": "The child did not care whether the act was criminal."
+      },
+      "answer": "B",
+      "answerSource": "official",
+      "answerNote": "NESA 2019 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2019-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 17,
+      "groupId": null,
+      "stem": "Which of the following is correct about victim impact statements?",
+      "images": [],
+      "options": {
+        "A": "Affected family members must make a statement.",
+        "B": "The person writing the statement must present it in court.",
+        "C": "The statement becomes part of the evidence considered by the jury.",
+        "D": "The person writing the statement can be questioned about its contents."
+      },
+      "answer": "D",
+      "answerSource": "official",
+      "answerNote": "NESA 2019 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2019-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 18,
+      "groupId": null,
+      "stem": "Why is the ratification of international agreements important in protecting human rights in Australia?",
+      "images": [],
+      "options": {
+        "A": "It allows domestic laws to incorporate protections.",
+        "B": "It incorporates protections directly into domestic law.",
+        "C": "It allows the High Court to enforce Australia’s Constitution.",
+        "D": "It allows non-government organisations to provide legal remedies."
+      },
+      "answer": "A",
+      "answerSource": "official",
+      "answerNote": "NESA 2019 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2019-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 19,
+      "groupId": null,
+      "stem": "Which of the following is true when police have detained and are interviewing a 16-year-old person?",
+      "images": [],
+      "options": {
+        "A": "A parent must be present at the interview.",
+        "B": "A lawyer must be present at the interview.",
+        "C": "The child must agree to the support person present at the interview.",
+        "D": "The child can refuse to have any support person present at the interview."
+      },
+      "answer": "C",
+      "answerSource": "official",
+      "answerNote": "NESA 2019 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2019-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 20,
+      "groupId": null,
+      "stem": "Can the High Court of Australia establish enforceable human rights?",
+      "images": [],
+      "options": {
+        "A": "Yes. Constitutional interpretation permits this.",
+        "B": "Yes. The Constitution expressly authorises this.",
+        "C": "No. The division of powers does not allow this.",
+        "D": "No. The separation of powers does not permit this."
+      },
+      "answer": "A",
+      "answerSource": "official",
+      "answerNote": "NESA 2019 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2019-hsc-legal-studies-mg.pdf"
+    }
+  ]
+}

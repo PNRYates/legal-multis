@@ -1,0 +1,313 @@
+{
+  "id": "2022-fort-st-trial",
+  "year": 2022,
+  "school": "Fort St",
+  "kind": "trial",
+  "title": "2022 Fort St Legal Studies Trial",
+  "sourceFile": "2022 Fort St Legal Studies Trial.pdf",
+  "answerStatus": "none-found",
+  "notes": "Text extracted from the multiple-choice pages. No non-text figures were present in this section.",
+  "groups": [],
+  "questions": [
+    {
+      "number": 1,
+      "groupId": null,
+      "stem": "Federal Parliament passes a law banning the use of plastic bags. Which of the following human rights is being protected?",
+      "images": [],
+      "options": {
+        "A": "Environmental rights",
+        "B": "Peace rights",
+        "C": "Self-determination",
+        "D": "Universal suffrage"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 2,
+      "groupId": null,
+      "stem": "Who bears the burden of proof in a criminal trial in the Supreme Court?",
+      "images": [],
+      "options": {
+        "A": "Magistrate",
+        "B": "Judge",
+        "C": "Jury",
+        "D": "Director of Public Prosecution"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 3,
+      "groupId": null,
+      "stem": "Zeke receives a suspended sentence for committing a serious assault on Beth. Who would be most likely to appeal this decision?",
+      "images": [],
+      "options": {
+        "A": "Judge",
+        "B": "Jury",
+        "C": "Director of Public Prosecution",
+        "D": "Public Defender"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 4,
+      "groupId": null,
+      "stem": "Which of the following purposes of punishment is achieved by diversionary programs?",
+      "images": [],
+      "options": {
+        "A": "Incapacitation",
+        "B": "Retribution",
+        "C": "Rehabilitation",
+        "D": "Deterrence"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 5,
+      "groupId": null,
+      "stem": "Which of the following is an argument against entrenching a Charter of Rights in the Australian Constitution?",
+      "images": [],
+      "options": {
+        "A": "It could be easily amended by Parliament",
+        "B": "It would promote a culture of respect for human rights in Australia",
+        "C": "It may be expensive to introduce",
+        "D": "It could never be amended"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "Entrenching needs a referendum, which is expensive; 'could never be amended' (D) overstates, since amendment is possible by referendum. A is an argument against a statutory charter, B is an argument for."
+    },
+    {
+      "number": 6,
+      "groupId": null,
+      "stem": "Which of the following is an aggravating factor in the sentencing of an offender?",
+      "images": [],
+      "options": {
+        "A": "The injury caused by the offence was not substantial",
+        "B": "The victim provoked the offender",
+        "C": "The offender has no record of previous convictions",
+        "D": "The victim was elderly"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 7,
+      "groupId": null,
+      "stem": "Which of the following is a situational crime prevention strategy?",
+      "images": [],
+      "options": {
+        "A": "A local charity introduces a reading program for teenagers",
+        "B": "A local council installs better lighting in a public park",
+        "C": "A magistrate sentences an offender to imprisonment",
+        "D": "A magistrate sentences an offender to a rehabilitation program"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 8,
+      "groupId": null,
+      "stem": "Richie is 10 years old. He assaults a person at a local shopping centre. Which of the following statements is correct?",
+      "images": [],
+      "options": {
+        "A": "Richie has committed a public order offence",
+        "B": "Richie cannot be found guilty of a crime",
+        "C": "Richie can be found guilty of a crime",
+        "D": "Richie has committed a strict liability offence"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "Changed from B. Ten is the age of criminal responsibility, so a 10 year old can be found guilty if the prosecution rebuts doli incapax."
+    },
+    {
+      "number": 9,
+      "groupId": null,
+      "stem": "Which of the following is a complete defence to an offence against the person?",
+      "images": [],
+      "options": {
+        "A": "Provocation",
+        "B": "Excessive self defence",
+        "C": "Substantial impairment by abnormality of the mind",
+        "D": "Mental health impairment or cognitive impairment"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Changed from C. Mental health impairment or cognitive impairment (Mental Health and Cognitive Impairment Forensic Provisions Act 2020) is a complete defence (not criminally liable); Provocation, excessive self-defence and substantial impairment are partial defences to murder."
+    },
+    {
+      "number": 10,
+      "groupId": null,
+      "stem": "Which of the following best describes the widespread or systematic murder of a civilian population?",
+      "images": [],
+      "options": {
+        "A": "Crimes against humanity",
+        "B": "Aggression",
+        "C": "Genocide",
+        "D": "War crimes"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 11,
+      "groupId": null,
+      "stem": "Trinity has been charged with committing a serious indictable offence. Which of the following statements is correct?",
+      "images": [],
+      "options": {
+        "A": "Trinity will be refused bail",
+        "B": "Trinity may be refused bail",
+        "C": "Trinity will be granted bail",
+        "D": "Trinity cannot rely on self-defence as a complete defence to this charge"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 12,
+      "groupId": null,
+      "stem": "Which of the following best ensures the protection of human rights in Australia?",
+      "images": [],
+      "options": {
+        "A": "Ratification of an international human rights treaty",
+        "B": "A media investigation into human rights abuses occurring in Australia",
+        "C": "Enactment of Federal human rights legislation",
+        "D": "An Australian non-government organisation offering support to victims of human rights abuses"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 13,
+      "groupId": null,
+      "stem": "Which of the following is NOT a role of a jury in a criminal trial?",
+      "images": [],
+      "options": {
+        "A": "To apply the law as directed by the judge",
+        "B": "To decide whether the accused is guilty or not guilty",
+        "C": "To attend the scene of the crime if directed by the judge",
+        "D": "To participate in the sentencing process"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 14,
+      "groupId": null,
+      "stem": "Bree, who is 15 years old, has been charged with a summary offence. Which of the following statements is correct?",
+      "images": [],
+      "options": {
+        "A": "Bree is not eligible to participate in a Youth Justice Conference",
+        "B": "Bree may be eligible to participate in a Youth Justice Conference",
+        "C": "Bree may be eligible to participate in Circle Sentencing",
+        "D": "Bree may be eligible to participate in Forum Sentencing"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 15,
+      "groupId": null,
+      "stem": "Which of the following is NOT a post-sentencing consideration?",
+      "images": [],
+      "options": {
+        "A": "The security classification of the offender",
+        "B": "The granting of parole to the offender",
+        "C": "The validity of the offender’s visa",
+        "D": "The aggravating and mitigating factors of the offender’s criminal actions"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 16,
+      "groupId": null,
+      "stem": "The Australian government decides to ignore a recommendation of the United Nations Human Rights Council. Which of the following concepts does this decision best reflect?",
+      "images": [],
+      "options": {
+        "A": "State sovereignty",
+        "B": "Self-determination",
+        "C": "Separation of powers",
+        "D": "Division of power"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 17,
+      "groupId": null,
+      "stem": "Which of the following is part of the criminal investigation process?",
+      "images": [],
+      "options": {
+        "A": "Establishing a social crime prevention strategy",
+        "B": "The arrest and detention of a suspect",
+        "C": "Examining a range of factors that may lead to criminal behaviour",
+        "D": "The allowance of the procedure of charge negotiation"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 18,
+      "groupId": null,
+      "stem": "Ben helps Di to plan a bank robbery. Di attempts to commit the bank robbery but is unsuccessful. Which of the following statements is correct?",
+      "images": [],
+      "options": {
+        "A": "Ben has committed a preliminary crime; Di has committed a white-collar crime",
+        "B": "Ben is an accessory before the fact; Di is an accessory after the fact",
+        "C": "Ben and Di have both committed preliminary crimes",
+        "D": "Ben and Di are both principals in the first degree"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "Ben (planning/conspiracy) and Di (attempt) have both committed preliminary crimes."
+    },
+    {
+      "number": 19,
+      "groupId": null,
+      "stem": "Raynor has been detained by police because it is suspected that he will commit a terrorist act next week. Which of the following statements is correct?",
+      "images": [],
+      "options": {
+        "A": "Raynor does not have the right to contact a lawyer",
+        "B": "Raynor is being held in protective custody",
+        "C": "Raynor is being held in continued detention",
+        "D": "Raynor is being held in preventative detention"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 20,
+      "groupId": null,
+      "stem": "Which of the following best represents the concept of the separation of powers protecting human rights?",
+      "images": [],
+      "options": {
+        "A": "The NSW State Parliament and the Federal Parliament both introduce anti- discrimination legislation on the same day",
+        "B": "A District Court judge instructs a jury that they may deliver a majority verdict",
+        "C": "The High Court rules that a piece of Federal legislation is constitutionally invalid",
+        "D": "The NSW Court of Criminal Appeal issues a guideline judgement"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": ""
+    }
+  ]
+}

@@ -1,0 +1,313 @@
+{
+  "id": "2024-hsc",
+  "year": 2024,
+  "school": "HSC",
+  "kind": "hsc",
+  "title": "2024 HSC Legal Studies",
+  "sourceFile": "2024 HSC Legal Studies.pdf",
+  "answerStatus": "all-verified",
+  "notes": "The question section contains no shared stimuli or figures.",
+  "groups": [],
+  "questions": [
+    {
+      "number": 1,
+      "groupId": null,
+      "stem": "Which court can hear criminal appeals in NSW?",
+      "images": [],
+      "options": {
+        "A": "Local Court",
+        "B": "District Court",
+        "C": "Coroner’s Court",
+        "D": "Children’s Court"
+      },
+      "answer": "B",
+      "answerSource": "official",
+      "answerNote": "NESA 2024 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2024-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 2,
+      "groupId": null,
+      "stem": "Mia has been found guilty of threatening a person with a weapon during a robbery.\nWhat impact would the use of a weapon have on her sentence and what sentencing factor has been applied?",
+      "images": [],
+      "options": {
+        "A": "Longer; Aggravating",
+        "B": "Longer; Mitigating",
+        "C": "Shorter; Aggravating",
+        "D": "Shorter; Mitigating"
+      },
+      "answer": "A",
+      "answerSource": "official",
+      "answerNote": "NESA 2024 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2024-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 3,
+      "groupId": null,
+      "stem": "How can non-government organisations assist when human rights are not being upheld?",
+      "images": [],
+      "options": {
+        "A": "Negotiate a treaty",
+        "B": "Enforce legislation",
+        "C": "Prosecute breaches",
+        "D": "Advocate for victims"
+      },
+      "answer": "D",
+      "answerSource": "official",
+      "answerNote": "NESA 2024 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2024-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 4,
+      "groupId": null,
+      "stem": "When can a NSW police officer arrest a person?",
+      "images": [],
+      "options": {
+        "A": "Only when the officer possesses a warrant",
+        "B": "When observing a person with a criminal record",
+        "C": "When witnessing a group of young people gathered in a public place",
+        "D": "When having reasonable grounds to suspect that a crime has been committed"
+      },
+      "answer": "D",
+      "answerSource": "official",
+      "answerNote": "NESA 2024 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2024-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 5,
+      "groupId": null,
+      "stem": "How does the common law protect human rights in Australia?",
+      "images": [],
+      "options": {
+        "A": "Through rulings made by courts and tribunals",
+        "B": "Through statutory authorities",
+        "C": "Through acts of parliament",
+        "D": "Through the executive"
+      },
+      "answer": "A",
+      "answerSource": "official",
+      "answerNote": "NESA 2024 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2024-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 6,
+      "groupId": null,
+      "stem": "The International Criminal Court deals with which of the following crimes?",
+      "images": [],
+      "options": {
+        "A": "Treason",
+        "B": "Sedition",
+        "C": "War crimes",
+        "D": "Drug trafficking"
+      },
+      "answer": "C",
+      "answerSource": "official",
+      "answerNote": "NESA 2024 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2024-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 7,
+      "groupId": null,
+      "stem": "Luca robs a petrol station. Dora hides the money at her house.\nWhich row of the table describes Luca’s and Dora’s role in this crime?",
+      "images": [],
+      "options": {
+        "A": "Principal in the first degree; Accessory before the fact",
+        "B": "Principal in the first degree; Accessory after the fact",
+        "C": "Principal in the second degree; Accessory before the fact",
+        "D": "Principal in the second degree; Accessory after the fact"
+      },
+      "answer": "B",
+      "answerSource": "official",
+      "answerNote": "NESA 2024 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2024-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 8,
+      "groupId": null,
+      "stem": "Workers in a manufacturing company are being paid below the minimum legal wage.\nWhich type of human rights are being violated?",
+      "images": [],
+      "options": {
+        "A": "Universal suffrage",
+        "B": "Universal education",
+        "C": "Environmental rights",
+        "D": "Trade unionism and labour rights"
+      },
+      "answer": "D",
+      "answerSource": "official",
+      "answerNote": "NESA 2024 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2024-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 9,
+      "groupId": null,
+      "stem": "Who is responsible for representing the State in criminal proceedings?",
+      "images": [],
+      "options": {
+        "A": "The judiciary",
+        "B": "The Public Defender",
+        "C": "The Director of Public Prosecutions",
+        "D": "The Legal Aid Commission of NSW"
+      },
+      "answer": "C",
+      "answerSource": "official",
+      "answerNote": "NESA 2024 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2024-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 10,
+      "groupId": null,
+      "stem": "Jessica is a 15-year-old who has pleaded guilty to vandalising public property. The magistrate has sentenced her to community service.\nWhat is the main purpose of sentencing in this case?",
+      "images": [],
+      "options": {
+        "A": "Protection of the community",
+        "B": "Rehabilitation of the offender",
+        "C": "Incapacitation of the offender",
+        "D": "Retribution for the community"
+      },
+      "answer": "B",
+      "answerSource": "official",
+      "answerNote": "NESA 2024 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2024-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 11,
+      "groupId": null,
+      "stem": "Which of the following correctly describes the Universal Declaration of Human Rights (UDHR)?",
+      "images": [],
+      "options": {
+        "A": "It is legally binding.",
+        "B": "It contains inalienable rights.",
+        "C": "It is enforced by all countries.",
+        "D": "It has been ratified by all countries."
+      },
+      "answer": "B",
+      "answerSource": "official",
+      "answerNote": "NESA 2024 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2024-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 12,
+      "groupId": null,
+      "stem": "Which of the following is true of a strict liability offence?",
+      "images": [],
+      "options": {
+        "A": "It only applies to driving offences.",
+        "B": "It can be tried by a judge and jury.",
+        "C": "Mens rea does not need to be proved.",
+        "D": "There is a requirement for mens rea but not actus reus."
+      },
+      "answer": "C",
+      "answerSource": "official",
+      "answerNote": "NESA 2024 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2024-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 13,
+      "groupId": null,
+      "stem": "Which of the following is a feature of a NSW Criminal Infringement Notice (CIN)?",
+      "images": [],
+      "options": {
+        "A": "It is issued by a court.",
+        "B": "It cannot be overturned in court.",
+        "C": "It is an alternative to court prosecution.",
+        "D": "It is always followed by a court proceeding."
+      },
+      "answer": "C",
+      "answerSource": "official",
+      "answerNote": "NESA 2024 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2024-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 14,
+      "groupId": null,
+      "stem": "Which of the following is true of search warrants?",
+      "images": [],
+      "options": {
+        "A": "They are valid indefinitely.",
+        "B": "Only a judicial officer can issue them.",
+        "C": "High-ranking police officers can issue them.",
+        "D": "They only apply to NSW residents, not visitors."
+      },
+      "answer": "B",
+      "answerSource": "official",
+      "answerNote": "NESA 2024 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2024-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 15,
+      "groupId": null,
+      "stem": "What is the purpose of Legal Aid?",
+      "images": [],
+      "options": {
+        "A": "To provide financial assistance for lawyers",
+        "B": "To assist only those accused of serious offences",
+        "C": "To support financially disadvantaged individuals in legal matters",
+        "D": "To provide free legal representation for everyone accused of a crime"
+      },
+      "answer": "C",
+      "answerSource": "official",
+      "answerNote": "NESA 2024 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2024-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 16,
+      "groupId": null,
+      "stem": "What is the primary function of the Australian Human Rights Commission?",
+      "images": [],
+      "options": {
+        "A": "To investigate alleged human rights breaches",
+        "B": "To create human rights legislation in Australia",
+        "C": "To publish reports that governments must adopt",
+        "D": "To fund organisations that promote human rights"
+      },
+      "answer": "A",
+      "answerSource": "official",
+      "answerNote": "NESA 2024 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2024-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 17,
+      "groupId": null,
+      "stem": "How does Australia’s criminal justice system address transnational crime?",
+      "images": [],
+      "options": {
+        "A": "By collaborating with international law enforcement agencies",
+        "B": "By excluding transnational crimes from prosecution within Australia",
+        "C": "By solely relying on the jurisdiction from where the crime originated",
+        "D": "By imposing sanctions on countries with high levels of transnational crime"
+      },
+      "answer": "A",
+      "answerSource": "official",
+      "answerNote": "NESA 2024 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2024-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 18,
+      "groupId": null,
+      "stem": "Which statement accurately describes a purpose of remand?",
+      "images": [],
+      "options": {
+        "A": "To reduce delays in court proceedings",
+        "B": "To ensure the accused attends the trial",
+        "C": "To pressure the accused to plead guilty",
+        "D": "To protect the accused’s right to liberty"
+      },
+      "answer": "B",
+      "answerSource": "official",
+      "answerNote": "NESA 2024 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2024-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 19,
+      "groupId": null,
+      "stem": "What is a key legal principle regarding the use of evidence in NSW criminal courts?",
+      "images": [],
+      "options": {
+        "A": "Allow all evidence to be admitted",
+        "B": "Favour the prosecution’s evidence",
+        "C": "Include evidence which is opinion and hearsay",
+        "D": "Limit evidence to what is reliable and relevant"
+      },
+      "answer": "D",
+      "answerSource": "official",
+      "answerNote": "NESA 2024 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2024-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 20,
+      "groupId": null,
+      "stem": "Which of the following is true in relation to the right to silence, in NSW, for a person aged over 18?",
+      "images": [],
+      "options": {
+        "A": "It exists in all circumstances.",
+        "B": "Summary offences are exempt.",
+        "C": "Courts may later draw an unfavourable inference.",
+        "D": "It is a right at the police station but not during court proceedings."
+      },
+      "answer": "C",
+      "answerSource": "official",
+      "answerNote": "NESA 2024 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2024-hsc-legal-studies-mg.pdf"
+    }
+  ]
+}

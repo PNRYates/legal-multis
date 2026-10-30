@@ -1,0 +1,313 @@
+{
+  "id": "2021-hsc",
+  "year": 2021,
+  "school": "HSC",
+  "kind": "hsc",
+  "title": "2021 HSC Legal Studies",
+  "sourceFile": "2021 HSC Legal Studies.pdf",
+  "answerStatus": "all-verified",
+  "notes": "Text extracted from the multiple-choice pages. No non-text figures were present in this section.",
+  "groups": [],
+  "questions": [
+    {
+      "number": 1,
+      "groupId": null,
+      "stem": "In criminal cases heard by the District Court, questions of law are decided by a",
+      "images": [],
+      "options": {
+        "A": "jury.",
+        "B": "judge.",
+        "C": "magistrate.",
+        "D": "prosecutor."
+      },
+      "answer": "B",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2021-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 2,
+      "groupId": null,
+      "stem": "What is the minimum age at which children can be held criminally responsible in NSW?",
+      "images": [],
+      "options": {
+        "A": "10",
+        "B": "14",
+        "C": "16",
+        "D": "18"
+      },
+      "answer": "A",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2021-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 3,
+      "groupId": null,
+      "stem": "Which concept relates to the right of citizens to participate in the democratic process?",
+      "images": [],
+      "options": {
+        "A": "Peace rights",
+        "B": "Labour rights",
+        "C": "Universal suffrage",
+        "D": "Environmental rights"
+      },
+      "answer": "C",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2021-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 4,
+      "groupId": null,
+      "stem": "A person has been found guilty of stealing money from retirement home residents to fund a luxury overseas holiday. Which factor has most likely affected their criminal behaviour?",
+      "images": [],
+      "options": {
+        "A": "Economic",
+        "B": "Political",
+        "C": "Self-interest",
+        "D": "Social – 3 –"
+      },
+      "answer": "C",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2021-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 5,
+      "groupId": null,
+      "stem": "Which of the following is a non-government organisation?",
+      "images": [],
+      "options": {
+        "A": "United Nations",
+        "B": "Human Rights Watch",
+        "C": "International Criminal Court",
+        "D": "North Atlantic Treaty Organisation"
+      },
+      "answer": "B",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2021-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 6,
+      "groupId": null,
+      "stem": "Victim impact statements in NSW",
+      "images": [],
+      "options": {
+        "A": "can be presented at a bail hearing.",
+        "B": "are compulsory for all criminal matters.",
+        "C": "can be used by a jury to determine guilt.",
+        "D": "can be presented at a sentencing hearing."
+      },
+      "answer": "D",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2021-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 7,
+      "groupId": null,
+      "stem": "A mobile detection camera captures a motor vehicle driver illegally using their phone. If the matter goes to court, which of the following must be proven?",
+      "images": [],
+      "options": {
+        "A": "Mens rea",
+        "B": "Actus reus",
+        "C": "Mens rea and causation",
+        "D": "Actus reus, causation and mens rea"
+      },
+      "answer": "B",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2021-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 8,
+      "groupId": null,
+      "stem": "The right to seek asylum is a",
+      "images": [],
+      "options": {
+        "A": "civil and political right.",
+        "B": "peace and security right.",
+        "C": "economic and social right.",
+        "D": "religious and cultural right. – 4 –"
+      },
+      "answer": "A",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2021-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 9,
+      "groupId": null,
+      "stem": "Police stop a 17-year-old licensed driver and conduct a breath test. A high range blood alcohol reading is detected. In which court will the matter be heard?",
+      "images": [],
+      "options": {
+        "A": "Children’s",
+        "B": "District",
+        "C": "Local",
+        "D": "Supreme"
+      },
+      "answer": "C",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2021-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 10,
+      "groupId": null,
+      "stem": "International human rights law is debated, discussed and recommended by which organ of the United Nations?",
+      "images": [],
+      "options": {
+        "A": "The Secretariat",
+        "B": "The Security Council",
+        "C": "The General Assembly",
+        "D": "The Economic and Social Council"
+      },
+      "answer": "C",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2021-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 11,
+      "groupId": null,
+      "stem": "Which of the following would be considered an aggravating factor in the sentencing of an offender for robbery?",
+      "images": [],
+      "options": {
+        "A": "The offender’s young age",
+        "B": "The offender showed remorse",
+        "C": "The offender pleaded not guilty",
+        "D": "The use of violence by the offender"
+      },
+      "answer": "D",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2021-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 12,
+      "groupId": null,
+      "stem": "An Australian citizen is accused of committing a serious crime in Canada before returning to Australia. Canada requests the return of the accused for trial. Australia agrees to the request. This request refers to which of the following?",
+      "images": [],
+      "options": {
+        "A": "Extradition",
+        "B": "Deportation",
+        "C": "Prisoner exchange",
+        "D": "International committal hearing – 5 –"
+      },
+      "answer": "A",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2021-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 13,
+      "groupId": null,
+      "stem": "Kim has been arrested and charged with importing a large quantity of drugs into Australia. Kim claimed that she was forced to import the drugs. What would be the most appropriate defence for Kim?",
+      "images": [],
+      "options": {
+        "A": "Accident",
+        "B": "Consent",
+        "C": "Duress",
+        "D": "Provocation"
+      },
+      "answer": "C",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2021-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 14,
+      "groupId": null,
+      "stem": "Which body has discretion to determine the early release of a prisoner before they complete their full sentence?",
+      "images": [],
+      "options": {
+        "A": "NSW Police Force",
+        "B": "State Parole Authority",
+        "C": "NSW Sentencing Council",
+        "D": "Office of the Director of Public Prosecutions"
+      },
+      "answer": "B",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2021-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 15,
+      "groupId": null,
+      "stem": "The Children (Criminal Proceedings) Act 1987 (NSW) provides young offenders with which of the following rights?",
+      "images": [],
+      "options": {
+        "A": "Have all matters heard by a jury",
+        "B": "Be given a warning for first offence",
+        "C": "No requirement to provide identification to police",
+        "D": "Have an adult support person present when questioned"
+      },
+      "answer": "D",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2021-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 16,
+      "groupId": null,
+      "stem": "In NSW, a judge can accept a majority verdict from a jury",
+      "images": [],
+      "options": {
+        "A": "after the police prosecutor presents their case.",
+        "B": "at the conclusion of a matter heard summarily.",
+        "C": "at the conclusion of a Commonwealth criminal trial.",
+        "D": "after they have deliberated for at least eight hours. – 6 –"
+      },
+      "answer": "D",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2021-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 17,
+      "groupId": null,
+      "stem": "Which of the following is NOT within the jurisdiction of a coronial inquest?",
+      "images": [],
+      "options": {
+        "A": "Search for physical evidence of a crime",
+        "B": "Charge a person with committing a crime",
+        "C": "Call witnesses to give evidence of a crime",
+        "D": "Refer a criminal matter to the Office of the Director of Public Prosecutions"
+      },
+      "answer": "B",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2021-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 18,
+      "groupId": null,
+      "stem": "The Terrorism (Police Powers) Amendment (Investigative Detention) Act 2016 (NSW) allows police to hold a suspect in detention for up to 14 days without charge. Which of the following is compromised by this Act?",
+      "images": [],
+      "options": {
+        "A": "Trial by jury",
+        "B": "Legal representation",
+        "C": "Presumption of innocence",
+        "D": "Ability of the police to question the accused"
+      },
+      "answer": "C",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2021-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 19,
+      "groupId": null,
+      "stem": "John, who is 17 years old, is charged with grievous bodily harm. He has a number of prior convictions for violent assault. What penalty is John most likely to receive?",
+      "images": [],
+      "options": {
+        "A": "Control order",
+        "B": "Suspended sentence",
+        "C": "Home detention order",
+        "D": "Community service order"
+      },
+      "answer": "A",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2021-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 20,
+      "groupId": null,
+      "stem": "Australia is unable to resolve a territorial dispute with a neighbouring nation. The United Nations instructs both parties to undertake compulsory conciliation that reaches a resolution. Which of the following applies to the resolution?",
+      "images": [],
+      "options": {
+        "A": "It will be enforced by both parties.",
+        "B": "Australia has the right to appeal to the High Court.",
+        "C": "Either party could appeal to the International Criminal Court.",
+        "D": "It places pressure on the Australian government to abide by the decision."
+      },
+      "answer": "D",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2021-hsc-legal-studies-mg.pdf"
+    }
+  ]
+}

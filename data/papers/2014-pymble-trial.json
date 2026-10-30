@@ -1,0 +1,313 @@
+{
+  "id": "2014-pymble-trial",
+  "year": 2014,
+  "school": "Pymble",
+  "kind": "trial",
+  "title": "2014 Pymble Legal Studies Trial",
+  "sourceFile": "2014 Pymble Legal Studies Trial.pdf",
+  "answerStatus": "none-found",
+  "notes": "The source is scanned with no usable text layer. Section I (PDF pages 2–5) was rendered and read visually. No separate answer key was found; answers are reasoned guesses. No shared stimuli or figures occur in the multiple-choice section.",
+  "groups": [],
+  "questions": [
+    {
+      "number": 1,
+      "groupId": null,
+      "stem": "In which court would an appeal against a murder conviction be heard?",
+      "images": [],
+      "options": {
+        "A": "The Local Court",
+        "B": "The Coroner’s Court",
+        "C": "The NSW Supreme Court",
+        "D": "The NSW Court of Criminal Appeal"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "An appeal against a Supreme Court murder conviction is heard by the NSW Court of Criminal Appeal."
+    },
+    {
+      "number": 2,
+      "groupId": null,
+      "stem": "Who has the burden of proof in a Local Court?",
+      "images": [],
+      "options": {
+        "A": "Plaintiff",
+        "B": "Defendant",
+        "C": "Police Prosecutor",
+        "D": "Senior Counsel"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "The prosecution, represented in this context by the police prosecutor, bears the burden."
+    },
+    {
+      "number": 3,
+      "groupId": null,
+      "stem": "Which of the following would be considered an aggravating factor during sentencing?",
+      "images": [],
+      "options": {
+        "A": "Use of a weapon by the accused",
+        "B": "Poor school attendance by the accused",
+        "C": "History of mental illness of the accused",
+        "D": "Minimal injury was caused to the victim"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Use of a weapon increases the seriousness of the offence and aggravates sentence."
+    },
+    {
+      "number": 4,
+      "groupId": null,
+      "stem": "Which of the following human rights may best be described as a collective right?",
+      "images": [],
+      "options": {
+        "A": "Freedom from arbitrary detention",
+        "B": "The right to join a trade union",
+        "C": "Environmental rights",
+        "D": "Voting rights"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "Environmental rights are commonly classified as collective or solidarity rights."
+    },
+    {
+      "number": 5,
+      "groupId": null,
+      "stem": "The use of anti-graffiti paint on the outside walls of a shopping centre is an example of which of the following?",
+      "images": [],
+      "options": {
+        "A": "A control order",
+        "B": "Council regulation",
+        "C": "Social crime prevention",
+        "D": "Situational crime prevention"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Hardening a target reduces opportunity and is situational crime prevention."
+    },
+    {
+      "number": 6,
+      "groupId": null,
+      "stem": "David decides to go to court instead of paying a speeding fine. What will happen next?",
+      "images": [],
+      "options": {
+        "A": "He will be charged with a driving offence.",
+        "B": "He will be issued with a Court Attendance Notice.",
+        "C": "He will be arrested and taken to the police station.",
+        "D": "He will be remanded in custody until his case goes to court."
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "A person contesting a penalty notice is required to attend court by a Court Attendance Notice."
+    },
+    {
+      "number": 7,
+      "groupId": null,
+      "stem": "Alex and John have planned to rob a bank. On the way to the bank, the car breaks down. With what category of crime are they likely to be charged?",
+      "images": [],
+      "options": {
+        "A": "Preliminary offence",
+        "B": "Summary offence",
+        "C": "Traffic offence",
+        "D": "Economic offence"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Planning an intended robbery can constitute a preliminary offence such as conspiracy or attempt."
+    },
+    {
+      "number": 8,
+      "groupId": null,
+      "stem": "Which of the following is an example of a non-government organisation involved in the promotion and enforcement of human rights?",
+      "images": [],
+      "options": {
+        "A": "The United Nations",
+        "B": "The European Union",
+        "C": "The International Criminal Court",
+        "D": "The International Committee of the Red Cross"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "The International Committee of the Red Cross is a non-governmental humanitarian organisation."
+    },
+    {
+      "number": 9,
+      "groupId": null,
+      "stem": "13-year-old Gerry has been found guilty of car theft. Which of the following is most likely to be a priority for the magistrate during sentencing?",
+      "images": [],
+      "options": {
+        "A": "Rehabilitation",
+        "B": "Incapacitation",
+        "C": "Deterrence",
+        "D": "Retribution"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Rehabilitation is a central sentencing priority for young offenders."
+    },
+    {
+      "number": 10,
+      "groupId": null,
+      "stem": "Which of the following is an argument in favour of the jury system?",
+      "images": [],
+      "options": {
+        "A": "It ensures a correct verdict in a criminal case.",
+        "B": "It ensures a unanimous verdict in a criminal case.",
+        "C": "It allows the community to participate in the sentencing process.",
+        "D": "It allows the community to participate in the criminal trial process."
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Jury service gives the community a role in criminal trials."
+    },
+    {
+      "number": 11,
+      "groupId": null,
+      "stem": "Ashley is initially charged with murder but in return for entering a guilty plea, she now faces the lesser charge of manslaughter. This is an example of which of the following?",
+      "images": [],
+      "options": {
+        "A": "Procedural fairness",
+        "B": "Charge negotiation",
+        "C": "Good negotiation skills",
+        "D": "Efficient use of police powers"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "A charge is reduced in exchange for a guilty plea, which is charge negotiation."
+    },
+    {
+      "number": 12,
+      "groupId": null,
+      "stem": "State sovereignty protects human rights by ensuring a nation state has the right to which of the following?",
+      "images": [],
+      "options": {
+        "A": "To participate in the Olympics",
+        "B": "To elect to become a monarchy",
+        "C": "To develop its natural resources",
+        "D": "To enact anti-discrimination legislation"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Sovereignty lets a state legislate for rights protection (D); C (develop natural resources) is also a sovereign right but is not rights-protecting."
+    },
+    {
+      "number": 13,
+      "groupId": null,
+      "stem": "What is the main purpose of bail?",
+      "images": [],
+      "options": {
+        "A": "To uphold the presumption of innocence",
+        "B": "To uphold the rights of the victim",
+        "C": "To allow time to prepare a defence",
+        "D": "To allow time to gather evidence of innocence"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Bail allows release pending trial and is consistent with the presumption of innocence."
+    },
+    {
+      "number": 14,
+      "groupId": null,
+      "stem": "Alice has been charged with the murder of her abusive and violent husband. Which of the following could she use as a defence to this charge?",
+      "images": [],
+      "options": {
+        "A": "Duress",
+        "B": "Necessity",
+        "C": "Provocation",
+        "D": "Automatism"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "On the question’s stated facts, provocation is the available partial defence most closely linked to the abusive relationship."
+    },
+    {
+      "number": 15,
+      "groupId": null,
+      "stem": "Despite signing the Convention on the Rights of the Child, a nation state fails to pass laws giving effect to this convention. This is an example of the effect of which of the following?",
+      "images": [],
+      "options": {
+        "A": "Jus cogens",
+        "B": "Political will",
+        "C": "Constitutional restrictions",
+        "D": "Operation of the United Nations"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "Treaty implementation in domestic law depends in part on the political will of the state."
+    },
+    {
+      "number": 16,
+      "groupId": null,
+      "stem": "What is the purpose of a sentencing hearing?",
+      "images": [],
+      "options": {
+        "A": "To determine the penalty to be given to the convicted",
+        "B": "To determine the penalties to be given to the accused",
+        "C": "To establish the range of penalties to be given by the prosecutor",
+        "D": "To establish that the accused has committed a punishable offence"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "A sentencing hearing determines the penalty after conviction."
+    },
+    {
+      "number": 17,
+      "groupId": null,
+      "stem": "John has been arrested and charged with a serious indictable offence. Which of the following statements is true about John?",
+      "images": [],
+      "options": {
+        "A": "The courts must grant him bail.",
+        "B": "His trial must be held before a jury.",
+        "C": "He has a right to test the evidence presented against him.",
+        "D": "He has a guaranteed statutory right to a lawyer for his trial."
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "An accused has the right to challenge and test prosecution evidence."
+    },
+    {
+      "number": 18,
+      "groupId": null,
+      "stem": "Which of the following best describes the role of the media in the promotion and enforcement of human rights?",
+      "images": [],
+      "options": {
+        "A": "It encourages victims to take action.",
+        "B": "It raises awareness of human rights issues.",
+        "C": "It organises public demonstrations about human rights.",
+        "D": "It ensures action is taken to remedy breaches of human rights."
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "The media’s main contribution is informing the public and raising awareness."
+    },
+    {
+      "number": 19,
+      "groupId": null,
+      "stem": "If the Police Commissioner was to be sentenced to a term of imprisonment, which of the following would need to be considered?",
+      "images": [],
+      "options": {
+        "A": "Preventative detention",
+        "B": "Security classification",
+        "C": "Continued detention",
+        "D": "Protective custody"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "A Police Commissioner would be at obvious risk from other inmates, so protective custody is the specific consideration; B (security classification) applies to every prisoner and is the other plausible answer. Preventative and continued detention are post-sentence regimes for high-risk offenders."
+    },
+    {
+      "number": 20,
+      "groupId": null,
+      "stem": "The conduct of criminal cases in NSW courts is subject to strict rules of evidence. What is the main reason for this?",
+      "images": [],
+      "options": {
+        "A": "To ensure the prosecution case is strong",
+        "B": "To ensure that the rights of the accused are upheld",
+        "C": "To assist the judge in deciding on a sentence",
+        "D": "To assist the jury in deciding the innocence or guilt of the accused"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "Rules of evidence help ensure a fair trial and protect the accused’s rights."
+    }
+  ]
+}

@@ -1,0 +1,323 @@
+{
+  "id": "2011-cranbrook-trial",
+  "year": 2011,
+  "school": "Cranbrook",
+  "kind": "trial",
+  "title": "2011 Cranbrook Legal Studies Trial",
+  "sourceFile": "2011 Cranbrook Legal Studies Trial.pdf",
+  "answerStatus": "none-found",
+  "notes": "All 20 Section I questions checked against the PDF. The paper contains no answer key; answers are reasoned guesses. Questions 18-19 share the printed Jackson stimulus.",
+  "groups": [
+    {
+      "id": "2011-cranbrook-trial-g1",
+      "questionNumbers": [
+        18,
+        19
+      ],
+      "stimulus": "In the course of an armed robbery of a bank in which money is stolen, Jackson deliberately fires rounds into the walls and ceilings, causing significant damage.",
+      "images": []
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "groupId": null,
+      "stem": "Marco is on trial for sexual assault. With whom does the burden of proof lie?",
+      "images": [],
+      "options": {
+        "A": "Marco",
+        "B": "The Crown",
+        "C": "The Victim",
+        "D": "The Plaintiff"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "The prosecution (the Crown) bears the burden of proof."
+    },
+    {
+      "number": 2,
+      "groupId": null,
+      "stem": "Paul is distracted while hunting. He bumps his arm and his rifle discharges killing his partner Tom. Which element of criminal liability is lacking?",
+      "images": [],
+      "options": {
+        "A": "Actus reus",
+        "B": "Accident",
+        "C": "Mens rea",
+        "D": "Provocation"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 3,
+      "groupId": null,
+      "stem": "Which of the following is a case of situational crime prevention?",
+      "images": [],
+      "options": {
+        "A": "Harsher prison sentences",
+        "B": "Security Patrols",
+        "C": "Media Campaigns",
+        "D": "Youth Justice Conferencing"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 4,
+      "groupId": null,
+      "stem": "Which of the following are rights of the accused in the NSW criminal justice system?",
+      "images": [],
+      "options": {
+        "A": "Security of person and rights to a lawyer",
+        "B": "Security of person and property",
+        "C": "Rights to silence and right to a phone call",
+        "D": "Rights to silence and right to a lawyer"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 5,
+      "groupId": null,
+      "stem": "Which of the following best protects the human rights of an Australian citizen?",
+      "images": [],
+      "options": {
+        "A": "The Bill of Rights",
+        "B": "The United Nations Universal Declaration of Human Rights",
+        "C": "Common and Statute Law",
+        "D": "The Constitution"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 6,
+      "groupId": null,
+      "stem": "Which of the following could be considered preliminary crimes?",
+      "images": [],
+      "options": {
+        "A": "Robbery and Manslaughter",
+        "B": "Treason and Sedition",
+        "C": "Attempted Robbery and Conspiracy",
+        "D": "Offensive language"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 7,
+      "groupId": null,
+      "stem": "Monika has been sued for libel. What is the standard of proof in this case?",
+      "images": [],
+      "options": {
+        "A": "On the balance of probabilities",
+        "B": "On the doctrine of natural law",
+        "C": "Beyond all doubt",
+        "D": "Beyond reasonable doubt"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 8,
+      "groupId": null,
+      "stem": "The establishment of Police Youth liaison officers who work in the community is an example of which of the following?",
+      "images": [],
+      "options": {
+        "A": "Eliminating the incentive to commit crime",
+        "B": "Creating a deterrence",
+        "C": "Social crime prevention",
+        "D": "Situational crime prevention"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 9,
+      "groupId": null,
+      "stem": "Which of the following allows individuals to vote freely for their elected representatives?",
+      "images": [],
+      "options": {
+        "A": "Universal sovereignty",
+        "B": "Universal suffrage",
+        "C": "Self- determination",
+        "D": "Natural justice"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 10,
+      "groupId": null,
+      "stem": "The United Nations General Assembly has criticised Australia over the suspension of the Racial Discrimination Act during the Northern Territory intervention. Which of the following allows Australia to ignore the UN?",
+      "images": [],
+      "options": {
+        "A": "Self-determination",
+        "B": "Division of powers",
+        "C": "Separation of powers",
+        "D": "State sovereignty"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 11,
+      "groupId": null,
+      "stem": "Which of the following is included in the International Covenant on Economic, Social and Cultural Rights?",
+      "images": [],
+      "options": {
+        "A": "Peace",
+        "B": "Liberty",
+        "C": "Right to fair wages",
+        "D": "Safe Environment"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 12,
+      "groupId": null,
+      "stem": "Which of the following groups is responsible for enforcing the criminal laws of the state?",
+      "images": [],
+      "options": {
+        "A": "The NSW Police",
+        "B": "Judges",
+        "C": "The NSW Parliament",
+        "D": "The DPP"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 13,
+      "groupId": null,
+      "stem": "Which of the following courts has no original jurisdiction?",
+      "images": [],
+      "options": {
+        "A": "Local Court",
+        "B": "Court of Criminal Appeal",
+        "C": "Supreme Court",
+        "D": "High Court"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 14,
+      "groupId": null,
+      "stem": "What human rights are guaranteed under the Australian Constitution?",
+      "images": [],
+      "options": {
+        "A": "Freedom of thought and expression",
+        "B": "Freedom of religion and sexual preference",
+        "C": "Freedom of religion and right of assembly",
+        "D": "Freedom of religion and trial by jury"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 15,
+      "groupId": null,
+      "stem": "Which of the following best represents an essential element of a crime?",
+      "images": [],
+      "options": {
+        "A": "Must harm another person or their property",
+        "B": "Must be legislated against by parliament",
+        "C": "Must be proved on the balance of probabilities",
+        "D": "Must be seen as harmful to the whole community"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 16,
+      "groupId": null,
+      "stem": "Josh has been charged with a high-range drink driving offence. He is 17. In which court will the matter be heard?",
+      "images": [],
+      "options": {
+        "A": "High Court",
+        "B": "Local Court",
+        "C": "Children's court",
+        "D": "Coroner's court"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 17,
+      "groupId": null,
+      "stem": "The idea that a child under the age of 10 is incapable of committing a crime is contained in which of the following principles?",
+      "images": [],
+      "options": {
+        "A": "Absence of actus reus",
+        "B": "Age of majority",
+        "C": "Natural Justice",
+        "D": "Doli incapax"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 18,
+      "groupId": "2011-cranbrook-trial-g1",
+      "stem": "The offence Jackson has committed can be described using which of the following terms?",
+      "images": [],
+      "options": {
+        "A": "Summary and economic offence",
+        "B": "Summary and offence against the person",
+        "C": "Indictable and economic offence",
+        "D": "Indictable and offence against the person"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 19,
+      "groupId": "2011-cranbrook-trial-g1",
+      "stem": "During sentencing the judge would consider the damage caused to be which of the following?",
+      "images": [],
+      "options": {
+        "A": "A mitigating circumstance",
+        "B": "An extraneous factor",
+        "C": "An aggravating factor",
+        "D": "An aggravating circumstance"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "Extracted Q19 text duplicates Q18's stem and its options look like those of the damage-caused question, so the question is probably scrambled. Assuming it asks how damage is treated at sentencing: aggravating factor (C); D 'aggravating circumstance' is also plausible."
+    },
+    {
+      "number": 20,
+      "groupId": null,
+      "stem": "Which of the following best describes the role of Interpol?",
+      "images": [],
+      "options": {
+        "A": "To assist with the investigation of international crime",
+        "B": "To assist the International Court of Justice in their pursuit of international crime",
+        "C": "To enforce international criminal law",
+        "D": "To act as the police force for the United Nations"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Interpol facilitates international police cooperation and assists investigations; It does not prosecute international crimes or act as a UN police force."
+    }
+  ]
+}

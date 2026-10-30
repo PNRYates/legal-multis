@@ -1,0 +1,313 @@
+{
+  "id": "2019-hurlstone-trial",
+  "year": 2019,
+  "school": "Hurlstone",
+  "kind": "trial",
+  "title": "2019 Hurlstone Legal Studies Trial",
+  "sourceFile": "2019 Hurlstone Legal Studies Trial.pdf",
+  "answerStatus": "none-found",
+  "notes": "The PDF contains no multiple-choice answer key; answers are reasoned and require checking against any published trial solutions.",
+  "groups": [],
+  "questions": [
+    {
+      "number": 1,
+      "groupId": null,
+      "stem": "Which of the following are types of criminal penalties used in NSW?",
+      "images": [],
+      "options": {
+        "A": "Fine, bond, corporal punishment",
+        "B": "No conviction recorded, suspended sentence, weekend detention",
+        "C": "Forfeiture of assets, community service order, capital punishment",
+        "D": "Criminal infringement notice, diversionary programs, home detention"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "B and D are both plausible: B (no conviction recorded, suspended sentence, weekend detention) and D (criminal infringement notice, home detention) both include options since abolished or not strictly penalties; A and C are wrong (corporal/capital punishment). B kept as the closer match to sentencing options."
+    },
+    {
+      "number": 2,
+      "groupId": null,
+      "stem": "Which of the following is an example of a civil and political right?",
+      "images": [],
+      "options": {
+        "A": "Peace",
+        "B": "Education",
+        "C": "Health Care",
+        "D": "Freedom of Religion"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Freedom of religion is a civil and political right; Education and health care are social rights."
+    },
+    {
+      "number": 3,
+      "groupId": null,
+      "stem": "A magistrate or judge has the power to make a decision based on the particular circumstances of a case within a set range of possibilities. What is this power known as?",
+      "images": [],
+      "options": {
+        "A": "Judicial discretion",
+        "B": "Judicial guidelines",
+        "C": "Guideline judgement",
+        "D": "Judicial interpretation"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Judicial discretion is a decision within the range permitted by law."
+    },
+    {
+      "number": 4,
+      "groupId": null,
+      "stem": "Which court is the final court of appeal for criminal offences?",
+      "images": [],
+      "options": {
+        "A": "NSW Local Court",
+        "B": "NSW District Court",
+        "C": "NSW Court of Criminal Appeal",
+        "D": "The High Court of Australia"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "The High Court is Australia’s final appellate court."
+    },
+    {
+      "number": 5,
+      "groupId": null,
+      "stem": "Which of the following is a mitigating factor in a sentencing decision?",
+      "images": [],
+      "options": {
+        "A": "The offender abused a position of trust in relation to the victim",
+        "B": "The offence was committed for financial gain",
+        "C": "The offence involved gratuitous violence",
+        "D": "The offender pleaded guilty"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "A guilty plea is mitigating; The other listed circumstances aggravate the offence."
+    },
+    {
+      "number": 6,
+      "groupId": null,
+      "stem": "Helen was charged with murder. Her defence of diminished responsibility was accepted by the court and Helen was found guilty of manslaughter. For Helen’s defence to be accepted by the court it was necessary for her to show evidence that she",
+      "images": [],
+      "options": {
+        "A": "Was provoked",
+        "B": "Was under duress",
+        "C": "Suffers from a mental abnormality that caused her to commit the crime",
+        "D": "Acted in self defence"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "Diminished responsibility requires a mental abnormality substantially impairing responsibility."
+    },
+    {
+      "number": 7,
+      "groupId": null,
+      "stem": "Which of the following human rights is directly recognised in the Australian Constitution?",
+      "images": [],
+      "options": {
+        "A": "Right to privacy",
+        "B": "Freedom of speech",
+        "C": "Freedom of assembly",
+        "D": "Right to vote"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "The Constitution expressly protects voting rights in limited circumstances; The other options are not express guarantees."
+    },
+    {
+      "number": 8,
+      "groupId": null,
+      "stem": "In the strict liability offence of selling alcohol to a 16 year old, which of the following must be proven?",
+      "images": [],
+      "options": {
+        "A": "Actus reus",
+        "B": "Reckless behaviour",
+        "C": "Mens rea",
+        "D": "Causation"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Strict liability removes the need to prove mens rea but still requires proof of the prohibited act."
+    },
+    {
+      "number": 9,
+      "groupId": null,
+      "stem": "Which of the following is a widely recognised element of human rights?",
+      "images": [],
+      "options": {
+        "A": "Inalienable",
+        "B": "Alienable",
+        "C": "Enforceable",
+        "D": "Discriminatory"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Inalienability is a widely recognised characteristic of human rights."
+    },
+    {
+      "number": 10,
+      "groupId": null,
+      "stem": "The International Covenant on Civil and Political Rights is an example of which of the following?",
+      "images": [],
+      "options": {
+        "A": "Customary law",
+        "B": "Statute law",
+        "C": "A treaty",
+        "D": "Common law"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "The ICCPR is a multilateral treaty."
+    },
+    {
+      "number": 11,
+      "groupId": null,
+      "stem": "Which of the following is an alternative to traditional sentencing methods and involves bringing together the offender and the victim?",
+      "images": [],
+      "options": {
+        "A": "Diversionary program",
+        "B": "Restorative justice",
+        "C": "Circle Sentencing",
+        "D": "Intensive correction order"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "Restorative justice is the general approach of bringing offender and victim together; Circle Sentencing (C) is plausible but centres on the Aboriginal community and elders."
+    },
+    {
+      "number": 12,
+      "groupId": null,
+      "stem": "The transportation or the illegal entry of a person across an international border is best known as which type of international crime?",
+      "images": [],
+      "options": {
+        "A": "Crime against humanity",
+        "B": "Crime against the international community",
+        "C": "War crime",
+        "D": "Transnational crime"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Cross-border transportation or entry is characteristic of transnational crime."
+    },
+    {
+      "number": 13,
+      "groupId": null,
+      "stem": "Tony and friends are blocking a public pathway and refuse a reasonable police direction to move on. What type of offence is this?",
+      "images": [],
+      "options": {
+        "A": "A preliminary offence",
+        "B": "A strict liability offence",
+        "C": "A public order offence",
+        "D": "A traffic offence"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "Obstructing a public pathway and disobeying a move-on direction are public order matters."
+    },
+    {
+      "number": 14,
+      "groupId": null,
+      "stem": "The forcible removal of a person from one country and returning them to their country of origin is referred to as which of the following?",
+      "images": [],
+      "options": {
+        "A": "Restorative justice",
+        "B": "Extradition",
+        "C": "Deportation",
+        "D": "Human trafficking"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "Removal of a non-citizen from a country is deportation."
+    },
+    {
+      "number": 15,
+      "groupId": null,
+      "stem": "Joseph is 15 years old and is found guilty of assault. The Children’s Court decides that he serve 12 months in a Juvenile Justice Centre. What is this an example of?",
+      "images": [],
+      "options": {
+        "A": "A control order",
+        "B": "A diversionary program",
+        "C": "A community service order",
+        "D": "A suspended control order"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "A Children’s Court detention order is a control order."
+    },
+    {
+      "number": 16,
+      "groupId": null,
+      "stem": "Nicolas is homeless and shoplifted some food to eat. What is likely to be the main factor leading to his criminal behaviour?",
+      "images": [],
+      "options": {
+        "A": "Genetic",
+        "B": "Necessity",
+        "C": "Economic",
+        "D": "Self interest"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "Changed from B. Homelessness and poverty point to economic factors as the main cause; Necessity (B) is a plausible alternative but is a defence rather than a causal factor."
+    },
+    {
+      "number": 17,
+      "groupId": null,
+      "stem": "The police in Wagga attempt to address the high levels of juvenile crime through establishing employment training programs at the local Youth and Community Centre. This is an example of which of the following?",
+      "images": [],
+      "options": {
+        "A": "Social crime prevention",
+        "B": "Situational crime prevention",
+        "C": "Deterrence",
+        "D": "Community education program"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Employment training addresses social risk factors linked to juvenile offending."
+    },
+    {
+      "number": 18,
+      "groupId": null,
+      "stem": "The 2006 Jury Amendments (Verdict) Act (NSW) allowed for majority verdicts in NSW trials. Under which of the following circumstances would majority verdicts be permissible?",
+      "images": [],
+      "options": {
+        "A": "When 9 out of 12 jurors agree on a verdict",
+        "B": "Where there is a hung jury",
+        "C": "Where reasonable time for deliberation has occurred and the court is satisfied a unanimous verdict can’t be reached",
+        "D": "In all Commonwealth criminal trials"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "A majority verdict requires sufficient deliberation and a court direction when unanimity is unlikely."
+    },
+    {
+      "number": 19,
+      "groupId": null,
+      "stem": "Which of the following is a post sentencing option in NSW?",
+      "images": [],
+      "options": {
+        "A": "Registration of sexual offenders",
+        "B": "Determination of guilt",
+        "C": "Circle sentencing",
+        "D": "Victim Impact Statements"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Sex offender registration can apply after sentencing."
+    },
+    {
+      "number": 20,
+      "groupId": null,
+      "stem": "Which of the following is a non-legal measure that addresses human rights issues?",
+      "images": [],
+      "options": {
+        "A": "Decisions by the Australian Human Rights Commission",
+        "B": "Investigations by the Commonwealth Ombudsman",
+        "C": "Decisions by the Administrative Appeals Tribunal",
+        "D": "Published reports in the Australian media"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Media reporting is a non-legal measure that can expose and generate pressure about rights issues."
+    }
+  ]
+}

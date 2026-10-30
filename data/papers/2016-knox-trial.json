@@ -1,0 +1,333 @@
+{
+  "id": "2016-knox-trial",
+  "year": 2016,
+  "school": "Knox",
+  "kind": "trial",
+  "title": "2016 Knox Legal Studies Trial",
+  "sourceFile": "2016 Knox Legal Studies Trial.pdf",
+  "answerStatus": "none-found",
+  "notes": "No multiple-choice answer key was found in the paper. Questions 2–4 and 6–7 share textual stimuli; no figures were needed.",
+  "groups": [
+    {
+      "id": "2016-knox-trial-g1",
+      "questionNumbers": [
+        2,
+        3,
+        4
+      ],
+      "stimulus": "Kelly and Rob work together at a bank. Kelly forces Rob to steal money from the bank’s safe during his shift. She tells him that if he fails, she will harm his daughter. During his shift, Rob steals the money and is subsequently charged by the police.",
+      "images": []
+    },
+    {
+      "id": "2016-knox-trial-g2",
+      "questionNumbers": [
+        6,
+        7
+      ],
+      "stimulus": "John, a P plate driver is stopped by the police for a random breath test. The reading is 0.02.",
+      "images": []
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "groupId": null,
+      "stem": "Which of the following is true of the role of the Director of Public Prosecutions?",
+      "images": [],
+      "options": {
+        "A": "operates independently of the government to prosecute",
+        "B": "works with police to gather evidence against an accused",
+        "C": "deals primarily with prosecutions for summary offences",
+        "D": "decides if a prima facie case exists for indictable offences"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "The DPP independently conducts prosecutions; Police investigate and gather evidence."
+    },
+    {
+      "number": 2,
+      "groupId": "2016-knox-trial-g1",
+      "stem": "What type of offence has been committed in the scenario?",
+      "images": [],
+      "options": {
+        "A": "Preliminary Offence",
+        "B": "Regulatory Offence",
+        "C": "Economic Offence",
+        "D": "Offence against the Person"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "Rob steals money for financial gain, which is an economic offence."
+    },
+    {
+      "number": 3,
+      "groupId": "2016-knox-trial-g1",
+      "stem": "What defence could Rob use if this case proceeds to trial?",
+      "images": [],
+      "options": {
+        "A": "Duress",
+        "B": "Mistake",
+        "C": "Provocation",
+        "D": "Involuntary behaviour"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Threats to harm Rob’s daughter may establish the defence of duress."
+    },
+    {
+      "number": 4,
+      "groupId": "2016-knox-trial-g1",
+      "stem": "Rob has decided to enter into a charge negotiation for this offence. What will happen next?",
+      "images": [],
+      "options": {
+        "A": "The prosecution will not charge Rob, but will charge Kelly instead.",
+        "B": "The plea will act as a mitigating factor at sentencing.",
+        "C": "Rob will be acquitted in exchange for information about Kelly’s past criminal history.",
+        "D": "The prosecution will guarantee a particular sentence for Rob in exchange for a guilty plea."
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "A guilty plea is relevant as a mitigating factor at sentencing; Prosecution cannot guarantee a particular sentence."
+    },
+    {
+      "number": 5,
+      "groupId": null,
+      "stem": "In the nation of Warrania women are not granted universal suffrage. This is a breach of:",
+      "images": [],
+      "options": {
+        "A": "Collective rights",
+        "B": "Civil and Political rights",
+        "C": "Self-determination rights",
+        "D": "Economic, Social and Cultural rights"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "The right to vote is a civil and political right."
+    },
+    {
+      "number": 6,
+      "groupId": "2016-knox-trial-g2",
+      "stem": "When questioned by the police, what must John do?",
+      "images": [],
+      "options": {
+        "A": "Call his lawyer",
+        "B": "Answer all police questions",
+        "C": "Nothing. He has the right to silence",
+        "D": "Provide police with his name and address"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "A driver must identify themselves when required, while generally retaining the right to silence on other questions."
+    },
+    {
+      "number": 7,
+      "groupId": "2016-knox-trial-g2",
+      "stem": "Which of the following is true in John’s situation?",
+      "images": [],
+      "options": {
+        "A": "There is no need to prove mens rea.",
+        "B": "The police will use their discretion to determine the penalty.",
+        "C": "The driver will be given a caution as he is slightly over the limit.",
+        "D": "The police do not need to prove anything as it is a strict liability offence."
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "A low-range drink-driving offence is strict liability, so mens rea need not be established; Actus reus still must be proved."
+    },
+    {
+      "number": 8,
+      "groupId": null,
+      "stem": "What is the main purpose of preventative detention?",
+      "images": [],
+      "options": {
+        "A": "To ensure the safety and protection of the community",
+        "B": "To provide offenders with an incentive for rehabilitation",
+        "C": "To protect the rights of the prisoners at risk of physical harm",
+        "D": "To act as a deterrent to others who may commit similar offences"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Preventative detention is intended to protect the community from an anticipated threat."
+    },
+    {
+      "number": 9,
+      "groupId": null,
+      "stem": "The International Criminal Court:",
+      "images": [],
+      "options": {
+        "A": "is the judicial branch of the United Nations",
+        "B": "investigates crimes against the international community",
+        "C": "works with INTERPOL to investigate international crime",
+        "D": "hears cases on appeal from the International Court of Justice"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "The ICC investigates and prosecutes individuals for core crimes under international law."
+    },
+    {
+      "number": 10,
+      "groupId": null,
+      "stem": "What is the main aim of Youth Justice Conferencing?",
+      "images": [],
+      "options": {
+        "A": "To provide closure for victims of crime who are young",
+        "B": "To find out the details of an offence without incriminating young people",
+        "C": "To help young offenders repair the harm they have caused to victims",
+        "D": "To provide elders with an opportunity to be involved in the sentencing process"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "Youth justice conferencing is restorative and aims to repair harm caused by offending."
+    },
+    {
+      "number": 11,
+      "groupId": null,
+      "stem": "The State Government has allocated extra funds for increased police patrols on city streets during the weekend. What is this an example of:",
+      "images": [],
+      "options": {
+        "A": "a breach of rights",
+        "B": "preventative protection",
+        "C": "social crime prevention",
+        "D": "situational crime prevention"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Visible patrols increase guardianship and reduce opportunities for crime, a situational prevention measure."
+    },
+    {
+      "number": 12,
+      "groupId": null,
+      "stem": "Which of the following best protects human rights in Australia?",
+      "images": [],
+      "options": {
+        "A": "Statute Law",
+        "B": "The Charter of Rights",
+        "C": "The Australian Constitution",
+        "D": "The UN Declaration of Human Rights"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "In Australia, statute law provides enforceable domestic protection across a wider range of rights than the Constitution or declaration."
+    },
+    {
+      "number": 13,
+      "groupId": null,
+      "stem": "What is the purpose of the division of powers?",
+      "images": [],
+      "options": {
+        "A": "To create an avenue for appeal in the Federal Court hierarchy",
+        "B": "To ensure that police and parliamentary corruption is minimised",
+        "C": "To provide checks and balances in the legal and parliamentary system",
+        "D": "To allow state and federal governments to specialise in specific areas of law"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "The federal division of powers allocates different law-making responsibilities to Commonwealth and state governments."
+    },
+    {
+      "number": 14,
+      "groupId": null,
+      "stem": "Which type of penalty is most likely to reduce recidivism?",
+      "images": [],
+      "options": {
+        "A": "Rehabilitation",
+        "B": "Imprisonment",
+        "C": "Diversionary programs",
+        "D": "A Community Service Order"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Rehabilitation is the sentencing purpose most directly aimed at changing behaviour and reducing reoffending."
+    },
+    {
+      "number": 15,
+      "groupId": null,
+      "stem": "What is the main role of Victim Impact Statements?",
+      "images": [],
+      "options": {
+        "A": "To provide victims with a voice during sentencing",
+        "B": "To give victims input into the charge negotiation process",
+        "C": "To provide victims with an opportunity to apply for victim’s compensation",
+        "D": "To allow victims to present a transcript of evidence during the trial process"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Victim impact statements allow victims to describe the effects of the crime at sentencing."
+    },
+    {
+      "number": 16,
+      "groupId": null,
+      "stem": "Stephanie, an Australian citizen, commits an offence in NSW and then flees to another country. What is the process that forces Stephanie to return to Australia and face trial?",
+      "images": [],
+      "options": {
+        "A": "Exportation",
+        "B": "Extradition",
+        "C": "Deportation",
+        "D": "International arrest"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "Extradition is the formal return of a person to face criminal proceedings in another jurisdiction."
+    },
+    {
+      "number": 17,
+      "groupId": null,
+      "stem": "Australian law allows for the indefinite detention of refugees despite its incompatibility with the ICCPR. This is an example of:",
+      "images": [],
+      "options": {
+        "A": "Corruption",
+        "B": "Rule of law",
+        "C": "State sovereignty",
+        "D": "State intervention"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "The example illustrates Australia exercising sovereign authority despite international criticism."
+    },
+    {
+      "number": 18,
+      "groupId": null,
+      "stem": "What is the main role of the non-legal measures in relation to human rights?",
+      "images": [],
+      "options": {
+        "A": "Protection",
+        "B": "Promotion",
+        "C": "Enforcement",
+        "D": "Incorporation"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "Non-legal measures such as advocacy and education primarily promote human rights."
+    },
+    {
+      "number": 19,
+      "groupId": null,
+      "stem": "Mandatory sentencing laws attempt to address which purpose of punishment?",
+      "images": [],
+      "options": {
+        "A": "Reintegration",
+        "B": "Rehabilitation",
+        "C": "General deterrence",
+        "D": "Specific deterrence"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "Mandatory penalties are commonly intended to deter others generally from offending."
+    },
+    {
+      "number": 20,
+      "groupId": null,
+      "stem": "Helen, a 13 year old, is charged with an indictable offence. What must occur before Helen is convicted in court?",
+      "images": [],
+      "options": {
+        "A": "The magistrate will decide the term of the control order",
+        "B": "Helen is doli incapax so this case will not proceed to court",
+        "C": "The prosecution must establish that she intended to commit the offence",
+        "D": "The defence must prove that she had no intention of committing the offence"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "For a child aged 10–13, the prosecution must rebut doli incapax by proving the child knew the conduct was seriously wrong."
+    }
+  ]
+}

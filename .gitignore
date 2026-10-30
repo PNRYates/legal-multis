@@ -1,0 +1,10 @@
+.venv/
+node_modules/
+dist/
+__pycache__/
+.DS_Store
+.env
+.env.*
+data/disputes.json
+data/papers/*.json-*
+tools/scans/

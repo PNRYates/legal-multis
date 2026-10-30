@@ -1,0 +1,313 @@
+{
+  "id": "2016-hsc",
+  "year": 2016,
+  "school": "HSC",
+  "kind": "hsc",
+  "title": "2016 HSC Legal Studies",
+  "sourceFile": "2016 HSC Legal Studies.pdf",
+  "answerStatus": "all-verified",
+  "notes": "No answer key is included in the examination PDF. all answers are reasoned estimates. No shared stimuli or question figures occur in Section I.",
+  "groups": [],
+  "questions": [
+    {
+      "number": 1,
+      "groupId": null,
+      "stem": "How is the European Union best described?",
+      "images": [],
+      "options": {
+        "A": "As a court",
+        "B": "As a tribunal",
+        "C": "As part of the United Nations",
+        "D": "As an intergovernmental organisation"
+      },
+      "answer": "D",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2016-hsc-mg-legal-studies.pdf"
+    },
+    {
+      "number": 2,
+      "groupId": null,
+      "stem": "What is the purpose of a committal hearing?",
+      "images": [],
+      "options": {
+        "A": "To establish a case for summary offences",
+        "B": "To establish a case for indictable offences",
+        "C": "To determine the sentence for summary offences",
+        "D": "To determine the sentence for indictable offences"
+      },
+      "answer": "B",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2016-hsc-mg-legal-studies.pdf"
+    },
+    {
+      "number": 3,
+      "groupId": null,
+      "stem": "A person is held in custody before trial. What is this called?",
+      "images": [],
+      "options": {
+        "A": "Bail",
+        "B": "Parole",
+        "C": "Remand",
+        "D": "Protective custody"
+      },
+      "answer": "C",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2016-hsc-mg-legal-studies.pdf"
+    },
+    {
+      "number": 4,
+      "groupId": null,
+      "stem": "A magistrate has suspended a person’s driver’s licence. The person decides to appeal the decision. Which court would be most likely to hear the appeal?",
+      "images": [],
+      "options": {
+        "A": "Local Court",
+        "B": "District Court",
+        "C": "Licensing Court",
+        "D": "Court of Criminal Appeal"
+      },
+      "answer": "B",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2016-hsc-mg-legal-studies.pdf"
+    },
+    {
+      "number": 5,
+      "groupId": null,
+      "stem": "Which of the following is true of the Universal Declaration of Human Rights?",
+      "images": [],
+      "options": {
+        "A": "It is a multilateral treaty.",
+        "B": "Its articles are legally enforceable.",
+        "C": "It only applies to developed countries.",
+        "D": "It defines the agreed meaning of human rights."
+      },
+      "answer": "D",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2016-hsc-mg-legal-studies.pdf"
+    },
+    {
+      "number": 6,
+      "groupId": null,
+      "stem": "What is the purpose of diversionary programs?",
+      "images": [],
+      "options": {
+        "A": "To involve the victim in sentencing",
+        "B": "To prevent future criminal behaviour",
+        "C": "To deter crime by increasing penalties",
+        "D": "To remove potential offenders from society"
+      },
+      "answer": "B",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2016-hsc-mg-legal-studies.pdf"
+    },
+    {
+      "number": 7,
+      "groupId": null,
+      "stem": "The president of a nation state is accused of war crimes. Where would this case be prosecuted?",
+      "images": [],
+      "options": {
+        "A": "International Criminal Court",
+        "B": "International Court of Justice",
+        "C": "United Nations Security Council",
+        "D": "United Nations Human Rights Council"
+      },
+      "answer": "A",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2016-hsc-mg-legal-studies.pdf"
+    },
+    {
+      "number": 8,
+      "groupId": null,
+      "stem": "A person who has no previous criminal record commits a minor crime. The judge finds the person guilty of the offence but does not record a conviction. What is this is an example of?",
+      "images": [],
+      "options": {
+        "A": "Judicial error",
+        "B": "Restorative justice",
+        "C": "Judicial discretion",
+        "D": "A suspended sentence"
+      },
+      "answer": "C",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2016-hsc-mg-legal-studies.pdf"
+    },
+    {
+      "number": 9,
+      "groupId": null,
+      "stem": "A group of people living within a nation state wants to exercise its collective right to influence legal decisions about the land on which they live. What is this an example of?",
+      "images": [],
+      "options": {
+        "A": "Peace rights",
+        "B": "Self-determination",
+        "C": "Environmental rights",
+        "D": "Limitations on free speech"
+      },
+      "answer": "B",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2016-hsc-mg-legal-studies.pdf"
+    },
+    {
+      "number": 10,
+      "groupId": null,
+      "stem": "An employee of a bank becomes aware of confidential information which will increase the bank’s share price. Before the information is publicly released, the employee buys shares in the bank. What is this an example of?",
+      "images": [],
+      "options": {
+        "A": "A conspiracy",
+        "B": "A preliminary offence",
+        "C": "An economic offence",
+        "D": "A public order offence"
+      },
+      "answer": "C",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2016-hsc-mg-legal-studies.pdf"
+    },
+    {
+      "number": 11,
+      "groupId": null,
+      "stem": "An offender and the victim of the crime attend a meeting to discuss the impact of the crime on the victim. What is this an example of?",
+      "images": [],
+      "options": {
+        "A": "Retribution",
+        "B": "Restorative justice",
+        "C": "Charge negotiation",
+        "D": "A community service order"
+      },
+      "answer": "B",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2016-hsc-mg-legal-studies.pdf"
+    },
+    {
+      "number": 12,
+      "groupId": null,
+      "stem": "Evidence recorded by a camera shows a person committing a crime. At the court hearing, the prosecution does not have to prove the person’s intention to commit the crime. For which crime was this person charged?",
+      "images": [],
+      "options": {
+        "A": "Assaulting a stranger",
+        "B": "Speeding in a school zone",
+        "C": "Stealing money from an employer",
+        "D": "Planning to break into a neighbour’s house"
+      },
+      "answer": "B",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2016-hsc-mg-legal-studies.pdf"
+    },
+    {
+      "number": 13,
+      "groupId": null,
+      "stem": "A government decides to withdraw from its obligations under the International Covenant on Civil and Political Rights and blocks access to the internet for non-government organisations. What is this an example of?",
+      "images": [],
+      "options": {
+        "A": "The government exercising state sovereignty",
+        "B": "The government limiting universal suffrage",
+        "C": "The role of media in promoting self-determination",
+        "D": "Non-government organisations exercising statutory powers"
+      },
+      "answer": "A",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2016-hsc-mg-legal-studies.pdf"
+    },
+    {
+      "number": 14,
+      "groupId": null,
+      "stem": "Police receive information that a suspect’s house is being used to manufacture large quantities of drugs for sale interstate. In which of the following situations can police search the suspect’s house?",
+      "images": [],
+      "options": {
+        "A": "A warrant has been granted.",
+        "B": "A summons has been served.",
+        "C": "The prosecutor authorises a search.",
+        "D": "The Public Defender authorises a search."
+      },
+      "answer": "A",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2016-hsc-mg-legal-studies.pdf"
+    },
+    {
+      "number": 15,
+      "groupId": null,
+      "stem": "A woman was charged with murder. During her trial, she successfully raised a defence and was found guilty of manslaughter. Which defence did she raise?",
+      "images": [],
+      "options": {
+        "A": "Aggravation",
+        "B": "Mental illness",
+        "C": "Provocation",
+        "D": "Self-defence"
+      },
+      "answer": "C",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2016-hsc-mg-legal-studies.pdf"
+    },
+    {
+      "number": 16,
+      "groupId": null,
+      "stem": "A member of parliament tries to influence a decision being made by the High Court. What is this a breach of?",
+      "images": [],
+      "options": {
+        "A": "Common law",
+        "B": "Division of powers",
+        "C": "Separation of powers",
+        "D": "The Charter of Rights"
+      },
+      "answer": "C",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2016-hsc-mg-legal-studies.pdf"
+    },
+    {
+      "number": 17,
+      "groupId": null,
+      "stem": "Which of the following is correct about a person’s right to legal aid when on trial for a serious indictable offence?",
+      "images": [],
+      "options": {
+        "A": "All accused persons have the right to legal aid.",
+        "B": "The right to legal aid is only available in the Supreme Court.",
+        "C": "Defendants only have the right to legal aid if they plead guilty.",
+        "D": "A person has the right to legal aid if an injustice is likely to occur."
+      },
+      "answer": "D",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2016-hsc-mg-legal-studies.pdf"
+    },
+    {
+      "number": 18,
+      "groupId": null,
+      "stem": "A person has finished a two-year prison sentence. The Minister for Immigration has now authorised the deportation of the ex-prisoner. Which of the following is true?",
+      "images": [],
+      "options": {
+        "A": "The ex-prisoner is not an Australian citizen.",
+        "B": "The High Court cannot review this decision.",
+        "C": "The ex-prisoner must agree to the deportation.",
+        "D": "The Minister for Immigration does not have this power."
+      },
+      "answer": "A",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2016-hsc-mg-legal-studies.pdf"
+    },
+    {
+      "number": 19,
+      "groupId": null,
+      "stem": "Which of the following is true of judicial guidelines?",
+      "images": [],
+      "options": {
+        "A": "They are set by the parliament to structure law making processes.",
+        "B": "They are set by the NSW Law Reform Commission to provide for fairness.",
+        "C": "They are set by the Director of Public Prosecutions to guide judges in decision making.",
+        "D": "They are set by the NSW Court of Criminal Appeal to assist judges when applying discretion."
+      },
+      "answer": "D",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2016-hsc-mg-legal-studies.pdf"
+    },
+    {
+      "number": 20,
+      "groupId": null,
+      "stem": "A person is arrested for a serious crime. He exercises his right to remain silent before the trial. However at his trial, he gives evidence that he was not at the crime scene. Which of the following is true?",
+      "images": [],
+      "options": {
+        "A": "The judge can instruct the jury that this evidence may not be reliable.",
+        "B": "The prosecution cannot cross-examine the accused on this new evidence.",
+        "C": "The jury can ask the accused why he did not raise this evidence earlier.",
+        "D": "The accused does not have the right to raise this evidence during the trial."
+      },
+      "answer": "A",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2016-hsc-mg-legal-studies.pdf"
+    }
+  ]
+}

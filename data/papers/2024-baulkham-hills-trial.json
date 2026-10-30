@@ -1,0 +1,323 @@
+{
+  "id": "2024-baulkham-hills-trial",
+  "year": 2024,
+  "school": "Baulkham Hills",
+  "kind": "trial",
+  "title": "2024 Baulkham Hills Legal Studies Trial",
+  "sourceFile": "2024 Baulkham Hills Legal Studies Trial.pdf",
+  "answerStatus": "none-found",
+  "notes": "",
+  "groups": [
+    {
+      "id": "2024-baulkham-hills-trial-g1",
+      "questionNumbers": [
+        10,
+        11
+      ],
+      "stimulus": "RJ has been found in possession of a commercial quantity of drugs. RJ, during questioning, denies the police questions that he knew of the existence of the drugs.",
+      "images": []
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "groupId": null,
+      "stem": "In an indictable criminal trial, what is one right of the defence?",
+      "images": [],
+      "options": {
+        "A": "To determine what evidence will be led by the prosecution",
+        "B": "To decide what the charge is against the defendant",
+        "C": "To determine who the judge is",
+        "D": "To challenge evidence led by the prosecution"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 2,
+      "groupId": null,
+      "stem": "Who has the authority to decide on granting bail?",
+      "images": [],
+      "options": {
+        "A": "Security guards",
+        "B": "Police and courts",
+        "C": "The Attorney General",
+        "D": "The United Nations"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 3,
+      "groupId": null,
+      "stem": "Which of the following rights is NOT in the United Nations Declaration of Human Rights?",
+      "images": [],
+      "options": {
+        "A": "The right to seek asylum from persecution",
+        "B": "The right to self-defence",
+        "C": "The right to vote",
+        "D": "The right to a family"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 4,
+      "groupId": null,
+      "stem": "20 year-old Gary is facing court on a charge of reckless driving. Who will represent the prosecution in the NSW Local Court?",
+      "images": [],
+      "options": {
+        "A": "The police",
+        "B": "The Director of Public Prosecutions",
+        "C": "The Premier of NSW",
+        "D": "Border Force"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 5,
+      "groupId": null,
+      "stem": "What is the purpose of a Continued Detention Order?",
+      "images": [],
+      "options": {
+        "A": "Retribution",
+        "B": "Deterrence",
+        "C": "Incapacitation",
+        "D": "Rehabilitation"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 6,
+      "groupId": null,
+      "stem": "Mark, aged 21 years, has been arrested after an armed robbery. How long can he be questioned for after the arrest?",
+      "images": [],
+      "options": {
+        "A": "3 hours",
+        "B": "4 hours",
+        "C": "5 hours",
+        "D": "6 hours"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 7,
+      "groupId": null,
+      "stem": "What would be considered as evidence in a criminal trial?",
+      "images": [],
+      "options": {
+        "A": "An expert opinion of a doctor",
+        "B": "An opinion of a radio host",
+        "C": "An opinion of a Member of Parliament",
+        "D": "An opinion of the United Nations"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 8,
+      "groupId": null,
+      "stem": "When can a young offender be found to be criminally responsible?",
+      "images": [],
+      "options": {
+        "A": "Below the age of 10 years",
+        "B": "Between 10 years old and 14 years old if the prosecution rebuts doli incapax",
+        "C": "When they reach the age of 16 years old",
+        "D": "When they exceed the age of 18 years old"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 9,
+      "groupId": null,
+      "stem": "Which of the following human rights exist in the Australian Constitution?",
+      "images": [],
+      "options": {
+        "A": "The right to have children",
+        "B": "The right to education",
+        "C": "The right to stand as a candidate for Parliament",
+        "D": "The right to Legal Aid when tried for an indictable offence"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 10,
+      "groupId": "2024-baulkham-hills-trial-g1",
+      "stem": "What standard of proof must the prosecution meet if the matter is contested in court?",
+      "images": [],
+      "options": {
+        "A": "Balance of probabilities",
+        "B": "Beyond a reasonable doubt",
+        "C": "Balance of facts",
+        "D": "Beyond any doubt"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 11,
+      "groupId": "2024-baulkham-hills-trial-g1",
+      "stem": "What can the police apply to RJ if a lawyer is present?",
+      "images": [],
+      "options": {
+        "A": "Coercion to obtain a confession",
+        "B": "A promise that the court will approve lenient punishment for the offence",
+        "C": "A special caution",
+        "D": "An order to remove the lawyer"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 12,
+      "groupId": null,
+      "stem": "What is one characteristic of human rights?",
+      "images": [],
+      "options": {
+        "A": "They only apply during times of conflict",
+        "B": "They are omnipotent",
+        "C": "They are inalienable",
+        "D": "The United Nations can enforce them"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 13,
+      "groupId": null,
+      "stem": "What legal concept is challenged by mandatory sentencing?",
+      "images": [],
+      "options": {
+        "A": "The division of powers",
+        "B": "The separation of powers",
+        "C": "The standard of proof",
+        "D": "The burden of proof"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 14,
+      "groupId": null,
+      "stem": "Electronic monitoring can form part of which of the following punishments?",
+      "images": [],
+      "options": {
+        "A": "An Intensive Corrections Order",
+        "B": "A Conditional Release Order",
+        "C": "Imprisonment",
+        "D": "Parole"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 15,
+      "groupId": null,
+      "stem": "Which of the following human rights bodies enforces human rights in Australia?",
+      "images": [],
+      "options": {
+        "A": "Amnesty International",
+        "B": "The United Nations Security Council",
+        "C": "The Federal Police",
+        "D": "The Australian Human Rights Commission"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 16,
+      "groupId": null,
+      "stem": "Who is responsible for granting parole to offenders in custody in NSW?",
+      "images": [],
+      "options": {
+        "A": "The Local Court",
+        "B": "The State Parole Authority",
+        "C": "The NSW Police",
+        "D": "The NSW Parliament"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 17,
+      "groupId": null,
+      "stem": "Antonia has been charged with murder. Which of the following is considered to be a complete defence available to her?",
+      "images": [],
+      "options": {
+        "A": "Diminished Responsibility",
+        "B": "Extreme Provocation",
+        "C": "Accident",
+        "D": "Excessive self-defence"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 18,
+      "groupId": null,
+      "stem": "Which human right was enforced in Australia in 1901?",
+      "images": [],
+      "options": {
+        "A": "Universal suffrage for non-indigenous Australians aged 21 or older",
+        "B": "The obligation to join a trade union",
+        "C": "The right to unrestricted free speech",
+        "D": "Environmental rights"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 19,
+      "groupId": null,
+      "stem": "What does a guilty plea for a criminal offence remove from the criminal trial process?",
+      "images": [],
+      "options": {
+        "A": "The need for a judge",
+        "B": "The prior offences of the accused",
+        "C": "A sentencing decision",
+        "D": "The jury"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 20,
+      "groupId": null,
+      "stem": "Which of the following would be considered a crime prevention strategy?",
+      "images": [],
+      "options": {
+        "A": "School education visits from the police",
+        "B": "Closed- TV circuit cameras",
+        "C": "High visibility police presence",
+        "D": "All of the above"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": ""
+    }
+  ]
+}

@@ -1,0 +1,313 @@
+{
+  "id": "2017-baulkham-hills-trial",
+  "year": 2017,
+  "school": "Baulkham Hills",
+  "kind": "trial",
+  "title": "2017 Baulkham Hills Legal Studies Trial",
+  "sourceFile": "2017 Baulkham Hills Legal Studies Trial.pdf",
+  "answerStatus": "none-found",
+  "notes": "Question 2 has no accurate listed answer (education and training in prison is rehabilitation); D is a closest-choice guess and must be reviewed. The PDF has no answer key. Question 19 alternatives have duplicated “a)” labels and are mapped in printed order.",
+  "groups": [],
+  "questions": [
+    {
+      "number": 1,
+      "groupId": null,
+      "stem": "Mark has been charged with an indictable offence. He pleads guilty at the committal hearing. Which of the following is a mitigating factor in his sentencing?",
+      "images": [],
+      "options": {
+        "A": "Mark used a weapon",
+        "B": "Marks’ victim was a child",
+        "C": "Mark is a police officer",
+        "D": "Mark is remorseful"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Remorse is mitigating; Weapon use, a child victim and abuse of position are aggravating."
+    },
+    {
+      "number": 2,
+      "groupId": null,
+      "stem": "The government expands education and skills training in prison. What is this is an example of?",
+      "images": [],
+      "options": {
+        "A": "Situational crime prevention",
+        "B": "Diversionary programs",
+        "C": "Restorative justice",
+        "D": "Improving prison finances"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Prison education and training is rehabilitation, which is absent from the choices; D is the closest remaining option but does not accurately describe the measure."
+    },
+    {
+      "number": 3,
+      "groupId": null,
+      "stem": "How are Human Rights best protected in Australia?",
+      "images": [],
+      "options": {
+        "A": "Common law and Statute law",
+        "B": "Common law and International law",
+        "C": "Statute law and International law",
+        "D": "Statute law and the International Court of Justice"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Domestic common law and legislation provide the main directly enforceable rights protections in Australia."
+    },
+    {
+      "number": 4,
+      "groupId": null,
+      "stem": "Belinda has been charged with a criminal offence and applies for bail in court which is refused. Why could the court have refused bail?",
+      "images": [],
+      "options": {
+        "A": "Belinda is a flight risk",
+        "B": "Belinda presents a risk to the community",
+        "C": "Belinda has been charged with a serious crime",
+        "D": "Any of the above"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Flight risk, danger to the community and offence seriousness can each inform a bail refusal."
+    },
+    {
+      "number": 5,
+      "groupId": null,
+      "stem": "How can a human right that is protected in the Constitution be changed?",
+      "images": [],
+      "options": {
+        "A": "A High Court decision",
+        "B": "A Federal Government statute",
+        "C": "A Referendum",
+        "D": "An International Declaration"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "A referendum is required to change the Constitution."
+    },
+    {
+      "number": 6,
+      "groupId": null,
+      "stem": "In what criminal matter does the presumption of innocence NOT apply?",
+      "images": [],
+      "options": {
+        "A": "An indictable matter",
+        "B": "A strict liability offence",
+        "C": "When the defendant is granted bail",
+        "D": "In cases involving celebrities"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "Strict liability removes the usual requirement to prove mens rea."
+    },
+    {
+      "number": 7,
+      "groupId": null,
+      "stem": "A judge discovers during a criminal trial that she knows the defendant. What action should the judge take?",
+      "images": [],
+      "options": {
+        "A": "Find the defendant guilty",
+        "B": "Find the defendant not guilty",
+        "C": "Disqualify herself from hearing the matter",
+        "D": "Direct the jury to disregard this knowledge"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "A judge who may be conflicted should recuse herself to preserve impartiality."
+    },
+    {
+      "number": 8,
+      "groupId": null,
+      "stem": "Which of the following is an example of a transnational crime?",
+      "images": [],
+      "options": {
+        "A": "Being charged with a criminal offence overseas",
+        "B": "Drug trafficking",
+        "C": "War Crimes",
+        "D": "Genocide"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "Drug trafficking is a standard example of transnational crime."
+    },
+    {
+      "number": 9,
+      "groupId": null,
+      "stem": "Which of the following best describes the role of The International Declaration of Human Rights?",
+      "images": [],
+      "options": {
+        "A": "Binding on all nations",
+        "B": "An enforceable treaty",
+        "C": "A tool of the International Court of Justice",
+        "D": "A general statement of basic human rights"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "The UDHR is a declaration of principles, not an enforceable treaty."
+    },
+    {
+      "number": 10,
+      "groupId": null,
+      "stem": "What is the role of a judge in a summary trial for an indictable offence?",
+      "images": [],
+      "options": {
+        "A": "To decide upon the facts, the verdict and the sentence",
+        "B": "To decide only the facts",
+        "C": "To decide only the sentence",
+        "D": "To decide only the verdict"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "In a summary hearing the judicial officer finds facts and determines verdict and sentence."
+    },
+    {
+      "number": 11,
+      "groupId": null,
+      "stem": "What is removed when Parliament legislates a non parole period for an offence?",
+      "images": [],
+      "options": {
+        "A": "The right to appeal the sentence",
+        "B": "The right of judicial discretion",
+        "C": "The right to appeal the verdict",
+        "D": "The right to apply for bail"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "A legislated non-parole period constrains judicial sentencing discretion."
+    },
+    {
+      "number": 12,
+      "groupId": null,
+      "stem": "Kerrie commits an offence when she is 12 years old. What must the prosecution prove?",
+      "images": [],
+      "options": {
+        "A": "That she had the necessary mens rea",
+        "B": "That doli incapax does not apply",
+        "C": "That she committed the crime on the balance of probabilities",
+        "D": "That she was not insane at the time of the offence"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "The prosecution must rebut doli incapax for a 12-year-old by showing knowledge of serious wrongness."
+    },
+    {
+      "number": 13,
+      "groupId": null,
+      "stem": "Which of the following is a sentencing option reflecting the incapacitation purpose of punishment?",
+      "images": [],
+      "options": {
+        "A": "Community service",
+        "B": "Parole",
+        "C": "Demit points for traffic offences",
+        "D": "Life imprisonment"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Life imprisonment incapacitates by preventing the offender from returning to the community."
+    },
+    {
+      "number": 14,
+      "groupId": null,
+      "stem": "Laezwen is a nation in the South Pacific Ocean which refuses to recognise basic human rights in its legal system. What power gives this nation the ability to ignore these rights?",
+      "images": [],
+      "options": {
+        "A": "Diplomatic immunity",
+        "B": "State sovereignty",
+        "C": "Sovereign immunity",
+        "D": "The doctrine of lex talonius"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "State sovereignty includes authority over a state’s internal affairs."
+    },
+    {
+      "number": 15,
+      "groupId": null,
+      "stem": "For what crimes can the Australian Federal Police arrest offenders?",
+      "images": [],
+      "options": {
+        "A": "murder and manslaughter",
+        "B": "armed robbery and sexual assault",
+        "C": "terrorism and drug importation",
+        "D": "traffic offences and drug possession"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "Terrorism and drug importation are Commonwealth offences investigated by the AFP."
+    },
+    {
+      "number": 16,
+      "groupId": null,
+      "stem": "Which court has the jurisdiction to deal with crimes against humanity?",
+      "images": [],
+      "options": {
+        "A": "the International Court of Justice",
+        "B": "the International Criminal Court",
+        "C": "the United Nations",
+        "D": "the Permanent Court of Arbitration"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "The ICC prosecutes individuals for crimes against humanity."
+    },
+    {
+      "number": 17,
+      "groupId": null,
+      "stem": "Which of the following factors prompted changes to the Bail Act 2013?",
+      "images": [],
+      "options": {
+        "A": "Economic factors",
+        "B": "Political factors",
+        "C": "International factors",
+        "D": "Technological factors"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "Public and political pressure has been a significant driver of bail law changes."
+    },
+    {
+      "number": 18,
+      "groupId": null,
+      "stem": "Defendants who are convicted of crimes in the District court can appeal to the Supreme Court challenging the Courts decision. What can they challenge?",
+      "images": [],
+      "options": {
+        "A": "The sentence",
+        "B": "The verdict",
+        "C": "The verdict and the sentence",
+        "D": "The Constitutional validity of the law"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "An appeal may challenge the conviction, the sentence, or both."
+    },
+    {
+      "number": 19,
+      "groupId": null,
+      "stem": "What type of offence is larceny?",
+      "images": [],
+      "options": {
+        "A": "Pubic order offence",
+        "B": "Economic offence",
+        "C": "Offence against the person",
+        "D": "Offences against the State"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "Larceny is a property offence classified as economic; The printed choice labels are duplicated and mapped in order."
+    },
+    {
+      "number": 20,
+      "groupId": null,
+      "stem": "Who is entitled to Legal Aid ?",
+      "images": [],
+      "options": {
+        "A": "Those charged with an indictable offence",
+        "B": "Those charged with a summary offence",
+        "C": "Those charged with any offence",
+        "D": "Those charged with preliminary offences"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Indictable matters are the best fit among these options, although actual Legal Aid eligibility also depends on means and merits."
+    }
+  ]
+}

@@ -1,0 +1,313 @@
+{
+  "id": "2018-baulkham-hills-trial",
+  "year": 2018,
+  "school": "Baulkham Hills",
+  "kind": "trial",
+  "title": "2018 Baulkham Hills Legal Studies Trial",
+  "sourceFile": "2018 Baulkham Hills Legal Studies Trial.pdf",
+  "answerStatus": "none-found",
+  "notes": "The PDF contains the complete 20-question multiple-choice section and no answer key. No shared stimuli or figures appear in the section.",
+  "groups": [],
+  "questions": [
+    {
+      "number": 1,
+      "groupId": null,
+      "stem": "Which of the following elements must be present for a murder charge to be proven?",
+      "images": [],
+      "options": {
+        "A": "Mens rea",
+        "B": "Actus reus",
+        "C": "Causation",
+        "D": "All of the above"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Murder requires a prohibited act, the relevant mental element, and a causal link between the act and death."
+    },
+    {
+      "number": 2,
+      "groupId": null,
+      "stem": "VZ has been arrested for malicious wounding. Which of the following categories of crime does this offence come under?",
+      "images": [],
+      "options": {
+        "A": "Offences against the person",
+        "B": "Economic offence",
+        "C": "Offences against the sovereign",
+        "D": "Drug Offence"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Malicious wounding is a violent offence against an individual."
+    },
+    {
+      "number": 3,
+      "groupId": null,
+      "stem": "In which court are summary offences usually heard?",
+      "images": [],
+      "options": {
+        "A": "High Court",
+        "B": "Local Court",
+        "C": "District Court",
+        "D": "Supreme Court"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "Summary offences are usually dealt with in the NSW Local Court."
+    },
+    {
+      "number": 4,
+      "groupId": null,
+      "stem": "The power to domestically enforce an international human rights treaty is found in which part of the Australian Constitution?",
+      "images": [],
+      "options": {
+        "A": "Section 43 Part (XII)",
+        "B": "Section 51(Part IX)",
+        "C": "Section 51 (Part XXIX)",
+        "D": "Section 51 (Part XXX)"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "Section 51(xxix), the external affairs power, supports Commonwealth legislation implementing treaty obligations."
+    },
+    {
+      "number": 5,
+      "groupId": null,
+      "stem": "What is the main purpose of the Young Offenders Act 1997?",
+      "images": [],
+      "options": {
+        "A": "Retribution",
+        "B": "Rehabilitation",
+        "C": "Deterrence",
+        "D": "Incapacitation"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "The Act provides alternatives such as warnings, cautions and youth justice conferences, emphasising diversion and rehabilitation."
+    },
+    {
+      "number": 6,
+      "groupId": null,
+      "stem": "Which of the following powers does the Coroner NOT possess?",
+      "images": [],
+      "options": {
+        "A": "Prosecute individuals",
+        "B": "Investigate preventable deaths",
+        "C": "Investigate suspicious deaths",
+        "D": "Subpoena witnesses"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "A coroner investigates deaths and can compel evidence, but does not prosecute individuals."
+    },
+    {
+      "number": 7,
+      "groupId": null,
+      "stem": "What type of law in Australia best protects the right to vote?",
+      "images": [],
+      "options": {
+        "A": "Common law",
+        "B": "Customary law",
+        "C": "International law",
+        "D": "Constitutional law"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Constitutional provisions, including the implied protection associated with representative government, underpin voting rights."
+    },
+    {
+      "number": 8,
+      "groupId": null,
+      "stem": "Under what conditions can a police officer legally search a person?",
+      "images": [],
+      "options": {
+        "A": "The police officer knows that the person is a criminal",
+        "B": "The police officer wants to harass a person",
+        "C": "The police officer believes that the person may be carrying a weapon or drug",
+        "D": "The police officer believes that the person has been in prison"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "Police may conduct a search where statutory grounds exist, including reasonable suspicion that a person has a prohibited drug or weapon."
+    },
+    {
+      "number": 9,
+      "groupId": null,
+      "stem": "What type of right is the right to free speech?",
+      "images": [],
+      "options": {
+        "A": "A collective right",
+        "B": "An individual right",
+        "C": "A peace right",
+        "D": "An environmental right"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "Freedom of speech is generally classified as an individual civil and political right."
+    },
+    {
+      "number": 10,
+      "groupId": null,
+      "stem": "What is the term given for the crime where individuals or groups intend to overthrow the government by illegal means?",
+      "images": [],
+      "options": {
+        "A": "Sedition",
+        "B": "Treason",
+        "C": "Affray",
+        "D": "Riot"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "Treason/treachery (Criminal Code Cth s80.1, 80.1AC) cover intending/using force to overthrow the government; Sedition is urging others to do so (s80.2). Two plausible answers: B (treason) preferred, A (sedition) possible if the school's notes define sedition as overthrowing the government."
+    },
+    {
+      "number": 11,
+      "groupId": null,
+      "stem": "EA is attacked by a group of males wielding weapons. During the struggle EA kills one of the offenders. What is the most appropriate legal defence to this homicide?",
+      "images": [],
+      "options": {
+        "A": "Provocation",
+        "B": "Diminished responsibility",
+        "C": "Automatism",
+        "D": "Self defence"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "The facts describe a response to an armed attack, supporting self-defence if the force used was reasonably necessary."
+    },
+    {
+      "number": 12,
+      "groupId": null,
+      "stem": "Who may apply to the Supreme Court for a Continuing Detention Order (CDO)?",
+      "images": [],
+      "options": {
+        "A": "The victim",
+        "B": "NSW Police",
+        "C": "The Attorney General",
+        "D": "The offender"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "The NSW Attorney General may apply to the Supreme Court for a continuing detention order under high-risk offender legislation."
+    },
+    {
+      "number": 13,
+      "groupId": null,
+      "stem": "Which of the following legal documents allows police to enter a dwelling?",
+      "images": [],
+      "options": {
+        "A": "A summons",
+        "B": "An affidavit",
+        "C": "A subpoena",
+        "D": "A warrant"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "A search warrant authorises police to enter premises for a specified investigative purpose."
+    },
+    {
+      "number": 14,
+      "groupId": null,
+      "stem": "What is an essential element for a person to be granted bail?",
+      "images": [],
+      "options": {
+        "A": "Remorse",
+        "B": "Show cause",
+        "C": "Plead guilty",
+        "D": "Agree to be willing to attend counselling"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "For prescribed serious offences, the Bail Act requires the accused to show cause why detention is not justified; This is the only listed bail-law concept."
+    },
+    {
+      "number": 15,
+      "groupId": null,
+      "stem": "Which of the following bodies can prosecute human rights offenders?",
+      "images": [],
+      "options": {
+        "A": "International Court of Justice",
+        "B": "Permanent Court of Arbitration",
+        "C": "International Criminal Court",
+        "D": "Security Council"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "The ICC prosecutes individuals for international crimes including genocide, crimes against humanity and war crimes."
+    },
+    {
+      "number": 16,
+      "groupId": null,
+      "stem": "EZ has shown no remorse after being convicted of committing a crime where weapons were used and the victim was very old. What would these factors would be considered as?",
+      "images": [],
+      "options": {
+        "A": "Aggravating factors",
+        "B": "Mitigating factors",
+        "C": "Guilty factors",
+        "D": "Minor factors"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Use of a weapon, victim vulnerability and lack of remorse are aggravating sentencing considerations."
+    },
+    {
+      "number": 17,
+      "groupId": null,
+      "stem": "Which of the following involves judicial discretion?",
+      "images": [],
+      "options": {
+        "A": "Mandatory sentences",
+        "B": "Standard of proof",
+        "C": "Sentencing and punishment",
+        "D": "Charge negotiation"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "Judges exercise discretion when selecting a sentence within the applicable legal limits."
+    },
+    {
+      "number": 18,
+      "groupId": null,
+      "stem": "The term universal suffrage refers to?",
+      "images": [],
+      "options": {
+        "A": "The right to a fair trial",
+        "B": "The right to vote",
+        "C": "The right to self determination",
+        "D": "The right to marriage"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "Universal suffrage is the right of adult citizens to vote, subject to limited lawful qualifications."
+    },
+    {
+      "number": 19,
+      "groupId": null,
+      "stem": "KA has been sentenced to 4 years in prison for assault causing grievous bodily harm. He is released after serving 3 years and 2 months. What is the term given to this early release?",
+      "images": [],
+      "options": {
+        "A": "Bail",
+        "B": "Continuing Detention",
+        "C": "Deportation",
+        "D": "Parole"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Release before the full sentence has been served, subject to conditions, is parole."
+    },
+    {
+      "number": 20,
+      "groupId": null,
+      "stem": "What is the main purpose of the imposition of a sentence of life imprisonment?",
+      "images": [],
+      "options": {
+        "A": "Incapacitation",
+        "B": "Rehabilitation",
+        "C": "Deterrence",
+        "D": "Restorative justice"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Life imprisonment keeps an offender in custody for a long period or for life, principally protecting the community through incapacitation."
+    }
+  ]
+}

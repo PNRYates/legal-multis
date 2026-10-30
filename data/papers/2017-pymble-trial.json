@@ -1,0 +1,323 @@
+{
+  "id": "2017-pymble-trial",
+  "year": 2017,
+  "school": "Pymble",
+  "kind": "trial",
+  "title": "2017 Pymble Legal Studies Trial",
+  "sourceFile": "2017 Pymble Legal Studies Trial.pdf",
+  "answerStatus": "none-found",
+  "notes": "Scanned paper read from rendered pages. No answer key is included.",
+  "groups": [
+    {
+      "id": "2017-pymble-g1",
+      "questionNumbers": [
+        2,
+        3
+      ],
+      "stimulus": "19-year-old Ben, who is unknown to police, is given a ‘move along’ order. He refuses, abuses the police, then struggles and hits one officer with his cap as they try to arrest him.",
+      "images": []
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "groupId": null,
+      "stem": "The international Covenant on Civil and Political Rights can best be described as which of the following?",
+      "images": [],
+      "options": {
+        "A": "An international treaty",
+        "B": "A statement of principle",
+        "C": "International customary law",
+        "D": "An international legal decision"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "ICCPR is a treaty (1966) ratified by Australia."
+    },
+    {
+      "number": 2,
+      "groupId": "2017-pymble-g1",
+      "stem": "With which offence could Ben be charged?",
+      "images": [],
+      "options": {
+        "A": "Causing affray",
+        "B": "A public order offence",
+        "C": "Resisting arrest and assault",
+        "D": "Being uncooperative with the police"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "Ben struggles with and strikes an officer: resist/hinder arrest and assault police. B (public order) is weaker as the stem stresses the struggle and hit."
+    },
+    {
+      "number": 3,
+      "groupId": "2017-pymble-g1",
+      "stem": "Assuming that Ben pleads not guilty, in which court will Ben’s hearing take place?",
+      "images": [],
+      "options": {
+        "A": "The Local Court",
+        "B": "The District Court",
+        "C": "The Supreme Court",
+        "D": "The Children’s Court"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Assault police/resist arrest are summary (Table 1) offences, heard in the Local Court; Ben is 19, so not the Children's Court."
+    },
+    {
+      "number": 4,
+      "groupId": null,
+      "stem": "Alice has received an official legal document in relation to an offence she has allegedly committed. She is required to attend the local court on a certain date. What is the legal document known as?",
+      "images": [],
+      "options": {
+        "A": "An indictment",
+        "B": "A Criminal Infringement Notice",
+        "C": "A Court Attendance Notice",
+        "D": "A warrant"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "A Court Attendance Notice requires attendance at Local Court."
+    },
+    {
+      "number": 5,
+      "groupId": null,
+      "stem": "When denying a bail application, which of the following would be a determining factor?",
+      "images": [],
+      "options": {
+        "A": "Community ties",
+        "B": "No criminal record",
+        "C": "Current employment",
+        "D": "A multitude of victims"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Seriousness/number of victims weighs against bail; The other options favour bail."
+    },
+    {
+      "number": 6,
+      "groupId": null,
+      "stem": "The United Nations Human Rights Council is an example of which of the following?",
+      "images": [],
+      "options": {
+        "A": "An international tribunal",
+        "B": "A non-government organisation",
+        "C": "An intergovernmental organisation",
+        "D": "An independent statutory authority"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "UN Human Rights Council is an intergovernmental body of member states."
+    },
+    {
+      "number": 7,
+      "groupId": null,
+      "stem": "What is the role of the International Criminal Court?",
+      "images": [],
+      "options": {
+        "A": "To enforce the rule of law",
+        "B": "To prosecute world leaders",
+        "C": "To prosecute crimes against the international community.",
+        "D": "To enforce international criminal treaties"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "ICC prosecutes genocide, war crimes, crimes against humanity, aggression."
+    },
+    {
+      "number": 8,
+      "groupId": null,
+      "stem": "Jake has planned to commit a robbery. However, he is unable to execute his plan due to illness. This is an example of which of the following?",
+      "images": [],
+      "options": {
+        "A": "A preliminary offence",
+        "B": "An economic offence",
+        "C": "A white collar crime",
+        "D": "A blue collar crime"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Planning without executing is a preliminary offence (attempt/conspiracy/incitement)."
+    },
+    {
+      "number": 9,
+      "groupId": null,
+      "stem": "Marilyn has been arrested and detained by police. In order to ensure that any information provided by Marilyn, during questioning, is admissible in court, what must the police do?",
+      "images": [],
+      "options": {
+        "A": "Establish a “holding charge”",
+        "B": "Caution her as to her rights",
+        "C": "Provide Marilyn with legal representation",
+        "D": "Keep a written record of everything she says"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "Under LEPRA, police must caution the detained person before questioning for admissibility."
+    },
+    {
+      "number": 10,
+      "groupId": null,
+      "stem": "A jury has been deliberating for two days and has informed the judge that they are unable to reach a verdict. What can the judge do?",
+      "images": [],
+      "options": {
+        "A": "Deliver his/her own verdict",
+        "B": "Insist on a unanimous verdict",
+        "C": "Allow a majority verdict",
+        "D": "Allow a majority verdict with one dissenter"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Under Jury Act s55F a majority verdict of 11:1 is allowed after at least 8 hours of deliberation. C is looser but D is more exact."
+    },
+    {
+      "number": 11,
+      "groupId": null,
+      "stem": "Which of the following is the primary purpose of the United Nations?",
+      "images": [],
+      "options": {
+        "A": "To develop friendly relations among nations",
+        "B": "To develop treaties that relate to human rights",
+        "C": "To reprimand nations who breach human rights",
+        "D": "To prosecute those who have breached international law"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "UN Charter art 1: primary purpose is to maintain international peace and security; Of the options, developing friendly relations is the stated purpose."
+    },
+    {
+      "number": 12,
+      "groupId": null,
+      "stem": "Having committed a summary offence, 14-year-old Matthew has been convicted by a Children’s Court Magistrate. Which penalty is he most likely to receive?",
+      "images": [],
+      "options": {
+        "A": "A warning",
+        "B": "A good behaviour bond",
+        "C": "12 months imprisonment",
+        "D": "An intensive correction order"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "Children's Court sentencing for a summary offence is likely a good behaviour bond/ non-custodial; 12 months prison unlikely and ICO not available to children."
+    },
+    {
+      "number": 13,
+      "groupId": null,
+      "stem": "A judge grants a defendant’s request for a criminal trial without a jury. Which term best describes what has been achieved for the defendant?",
+      "images": [],
+      "options": {
+        "A": "Unfairness",
+        "B": "Inequality",
+        "C": "Equality",
+        "D": "Fairness"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Judge-alone trial responds to the individual circumstances (e.g. Prejudicial publicity), which is fairness, not equality."
+    },
+    {
+      "number": 14,
+      "groupId": null,
+      "stem": "What effect does the separation of powers have on human rights in Australia?",
+      "images": [],
+      "options": {
+        "A": "The High Court is able to amend legislation.",
+        "B": "The judiciary is able to interpret legislation.",
+        "C": "The executive can change judicial decisions.",
+        "D": "The Governor-General can review High Court decisions."
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "Separation of powers: judiciary interprets/applies law, does not make it."
+    },
+    {
+      "number": 15,
+      "groupId": null,
+      "stem": "Lisa, an Australian citizen, has been charged with importing $4 million of drugs from Singapore into Sydney. In which court will her case be heard?",
+      "images": [],
+      "options": {
+        "A": "The Drug Court",
+        "B": "A Singaporean court",
+        "C": "The NSW Supreme Court",
+        "D": "The International Criminal Court"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "Of the options, only NSW Supreme Court is a possible trial court (federal drug import offence tried in state courts; Usually District/Supreme). Drug Court is for drug-dependent offenders, ICC no jurisdiction, Singapore irrelevant."
+    },
+    {
+      "number": 16,
+      "groupId": null,
+      "stem": "What is the purpose of preventative detention?",
+      "images": [],
+      "options": {
+        "A": "To protect society",
+        "B": "To protect the offender",
+        "C": "To protect the victim of crime",
+        "D": "To balance the rights of offenders and society"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Preventative detention is about protecting the community from a person assessed as dangerous."
+    },
+    {
+      "number": 17,
+      "groupId": null,
+      "stem": "An incarcerated person is granted day-release into the community. This is an example of which of the following?",
+      "images": [],
+      "options": {
+        "A": "Bail",
+        "B": "Preventative detention",
+        "C": "A post-sentencing decision",
+        "D": "An exercise of the judge’s discretion"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "Day release is a decision after sentencing (corrections/parole authority), not bail or judicial discretion."
+    },
+    {
+      "number": 18,
+      "groupId": null,
+      "stem": "Gareth, a 15-year old, has been charged with a serious criminal offence. Which of the following statements is true?",
+      "images": [],
+      "options": {
+        "A": "Gareth is doli incapax.",
+        "B": "Gareth will be treated as an adult in court.",
+        "C": "There is a rebuttable presumption of doli incapax.",
+        "D": "The presumption of doli incapax is not relevant in this case."
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "The presumption applies only to ages 10-14; 15-year-old is outside it. C is a tempting distractor but is irrelevant to Gareth."
+    },
+    {
+      "number": 19,
+      "groupId": null,
+      "stem": "Which statement best describes the impact of state sovereignty on the effectiveness of international laws?",
+      "images": [],
+      "options": {
+        "A": "Significant, as countries must observe international laws",
+        "B": "Significant, as countries can choose to ignore international laws",
+        "C": "Limited, as the international community works closely together",
+        "D": "Limited, as many countries retain legal control of their parliament"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "State sovereignty means countries can choose to ignore international law, which limits its effectiveness; B and D are both plausible but D's reasoning (control of parliament) is less direct. B is preferred."
+    },
+    {
+      "number": 20,
+      "groupId": null,
+      "stem": "In sentencing Peter for an indictable offence, the judge wants the penalty to reflect the serious nature of the offence without imprisoning him. Which of the following options is most likely?",
+      "images": [],
+      "options": {
+        "A": "A probation order",
+        "B": "Incarceration for 18 months",
+        "C": "200 hours of community service",
+        "D": "Attendance at a diversionary program"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "Indictable offence, serious but non-custodial: community service (a CCO with community service work) fits best; Diversionary programs are for minor offences; Probation order is no longer a NSW sentence."
+    }
+  ]
+}

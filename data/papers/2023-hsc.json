@@ -1,0 +1,313 @@
+{
+  "id": "2023-hsc",
+  "year": 2023,
+  "school": "HSC",
+  "kind": "hsc",
+  "title": "2023 HSC Legal Studies",
+  "sourceFile": "2023 HSC Legal Studies.pdf",
+  "answerStatus": "all-verified",
+  "notes": "No multiple-choice answer key was included in the paper; questions were transcribed from Section I. No shared stimulus groups or figures appeared there.",
+  "groups": [],
+  "questions": [
+    {
+      "number": 1,
+      "groupId": null,
+      "stem": "Which of the following is an example of an intergovernmental organisation that protects human rights?",
+      "images": [],
+      "options": {
+        "A": "United Nations",
+        "B": "Amnesty International",
+        "C": "High Court of Australia",
+        "D": "International Criminal Court"
+      },
+      "answer": "A",
+      "answerSource": "official",
+      "answerNote": "NESA 2023 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2023-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 2,
+      "groupId": null,
+      "stem": "Sally has been charged with assault for punching a woman. In order for the prosecution to prove mens rea, they must prove that",
+      "images": [],
+      "options": {
+        "A": "Sally punched the woman.",
+        "B": "Sally’s punch injured the woman.",
+        "C": "Sally intended to punch the woman.",
+        "D": "the woman did not intentionally attack Sally."
+      },
+      "answer": "C",
+      "answerSource": "official",
+      "answerNote": "NESA 2023 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2023-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 3,
+      "groupId": null,
+      "stem": "What jurisdiction is a court exercising when reviewing a prison sentence imposed by a lower court?",
+      "images": [],
+      "options": {
+        "A": "Appellate",
+        "B": "Indictable",
+        "C": "Original",
+        "D": "Summary"
+      },
+      "answer": "A",
+      "answerSource": "official",
+      "answerNote": "NESA 2023 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2023-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 4,
+      "groupId": null,
+      "stem": "The International Covenant on Civil and Political Rights (ICCPR) is an example of which of the following?",
+      "images": [],
+      "options": {
+        "A": "A constitutional right",
+        "B": "International customary law",
+        "C": "A formal statement of rights",
+        "D": "An international legal decision"
+      },
+      "answer": "C",
+      "answerSource": "official",
+      "answerNote": "NESA 2023 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2023-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 5,
+      "groupId": null,
+      "stem": "The NSW Police have launched an advertising campaign highlighting the dangers of using a mobile phone while driving. This is an example of",
+      "images": [],
+      "options": {
+        "A": "law reform.",
+        "B": "restorative justice.",
+        "C": "social crime prevention.",
+        "D": "situational crime prevention."
+      },
+      "answer": "C",
+      "answerSource": "official",
+      "answerNote": "NESA 2023 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2023-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 6,
+      "groupId": null,
+      "stem": "An inquiry has been established into the unexpected death of a child. Which court has jurisdiction to undertake this inquiry?",
+      "images": [],
+      "options": {
+        "A": "Children’s Court",
+        "B": "Coroner’s Court",
+        "C": "District Court",
+        "D": "Supreme Court"
+      },
+      "answer": "B",
+      "answerSource": "official",
+      "answerNote": "NESA 2023 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2023-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 7,
+      "groupId": null,
+      "stem": "Which of the following is an example of a crime against the international community?",
+      "images": [],
+      "options": {
+        "A": "Fraud",
+        "B": "Genocide",
+        "C": "Drug importation",
+        "D": "People smuggling"
+      },
+      "answer": "B",
+      "answerSource": "official",
+      "answerNote": "NESA 2023 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2023-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 8,
+      "groupId": null,
+      "stem": "A search warrant is authorised by",
+      "images": [],
+      "options": {
+        "A": "the police.",
+        "B": "the victim.",
+        "C": "a barrister.",
+        "D": "a judicial officer."
+      },
+      "answer": "D",
+      "answerSource": "official",
+      "answerNote": "NESA 2023 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2023-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 9,
+      "groupId": null,
+      "stem": "Which of the following is defined as a collective human right?",
+      "images": [],
+      "options": {
+        "A": "Trade unionism",
+        "B": "Universal suffrage",
+        "C": "Self determination",
+        "D": "Abolition of slavery"
+      },
+      "answer": "C",
+      "answerSource": "official",
+      "answerNote": "NESA 2023 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2023-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 10,
+      "groupId": null,
+      "stem": "Which of the following is a partial defence to a crime in NSW?",
+      "images": [],
+      "options": {
+        "A": "Consent",
+        "B": "Duress",
+        "C": "Necessity",
+        "D": "Provocation"
+      },
+      "answer": "D",
+      "answerSource": "official",
+      "answerNote": "NESA 2023 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2023-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 11,
+      "groupId": null,
+      "stem": "Susan is arrested for allegedly committing several offences. She agrees to plead guilty to one offence if she is not prosecuted for the other offences. What is this an example of?",
+      "images": [],
+      "options": {
+        "A": "Judicial discretion",
+        "B": "Charge negotiation",
+        "C": "Mitigating circumstances",
+        "D": "Aggravating circumstances"
+      },
+      "answer": "B",
+      "answerSource": "official",
+      "answerNote": "NESA 2023 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2023-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 12,
+      "groupId": null,
+      "stem": "During a criminal trial, the role of the jury is to determine",
+      "images": [],
+      "options": {
+        "A": "whether evidence is admissible.",
+        "B": "the damages payable to the victim.",
+        "C": "the appropriate sentence for the offender.",
+        "D": "whether the standard of proof has been met."
+      },
+      "answer": "D",
+      "answerSource": "official",
+      "answerNote": "NESA 2023 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2023-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 13,
+      "groupId": null,
+      "stem": "Rehabilitation is most likely to be achieved by which of the following?",
+      "images": [],
+      "options": {
+        "A": "Fines",
+        "B": "Imprisonment",
+        "C": "Forfeiture of assets",
+        "D": "Diversionary programs"
+      },
+      "answer": "D",
+      "answerSource": "official",
+      "answerNote": "NESA 2023 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2023-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 14,
+      "groupId": null,
+      "stem": "Michael is a 17-year-old on trial for murder. Which of the following is correct?",
+      "images": [],
+      "options": {
+        "A": "Michael’s trial will be in the Supreme Court.",
+        "B": "Michael’s trial will be in front of a magistrate.",
+        "C": "Michael cannot be held criminally responsible.",
+        "D": "Michael will be required to prove his innocence."
+      },
+      "answer": "A",
+      "answerSource": "official",
+      "answerNote": "NESA 2023 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2023-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 15,
+      "groupId": null,
+      "stem": "Australia negotiates a treaty concerning slavery. When are the provisions of this treaty incorporated into domestic law?",
+      "images": [],
+      "options": {
+        "A": "When the treaty is signed by a Minister",
+        "B": "When the treaty is discussed in Parliament",
+        "C": "Once legislation is passed enacting the treaty",
+        "D": "Once a media report announces the signing of the treaty"
+      },
+      "answer": "C",
+      "answerSource": "official",
+      "answerNote": "NESA 2023 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2023-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 16,
+      "groupId": null,
+      "stem": "Which of the following is true of judicial guidelines in NSW?",
+      "images": [],
+      "options": {
+        "A": "They are set by parliament.",
+        "B": "They set maximum penalties.",
+        "C": "They aim to reduce inconsistency in sentencing.",
+        "D": "They are written by the Director of Public Prosecutions."
+      },
+      "answer": "C",
+      "answerSource": "official",
+      "answerNote": "NESA 2023 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2023-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 17,
+      "groupId": null,
+      "stem": "Why is Australia able to pass laws protecting human rights?",
+      "images": [],
+      "options": {
+        "A": "Australia is a sovereign state.",
+        "B": "Australia is a member of the United Nations.",
+        "C": "Australia has ratified the International Covenant on Civil and Political Rights.",
+        "D": "Australia has signed the International Covenant on Economic, Social and Cultural Rights."
+      },
+      "answer": "A",
+      "answerSource": "official",
+      "answerNote": "NESA 2023 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2023-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 18,
+      "groupId": null,
+      "stem": "The NSW police obtain a court order and take a person into custody because the police believe that person may commit a terrorist attack. This is an example of",
+      "images": [],
+      "options": {
+        "A": "deportation.",
+        "B": "continued detention.",
+        "C": "security classification.",
+        "D": "preventative detention."
+      },
+      "answer": "D",
+      "answerSource": "official",
+      "answerNote": "NESA 2023 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2023-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 19,
+      "groupId": null,
+      "stem": "Kim pleads not guilty to a charge of murder. Kim’s request for a trial without a jury is granted. Which of the following applies to the trial?",
+      "images": [],
+      "options": {
+        "A": "Kim will have to prove his innocence.",
+        "B": "The judge will provide reasons for the verdict.",
+        "C": "The case will be decided on the balance of probabilities.",
+        "D": "A plea bargain will determine the length of the sentence."
+      },
+      "answer": "B",
+      "answerSource": "official",
+      "answerNote": "NESA 2023 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2023-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 20,
+      "groupId": null,
+      "stem": "Jo is 14 years old. She is arrested by police who suspect her of committing a summary offence. Based on these facts, which of the following is true for Jo?",
+      "images": [],
+      "options": {
+        "A": "She cannot have legal representation.",
+        "B": "She must answer all police questions.",
+        "C": "The police cannot charge her for that offence.",
+        "D": "The police can finalise the matter by issuing a caution."
+      },
+      "answer": "D",
+      "answerSource": "official",
+      "answerNote": "NESA 2023 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2023-hsc-legal-studies-mg.pdf"
+    }
+  ]
+}

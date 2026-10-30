@@ -1,0 +1,313 @@
+{
+  "id": "2025-baulkham-hills-trial",
+  "year": 2025,
+  "school": "Baulkham Hills",
+  "kind": "trial",
+  "title": "2025 Baulkham Hills Legal Studies Trial",
+  "sourceFile": "2025 Baulkham Hills Legal Studies Trial.pdf",
+  "answerStatus": "all-verified",
+  "notes": "The answer key is printed in the paper’s suggested marking guidelines on PDF page 22. No shared stimuli or figures occur in Section I.",
+  "groups": [],
+  "questions": [
+    {
+      "number": 1,
+      "groupId": null,
+      "stem": "In a contested matter heard by the Local Court, who holds the burden of proof?",
+      "images": [],
+      "options": {
+        "A": "The Prosecution",
+        "B": "The Defendant",
+        "C": "The Magistrate",
+        "D": "The Jury"
+      },
+      "answer": "A",
+      "answerSource": "paper",
+      "answerNote": "The paper’s Section I answer key, PDF p. 22, gives A."
+    },
+    {
+      "number": 2,
+      "groupId": null,
+      "stem": "Which of the following charges constitute a show cause offence in NSW for the purposes of bail?",
+      "images": [],
+      "options": {
+        "A": "Offensive conduct",
+        "B": "Possession of stolen property",
+        "C": "Assault causing actual bodily harm",
+        "D": "Possession of a prohibited firearm in a public place"
+      },
+      "answer": "D",
+      "answerSource": "paper",
+      "answerNote": "The paper’s Section I answer key, PDF p. 22, gives D."
+    },
+    {
+      "number": 3,
+      "groupId": null,
+      "stem": "Which of the following concepts relates to collective action in employment?",
+      "images": [],
+      "options": {
+        "A": "Trade unionism",
+        "B": "Universal suffrage",
+        "C": "Self-determination",
+        "D": "Universal Education"
+      },
+      "answer": "A",
+      "answerSource": "paper",
+      "answerNote": "The paper’s Section I answer key, PDF p. 22, gives A."
+    },
+    {
+      "number": 4,
+      "groupId": null,
+      "stem": "Rob, 14 years old, is suspected of committing aggravated burglary. Police want to take a DNA sample for forensic analysis, which Rob does not consent to.\n\nUnder specific legal circumstances, may the police proceed with collecting Rob’s DNA?",
+      "images": [],
+      "options": {
+        "A": "If a forensic expert is present during the collection of the DNA",
+        "B": "If Rob is charged with the offence",
+        "C": "If Rob’s parents agree",
+        "D": "With a court order"
+      },
+      "answer": "D",
+      "answerSource": "paper",
+      "answerNote": "The paper’s Section I answer key, PDF p. 22, gives D."
+    },
+    {
+      "number": 5,
+      "groupId": null,
+      "stem": "Which of the following offences does NOT require the presence of mens rea for a conviction?",
+      "images": [],
+      "options": {
+        "A": "Driving an unregistered vehicle",
+        "B": "Assaulting a police officer",
+        "C": "Possession of stolen goods",
+        "D": "Supplying narcotics"
+      },
+      "answer": "A",
+      "answerSource": "paper",
+      "answerNote": "The paper’s Section I answer key, PDF p. 22, gives A."
+    },
+    {
+      "number": 6,
+      "groupId": null,
+      "stem": "Mick, a bus driver, conceals his seizure condition from his employer and the authorities. He has a seizure while driving and veers off the road, resulting in multiple fatalities.\n\nWhat criminal charge is likely to be applied in this matter?",
+      "images": [],
+      "options": {
+        "A": "Assault",
+        "B": "Murder",
+        "C": "Negligence",
+        "D": "Manslaughter"
+      },
+      "answer": "D",
+      "answerSource": "paper",
+      "answerNote": "The paper’s Section I answer key, PDF p. 22, gives D."
+    },
+    {
+      "number": 7,
+      "groupId": null,
+      "stem": "Which of the following can be an effective non-legal means of promoting human rights?",
+      "images": [],
+      "options": {
+        "A": "The United Nations",
+        "B": "Domestic police",
+        "C": "The media",
+        "D": "Interpol"
+      },
+      "answer": "C",
+      "answerSource": "paper",
+      "answerNote": "The paper’s Section I answer key, PDF p. 22, gives C."
+    },
+    {
+      "number": 8,
+      "groupId": null,
+      "stem": "Simi has received a court attendance notice.\n\nWhich of the following would have led to Simi receiving this?",
+      "images": [],
+      "options": {
+        "A": "Simi has been charged with an offence",
+        "B": "Simi has been released without charge",
+        "C": "Simi has been detained for questioning",
+        "D": "Simi has received a subpoena to give evidence"
+      },
+      "answer": "A",
+      "answerSource": "paper",
+      "answerNote": "The paper’s Section I answer key, PDF p. 22, gives A."
+    },
+    {
+      "number": 9,
+      "groupId": null,
+      "stem": "The NSW Government has introduced school-based workshops aimed at educating teenagers about the risks associated with substance use and driving under the influence. These workshops focus on building decision making skills and increasing awareness of support services.\n\nWhat type of crime prevention strategy does this represent?",
+      "images": [],
+      "options": {
+        "A": "Social crime prevention",
+        "B": "Situational crime prevention",
+        "C": "Community based sentencing",
+        "D": "Restorative justice conferencing"
+      },
+      "answer": "A",
+      "answerSource": "paper",
+      "answerNote": "The paper’s Section I answer key, PDF p. 22, gives A."
+    },
+    {
+      "number": 10,
+      "groupId": null,
+      "stem": "What is the purpose of punishment that speed cameras attempt to achieve?",
+      "images": [],
+      "options": {
+        "A": "Deterrence",
+        "B": "Retribution",
+        "C": "Incapacitation",
+        "D": "Rehabilitation"
+      },
+      "answer": "A",
+      "answerSource": "paper",
+      "answerNote": "The paper’s Section I answer key, PDF p. 22, gives A."
+    },
+    {
+      "number": 11,
+      "groupId": null,
+      "stem": "Which of the following is the most significant penalty that does NOT involve the individual spending time in prison?",
+      "images": [],
+      "options": {
+        "A": "Community Correction Order",
+        "B": "Intensive Correction Order",
+        "C": "Conditional Release Order",
+        "D": "Probation"
+      },
+      "answer": "B",
+      "answerSource": "paper",
+      "answerNote": "The paper’s Section I answer key, PDF p. 22, gives B."
+    },
+    {
+      "number": 12,
+      "groupId": null,
+      "stem": "Jonny was forced at gunpoint to commit a crime.\n\nWhich complete defence could Jonny use to justify his actions?",
+      "images": [],
+      "options": {
+        "A": "Mental illness",
+        "B": "Automatism",
+        "C": "Provocation",
+        "D": "Duress"
+      },
+      "answer": "D",
+      "answerSource": "paper",
+      "answerNote": "The paper’s Section I answer key, PDF p. 22, gives D."
+    },
+    {
+      "number": 13,
+      "groupId": null,
+      "stem": "What is the maximum criminal penalty that can be imposed in New South Wales as of 2025?",
+      "images": [],
+      "options": {
+        "A": "Suspended sentence",
+        "B": "Capital punishment",
+        "C": "Life without parole",
+        "D": "25 years"
+      },
+      "answer": "C",
+      "answerSource": "paper",
+      "answerNote": "The paper’s Section I answer key, PDF p. 22, gives C."
+    },
+    {
+      "number": 14,
+      "groupId": null,
+      "stem": "Estelle, an 18-year-old resident of New South Wales, is present with her lawyer while police are questioning her regarding an aggravated assault. She decides to exercise her right to silence during the interrogation.\n\nWhich of the following is true in relation to Estelle’s right to silence?",
+      "images": [],
+      "options": {
+        "A": "The right to silence only applies during police questioning and not during court proceedings",
+        "B": "If Estelle chooses to remain silent, the court may later draw an unfavourable inference",
+        "C": "Estelle can remain silent, but the prosecution cannot use her silence against her in court",
+        "D": "The right to silence is absolute, and there are no consequences for remaining silent"
+      },
+      "answer": "B",
+      "answerSource": "paper",
+      "answerNote": "The paper’s Section I answer key, PDF p. 22, gives B."
+    },
+    {
+      "number": 15,
+      "groupId": null,
+      "stem": "The Human Rights Committee monitors the compliance of countries that have ratified which of the following?",
+      "images": [],
+      "options": {
+        "A": "Universal Declaration of Human Rights (UDHR)",
+        "B": "International Covenant on Civil and Political Rights (ICCPR)",
+        "C": "United Nations Convention on the Rights of the Child (UNCRC)",
+        "D": "International Covenant on Economic, Social, and Cultural Rights (ICESCR)"
+      },
+      "answer": "B",
+      "answerSource": "paper",
+      "answerNote": "The paper’s Section I answer key, PDF p. 22, gives B."
+    },
+    {
+      "number": 16,
+      "groupId": null,
+      "stem": "Under what conditions is a police search of a motor vehicle considered lawful?",
+      "images": [],
+      "options": {
+        "A": "When there are reasonable grounds for suspicion",
+        "B": "When the police administer a random breath test",
+        "C": "When the owner has a prior criminal record",
+        "D": "When the occupant is known to the police"
+      },
+      "answer": "A",
+      "answerSource": "paper",
+      "answerNote": "The paper’s Section I answer key, PDF p. 22, gives A."
+    },
+    {
+      "number": 17,
+      "groupId": null,
+      "stem": "George, who is 43 years old, is about to be sentenced for drink driving. How would his extensive history of similar offences be viewed during sentencing?",
+      "images": [],
+      "options": {
+        "A": "An aggravating factor",
+        "B": "A mitigation factor",
+        "C": "A leniency plea",
+        "D": "A defence"
+      },
+      "answer": "A",
+      "answerSource": "paper",
+      "answerNote": "The paper’s Section I answer key, PDF p. 22, gives A."
+    },
+    {
+      "number": 18,
+      "groupId": null,
+      "stem": "Which international institution is responsible for prosecuting individuals charged with human rights violations?",
+      "images": [],
+      "options": {
+        "A": "The International Human Rights Council",
+        "B": "The United Nations Security Council",
+        "C": "The International Criminal Court",
+        "D": "International Court of Justice"
+      },
+      "answer": "C",
+      "answerSource": "paper",
+      "answerNote": "The paper’s Section I answer key, PDF p. 22, gives C."
+    },
+    {
+      "number": 19,
+      "groupId": null,
+      "stem": "After serving two years of a custodial sentence, Chanel is moved to a different prison with fewer restrictions.\n\nWhich of the following describes this situation?",
+      "images": [],
+      "options": {
+        "A": "Parole",
+        "B": "Continued detention",
+        "C": "Preventative detention",
+        "D": "Security reclassification"
+      },
+      "answer": "D",
+      "answerSource": "paper",
+      "answerNote": "The paper’s Section I answer key, PDF p. 22, gives D."
+    },
+    {
+      "number": 20,
+      "groupId": null,
+      "stem": "Wakanda, a newly recognised nation, has been urged by a resolution of the United Nations General Assembly to uphold human rights and allow civil society to operate freely. However, Wakanda refuses to comply with this resolution.\n\nWhat does this situation best illustrate?",
+      "images": [],
+      "options": {
+        "A": "The principle of state sovereignty",
+        "B": "The binding authority of the United Nations member state",
+        "C": "The United Nations General Assembly’s power to enforce compliance",
+        "D": "The role of non-government organisations in promoting international law"
+      },
+      "answer": "A",
+      "answerSource": "paper",
+      "answerNote": "The paper’s Section I answer key, PDF p. 22, gives A."
+    }
+  ]
+}

@@ -1,0 +1,313 @@
+{
+  "id": "2023-baulkham-hills-trial",
+  "year": 2023,
+  "school": "Baulkham Hills",
+  "kind": "trial",
+  "title": "2023 Baulkham Hills Legal Studies Trial",
+  "sourceFile": "2023 Baulkham Hills Legal Studies Trial.pdf",
+  "answerStatus": "all-verified",
+  "notes": "All 20 Section I answers are listed in the paper’s marking guidelines.",
+  "groups": [],
+  "questions": [
+    {
+      "number": 1,
+      "groupId": null,
+      "stem": "Which of the following offences does not require the prosecution to prove mens rea?",
+      "images": [],
+      "options": {
+        "A": "Manslaughter",
+        "B": "Embezzlement",
+        "C": "Aggravated sexual assault in company",
+        "D": "Selling alcohol to a person under the age of 18 years old"
+      },
+      "answer": "D",
+      "answerSource": "paper",
+      "answerNote": "The paper’s Section I answer key lists D."
+    },
+    {
+      "number": 2,
+      "groupId": null,
+      "stem": "Between what ages for children can doli incapax be rebutted by the prosecution?",
+      "images": [],
+      "options": {
+        "A": "10-12",
+        "B": "10-14",
+        "C": "10-16",
+        "D": "10-18"
+      },
+      "answer": "B",
+      "answerSource": "paper",
+      "answerNote": "The paper’s Section I answer key lists B."
+    },
+    {
+      "number": 3,
+      "groupId": null,
+      "stem": "Luna has been charged with being intoxicated in a public place.\n\nWhat category of crime has Luna been charged with?",
+      "images": [],
+      "options": {
+        "A": "Preliminary crime",
+        "B": "Economic offence",
+        "C": "Public order offence",
+        "D": "Offence against the sovereign"
+      },
+      "answer": "C",
+      "answerSource": "paper",
+      "answerNote": "The paper’s Section I answer key lists C."
+    },
+    {
+      "number": 4,
+      "groupId": null,
+      "stem": "Jamie is a suspect in a break-and-enter.\n\nWhat are Jamie’s legal rights during detention and questioning?",
+      "images": [],
+      "options": {
+        "A": "Jamie’s right to bail and his right to cross-examination",
+        "B": "Jamie’s right to a speedy trial and a right to a jury trial",
+        "C": "Jamie’s right to a fair trial and right to cross-examination",
+        "D": "Jamie’s right to remain silent and his right to legal representation"
+      },
+      "answer": "A",
+      "answerSource": "paper",
+      "answerNote": "The paper’s Section I answer key lists A."
+    },
+    {
+      "number": 5,
+      "groupId": null,
+      "stem": "The new nation-state of Westphalia decides not to sign The Covenant Against Torture and Other Cruel, Inhumane or Degrading Treatment of Punishment.\n\nWhat is this an example of?",
+      "images": [],
+      "options": {
+        "A": "Complying with its international human rights obligations",
+        "B": "Breaching, international human rights treaties",
+        "C": "Relying on the ICC to protect human rights",
+        "D": "Exercising state sovereignty"
+      },
+      "answer": "D",
+      "answerSource": "paper",
+      "answerNote": "The paper’s Section I answer key lists D."
+    },
+    {
+      "number": 6,
+      "groupId": null,
+      "stem": "After being abused for many years, Devona kills her partner while he is sleeping. Justice Lee directs a jury to find the defendant not guilty.\n\nWhat can the jury do?",
+      "images": [],
+      "options": {
+        "A": "They must find the defendant guilty",
+        "B": "They must acquit the defendant",
+        "C": "They can acquit the defendant",
+        "D": "They can demand a retrial"
+      },
+      "answer": "C",
+      "answerSource": "paper",
+      "answerNote": "The paper’s Section I answer key lists C."
+    },
+    {
+      "number": 7,
+      "groupId": null,
+      "stem": "Penny pleads guilty and shows remorse for the charge of dangerous driving.\n\nWhich of the following best describes the key factor the magistrate will consider in sentencing her?",
+      "images": [],
+      "options": {
+        "A": "She lacked capacity, which is a mitigating factor",
+        "B": "She was provoked, which is an aggravating factor",
+        "C": "She had mens rea, which is an aggravating factor",
+        "D": "She has saved the court’s time, which is a mitigating factor"
+      },
+      "answer": "D",
+      "answerSource": "paper",
+      "answerNote": "The paper’s Section I answer key lists D."
+    },
+    {
+      "number": 8,
+      "groupId": null,
+      "stem": "Which of the following is the judicial arm of the United Nations?",
+      "images": [],
+      "options": {
+        "A": "Security Council",
+        "B": "Human Rights Council",
+        "C": "International Criminal Court",
+        "D": "International Court of Justice"
+      },
+      "answer": "D",
+      "answerSource": "paper",
+      "answerNote": "The paper’s Section I answer key lists D."
+    },
+    {
+      "number": 9,
+      "groupId": null,
+      "stem": "Which of the following is true after a prisoner has served their minimum sentence?",
+      "images": [],
+      "options": {
+        "A": "He will be reclassified as a minimum-security prisoner",
+        "B": "He can request another sentencing hearing",
+        "C": "He can apply for parole",
+        "D": "He will be released"
+      },
+      "answer": "C",
+      "answerSource": "paper",
+      "answerNote": "The paper’s Section I answer key lists C."
+    },
+    {
+      "number": 10,
+      "groupId": null,
+      "stem": "What are the legal requirements for issuing a search warrant?",
+      "images": [],
+      "options": {
+        "A": "Probable cause and reasonable suspicion",
+        "B": "Have a majority of evidence",
+        "C": "Beyond reasonable doubt",
+        "D": "Hearsay evidence"
+      },
+      "answer": "A",
+      "answerSource": "paper",
+      "answerNote": "The paper’s Section I answer key lists A."
+    },
+    {
+      "number": 11,
+      "groupId": null,
+      "stem": "Supra has just moved into her new home. She is a little scared at night time, so she has placed a sticker on her front gate, “Beware of the dog”, even though she does not own a dog.\n\nWhich of the following is this an example of?",
+      "images": [],
+      "options": {
+        "A": "Social crime prevention",
+        "B": "Crimes against property",
+        "C": "Situational crime prevention",
+        "D": "Social and economic disadvantage"
+      },
+      "answer": "C",
+      "answerSource": "paper",
+      "answerNote": "The paper’s Section I answer key lists C."
+    },
+    {
+      "number": 12,
+      "groupId": null,
+      "stem": "Franco, a citizen of Sweden, commits a serious indictable offence while on holiday in NSW. He is sentenced to 5 years in prison.\n\nWhat can the Australian government do once he completes his sentence?",
+      "images": [],
+      "options": {
+        "A": "Detain Franco indefinitely without a court order",
+        "B": "Allow Franco to continue his holiday",
+        "C": "Extradite Franco to Sweden",
+        "D": "Deport Franco to Sweden"
+      },
+      "answer": "D",
+      "answerSource": "paper",
+      "answerNote": "The paper’s Section I answer key lists D."
+    },
+    {
+      "number": 13,
+      "groupId": null,
+      "stem": "What is the primary purpose of the United Nations Human Rights Council?",
+      "images": [],
+      "options": {
+        "A": "Responsible for international peace and security",
+        "B": "Responsible for resolving disputes by member states",
+        "C": "Responsible for the promotion and protection of human rights",
+        "D": "Responsible for representing member states at global forum discussions"
+      },
+      "answer": "C",
+      "answerSource": "paper",
+      "answerNote": "The paper’s Section I answer key lists C."
+    },
+    {
+      "number": 14,
+      "groupId": null,
+      "stem": "The Bail Amendment Act 2014 (NSW) introduced the ‘Show Cause Test’, which required an accused person to explain why they should not be held on remand.\n\nWhich principle of the rule of law did this bring into question?",
+      "images": [],
+      "options": {
+        "A": "The separation of powers",
+        "B": "The impartiality of the courts",
+        "C": "The presumption of innocence",
+        "D": "The concept that no one is above the law"
+      },
+      "answer": "A",
+      "answerSource": "paper",
+      "answerNote": "The paper’s Section I answer key lists A."
+    },
+    {
+      "number": 15,
+      "groupId": null,
+      "stem": "Marleta is charged with murder. Her lawyer and the senior prosecutor discuss the facts of the case and the evidence.\n\nThis process is known as what?",
+      "images": [],
+      "options": {
+        "A": "Committal hearing",
+        "B": "Case conferencing",
+        "C": "Specific deterrence",
+        "D": "Mandatory sentencing"
+      },
+      "answer": "B",
+      "answerSource": "paper",
+      "answerNote": "The paper’s Section I answer key lists B."
+    },
+    {
+      "number": 16,
+      "groupId": null,
+      "stem": "The island of Utopia has been given the power to govern themselves.\n\nWhat is this concept known as?",
+      "images": [],
+      "options": {
+        "A": "Implied conditions",
+        "B": "Universal suffrage",
+        "C": "Self-determination",
+        "D": "Separation of powers"
+      },
+      "answer": "C",
+      "answerSource": "paper",
+      "answerNote": "The paper’s Section I answer key lists C."
+    },
+    {
+      "number": 17,
+      "groupId": null,
+      "stem": "What is the purpose of assigning a security classification to an offender when they are first placed in corrective services custody?",
+      "images": [],
+      "options": {
+        "A": "To classify the type of offence committed",
+        "B": "To determine the offenders’ eligibility for parole",
+        "C": "To determine the amount of time an offender will serve in custody",
+        "D": "To determine the level of security needed for an offender placement in custody"
+      },
+      "answer": "D",
+      "answerSource": "paper",
+      "answerNote": "The paper’s Section I answer key lists D."
+    },
+    {
+      "number": 18,
+      "groupId": null,
+      "stem": "Which of the following issues will breach the International Covenant on Economic, Social and Cultural Rights?",
+      "images": [],
+      "options": {
+        "A": "Denying adult suffrage",
+        "B": "Allowing human trafficking",
+        "C": "The destruction of indigenous artefacts",
+        "D": "Banning media articles which criticise the government"
+      },
+      "answer": "C",
+      "answerSource": "paper",
+      "answerNote": "The paper’s Section I answer key lists C."
+    },
+    {
+      "number": 19,
+      "groupId": null,
+      "stem": "Which TWO of the following are partial defences to murder?",
+      "images": [],
+      "options": {
+        "A": "Provocation and diminished responsibility",
+        "B": "Diminished responsibility and mistake",
+        "C": "Duress and extreme self-defence",
+        "D": "Provocation and mistake"
+      },
+      "answer": "A",
+      "answerSource": "paper",
+      "answerNote": "The paper’s Section I answer key lists A."
+    },
+    {
+      "number": 20,
+      "groupId": null,
+      "stem": "Mikaela works at a hotel. On Melbourne Cup Day, the hotel is expected to have many sales, with many customers paying with cash. Mikaela helps her brother plan a robbery at the hotel later that night. Mikaela is not with her brother when he commits the robbery.\n\nWhat might Mikaela be charged with?",
+      "images": [],
+      "options": {
+        "A": "An accessory before the fact",
+        "B": "An accessory after the fact",
+        "C": "Principle in the first degree",
+        "D": "Principle in the third degree"
+      },
+      "answer": "A",
+      "answerSource": "paper",
+      "answerNote": "The paper’s Section I answer key lists A."
+    }
+  ]
+}

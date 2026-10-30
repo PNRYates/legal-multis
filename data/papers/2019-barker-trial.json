@@ -1,0 +1,313 @@
+{
+  "id": "2019-barker-trial",
+  "year": 2019,
+  "school": "Barker",
+  "kind": "trial",
+  "title": "2019 Barker Legal Studies Trial",
+  "sourceFile": "2019 Barker Legal Studies Trial.pdf",
+  "answerStatus": "none-found",
+  "notes": "The PDF’s multiple-choice answer sheet is blank. A web search surfaced references to an online answer sheet, but its key could not be inspected; all answers are reasoned guesses. The questions are text-only with no shared stimulus groups or figures.",
+  "groups": [],
+  "questions": [
+    {
+      "number": 1,
+      "groupId": null,
+      "stem": "The media promotes human rights by",
+      "images": [],
+      "options": {
+        "A": "informing the police of breaches.",
+        "B": "lobbying for changes to human rights laws.",
+        "C": "raising awareness of human rights abuses.",
+        "D": "passing laws which make human rights enforceable."
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "Raising public awareness of abuses is a direct way media promotes human rights."
+    },
+    {
+      "number": 2,
+      "groupId": null,
+      "stem": "Kate decides not to report a theft because the item stolen was only worth $15. This is an example of",
+      "images": [],
+      "options": {
+        "A": "discretion.",
+        "B": "strict liability.",
+        "C": "a white collar crime.",
+        "D": "the adversary system."
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Choosing whether to report a minor theft is an exercise of discretion."
+    },
+    {
+      "number": 3,
+      "groupId": null,
+      "stem": "What is the role of the Universal Declaration of Human Rights?",
+      "images": [],
+      "options": {
+        "A": "It is the constitution of the United Nations.",
+        "B": "It forms the basis of international human rights laws.",
+        "C": "It sets an international standard which all countries must adhere to.",
+        "D": "It allows the UN Security Council to intervene when human rights are being breached."
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "The UDHR is a declaration rather than a binding constitution; It has informed the development of international human rights law."
+    },
+    {
+      "number": 4,
+      "groupId": null,
+      "stem": "How do international values and ethical standards come to be reflected in human rights law?",
+      "images": [],
+      "options": {
+        "A": "The Charter of Rights is amended.",
+        "B": "The media lobbies for laws to change.",
+        "C": "The doctrine of state sovereignty is invoked.",
+        "D": "Members of the United Nations create new laws as values change."
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "International standards are developed through United Nations member states creating and adopting instruments as values evolve."
+    },
+    {
+      "number": 5,
+      "groupId": null,
+      "stem": "What is the role of the victim in the sentencing process?",
+      "images": [],
+      "options": {
+        "A": "To determine a sentence",
+        "B": "To give a victim impact statement",
+        "C": "To participate in justice conferencing",
+        "D": "To provide arguments to mitigate the sentence"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "Victims may present a victim impact statement; They do not determine the sentence."
+    },
+    {
+      "number": 6,
+      "groupId": null,
+      "stem": "What is the role of the United Nations Security Council in international crime?",
+      "images": [],
+      "options": {
+        "A": "To try suspects",
+        "B": "To enforce the laws of individual countries",
+        "C": "To authorise the International Criminal Court to act",
+        "D": "To ensure that international standards are incorporated into domestic laws"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "The Security Council can refer a situation to the ICC, enabling it to investigate or prosecute within its jurisdiction."
+    },
+    {
+      "number": 7,
+      "groupId": null,
+      "stem": "The division of powers allows human rights to be promoted in Australia because",
+      "images": [],
+      "options": {
+        "A": "both federal and state governments can pass legislation.",
+        "B": "it allows the High Court to enforce human rights standards.",
+        "C": "it ensures that members of parliament are not also enforcing laws.",
+        "D": "it outlines the powers that police have in the criminal investigation process."
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Both Commonwealth and state parliaments can legislate on matters affecting human rights."
+    },
+    {
+      "number": 8,
+      "groupId": null,
+      "stem": "Who is most likely to be held on remand?",
+      "images": [],
+      "options": {
+        "A": "A 15 year old with a stable home",
+        "B": "A homeless 15 year old with prior convictions",
+        "C": "A 25 year old with no prior convictions who has pled guilty",
+        "D": "A 25 year old with prior convictions charged with a minor offence"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "A homeless young person with prior convictions presents greater bail and reoffending concerns, making remand most likely."
+    },
+    {
+      "number": 9,
+      "groupId": null,
+      "stem": "Which of the following is true about the criminal justice system?",
+      "images": [],
+      "options": {
+        "A": "The Defence must prove strict liability.",
+        "B": "The Prosecution must prove mental illness.",
+        "C": "The Defence must prove actus reus and mens rea.",
+        "D": "The Prosecution must prove actus reus and causation."
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "The prosecution must prove the elements of the offence, including the accused’s conduct and causation where relevant."
+    },
+    {
+      "number": 10,
+      "groupId": null,
+      "stem": "Andrew is 12 years old when he is arrested for burglary. The Director of Public Prosecutions decides not to prosecute.\n\nWhat principle could be behind this decision?",
+      "images": [],
+      "options": {
+        "A": "Doli incapax",
+        "B": "Police powers",
+        "C": "Restorative justice",
+        "D": "The age of criminal responsibility"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Doli incapax is the rebuttable presumption that a child aged 10 to 14 lacks criminal capacity unless they knew the conduct was seriously wrong."
+    },
+    {
+      "number": 11,
+      "groupId": null,
+      "stem": "The police seize documents while searching a property.\n\nWhich of the following statements is true?",
+      "images": [],
+      "options": {
+        "A": "The evidence is admissible if the police had a warrant.",
+        "B": "Police do not have the power to seize evidence from properties.",
+        "C": "The evidence is admissible if it is in the public interest to seize it.",
+        "D": "The evidence is only admissible if the suspect is present during the search."
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "A warrant authorises the search and seizure; The other options state no general condition for admissibility. Public-interest admissibility (C) is a weaker second option under Evidence Act s138."
+    },
+    {
+      "number": 12,
+      "groupId": null,
+      "stem": "When can offenders be deported?",
+      "images": [],
+      "options": {
+        "A": "If a judge sentences them to deportation",
+        "B": "When they have completed their sentence",
+        "C": "If they are convicted of a crime and are not Australian citizens",
+        "D": "When they have completed their sentence and are not Australian citizens"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "A non-citizen may be deported after completing the sentence imposed for a qualifying criminal conviction."
+    },
+    {
+      "number": 13,
+      "groupId": null,
+      "stem": "Which of the following statements is true about a jury’s verdict?",
+      "images": [],
+      "options": {
+        "A": "A jury must return a unanimous verdict.",
+        "B": "Only ten of the twelve jurors have to agree with the verdict.",
+        "C": "A jury can return a majority verdict after eight hours of deliberation.",
+        "D": "A judge must direct that a majority verdict is possible before the jury retires."
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "In NSW a majority verdict may be returned after the required deliberation period, generally eight hours."
+    },
+    {
+      "number": 14,
+      "groupId": null,
+      "stem": "Why does the NSW parliament amend criminal laws?",
+      "images": [],
+      "options": {
+        "A": "To increase recidivism",
+        "B": "To evaluate the effectiveness of the law",
+        "C": "To limit the effectiveness of the criminal justice system",
+        "D": "To balance community interests with individual rights and freedoms"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Criminal law reform can respond to changed community expectations and balance community interests with individual rights."
+    },
+    {
+      "number": 15,
+      "groupId": null,
+      "stem": "Sophie is sentenced to 18 years in prison for murder. In her judgment, the sentencing judge says ‘while she has no prior record, the premeditation and savagery lead me to conclude that this is the appropriate punishment.’\n\nThe factors the judge has considered in making this decision are",
+      "images": [],
+      "options": {
+        "A": "objective, mitigating factors.",
+        "B": "subjective mitigating factors.",
+        "C": "objective, aggravating factors.",
+        "D": "subjective, aggravating factors."
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "Premeditation and savagery are objective aggravating factors; C is the best fit. The 'no prior record' point is a subjective mitigating factor, so B is a weaker second option."
+    },
+    {
+      "number": 16,
+      "groupId": null,
+      "stem": "What is the purpose of the adversary system of trial?",
+      "images": [],
+      "options": {
+        "A": "To ensure that criminals are convicted",
+        "B": "To ensure that natural justice is achieved",
+        "C": "To provide equality and access for victims",
+        "D": "To provide resource efficiency for the community"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "The adversary system is intended to provide a fair hearing through natural justice and procedural safeguards."
+    },
+    {
+      "number": 17,
+      "groupId": null,
+      "stem": "Who of the following is most likely to receive legal aid?",
+      "images": [],
+      "options": {
+        "A": "A 15 year old who wants to plead not guilty",
+        "B": "A woman who is a victim of domestic violence",
+        "C": "A 19 year old with prior convictions who wants to plead not guilty",
+        "D": "A 25 year old with no prior convictions charged with a minor assault"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Children charged with criminal offences are a priority group for legal aid, particularly when seeking to defend a charge."
+    },
+    {
+      "number": 18,
+      "groupId": null,
+      "stem": "What are the concerns that some victims have with charge negotiation?",
+      "images": [],
+      "options": {
+        "A": "It limits the rights of offenders.",
+        "B": "It limits the discretion of the jury.",
+        "C": "It limits the sentences available to the judge.",
+        "D": "It limits the discretion of the Director of Public Prosecutions."
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "Victims may object that charge negotiation can reduce the charges and thereby limit the sentencing options available to the judge."
+    },
+    {
+      "number": 19,
+      "groupId": null,
+      "stem": "Amanda is arrested at Sydney airport coming off a flight from Peru with 6kgs of heroin. She is charged with drug trafficking.\n\nWhich of the following statements is true?",
+      "images": [],
+      "options": {
+        "A": "She must be extradited to Peru.",
+        "B": "Her case will be tried in the Federal Court.",
+        "C": "Her case will be tried in the NSW Supreme Court.",
+        "D": "Her case will be tried in the International Criminal Court."
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "Importing heroin is a Commonwealth offence, and state courts can exercise federal jurisdiction; Of the listed courts, the NSW Supreme Court is the plausible trial venue."
+    },
+    {
+      "number": 20,
+      "groupId": null,
+      "stem": "Which of the following is an example of self-determination?",
+      "images": [],
+      "options": {
+        "A": "Sudan cannot interfere in the elections in South Sudan.",
+        "B": "A school teaches Indigenous students in their language.",
+        "C": "A young person decides which university they will attend.",
+        "D": "The citizens of Nova Tocqueville vote for a universal living wage."
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Self-determination concerns a people freely determining its political status; South Sudan’s independence and elections illustrate this principle."
+    }
+  ]
+}

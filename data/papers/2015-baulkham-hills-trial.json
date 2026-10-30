@@ -1,0 +1,313 @@
+{
+  "id": "2015-baulkham-hills-trial",
+  "year": 2015,
+  "school": "Baulkham Hills",
+  "kind": "trial",
+  "title": "2015 Baulkham Hills Legal Studies Trial",
+  "sourceFile": "2015 Baulkham Hills Legal Studies Trial.pdf",
+  "answerStatus": "all-verified",
+  "notes": "Question 20 appears defective: freedom of religion is protected by ICCPR Article 18, which is not among the options.",
+  "groups": [],
+  "questions": [
+    {
+      "number": 1,
+      "groupId": null,
+      "stem": "Jesse, an Australian citizen, is suspected of committing a major art fraud in NSW. He is arrested three years later in France. What is the term given to the process by which he can be forced into returning to Australia?",
+      "images": [],
+      "options": {
+        "A": "International Criminal Court indictment",
+        "B": "Deportation",
+        "C": "Extradition",
+        "D": "International Court of Justice indictment"
+      },
+      "answer": "C",
+      "answerSource": "thsc",
+      "answerNote": "Baulkham Hills 2015 Legal Studies Trials & Solutions (answers sheet on p14), via THSC mirror: https://thsc.zaxu.xyz/Year%2012/Trial/HSIE/Legal%20Studies/Baulkham%20Hills/Baulkham%20Hills%202015%20Legal%20Studies%20Trials%20%26%20Solutions.pdf"
+    },
+    {
+      "number": 2,
+      "groupId": null,
+      "stem": "NSW law allows a person to be tried twice for the same offence if there is compelling evidence to retry the alleged offender. This changes the legal rule of?",
+      "images": [],
+      "options": {
+        "A": "Preventative detention",
+        "B": "Double jeopardy",
+        "C": "Precautionary principle",
+        "D": "Obiter dictum"
+      },
+      "answer": "B",
+      "answerSource": "thsc",
+      "answerNote": "Baulkham Hills 2015 Legal Studies Trials & Solutions (answers sheet on p14), via THSC mirror: https://thsc.zaxu.xyz/Year%2012/Trial/HSIE/Legal%20Studies/Baulkham%20Hills/Baulkham%20Hills%202015%20Legal%20Studies%20Trials%20%26%20Solutions.pdf"
+    },
+    {
+      "number": 3,
+      "groupId": null,
+      "stem": "In a NSW criminal trial which defence will lead to an acquittal?",
+      "images": [],
+      "options": {
+        "A": "Provocation",
+        "B": "Substantial impairment of mind",
+        "C": "Panic",
+        "D": "Self defence"
+      },
+      "answer": "D",
+      "answerSource": "thsc",
+      "answerNote": "Baulkham Hills 2015 Legal Studies Trials & Solutions (answers sheet on p14), via THSC mirror: https://thsc.zaxu.xyz/Year%2012/Trial/HSIE/Legal%20Studies/Baulkham%20Hills/Baulkham%20Hills%202015%20Legal%20Studies%20Trials%20%26%20Solutions.pdf"
+    },
+    {
+      "number": 4,
+      "groupId": null,
+      "stem": "Who represents the Crown at an indictable trial?",
+      "images": [],
+      "options": {
+        "A": "The police prosecutor",
+        "B": "The Director of Public Prosecutions",
+        "C": "Legal Aid",
+        "D": "The defendant"
+      },
+      "answer": "B",
+      "answerSource": "thsc",
+      "answerNote": "Baulkham Hills 2015 Legal Studies Trials & Solutions (answers sheet on p14), via THSC mirror: https://thsc.zaxu.xyz/Year%2012/Trial/HSIE/Legal%20Studies/Baulkham%20Hills/Baulkham%20Hills%202015%20Legal%20Studies%20Trials%20%26%20Solutions.pdf"
+    },
+    {
+      "number": 5,
+      "groupId": null,
+      "stem": "A trial in the District Court will be presided over by a:",
+      "images": [],
+      "options": {
+        "A": "Justice of the Peace",
+        "B": "Justice",
+        "C": "Magistrate",
+        "D": "Judge"
+      },
+      "answer": "D",
+      "answerSource": "thsc",
+      "answerNote": "Baulkham Hills 2015 Legal Studies Trials & Solutions (answers sheet on p14), via THSC mirror: https://thsc.zaxu.xyz/Year%2012/Trial/HSIE/Legal%20Studies/Baulkham%20Hills/Baulkham%20Hills%202015%20Legal%20Studies%20Trials%20%26%20Solutions.pdf"
+    },
+    {
+      "number": 6,
+      "groupId": null,
+      "stem": "The UN Declaration Of Human Rights is:",
+      "images": [],
+      "options": {
+        "A": "Enforced globally by all nation states",
+        "B": "Ratified by all nation states",
+        "C": "Applicable to all nation states",
+        "D": "Ignored by all nation states"
+      },
+      "answer": "C",
+      "answerSource": "thsc",
+      "answerNote": "Baulkham Hills 2015 Legal Studies Trials & Solutions (answers sheet on p14), via THSC mirror: https://thsc.zaxu.xyz/Year%2012/Trial/HSIE/Legal%20Studies/Baulkham%20Hills/Baulkham%20Hills%202015%20Legal%20Studies%20Trials%20%26%20Solutions.pdf"
+    },
+    {
+      "number": 7,
+      "groupId": null,
+      "stem": "Youth and an early guilty plea are examples of ?",
+      "images": [],
+      "options": {
+        "A": "Aggravating Factors",
+        "B": "Mitigating Factors",
+        "C": "Evidence of justice",
+        "D": "The softness of the legal system"
+      },
+      "answer": "B",
+      "answerSource": "thsc",
+      "answerNote": "Baulkham Hills 2015 Legal Studies Trials & Solutions (answers sheet on p14), via THSC mirror: https://thsc.zaxu.xyz/Year%2012/Trial/HSIE/Legal%20Studies/Baulkham%20Hills/Baulkham%20Hills%202015%20Legal%20Studies%20Trials%20%26%20Solutions.pdf"
+    },
+    {
+      "number": 8,
+      "groupId": null,
+      "stem": "A victim’s impact statement plays a part in:",
+      "images": [],
+      "options": {
+        "A": "Deciding the verdict",
+        "B": "Deciding the sentence",
+        "C": "Deciding the admissibility of evidence",
+        "D": "Deciding the make-up of the jury members"
+      },
+      "answer": "B",
+      "answerSource": "thsc",
+      "answerNote": "Baulkham Hills 2015 Legal Studies Trials & Solutions (answers sheet on p14), via THSC mirror: https://thsc.zaxu.xyz/Year%2012/Trial/HSIE/Legal%20Studies/Baulkham%20Hills/Baulkham%20Hills%202015%20Legal%20Studies%20Trials%20%26%20Solutions.pdf"
+    },
+    {
+      "number": 9,
+      "groupId": null,
+      "stem": "The main goal of the juvenile justice system is to?",
+      "images": [],
+      "options": {
+        "A": "ensure that the offender is punished heavily",
+        "B": "enable the offender to commit more offences",
+        "C": "ensure that the offender is guilty",
+        "D": "enable the offender to be rehabilitated"
+      },
+      "answer": "D",
+      "answerSource": "thsc",
+      "answerNote": "Baulkham Hills 2015 Legal Studies Trials & Solutions (answers sheet on p14), via THSC mirror: https://thsc.zaxu.xyz/Year%2012/Trial/HSIE/Legal%20Studies/Baulkham%20Hills/Baulkham%20Hills%202015%20Legal%20Studies%20Trials%20%26%20Solutions.pdf"
+    },
+    {
+      "number": 10,
+      "groupId": null,
+      "stem": "The right to vote is considered to be?",
+      "images": [],
+      "options": {
+        "A": "A collective right",
+        "B": "A human right",
+        "C": "An environmental right",
+        "D": "An extinguishable right"
+      },
+      "answer": "B",
+      "answerSource": "thsc",
+      "answerNote": "Baulkham Hills 2015 Legal Studies Trials & Solutions (answers sheet on p14), via THSC mirror: https://thsc.zaxu.xyz/Year%2012/Trial/HSIE/Legal%20Studies/Baulkham%20Hills/Baulkham%20Hills%202015%20Legal%20Studies%20Trials%20%26%20Solutions.pdf"
+    },
+    {
+      "number": 11,
+      "groupId": null,
+      "stem": "Kevin an alleged armed robber, is apprehended by the police. His committal hearing would be in the:",
+      "images": [],
+      "options": {
+        "A": "District Court",
+        "B": "Supreme Court",
+        "C": "Local Court",
+        "D": "High Court"
+      },
+      "answer": "C",
+      "answerSource": "thsc",
+      "answerNote": "Baulkham Hills 2015 Legal Studies Trials & Solutions (answers sheet on p14), via THSC mirror: https://thsc.zaxu.xyz/Year%2012/Trial/HSIE/Legal%20Studies/Baulkham%20Hills/Baulkham%20Hills%202015%20Legal%20Studies%20Trials%20%26%20Solutions.pdf"
+    },
+    {
+      "number": 12,
+      "groupId": null,
+      "stem": "The High Court of Australia has jurisdictional powers to make original decisions in the area of ?",
+      "images": [],
+      "options": {
+        "A": "Criminal Law",
+        "B": "Family Law",
+        "C": "Commercial law",
+        "D": "Constitutional law"
+      },
+      "answer": "D",
+      "answerSource": "thsc",
+      "answerNote": "Baulkham Hills 2015 Legal Studies Trials & Solutions (answers sheet on p14), via THSC mirror: https://thsc.zaxu.xyz/Year%2012/Trial/HSIE/Legal%20Studies/Baulkham%20Hills/Baulkham%20Hills%202015%20Legal%20Studies%20Trials%20%26%20Solutions.pdf"
+    },
+    {
+      "number": 13,
+      "groupId": null,
+      "stem": "One human right that is protected by the Constitution is:",
+      "images": [],
+      "options": {
+        "A": "the right to bear arms",
+        "B": "the right to trial by jury",
+        "C": "the right to drive",
+        "D": "the right to work"
+      },
+      "answer": "B",
+      "answerSource": "thsc",
+      "answerNote": "Baulkham Hills 2015 Legal Studies Trials & Solutions (answers sheet on p14), via THSC mirror: https://thsc.zaxu.xyz/Year%2012/Trial/HSIE/Legal%20Studies/Baulkham%20Hills/Baulkham%20Hills%202015%20Legal%20Studies%20Trials%20%26%20Solutions.pdf"
+    },
+    {
+      "number": 14,
+      "groupId": null,
+      "stem": "If a person is charged with an indictable offence and not granted bail they will be:",
+      "images": [],
+      "options": {
+        "A": "Held on remand",
+        "B": "Released without charge",
+        "C": "Sentenced to gaol",
+        "D": "Bailed at the earliest opportunity"
+      },
+      "answer": "A",
+      "answerSource": "thsc",
+      "answerNote": "Baulkham Hills 2015 Legal Studies Trials & Solutions (answers sheet on p14), via THSC mirror: https://thsc.zaxu.xyz/Year%2012/Trial/HSIE/Legal%20Studies/Baulkham%20Hills/Baulkham%20Hills%202015%20Legal%20Studies%20Trials%20%26%20Solutions.pdf"
+    },
+    {
+      "number": 15,
+      "groupId": null,
+      "stem": "A major limitation of the effectiveness of the International Criminal Court to prosecute offenders is:",
+      "images": [],
+      "options": {
+        "A": "The United Nations",
+        "B": "State sovereignty",
+        "C": "The Red Cross",
+        "D": "Domestic public pressure"
+      },
+      "answer": "B",
+      "answerSource": "thsc",
+      "answerNote": "Baulkham Hills 2015 Legal Studies Trials & Solutions (answers sheet on p14), via THSC mirror: https://thsc.zaxu.xyz/Year%2012/Trial/HSIE/Legal%20Studies/Baulkham%20Hills/Baulkham%20Hills%202015%20Legal%20Studies%20Trials%20%26%20Solutions.pdf"
+    },
+    {
+      "number": 16,
+      "groupId": null,
+      "stem": "A non-legal method of promoting and enforcing human rights would be:",
+      "images": [],
+      "options": {
+        "A": "Court action",
+        "B": "A Human Rights Commission ruling",
+        "C": "Media reports",
+        "D": "An International Criminal Court indictment"
+      },
+      "answer": "C",
+      "answerSource": "thsc",
+      "answerNote": "Baulkham Hills 2015 Legal Studies Trials & Solutions (answers sheet on p14), via THSC mirror: https://thsc.zaxu.xyz/Year%2012/Trial/HSIE/Legal%20Studies/Baulkham%20Hills/Baulkham%20Hills%202015%20Legal%20Studies%20Trials%20%26%20Solutions.pdf"
+    },
+    {
+      "number": 17,
+      "groupId": null,
+      "stem": "The prosecution does NOT need to prove mens rea in:",
+      "images": [],
+      "options": {
+        "A": "Indictable matters",
+        "B": "Strict liability matters",
+        "C": "Committal hearings",
+        "D": "Civil matters"
+      },
+      "answer": "B",
+      "answerSource": "thsc",
+      "answerNote": "Baulkham Hills 2015 Legal Studies Trials & Solutions (answers sheet on p14), via THSC mirror: https://thsc.zaxu.xyz/Year%2012/Trial/HSIE/Legal%20Studies/Baulkham%20Hills/Baulkham%20Hills%202015%20Legal%20Studies%20Trials%20%26%20Solutions.pdf"
+    },
+    {
+      "number": 18,
+      "groupId": null,
+      "stem": "The right to legal assistance for indictable criminal matters in Australia is protected by:",
+      "images": [],
+      "options": {
+        "A": "Common law",
+        "B": "Statute law",
+        "C": "Constitutional law",
+        "D": "International law"
+      },
+      "answer": "A",
+      "answerSource": "thsc",
+      "answerNote": "Official school key (answers sheet) gives A, common law (right to a fair trial/legal representation per Dietrich v The Queen)."
+    },
+    {
+      "number": 19,
+      "groupId": null,
+      "stem": "The process where judge lacks judicial discretion in determining a penalty is called:",
+      "images": [],
+      "options": {
+        "A": "Legal Aid",
+        "B": "Mandatory sentencing",
+        "C": "A continuing detention order",
+        "D": "Judicial concession"
+      },
+      "answer": "B",
+      "answerSource": "thsc",
+      "answerNote": "Baulkham Hills 2015 Legal Studies Trials & Solutions (answers sheet on p14), via THSC mirror: https://thsc.zaxu.xyz/Year%2012/Trial/HSIE/Legal%20Studies/Baulkham%20Hills/Baulkham%20Hills%202015%20Legal%20Studies%20Trials%20%26%20Solutions.pdf"
+    },
+    {
+      "number": 20,
+      "groupId": null,
+      "stem": "The right to practice a religion would be found in what internationally recognised document?",
+      "images": [],
+      "options": {
+        "A": "The Australian Constitution",
+        "B": "The Charter of the United Nations",
+        "C": "The Treaty of Westphalia 1648",
+        "D": "The International Covenant on Economic, Social and Cultural Rights"
+      },
+      "answer": "D",
+      "answerSource": "thsc",
+      "answerNote": "School key gives D (ICESCR), but the right to practise religion is in ICCPR Art 18, not in any listed option, so the question is arguably defective; ICESCR does not protect religion."
+    }
+  ]
+}

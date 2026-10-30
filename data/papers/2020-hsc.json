@@ -1,0 +1,323 @@
+{
+  "id": "2020-hsc",
+  "year": 2020,
+  "school": "HSC",
+  "kind": "hsc",
+  "title": "2020 HSC Legal Studies",
+  "sourceFile": "2020 HSC Legal Studies.pdf",
+  "answerStatus": "all-verified",
+  "notes": "The official 2020 NESA marking-guidelines PDF is linked from https://www.nsw.gov.au/education-and-training/nesa/curriculum/hsc-exam-papers/legal-studies/2020, but its browser PDF view was not readable. Answers are reasoned guesses; Q4–5 share the printed scenario.",
+  "groups": [
+    {
+      "id": "2020-hsc-g1",
+      "questionNumbers": [
+        4,
+        5
+      ],
+      "stimulus": "Jordan and Terry make a plan to burn down an abandoned building. The next night, Terry goes to the building and sets fire to it.",
+      "images": []
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "groupId": null,
+      "stem": "Who must prove the elements of a criminal offence?",
+      "images": [],
+      "options": {
+        "A": "Defendant",
+        "B": "Judge",
+        "C": "Jury",
+        "D": "Prosecution"
+      },
+      "answer": "D",
+      "answerSource": "official",
+      "answerNote": "NESA 2020 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2020-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 2,
+      "groupId": null,
+      "stem": "What is the first step in the criminal investigation process?",
+      "images": [],
+      "options": {
+        "A": "An offence is reported.",
+        "B": "A suspect is interrogated.",
+        "C": "A search warrant is issued.",
+        "D": "Some evidence is obtained."
+      },
+      "answer": "A",
+      "answerSource": "official",
+      "answerNote": "NESA 2020 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2020-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 3,
+      "groupId": null,
+      "stem": "Which term refers to a person’s intention to commit a crime?",
+      "images": [],
+      "options": {
+        "A": "Mens rea",
+        "B": "Actus reus",
+        "C": "Doli incapax",
+        "D": "Ratio decidendi"
+      },
+      "answer": "A",
+      "answerSource": "official",
+      "answerNote": "NESA 2020 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2020-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 4,
+      "groupId": "2020-hsc-g1",
+      "stem": "Into which category of crime do Terry’s actions fall?",
+      "images": [],
+      "options": {
+        "A": "Drug offences",
+        "B": "Summary offences",
+        "C": "Offences against property",
+        "D": "Offences against the person"
+      },
+      "answer": "C",
+      "answerSource": "official",
+      "answerNote": "NESA 2020 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2020-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 5,
+      "groupId": "2020-hsc-g1",
+      "stem": "What is Jordan’s involvement in this situation?",
+      "images": [],
+      "options": {
+        "A": "He is the principal offender.",
+        "B": "He has not committed a crime.",
+        "C": "He is an accessory after the fact.",
+        "D": "He has committed a preliminary crime."
+      },
+      "answer": "D",
+      "answerSource": "official",
+      "answerNote": "NESA 2020 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2020-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 6,
+      "groupId": null,
+      "stem": "Kelly steals money from her employer so she can afford to buy the same phone as her friends. Which pair of factors has affected Kelly’s criminal behaviour?",
+      "images": [],
+      "options": {
+        "A": "Political and social",
+        "B": "Social and economic",
+        "C": "Genetic and economic",
+        "D": "Situational and genetic"
+      },
+      "answer": "B",
+      "answerSource": "official",
+      "answerNote": "NESA 2020 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2020-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 7,
+      "groupId": null,
+      "stem": "A young offender wants to appeal his conviction by a magistrate in the Children’s Court. Which court would first hear this appeal?",
+      "images": [],
+      "options": {
+        "A": "District",
+        "B": "High",
+        "C": "Local",
+        "D": "Supreme"
+      },
+      "answer": "A",
+      "answerSource": "official",
+      "answerNote": "NESA 2020 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2020-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 8,
+      "groupId": null,
+      "stem": "Which of the following is a role of non-government organisations?",
+      "images": [],
+      "options": {
+        "A": "Enforce new human rights agreements.",
+        "B": "Prosecute breaches of human rights in the courts.",
+        "C": "Provide assistance to victims of human rights abuses.",
+        "D": "Enact legislation to reflect international human rights agreements."
+      },
+      "answer": "C",
+      "answerSource": "official",
+      "answerNote": "NESA 2020 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2020-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 9,
+      "groupId": null,
+      "stem": "While serving a custodial sentence, a murderer writes a book about her crime. She is not permitted to keep the money from the book sales. This means that a court has made an order for",
+      "images": [],
+      "options": {
+        "A": "continued detention.",
+        "B": "the payment of a fine.",
+        "C": "the forfeiture of assets.",
+        "D": "participation in a rehabilitation program."
+      },
+      "answer": "C",
+      "answerSource": "official",
+      "answerNote": "NESA 2020 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2020-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 10,
+      "groupId": null,
+      "stem": "On the orders of his government, a submarine commander launches a nuclear missile at another country. The commander’s actions are primarily an example of",
+      "images": [],
+      "options": {
+        "A": "a transnational crime.",
+        "B": "an environmental crime.",
+        "C": "an offence against the sovereign.",
+        "D": "a crime against the international community."
+      },
+      "answer": "D",
+      "answerSource": "official",
+      "answerNote": "NESA 2020 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2020-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 11,
+      "groupId": null,
+      "stem": "What should be the last option a court considers when sentencing a young offender convicted of an offence?",
+      "images": [],
+      "options": {
+        "A": "Fine",
+        "B": "Control order",
+        "C": "Youth justice conference",
+        "D": "Community service order"
+      },
+      "answer": "B",
+      "answerSource": "official",
+      "answerNote": "NESA 2020 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2020-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 12,
+      "groupId": null,
+      "stem": "A group of people are seeking to split from Western Australia to establish a new nation state. This would have the greatest impact on Australia’s",
+      "images": [],
+      "options": {
+        "A": "judiciary.",
+        "B": "sovereignty.",
+        "C": "self-determination.",
+        "D": "division of powers."
+      },
+      "answer": "B",
+      "answerSource": "official",
+      "answerNote": "NESA 2020 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2020-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 13,
+      "groupId": null,
+      "stem": "A man is convicted of using offensive language in a public place and the magistrate imposes a punishment of three penalty units. This means the man",
+      "images": [],
+      "options": {
+        "A": "must pay a sum of money.",
+        "B": "receives three demerit points.",
+        "C": "must serve three days in prison.",
+        "D": "receives a variety of punishments."
+      },
+      "answer": "A",
+      "answerSource": "official",
+      "answerNote": "NESA 2020 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2020-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 14,
+      "groupId": null,
+      "stem": "A 14-year-old has been caught vandalising a shop and is formally cautioned. What is the most likely reason for the police taking this action?",
+      "images": [],
+      "options": {
+        "A": "To protect the victim",
+        "B": "To ensure rehabilitation",
+        "C": "To discourage reoffending",
+        "D": "To make courts more resource efficient"
+      },
+      "answer": "C",
+      "answerSource": "official",
+      "answerNote": "NESA 2020 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2020-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 15,
+      "groupId": null,
+      "stem": "Which of the following is an argument against having a Charter of Rights in Australia?",
+      "images": [],
+      "options": {
+        "A": "It may encourage human rights violations.",
+        "B": "Statute law currently protects human rights.",
+        "C": "Citizens may demonstrate increased respect for human rights.",
+        "D": "It gives the United Nations more power to monitor human rights."
+      },
+      "answer": "B",
+      "answerSource": "official",
+      "answerNote": "NESA 2020 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2020-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 16,
+      "groupId": null,
+      "stem": "Why are there different levels of security classification for prisoners?",
+      "images": [],
+      "options": {
+        "A": "To manage prison population levels",
+        "B": "To reduce the risk of reoffending on release",
+        "C": "To enable an offender to be close to their family",
+        "D": "To minimise the risk of harm to the offender and others"
+      },
+      "answer": "D",
+      "answerSource": "official",
+      "answerNote": "NESA 2020 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2020-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 17,
+      "groupId": null,
+      "stem": "Why does the Australian Constitution divide and separate powers?",
+      "images": [],
+      "options": {
+        "A": "To maintain the rule of law",
+        "B": "To reflect the principles of natural justice",
+        "C": "To incorporate human rights into domestic law",
+        "D": "To meet international standards about democratic government"
+      },
+      "answer": "A",
+      "answerSource": "official",
+      "answerNote": "NESA 2020 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2020-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 18,
+      "groupId": null,
+      "stem": "When a judge refers to the maximum penalty and the standard non-parole period in sentencing, they are",
+      "images": [],
+      "options": {
+        "A": "using judicial discretion.",
+        "B": "applying judicial guidelines.",
+        "C": "following statutory guidelines.",
+        "D": "considering aggravating factors."
+      },
+      "answer": "C",
+      "answerSource": "official",
+      "answerNote": "NESA 2020 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2020-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 19,
+      "groupId": null,
+      "stem": "Why are environmental and peace rights important?",
+      "images": [],
+      "options": {
+        "A": "They are recently recognised human rights.",
+        "B": "They are stated in the United Nations Charter.",
+        "C": "They allow other human rights to be protected.",
+        "D": "They allow the recognition of state sovereignty."
+      },
+      "answer": "C",
+      "answerSource": "official",
+      "answerNote": "NESA 2020 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2020-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 20,
+      "groupId": null,
+      "stem": "A nation is a signatory to the Rome Statute. Its president is formally accused by the International Criminal Court of war crimes against her citizens. Why might it be difficult to bring her to trial?",
+      "images": [],
+      "options": {
+        "A": "She would have to consent to be tried.",
+        "B": "She would have to be arrested and extradited.",
+        "C": "The International Criminal Court does not have jurisdiction.",
+        "D": "Trying a president in the International Criminal Court is expensive."
+      },
+      "answer": "B",
+      "answerSource": "official",
+      "answerNote": "NESA 2020 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2020-hsc-legal-studies-mg.pdf"
+    }
+  ]
+}

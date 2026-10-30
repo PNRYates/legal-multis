@@ -1,0 +1,324 @@
+{
+  "id": "2014-st-catherines-trial",
+  "year": 2014,
+  "school": "St Catherines",
+  "kind": "trial",
+  "title": "2014 St Catherines Legal Studies Trial",
+  "sourceFile": "2014 St Catherines Legal Studies Trial.pdf",
+  "answerStatus": "all-verified",
+  "notes": "No multiple-choice answer key was found in the paper. Questions 4–6 share one textual stimulus; no figures were needed.",
+  "groups": [
+    {
+      "id": "2014-st-catherines-trial-g1",
+      "questionNumbers": [
+        4,
+        5,
+        6
+      ],
+      "stimulus": "Samuel runs an anti-government website which he is using to organise a violent protest at parliament house due to Australia’s involvement in an international conflict. Andrew is a regular reader of the website and attends the protest where he is arrested after smashing a window of the parliamentary building.",
+      "images": []
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "groupId": null,
+      "stem": "Which of the following human rights may be best described as a collective right",
+      "images": [],
+      "options": {
+        "A": "Freedom from arbitrary detention",
+        "B": "The right to join a trade union",
+        "C": "Environmental rights",
+        "D": "Voting rights"
+      },
+      "answer": "C",
+      "answerSource": "thsc",
+      "answerNote": "St Catherines 2014 HSC Trial mapping grid (Correct Answer column), in the THSC 'St Catherines 2014 w. sol' PDF (https://www.thsconline.net/s/yr12/Legal%20Studies/trialpapers.html)."
+    },
+    {
+      "number": 2,
+      "groupId": null,
+      "stem": "Which of the following best describes the term remand?",
+      "images": [],
+      "options": {
+        "A": "A court order giving the police the power to arrest a person",
+        "B": "A court order requiring a person to be detained until trial",
+        "C": "A court order which allows the police to search property",
+        "D": "A court order requiring a person to be extradited overseas"
+      },
+      "answer": "B",
+      "answerSource": "thsc",
+      "answerNote": "St Catherines 2014 HSC Trial mapping grid (Correct Answer column), in the THSC 'St Catherines 2014 w. sol' PDF (https://www.thsconline.net/s/yr12/Legal%20Studies/trialpapers.html)."
+    },
+    {
+      "number": 3,
+      "groupId": null,
+      "stem": "Which of the following was the first major international document to recognise that human rights apply to all people?",
+      "images": [],
+      "options": {
+        "A": "The International Covenant on Civil and Political Rights",
+        "B": "The Human Rights Act",
+        "C": "The United States Bill of Rights",
+        "D": "The Universal Declaration of Human Rights"
+      },
+      "answer": "C",
+      "answerSource": "thsc",
+      "answerNote": "St Catherines 2014 HSC Trial mapping grid (Correct Answer column), in the THSC 'St Catherines 2014 w. sol' PDF (https://www.thsconline.net/s/yr12/Legal%20Studies/trialpapers.html)."
+    },
+    {
+      "number": 4,
+      "groupId": "2014-st-catherines-trial-g1",
+      "stem": "Under which offences might Samuel be prosecuted for operating this website?",
+      "images": [],
+      "options": {
+        "A": "Treason",
+        "B": "Sedition",
+        "C": "Terrorism",
+        "D": "Assault"
+      },
+      "answer": "B",
+      "answerSource": "thsc",
+      "answerNote": "St Catherines 2014 HSC Trial mapping grid (Correct Answer column), in the THSC 'St Catherines 2014 w. sol' PDF (https://www.thsconline.net/s/yr12/Legal%20Studies/trialpapers.html)."
+    },
+    {
+      "number": 5,
+      "groupId": "2014-st-catherines-trial-g1",
+      "stem": "Which of the following best describes Andrew’s degree of involvement in criminal behaviour?",
+      "images": [],
+      "options": {
+        "A": "Accessory before the fact",
+        "B": "Accessory after the fact",
+        "C": "Principal in the first degree",
+        "D": "Principal in the second degree"
+      },
+      "answer": "A",
+      "answerSource": "thsc",
+      "answerNote": "School key says A, but Andrew personally smashes the window, which looks like principal in the first degree (C). Key kept as published; see THSC 'St Catherines 2014 w. sol' mapping grid."
+    },
+    {
+      "number": 6,
+      "groupId": "2014-st-catherines-trial-g1",
+      "stem": "Which of the following factors affecting criminal behaviour are most likely the cause of Samuel and Andrew’s actions?",
+      "images": [],
+      "options": {
+        "A": "Economic factors",
+        "B": "Social factors",
+        "C": "Self Interest",
+        "D": "Political factors"
+      },
+      "answer": "A",
+      "answerSource": "thsc",
+      "answerNote": "School key says A (economic), but a protest against involvement in an international conflict looks political (D). Key kept as published; see THSC 'St Catherines 2014 w. sol' mapping grid."
+    },
+    {
+      "number": 7,
+      "groupId": null,
+      "stem": "The government bans protesting by students over increases to university fees. What type of right is being denied to these students?",
+      "images": [],
+      "options": {
+        "A": "Labour rights",
+        "B": "Social and Economic rights",
+        "C": "Civil and Political rights",
+        "D": "Universal Education"
+      },
+      "answer": "C",
+      "answerSource": "thsc",
+      "answerNote": "St Catherines 2014 HSC Trial mapping grid (Correct Answer column), in the THSC 'St Catherines 2014 w. sol' PDF (https://www.thsconline.net/s/yr12/Legal%20Studies/trialpapers.html)."
+    },
+    {
+      "number": 8,
+      "groupId": null,
+      "stem": "What is the practical effect of Australia signing an international human rights treaty?",
+      "images": [],
+      "options": {
+        "A": "The treaty automatically becomes an enforceable law in Australia",
+        "B": "International courts and tribunals can enforce these rights in Australia",
+        "C": "Australia must immediately ratify the treaty using the legislative process",
+        "D": "The government can enact domestic legislation to enforce the treaty"
+      },
+      "answer": "D",
+      "answerSource": "thsc",
+      "answerNote": "St Catherines 2014 HSC Trial mapping grid (Correct Answer column), in the THSC 'St Catherines 2014 w. sol' PDF (https://www.thsconline.net/s/yr12/Legal%20Studies/trialpapers.html)."
+    },
+    {
+      "number": 9,
+      "groupId": null,
+      "stem": "Which of following is an example of a non-government organisation involved in the promotion and enforcement of human rights.",
+      "images": [],
+      "options": {
+        "A": "The United Nations",
+        "B": "The European Union",
+        "C": "The International Criminal Court",
+        "D": "The International Committee of the Red Cross"
+      },
+      "answer": "D",
+      "answerSource": "thsc",
+      "answerNote": "St Catherines 2014 HSC Trial mapping grid (Correct Answer column), in the THSC 'St Catherines 2014 w. sol' PDF (https://www.thsconline.net/s/yr12/Legal%20Studies/trialpapers.html)."
+    },
+    {
+      "number": 10,
+      "groupId": null,
+      "stem": "In relation to international and domestic rights, which of the following statements is true.",
+      "images": [],
+      "options": {
+        "A": "Domestic rights are complementary to international rights",
+        "B": "Domestic rights only apply to citizens of a country",
+        "C": "International rights give some degree of legal protection",
+        "D": "International rights can be only be enforced in armed conflict"
+      },
+      "answer": "A",
+      "answerSource": "thsc",
+      "answerNote": "St Catherines 2014 HSC Trial mapping grid (Correct Answer column), in the THSC 'St Catherines 2014 w. sol' PDF (https://www.thsconline.net/s/yr12/Legal%20Studies/trialpapers.html)."
+    },
+    {
+      "number": 11,
+      "groupId": null,
+      "stem": "Which of the following best describes the right to legal representation in criminal matters?",
+      "images": [],
+      "options": {
+        "A": "It is an absolute right guaranteed by the constitution",
+        "B": "It is an inferred right under international law",
+        "C": "It is an implied right created by the common law",
+        "D": "It is not protected by any law or practice"
+      },
+      "answer": "C",
+      "answerSource": "thsc",
+      "answerNote": "St Catherines 2014 HSC Trial mapping grid (Correct Answer column), in the THSC 'St Catherines 2014 w. sol' PDF (https://www.thsconline.net/s/yr12/Legal%20Studies/trialpapers.html)."
+    },
+    {
+      "number": 12,
+      "groupId": null,
+      "stem": "On her 14th birthday, Sinclair takes her parents car on a joy ride after drinking at her party. She is stopped by police after they see her driving erratically and she is charged with a range of driving offences. How does the concept of doli incapax apply to Sinclair in relation to these offences?",
+      "images": [],
+      "options": {
+        "A": "She cannot be charged with any criminal offence due to doli incapax",
+        "B": "The prosecution must rebut the presumption of doli incapax to gain a conviction",
+        "C": "The concept of doli incapax does not apply but no conviction can be recorded",
+        "D": "The defence must raise the defence of doli incapax to secure an acquittal"
+      },
+      "answer": "C",
+      "answerSource": "thsc",
+      "answerNote": "St Catherines 2014 HSC Trial mapping grid (Correct Answer column), in the THSC 'St Catherines 2014 w. sol' PDF (https://www.thsconline.net/s/yr12/Legal%20Studies/trialpapers.html)."
+    },
+    {
+      "number": 13,
+      "groupId": null,
+      "stem": "According to the separation of powers in the Constitution of the Commonwealth of Australia, who has the power to enforce the law?",
+      "images": [],
+      "options": {
+        "A": "The Executive",
+        "B": "The Legislature",
+        "C": "The Judiciary",
+        "D": "The Governor General"
+      },
+      "answer": "A",
+      "answerSource": "thsc",
+      "answerNote": "St Catherines 2014 HSC Trial mapping grid (Correct Answer column), in the THSC 'St Catherines 2014 w. sol' PDF (https://www.thsconline.net/s/yr12/Legal%20Studies/trialpapers.html)."
+    },
+    {
+      "number": 14,
+      "groupId": null,
+      "stem": "Which of the following situations best illustrates the recognition and enforcement of human rights by the Australian legal system.",
+      "images": [],
+      "options": {
+        "A": "When a court orders the release from custody of a 15 year old person",
+        "B": "When a court declares that protest action by animal rights activists is legal",
+        "C": "When students are denied access to classes for two weeks because of vandalism",
+        "D": "When Australian parliament passes a law that makes discrimination illegal"
+      },
+      "answer": "B",
+      "answerSource": "thsc",
+      "answerNote": "School key says B; D (parliament legislating against discrimination) looks the better fit for recognition and enforcement. Key kept as published; see THSC 'St Catherines 2014 w. sol' mapping grid."
+    },
+    {
+      "number": 15,
+      "groupId": null,
+      "stem": "Which of the following best describes the responsibility to protect in international law?",
+      "images": [],
+      "options": {
+        "A": "Each nation must protect its own citizen due to state sovereignty",
+        "B": "The international community must protect individuals from human rights abuses",
+        "C": "Domestic governments and the international community share the duty to protect and promote human rights",
+        "D": "Individuals are responsible for protecting their own rights using domestic and international legal measures"
+      },
+      "answer": "C",
+      "answerSource": "thsc",
+      "answerNote": "St Catherines 2014 HSC Trial mapping grid (Correct Answer column), in the THSC 'St Catherines 2014 w. sol' PDF (https://www.thsconline.net/s/yr12/Legal%20Studies/trialpapers.html)."
+    },
+    {
+      "number": 16,
+      "groupId": null,
+      "stem": "How does the defence of mental illness differ from the other criminal defences?",
+      "images": [],
+      "options": {
+        "A": "The onus of proof is reversed from the prosecution to the defence",
+        "B": "It is the only complete defence which if successful results in acquittal",
+        "C": "The defence can only be used in offences against the person",
+        "D": "It relies on the actions of the victim at the time of the offence"
+      },
+      "answer": "D",
+      "answerSource": "thsc",
+      "answerNote": "School key says D, but A (onus of proof reversed to the defence) is the accepted distinguishing feature of mental illness. Key kept as published; see THSC 'St Catherines 2014 w. sol' mapping grid."
+    },
+    {
+      "number": 17,
+      "groupId": null,
+      "stem": "Which right is not entrenched within the Australian Constitution?",
+      "images": [],
+      "options": {
+        "A": "The right to vote",
+        "B": "The right to property",
+        "C": "The right to an education",
+        "D": "The right to a jury trial"
+      },
+      "answer": "C",
+      "answerSource": "thsc",
+      "answerNote": "St Catherines 2014 HSC Trial mapping grid (Correct Answer column), in the THSC 'St Catherines 2014 w. sol' PDF (https://www.thsconline.net/s/yr12/Legal%20Studies/trialpapers.html)."
+    },
+    {
+      "number": 18,
+      "groupId": null,
+      "stem": "Which if the following are not expressed in the International Covenant on Economic, Social and Cultural Rights?",
+      "images": [],
+      "options": {
+        "A": "The right to fair trial",
+        "B": "The right to an education",
+        "C": "The right to work",
+        "D": "The right to join a union"
+      },
+      "answer": "A",
+      "answerSource": "thsc",
+      "answerNote": "St Catherines 2014 HSC Trial mapping grid (Correct Answer column), in the THSC 'St Catherines 2014 w. sol' PDF (https://www.thsconline.net/s/yr12/Legal%20Studies/trialpapers.html)."
+    },
+    {
+      "number": 19,
+      "groupId": null,
+      "stem": "What is the role of the Security Council in protecting human rights?",
+      "images": [],
+      "options": {
+        "A": "By authorising military operations to enforce international law",
+        "B": "By providing a forum for nations to resolve conflicts peacefully",
+        "C": "By prosecuting individuals that abuse human rights",
+        "D": "By publishing reports on nations that fail to comply with sanctions"
+      },
+      "answer": "A",
+      "answerSource": "thsc",
+      "answerNote": "St Catherines 2014 HSC Trial mapping grid (Correct Answer column), in the THSC 'St Catherines 2014 w. sol' PDF (https://www.thsconline.net/s/yr12/Legal%20Studies/trialpapers.html)."
+    },
+    {
+      "number": 20,
+      "groupId": null,
+      "stem": "In Australia human rights are best protect by",
+      "images": [],
+      "options": {
+        "A": "A Charter of Rights",
+        "B": "A Federal Bill of Rights",
+        "C": "International Declarations",
+        "D": "Judge made law"
+      },
+      "answer": "D",
+      "answerSource": "thsc",
+      "answerNote": "St Catherines 2014 HSC Trial mapping grid (Correct Answer column), in the THSC 'St Catherines 2014 w. sol' PDF (https://www.thsconline.net/s/yr12/Legal%20Studies/trialpapers.html)."
+    }
+  ]
+}

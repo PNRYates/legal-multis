@@ -1,0 +1,313 @@
+{
+  "id": "2024-knox-trial",
+  "year": 2024,
+  "school": "Knox",
+  "kind": "trial",
+  "title": "2024 Knox Legal Studies Trial",
+  "sourceFile": "2024 Knox Legal Studies Trial.pdf",
+  "answerStatus": "none-found",
+  "notes": "Question 3 appears ambiguous: A and C describe the same rebuttable presumption for a 14-year-old. The question section contains no shared stimuli or figures.",
+  "groups": [],
+  "questions": [
+    {
+      "number": 1,
+      "groupId": null,
+      "stem": "Sophia is a New Zealand citizen who has served a 7-year jail sentence for aggravated assault.\nWhich post-sentencing consideration would most likely apply to Sophia?",
+      "images": [],
+      "options": {
+        "A": "Deportation",
+        "B": "Protective custody",
+        "C": "Continued detention",
+        "D": "Forfeiture of assets"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 2,
+      "groupId": null,
+      "stem": "Frank has been arrested and detained by police.\nTo ensure any information provided by Frank during questioning is admissible in court, what must police do?",
+      "images": [],
+      "options": {
+        "A": "Establish a charge",
+        "B": "Provide Frank with a lawyer",
+        "C": "Caution Frank as to his rights",
+        "D": "Keep written and audio copies of police interviews"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 3,
+      "groupId": null,
+      "stem": "A 14 year old has been charged with armed robbery.\nWhich of the following is true?",
+      "images": [],
+      "options": {
+        "A": "Doli incapax applies.",
+        "B": "This is a District Court matter.",
+        "C": "A rebuttable presumption applies.",
+        "D": "This is a Children’s Court matter."
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Doli incapax (a rebuttable presumption) covers 10 to 13 only, so A and C are both false for a 14-year-old; Armed robbery (s 97, max 20 years) is not a serious children's indictable offence, so the Children's Court hears it. A/C are the equivalent distractors."
+    },
+    {
+      "number": 4,
+      "groupId": null,
+      "stem": "Human rights in Australia are best protected when they are",
+      "images": [],
+      "options": {
+        "A": "promoted by the media.",
+        "B": "agreed to through ratification",
+        "C": "incorporated into domestic laws.",
+        "D": "monitored by the United Nations."
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 5,
+      "groupId": null,
+      "stem": "A victim impact statement is presented in court for a high-profile murder case. The judge fails to consider the statement before deciding upon the offender’s sentence.\nWhat is this an example of?",
+      "images": [],
+      "options": {
+        "A": "Judicial discretion",
+        "B": "Sentencing guidelines",
+        "C": "The impact of the media",
+        "D": "A miscarriage of justice"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "'Fails to consider' suggests a procedural error (miscarriage of justice); A (judicial discretion) is plausible because the court may decide what weight a victim impact statement gets."
+    },
+    {
+      "number": 6,
+      "groupId": null,
+      "stem": "Which of the following rights is recognised by the International Covenant on Economic, Social and Cultural Rights (1976)?",
+      "images": [],
+      "options": {
+        "A": "The right to education",
+        "B": "The right to freedom of religion",
+        "C": "The right to live free of torture and slavery",
+        "D": "The right to participate in the election of government"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 7,
+      "groupId": null,
+      "stem": "Which of the following is a role of a Public Defender?",
+      "images": [],
+      "options": {
+        "A": "To provide general legal advice to the public",
+        "B": "To prove a defendant’s innocence on the balance of probabilities",
+        "C": "To prove a defendant’s innocence beyond reasonable doubt",
+        "D": "To cross-examine the Prosecution’s witness"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 8,
+      "groupId": null,
+      "stem": "Stanley, 15 years old, has been detained and is being questioned by police.\nWhich of the following is true regarding his interrogation?",
+      "images": [],
+      "options": {
+        "A": "A lawyer must be present at the interview.",
+        "B": "One of Stanley’s parents must be present at the interview.",
+        "C": "Stanley must agree to the support person present at the interview.",
+        "D": "Stanley can refuse to have any support person present at the interview."
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 9,
+      "groupId": null,
+      "stem": "Continued detention best reflects which of the following purposes of punishment?",
+      "images": [],
+      "options": {
+        "A": "Incapacitation",
+        "B": "Rehabilitation",
+        "C": "General deterrence",
+        "D": "Retribution"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 10,
+      "groupId": null,
+      "stem": "Why may Legal Aid NOT be granted for a criminal case?",
+      "images": [],
+      "options": {
+        "A": "The Director of Public Prosecutions declines the accused’s request.",
+        "B": "The police determine the offender doesn’t qualify for Legal Aid.",
+        "C": "The accused does not meet the means test requirement.",
+        "D": "The matter is a strictly indictable offence."
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 11,
+      "groupId": null,
+      "stem": "Albert, an Australian citizen, is arrested for international arms trafficking. His trial will fall under the jurisdiction of which of the following?",
+      "images": [],
+      "options": {
+        "A": "Domestic criminal courts",
+        "B": "The International Criminal Court",
+        "C": "A United Nations ad hoc tribunal",
+        "D": "The International Court of Justice"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 12,
+      "groupId": null,
+      "stem": "Police charge a 16 year old with drink driving.\nIn which court will the matter be heard?",
+      "images": [],
+      "options": {
+        "A": "Children’s",
+        "B": "Supreme",
+        "C": "District",
+        "D": "Local"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 13,
+      "groupId": null,
+      "stem": "Person A provides stolen security access codes to a bank. Person B demands money from a teller while holding a gun. Person C keeps bank employees under control. Person D drives the getaway vehicle.\nWho are the principal offenders in this scenario?",
+      "images": [],
+      "options": {
+        "A": "Person A",
+        "B": "Persons B and C",
+        "C": "Persons A, B and C",
+        "D": "Persons A and D"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 14,
+      "groupId": null,
+      "stem": "Who will determine whether illegally obtained evidence is admissible in the trial of a murder suspect?",
+      "images": [],
+      "options": {
+        "A": "The Attorney-General",
+        "B": "A High Court judge",
+        "C": "A Supreme Court judge",
+        "D": "A magistrate in a committal conference"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 15,
+      "groupId": null,
+      "stem": "Which is true of peace rights and environmental rights?",
+      "images": [],
+      "options": {
+        "A": "They have been universally ratified.",
+        "B": "They are necessary for other human rights to be protected.",
+        "C": "They were among the first human rights to be recognised.",
+        "D": "They are protected under the United Nations Charter (1945)."
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 16,
+      "groupId": null,
+      "stem": "Which of the following can be a crime against humanity?",
+      "images": [],
+      "options": {
+        "A": "Rape",
+        "B": "Genocide",
+        "C": "Piracy",
+        "D": "Money laundering"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Rape is expressly listed as a crime against humanity (Rome Statute art 7); Genocide (B) is a separate core crime, though sometimes loosely treated as one."
+    },
+    {
+      "number": 17,
+      "groupId": null,
+      "stem": "Which best describes ‘recklessness’ under criminal law?",
+      "images": [],
+      "options": {
+        "A": "A partial defence; The accused fails to understand the seriousness of their actions",
+        "B": "A partial defence; The accused is suffering from a mental illness when they act",
+        "C": "A form of mens rea; The accused fails to foresee a risk which they should have foreseen",
+        "D": "A form of mens rea; The accused foresees a risk, but does the action anyway"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 18,
+      "groupId": null,
+      "stem": "What is a subpoena?",
+      "images": [],
+      "options": {
+        "A": "An amount of money provided as a financial guarantee during bail",
+        "B": "A legal document requiring a witness to give evidence in court or produce documents",
+        "C": "A legal document permitting police to search a premises or intercept communications",
+        "D": "A legal document stating when and where an accused person must appear to answer charges"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 19,
+      "groupId": null,
+      "stem": "Which of the following involves both a human rights and criminal law issue in Australia?",
+      "images": [],
+      "options": {
+        "A": "A woman demands equal pay",
+        "B": "A child is forced to work in a factory",
+        "C": "A temporary VISA holder commits an assault",
+        "D": "A same-sex couple is denied the right to marry"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 20,
+      "groupId": null,
+      "stem": "The United Nations Human Rights Council is",
+      "images": [],
+      "options": {
+        "A": "an international tribunal",
+        "B": "a non-governmental organisation",
+        "C": "an intergovernmental organisation",
+        "D": "an independent statutory authority"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "The Human Rights Council is an intergovernmental body within the United Nations."
+    }
+  ]
+}

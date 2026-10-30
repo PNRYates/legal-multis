@@ -1,0 +1,323 @@
+{
+  "id": "2018-knox-trial",
+  "year": 2018,
+  "school": "Knox",
+  "kind": "trial",
+  "title": "2018 Knox Legal Studies Trial",
+  "sourceFile": "2018 Knox Legal Studies Trial.pdf",
+  "answerStatus": "all-verified",
+  "notes": "Text extracted from the multiple-choice pages; shared textual stimulus transcribed as a group.",
+  "groups": [
+    {
+      "id": "2018-knox-trial-g1",
+      "questionNumbers": [
+        9,
+        10
+      ],
+      "stimulus": "Luke aged 16 and Rick aged 22, planned to rob Jennifer. The next day Luke drove the car, acted as the lookout, and waited for Rick to rob Jennifer. Rick assaulted Jennifer before stealing a few items and then they both drove away.",
+      "images": []
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "groupId": null,
+      "stem": "Which of the following is a mitigating factor at sentencing?",
+      "images": [],
+      "options": {
+        "A": "Age",
+        "B": "Weapon",
+        "C": "The vulnerability of the victim",
+        "D": "The absence of causation"
+      },
+      "answer": "A",
+      "answerSource": "paper",
+      "answerNote": "Answer key, page 18."
+    },
+    {
+      "number": 2,
+      "groupId": null,
+      "stem": "David is the victim of a home invasion and fears for the life of his small children. He kills the offender. Which of the following is the best defence for David?",
+      "images": [],
+      "options": {
+        "A": "Substantial impairment of the mind",
+        "B": "Provocation",
+        "C": "Duress",
+        "D": "Self defence"
+      },
+      "answer": "D",
+      "answerSource": "paper",
+      "answerNote": "Answer key, page 18."
+    },
+    {
+      "number": 3,
+      "groupId": null,
+      "stem": "A person has been detained without charge by the police. What is this an example of?",
+      "images": [],
+      "options": {
+        "A": "Protective custody",
+        "B": "Sex offenders registration",
+        "C": "Civil and political rights",
+        "D": "Preventative detention order"
+      },
+      "answer": "D",
+      "answerSource": "paper",
+      "answerNote": "Answer key, page 18."
+    },
+    {
+      "number": 4,
+      "groupId": null,
+      "stem": "4 Which of the following orders are not available from the Children’s Court?",
+      "images": [],
+      "options": {
+        "A": "Control orders",
+        "B": "Good behaviour bonds",
+        "C": "Intensive correction orders",
+        "D": "Community service orders"
+      },
+      "answer": "C",
+      "answerSource": "paper",
+      "answerNote": "Answer key, page 18."
+    },
+    {
+      "number": 5,
+      "groupId": null,
+      "stem": "Who sets out guideline judgements?",
+      "images": [],
+      "options": {
+        "A": "NSW Sentencing Council",
+        "B": "NSW Court of Criminal Appeal",
+        "C": "Attorney General",
+        "D": "The High Court of Australia"
+      },
+      "answer": "B",
+      "answerSource": "paper",
+      "answerNote": "Answer key, page 18."
+    },
+    {
+      "number": 6,
+      "groupId": null,
+      "stem": "Under what circumstances is a 13 year old girl who is under arrest breaking the law?",
+      "images": [],
+      "options": {
+        "A": "When she runs home to get away from the police",
+        "B": "When she refuses to answer questions by the police",
+        "C": "When she asks the police officer his name",
+        "D": "When she refuses to be strip searched"
+      },
+      "answer": "A",
+      "answerSource": "paper",
+      "answerNote": "Answer key, page 18."
+    },
+    {
+      "number": 7,
+      "groupId": null,
+      "stem": "Who could challenge a juror who has been selected to serve on a jury, causing them to leave the jury and no longer be a part of it?",
+      "images": [],
+      "options": {
+        "A": "The prosecution and defence",
+        "B": "The jury foreman",
+        "C": "The defendant",
+        "D": "The prosecution"
+      },
+      "answer": "A",
+      "answerSource": "paper",
+      "answerNote": "Answer key, page 18."
+    },
+    {
+      "number": 8,
+      "groupId": null,
+      "stem": "Under what circumstance would an individual not be entitled to the right to silence at police questioning?",
+      "images": [],
+      "options": {
+        "A": "If they are a young offender",
+        "B": "If charged with robbery",
+        "C": "If they have been arrested",
+        "D": "If they are held on remand"
+      },
+      "answer": "B",
+      "answerSource": "paper",
+      "answerNote": "Answer key, page 18."
+    },
+    {
+      "number": 9,
+      "groupId": "2018-knox-trial-g1",
+      "stem": "Which party to a crime would Luke be with regard to the charge of robbery?",
+      "images": [],
+      "options": {
+        "A": "Principal in the first degree",
+        "B": "Principal in the second degree",
+        "C": "Accessory before the fact",
+        "D": "Accessory after the fact"
+      },
+      "answer": "B",
+      "answerSource": "paper",
+      "answerNote": "Answer key, page 18."
+    },
+    {
+      "number": 10,
+      "groupId": "2018-knox-trial-g1",
+      "stem": "Which of the following categories of crime best describes Rick’s indictable offence?",
+      "images": [],
+      "options": {
+        "A": "A property offence",
+        "B": "A driving offence",
+        "C": "A crime against the person",
+        "D": "An economic offence"
+      },
+      "answer": "C",
+      "answerSource": "paper",
+      "answerNote": "Answer key, page 18."
+    },
+    {
+      "number": 11,
+      "groupId": null,
+      "stem": "Vivienne was found guilty of a series of summary offences. She claims that she is innocent. In which court will Vivienne have her appeal heard?",
+      "images": [],
+      "options": {
+        "A": "Local Court",
+        "B": "NSW District Court",
+        "C": "NSW Supreme Court",
+        "D": "NSW Court of Criminal Appeal"
+      },
+      "answer": "B",
+      "answerSource": "paper",
+      "answerNote": "Answer key, page 18."
+    },
+    {
+      "number": 12,
+      "groupId": null,
+      "stem": "Freedom from torture and slavery are best protected by the:",
+      "images": [],
+      "options": {
+        "A": "International Covenant on Civil and Political Rights",
+        "B": "International Covenant on Economic, Social and Cultural Rights",
+        "C": "Universal Declaration of Human Rights",
+        "D": "International Bill of Rights"
+      },
+      "answer": "A",
+      "answerSource": "paper",
+      "answerNote": "Answer key, page 18."
+    },
+    {
+      "number": 13,
+      "groupId": null,
+      "stem": "Which of the following must be proven in a strict liability offence?",
+      "images": [],
+      "options": {
+        "A": "Causation",
+        "B": "Mens rea",
+        "C": "Actus reus",
+        "D": "Negligence"
+      },
+      "answer": "C",
+      "answerSource": "paper",
+      "answerNote": "Answer key, page 18."
+    },
+    {
+      "number": 14,
+      "groupId": null,
+      "stem": "Which legal instrument protects the right to vote in Australia?",
+      "images": [],
+      "options": {
+        "A": "Statute law",
+        "B": "Common law",
+        "C": "Trade unions",
+        "D": "The suffragette movement"
+      },
+      "answer": "A",
+      "answerSource": "paper",
+      "answerNote": "Answer key, page 18."
+    },
+    {
+      "number": 15,
+      "groupId": null,
+      "stem": "Human rights are said to be inherent. What is the meaning of this?",
+      "images": [],
+      "options": {
+        "A": "That human rights apply to everybody",
+        "B": "That human rights exist from birth",
+        "C": "That human rights cannot be discriminated against due to sex or race",
+        "D": "That human rights cannot be taken away"
+      },
+      "answer": "B",
+      "answerSource": "paper",
+      "answerNote": "Answer key, page 18."
+    },
+    {
+      "number": 16,
+      "groupId": null,
+      "stem": "In the Wik People v Queensland decision which human right was realised for Aboriginal people?",
+      "images": [],
+      "options": {
+        "A": "Abolition of slavery",
+        "B": "The right to suffrage",
+        "C": "The right to self determination",
+        "D": "The right to own land"
+      },
+      "answer": "C",
+      "answerSource": "paper",
+      "answerNote": "Answer key, page 18."
+    },
+    {
+      "number": 17,
+      "groupId": null,
+      "stem": "Mary is sentenced to 10 years in prison for a serious criminal offence. The judge in sentencing refers to the fact that this offence is becoming all too common and must be addressed through more significant sentences. What was a significant consideration in Mary’s sentence?",
+      "images": [],
+      "options": {
+        "A": "Retribution",
+        "B": "General deterrence",
+        "C": "Rehabilitation",
+        "D": "Specific deterrence"
+      },
+      "answer": "B",
+      "answerSource": "paper",
+      "answerNote": "Answer key, page 18."
+    },
+    {
+      "number": 18,
+      "groupId": null,
+      "stem": "In NSW there is a mandatory life sentence for the murder of a police officer. Which of the following best describes the purpose of punishment for the community?",
+      "images": [],
+      "options": {
+        "A": "Rehabilitation",
+        "B": "To limit judicial discretion",
+        "C": "Recidivism",
+        "D": "Retribution"
+      },
+      "answer": "D",
+      "answerSource": "paper",
+      "answerNote": "Answer key, page 18."
+    },
+    {
+      "number": 19,
+      "groupId": null,
+      "stem": "Which of the following statements is TRUE regarding the Children’s Court in NSW?",
+      "images": [],
+      "options": {
+        "A": "The Children’s Court hears all criminal matters involving offenders under 18 years of age.",
+        "B": "The Children’s Court follows the exact same rules and procedures as all other NSW courts.",
+        "C": "Once a juvenile offender turns 18 they can no longer have their matter heard in the Children’s Court.",
+        "D": "The Children’s Court can sentence offenders to juvenile detention, even if they are over the age of 18."
+      },
+      "answer": "C",
+      "answerSource": "paper",
+      "answerNote": "Answer key, page 18."
+    },
+    {
+      "number": 20,
+      "groupId": null,
+      "stem": "Which of the following is a feature of victim impact statements in NSW?",
+      "images": [],
+      "options": {
+        "A": "Used by the courts for all indictable offences",
+        "B": "Used by the prosecution to determine evidence",
+        "C": "Used by judges when determining some sentences",
+        "D": "Used by the jury when determining some verdicts"
+      },
+      "answer": "C",
+      "answerSource": "paper",
+      "answerNote": "Answer key, page 18."
+    }
+  ]
+}

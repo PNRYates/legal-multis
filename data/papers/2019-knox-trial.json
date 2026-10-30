@@ -1,0 +1,313 @@
+{
+  "id": "2019-knox-trial",
+  "year": 2019,
+  "school": "Knox",
+  "kind": "trial",
+  "title": "2019 Knox Legal Studies Trial",
+  "sourceFile": "2019 Knox Legal Studies Trial.pdf",
+  "answerStatus": "none-found",
+  "notes": "The question section contains no shared stimuli or figures.",
+  "groups": [],
+  "questions": [
+    {
+      "number": 1,
+      "groupId": null,
+      "stem": "Brian is spending time in custody awaiting trial.\n\nWhat is this an example of?",
+      "images": [],
+      "options": {
+        "A": "Remand",
+        "B": "Remorse",
+        "C": "Retribution",
+        "D": "Recidivism"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 2,
+      "groupId": null,
+      "stem": "Which of the following is an example of a non-government organisation?",
+      "images": [],
+      "options": {
+        "A": "The United Nations",
+        "B": "Amnesty International",
+        "C": "The Human Rights Committee",
+        "D": "The International Criminal Court"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 3,
+      "groupId": null,
+      "stem": "What feature distinguishes a summary offence from an indictable offence?",
+      "images": [],
+      "options": {
+        "A": "The seriousness of the offence",
+        "B": "Whether it is a white collar crime",
+        "C": "The number of parties to the crime",
+        "D": "The court which will hear an appeal"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 4,
+      "groupId": null,
+      "stem": "Larceny is an example of which category of crime?",
+      "images": [],
+      "options": {
+        "A": "Economic offences",
+        "B": "Regulatory offences",
+        "C": "Offences against the person",
+        "D": "Offences against the sovereign"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 5,
+      "groupId": null,
+      "stem": "Which of the following is a basic principle of criminal law?",
+      "images": [],
+      "options": {
+        "A": "The prosecution must prove guilt",
+        "B": "The right to silence is protected by the Constitution",
+        "C": "Defence must be proven beyond reasonable doubt",
+        "D": "A person charged with a summary offence can insist on having a jury"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 6,
+      "groupId": null,
+      "stem": "Which of the following is true of strict liability offences?",
+      "images": [],
+      "options": {
+        "A": "Mens rea must be proven",
+        "B": "Actus reus must be proven",
+        "C": "Actus reus does not need to be proven",
+        "D": "Both mens rea and actus reus must be proven"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 7,
+      "groupId": null,
+      "stem": "The Crimes (Sentencing Procedure) Act 1999 identifies one purpose of punishment is 'to protect the community from the offender'.\n\nWhat is this an example of?",
+      "images": [],
+      "options": {
+        "A": "Rehabilitation",
+        "B": "Incapacitation",
+        "C": "Specific deterrence",
+        "D": "General deterrence"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 8,
+      "groupId": null,
+      "stem": "What is the main role of the UN General Assembly?",
+      "images": [],
+      "options": {
+        "A": "International discussions",
+        "B": "Settle international disputes",
+        "C": "Address human rights violations",
+        "D": "Preservation of international peace and security"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 9,
+      "groupId": null,
+      "stem": "Louise is 14 years of age and has been accused of committing an indictable offence.\n\nUnder the NSW criminal justice system, what rights does she have?",
+      "images": [],
+      "options": {
+        "A": "The principle of doli incapax applies",
+        "B": "Louise cannot be arrested without a warrant",
+        "C": "Louise cannot be charged with a criminal offence",
+        "D": "Louise cannot be incarcerated in an adult prison under any circumstances"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "In NSW the doli incapax presumption covers children aged 10 to 13 only (confirmed by the 2025 DCJ review, dcj.nsw.gov.au), so it does not apply to a 14-year-old; Under-16s are not held in adult prisons, so D is the true statement. A is the alternative if the writer treated the presumption as running to age 14."
+    },
+    {
+      "number": 10,
+      "groupId": null,
+      "stem": "Which of the following is true of the International Criminal Court's (ICC) jurisdiction?",
+      "images": [],
+      "options": {
+        "A": "The ICC has no jurisdiction over war crimes",
+        "B": "The ICC has jurisdiction over all transnational crimes",
+        "C": "The ICC complements rather than excludes existing criminal justice systems",
+        "D": "The alleged crime must be referred to the ICC by the UN General Assembly"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 11,
+      "groupId": null,
+      "stem": "Ross has been accused of committing a crime. He is 12 years of age. The Children's Magistrate has issued a caution.\n\nWhich of the following statements is correct?",
+      "images": [],
+      "options": {
+        "A": "Ross pleaded guilty",
+        "B": "Ross pleaded not guilty",
+        "C": "The crime was homicide",
+        "D": "Ross has committed no other offences"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 12,
+      "groupId": null,
+      "stem": "Which of the following most accurately defines state sovereignty?",
+      "images": [],
+      "options": {
+        "A": "Co-operation between multiple states",
+        "B": "The authority of a state to govern itself",
+        "C": "The process of formally approving a treaty",
+        "D": "Where a state claims the right to prosecute a person for actions committed in another state"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 13,
+      "groupId": null,
+      "stem": "How does protective custody differ from parole?",
+      "images": [],
+      "options": {
+        "A": "Parole is unconditional release of a prisoner; protective custody is conditional release",
+        "B": "The purpose of protective custody is rehabilitation whilst the purpose of parole is deterrence",
+        "C": "Parole is conditional release of a prisoner; protective custody does not involve release of a prisoner",
+        "D": "Parole is a post sentencing consideration; however, protective custody is not a post sentencing consideration"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 14,
+      "groupId": null,
+      "stem": "Jo is 24 years of age. She has been charged with a summary offence and police investigations are continuing.\n\nWhat protections does the law provide Jo?",
+      "images": [],
+      "options": {
+        "A": "Police may only arrest her with a warrant",
+        "B": "Her silence cannot be used as evidence of guilt",
+        "C": "She cannot be detained in police custody without a warrant",
+        "D": "Police cannot ask her to answer questions for more than two hours without a warrant"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 15,
+      "groupId": null,
+      "stem": "Which of the following human rights is best protected in Australia?",
+      "images": [],
+      "options": {
+        "A": "Trial by jury",
+        "B": "Free speech",
+        "C": "Religious freedom",
+        "D": "Indigenous self-determination"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Trial by jury has express constitutional recognition in limited federal matters, while other listed rights have more qualified protections."
+    },
+    {
+      "number": 16,
+      "groupId": null,
+      "stem": "Frank is 30 years of age; he has been charged with a crime and the trial process has begun.\n\nWhich of the following statements is most correct?",
+      "images": [],
+      "options": {
+        "A": "A ‘guilty plea’ can result in a reduced sentence",
+        "B": "Following a ‘guilty plea’, Frank cannot be granted parole",
+        "C": "If Frank enters 'no plea' this will be recorded as a 'guilty' plea",
+        "D": "A ‘not guilty plea’ may be considered to be an aggravating factor"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 17,
+      "groupId": null,
+      "stem": "Rachel works for Legal Aid; Ben has been accused of a serious criminal matter.\n\nWhat will Rachel's role be in this case?",
+      "images": [],
+      "options": {
+        "A": "Defending Ben",
+        "B": "Prosecuting Ben",
+        "C": "Questioning suspects",
+        "D": "Establishing judicial guidelines"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 18,
+      "groupId": null,
+      "stem": "How do the International Court of Justice (ICJ) and the International Criminal Court (ICC) differ?",
+      "images": [],
+      "options": {
+        "A": "The ICC is an organ of the UN; the ICJ is not",
+        "B": "The ICJ has jurisdiction over states only; the ICC has jurisdiction over individuals only",
+        "C": "The ICJ was established by the UN Security Council whilst the ICC was established by the Rome Statute",
+        "D": "Decisions by the ICC can be overturned by the United Nations Security Council; this is not the case with the ICJ"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 19,
+      "groupId": null,
+      "stem": "Mary has committed an indictable offence and pleaded not guilty. Her case will go to the NSW District Court.\n\nWhich of the following statements is most correct?",
+      "images": [],
+      "options": {
+        "A": "There will not be a jury",
+        "B": "A judge will investigate the case",
+        "C": "Mary's guilt or innocence will be determined by the judge or jury",
+        "D": "The judge may call for evidence that has not been requested by either the defence or prosecution"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 20,
+      "groupId": null,
+      "stem": "The Bail Act 2013 was reformed in 2014 to include show cause.\n\nWhat are the implications of these changes?",
+      "images": [],
+      "options": {
+        "A": "If the Crown fails to show cause, bail must be granted",
+        "B": "To show cause, the Crown must argue why the detention is justified",
+        "C": "To show cause, the accused must argue why their detention is not justified",
+        "D": "The standard of proof used for making a determination of show cause is beyond reasonable doubt"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "The accused bears the onus of showing why detention is not justified."
+    }
+  ]
+}

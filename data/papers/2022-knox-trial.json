@@ -1,0 +1,323 @@
+{
+  "id": "2022-knox-trial",
+  "year": 2022,
+  "school": "Knox",
+  "kind": "trial",
+  "title": "2022 Knox Legal Studies Trial",
+  "sourceFile": "2022 Knox Legal Studies Trial.pdf",
+  "answerStatus": "none-found",
+  "notes": "No answer key is included in the PDF; all answers are reasoned estimates. The Georgia scenario is shared by questions 2 and 3.",
+  "groups": [
+    {
+      "id": "2022-knox-trial-g1",
+      "questionNumbers": [
+        2,
+        3
+      ],
+      "stimulus": "Georgia is the personal assistant of an international company based in Melbourne. She is charged with embezzling $250 000 from the company to buy a luxury car.",
+      "images": []
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "groupId": null,
+      "stem": "Selling alcohol to people under the age of 18 is an example of what type of crime?",
+      "images": [],
+      "options": {
+        "A": "Strict liability offence",
+        "B": "Preliminary Offence",
+        "C": "Young Offender offence",
+        "D": "Drug offence"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Selling alcohol to minors is a strict liability offence."
+    },
+    {
+      "number": 2,
+      "groupId": "2022-knox-trial-g1",
+      "stem": "The main factors affecting Georgia’s criminal behaviour are:",
+      "images": [],
+      "options": {
+        "A": "Political",
+        "B": "Economic",
+        "C": "Self-interest",
+        "D": "Genetic"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "Embezzling to buy a luxury car is greed/self-interest rather than hardship; B (economic factors) is also plausible."
+    },
+    {
+      "number": 3,
+      "groupId": "2022-knox-trial-g1",
+      "stem": "Georgia’s committal hearing will be heard in what court?",
+      "images": [],
+      "options": {
+        "A": "Children’s",
+        "B": "Local",
+        "C": "District",
+        "D": "Supreme"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "Committal proceedings are heard in the Local Court."
+    },
+    {
+      "number": 4,
+      "groupId": null,
+      "stem": "Where are trials for transnational crimes heard?",
+      "images": [],
+      "options": {
+        "A": "International Criminal Court",
+        "B": "International Court of Justice",
+        "C": "In ad hoc tribunals",
+        "D": "In domestic courts"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Transnational crimes are prosecuted under domestic jurisdiction."
+    },
+    {
+      "number": 5,
+      "groupId": null,
+      "stem": "The primary role of the Australian Federal Police is to enforce",
+      "images": [],
+      "options": {
+        "A": "Federal criminal law",
+        "B": "International criminal law",
+        "C": "State and federal criminal law",
+        "D": "International and state criminal law"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "The AFP primarily enforces Commonwealth law."
+    },
+    {
+      "number": 6,
+      "groupId": null,
+      "stem": "Under recent changes to the Bail Act a defendant must ‘show cause’ as part of the bail application. This may result in conflict with which of the following legal principles?",
+      "images": [],
+      "options": {
+        "A": "Double jeopardy",
+        "B": "Standard of proof",
+        "C": "Innocent till proven guilty",
+        "D": "Right to legal representation"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "Requiring an accused to show cause may place pressure on the presumption of innocence."
+    },
+    {
+      "number": 7,
+      "groupId": null,
+      "stem": "Which of the following is an expressed right under the Australian Constitution?",
+      "images": [],
+      "options": {
+        "A": "Freedom of speech",
+        "B": "Freedom of religion",
+        "C": "Right to a fair trial",
+        "D": "Freedom of political communication"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "Freedom of religion is expressly protected by section 116."
+    },
+    {
+      "number": 8,
+      "groupId": null,
+      "stem": "Which of the following best ensures the protection of human rights in Australia?",
+      "images": [],
+      "options": {
+        "A": "Ratification of an international human rights treaty",
+        "B": "A media investigation into human rights abuses occurring in Australia",
+        "C": "Enactment of Federal human rights legislation",
+        "D": "An Australian non-government organisation offering support to victims of human rights abuses"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "Domestic legislation gives rights direct legal effect in Australia."
+    },
+    {
+      "number": 9,
+      "groupId": null,
+      "stem": "Which of the following statements does NOT describe the role of non-government organisations (NGO’s) in protecting human rights?",
+      "images": [],
+      "options": {
+        "A": "NGO’s can assist victims of human rights abuses",
+        "B": "NGO’s play a central role in enforcing human rights law",
+        "C": "NGO’s use the media to name and shame human rights violators",
+        "D": "NGO’s assist better compliance with human rights law by governments"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "NGOs promote compliance but do not centrally enforce human rights law."
+    },
+    {
+      "number": 10,
+      "groupId": null,
+      "stem": "At her sentencing hearing, Emily’s defence lawyer asks the judge to reduce the sentence because she is a young, single mother. This is an example of:",
+      "images": [],
+      "options": {
+        "A": "A complete defence",
+        "B": "A partial defence",
+        "C": "Aggravating circumstances",
+        "D": "Mitigating circumstances"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Personal circumstances may be considered as mitigating factors."
+    },
+    {
+      "number": 11,
+      "groupId": null,
+      "stem": "What is the purpose of forfeiture of assets as a punishment?",
+      "images": [],
+      "options": {
+        "A": "To remove the tainted proceeds of crime",
+        "B": "To pay back the victims of crime",
+        "C": "To force the offender to admit their guilt",
+        "D": "To cover the costs of enforcement"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Forfeiture removes the proceeds or instrumentalities of crime."
+    },
+    {
+      "number": 12,
+      "groupId": null,
+      "stem": "The Commonwealth decides to challenge new NSW legislation on immigration in the High Court. What principle is being tested?",
+      "images": [],
+      "options": {
+        "A": "Separation of Powers",
+        "B": "Statute Law",
+        "C": "Division of Powers",
+        "D": "Procedural Referendum"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "A Commonwealth–state dispute tests the division of legislative powers."
+    },
+    {
+      "number": 13,
+      "groupId": null,
+      "stem": "An offender completes their 6 month jail sentence through weekend detention. What type of detention is this?",
+      "images": [],
+      "options": {
+        "A": "Home",
+        "B": "Periodic",
+        "C": "Parole",
+        "D": "Continued"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "Weekend custody is periodic detention."
+    },
+    {
+      "number": 14,
+      "groupId": null,
+      "stem": "Extradition involves:",
+      "images": [],
+      "options": {
+        "A": "Charging a person with a transnational crime",
+        "B": "Charging a person with the same crime in two locations",
+        "C": "A person being prosecuted in the International Criminal Court",
+        "D": "Returning a person to the jurisdiction in which they committed the crime"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Extradition returns a person to the jurisdiction seeking prosecution."
+    },
+    {
+      "number": 15,
+      "groupId": null,
+      "stem": "A person must have a reasonable prospect of success in their case to be eligible for legal aid. Which of the following best describes this requirement?",
+      "images": [],
+      "options": {
+        "A": "Merit Test",
+        "B": "Means Test",
+        "C": "Jurisdiction Test",
+        "D": "Probability Test"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "The merit test assesses the prospects and public value of a case."
+    },
+    {
+      "number": 16,
+      "groupId": null,
+      "stem": "Benjamin organised a protest of angry government workers. He was arrested by the police. Which of the following human rights has Benjamin been denied?",
+      "images": [],
+      "options": {
+        "A": "The right to equality",
+        "B": "The right to freedom of assembly",
+        "C": "The right to join a trade union",
+        "D": "The right to freedom and security of person"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "The scenario concerns peaceful assembly."
+    },
+    {
+      "number": 17,
+      "groupId": null,
+      "stem": "Which of the following is an alternative to court for a young offender?",
+      "images": [],
+      "options": {
+        "A": "Probation",
+        "B": "Caution",
+        "C": "Circle sentencing",
+        "D": "Suspended sentence"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "A police caution diverts a young offender without court proceedings."
+    },
+    {
+      "number": 18,
+      "groupId": null,
+      "stem": "Which group of factors constitute post-sentencing decisions?",
+      "images": [],
+      "options": {
+        "A": "Protective custody, sexual offenders registration, parole",
+        "B": "Security classification, parole, level of violence used",
+        "C": "Parole, criminal record of the victim, sexual offenders registration",
+        "D": "Security classification, preventative and continued detention, age of the victim"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Protective custody, registration and parole are post-sentence matters."
+    },
+    {
+      "number": 19,
+      "groupId": null,
+      "stem": "An Australian is caught at an international airport in Asia, attempting to smuggle drugs back to Australia. Under which jurisdiction would the Australian be prosecuted?",
+      "images": [],
+      "options": {
+        "A": "Australian law",
+        "B": "The International Court of Justice",
+        "C": "Foreign country law",
+        "D": "International Criminal Court"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "The offence is prosecuted under the law of the country where it is detected."
+    },
+    {
+      "number": 20,
+      "groupId": null,
+      "stem": "Which of the following best describes the term ‘treaty’?",
+      "images": [],
+      "options": {
+        "A": "An agreement between States",
+        "B": "A verbal agreement between States",
+        "C": "A written agreement between States governed by domestic law",
+        "D": "A written agreement between States governed by international law"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "A treaty is a written agreement between states governed by international law."
+    }
+  ]
+}

@@ -1,0 +1,313 @@
+{
+  "id": "2016-baulkham-hills-trial",
+  "year": 2016,
+  "school": "Baulkham Hills",
+  "kind": "trial",
+  "title": "2016 Baulkham Hills Legal Studies Trial",
+  "sourceFile": "2016 Baulkham Hills Legal Studies Trial.pdf",
+  "answerStatus": "all-verified",
+  "notes": "",
+  "groups": [],
+  "questions": [
+    {
+      "number": 1,
+      "groupId": null,
+      "stem": "Threatening someone characterises which of the following categories of crime?",
+      "images": [],
+      "options": {
+        "A": "Economic offences",
+        "B": "Public order offences",
+        "C": "Offences against the person",
+        "D": "Offences against the sovereign"
+      },
+      "answer": "C",
+      "answerSource": "paper",
+      "answerNote": "Marking guidelines answer key, PDF p. 16."
+    },
+    {
+      "number": 2,
+      "groupId": null,
+      "stem": "Which of the following provides the most effective protection of human rights in Australia?",
+      "images": [],
+      "options": {
+        "A": "The Constitution",
+        "B": "Customary law",
+        "C": "Statute law",
+        "D": "Equity law"
+      },
+      "answer": "C",
+      "answerSource": "paper",
+      "answerNote": "Marking guidelines answer key, PDF p. 16."
+    },
+    {
+      "number": 3,
+      "groupId": null,
+      "stem": "CCTV footage shows a woman walking out of a store carrying an item she has not paid for. What elements of a crime does the evidence establish?",
+      "images": [],
+      "options": {
+        "A": "Actus reus",
+        "B": "Mens rea",
+        "C": "Causation",
+        "D": "Intention"
+      },
+      "answer": "A",
+      "answerSource": "paper",
+      "answerNote": "Marking guidelines answer key, PDF p. 16."
+    },
+    {
+      "number": 4,
+      "groupId": null,
+      "stem": "An offender can be given a sentence of imprisonment for the term of their natural life under the Crimes (Sentencing Procedure) Act 1999. Such a sentence reflects which purpose of punishment?",
+      "images": [],
+      "options": {
+        "A": "Reform",
+        "B": "Reintegration",
+        "C": "Incapacitation",
+        "D": "Rehabilitation"
+      },
+      "answer": "C",
+      "answerSource": "paper",
+      "answerNote": "Marking guidelines answer key, PDF p. 16."
+    },
+    {
+      "number": 5,
+      "groupId": null,
+      "stem": "An Indigenous community is given the ability to govern themselves. What is this an example of?",
+      "images": [],
+      "options": {
+        "A": "Terra nullius",
+        "B": "Universal suffrage",
+        "C": "Self-determination",
+        "D": "Separation of powers"
+      },
+      "answer": "C",
+      "answerSource": "paper",
+      "answerNote": "Marking guidelines answer key, PDF p. 16."
+    },
+    {
+      "number": 6,
+      "groupId": null,
+      "stem": "Who presents the State’s case for an indictable offence?",
+      "images": [],
+      "options": {
+        "A": "The Director of Public Prosecutions",
+        "B": "The Sentencing Council",
+        "C": "The Police",
+        "D": "Legal Aid"
+      },
+      "answer": "A",
+      "answerSource": "paper",
+      "answerNote": "Marking guidelines answer key, PDF p. 16."
+    },
+    {
+      "number": 7,
+      "groupId": null,
+      "stem": "What is the purpose of the separation of powers?",
+      "images": [],
+      "options": {
+        "A": "To create an avenue for appeal in the Federal Court hierarchy",
+        "B": "To ensure that police and parliamentary corruption is minimised",
+        "C": "To provide checks and balances in the legal and parliamentary system",
+        "D": "To allow state and federal governments to specialise in specific areas of law"
+      },
+      "answer": "C",
+      "answerSource": "paper",
+      "answerNote": "Marking guidelines answer key, PDF p. 16."
+    },
+    {
+      "number": 8,
+      "groupId": null,
+      "stem": "Which of the following is a distinctive feature of the adversarial system?",
+      "images": [],
+      "options": {
+        "A": "Codified laws",
+        "B": "Oral testimony",
+        "C": "Customary law",
+        "D": "An impartial judge"
+      },
+      "answer": "D",
+      "answerSource": "paper",
+      "answerNote": "Marking guidelines answer key, PDF p. 16."
+    },
+    {
+      "number": 9,
+      "groupId": null,
+      "stem": "What are the features of the provocation defence?",
+      "images": [],
+      "options": {
+        "A": "Complete; leads to an acquittal",
+        "B": "Partial; reduce murder to manslaughter",
+        "C": "Complete; reduce murder to manslaughter",
+        "D": "Partial; reduce manslaughter to murder"
+      },
+      "answer": "B",
+      "answerSource": "paper",
+      "answerNote": "Marking guidelines answer key, PDF p. 16."
+    },
+    {
+      "number": 10,
+      "groupId": null,
+      "stem": "How is the truth of oral evidence tested in an adversarial system of trial?",
+      "images": [],
+      "options": {
+        "A": "Through lie detectors",
+        "B": "Through the appeal process",
+        "C": "Through cross-examination",
+        "D": "Through questioning by the judge"
+      },
+      "answer": "C",
+      "answerSource": "paper",
+      "answerNote": "Marking guidelines answer key, PDF p. 16."
+    },
+    {
+      "number": 11,
+      "groupId": null,
+      "stem": "Josh, who is 12 years of age, hacks into a computer. What presumption must be rebutted for the prosecution to gain a conviction?",
+      "images": [],
+      "options": {
+        "A": "Obiter dicta",
+        "B": "Doli incapax",
+        "C": "Actus reus",
+        "D": "Mens rea"
+      },
+      "answer": "B",
+      "answerSource": "paper",
+      "answerNote": "Marking guidelines answer key, PDF p. 16."
+    },
+    {
+      "number": 12,
+      "groupId": null,
+      "stem": "Which international organisation allows for cooperation in law enforcement bodies across international jurisdiction?",
+      "images": [],
+      "options": {
+        "A": "Interpol",
+        "B": "NSW Police",
+        "C": "The Australian Federal Police",
+        "D": "The United Nations"
+      },
+      "answer": "A",
+      "answerSource": "paper",
+      "answerNote": "Marking guidelines answer key, PDF p. 16."
+    },
+    {
+      "number": 13,
+      "groupId": null,
+      "stem": "Mike is sentenced to attend drug rehabilitation. How can this penalty be described?",
+      "images": [],
+      "options": {
+        "A": "Periodic detention",
+        "B": "Probation",
+        "C": "Suspended sentence",
+        "D": "Diversionary program"
+      },
+      "answer": "D",
+      "answerSource": "paper",
+      "answerNote": "Marking guidelines answer key, PDF p. 16."
+    },
+    {
+      "number": 14,
+      "groupId": null,
+      "stem": "Which of the following is a widely recognised feature of human rights?",
+      "images": [],
+      "options": {
+        "A": "Determination",
+        "B": "Inalienable",
+        "C": "Enforceable",
+        "D": "Intergenerational"
+      },
+      "answer": "B",
+      "answerSource": "paper",
+      "answerNote": "Marking guidelines answer key, PDF p. 16."
+    },
+    {
+      "number": 15,
+      "groupId": null,
+      "stem": "Which of the following statements would best apply to the case of Jacobs v R (2016)?",
+      "images": [],
+      "options": {
+        "A": "Jacobs is the Plaintiff",
+        "B": "Jacobs is appealing a conviction or sentence",
+        "C": "The defendant holds the burden of proof",
+        "D": "This case will be heard by the Federal Court"
+      },
+      "answer": "B",
+      "answerSource": "paper",
+      "answerNote": "Marking guidelines answer key, PDF p. 16."
+    },
+    {
+      "number": 16,
+      "groupId": null,
+      "stem": "An inquiry is established after the sudden death of a 15 year old child. Which court would have jurisdiction over this inquest?",
+      "images": [],
+      "options": {
+        "A": "District Court",
+        "B": "Coroners Court",
+        "C": "Supreme Court",
+        "D": "Children’s Court"
+      },
+      "answer": "B",
+      "answerSource": "paper",
+      "answerNote": "Marking guidelines answer key, PDF p. 16."
+    },
+    {
+      "number": 17,
+      "groupId": null,
+      "stem": "Rebecca attends university and works part time for a fast food chain. Her employer is not paying her the correct wage. Which type of international rights is being breached in this situation?",
+      "images": [],
+      "options": {
+        "A": "Economic Social and Cultural Right",
+        "B": "Civil and Political Right",
+        "C": "Universal education",
+        "D": "Universal suffrage"
+      },
+      "answer": "A",
+      "answerSource": "paper",
+      "answerNote": "Marking guidelines answer key, PDF p. 16."
+    },
+    {
+      "number": 18,
+      "groupId": null,
+      "stem": "In a criminal trial, following the passing of reasonable time for deliberation, the jury have voted 10 to 2 in favour of a guilty verdict. This is an example of which of the following?",
+      "images": [],
+      "options": {
+        "A": "A unanimous verdict",
+        "B": "A majority verdict",
+        "C": "A hung jury",
+        "D": "A fair jury"
+      },
+      "answer": "B",
+      "answerSource": "paper",
+      "answerNote": "Marking guidelines answer key, PDF p. 16."
+    },
+    {
+      "number": 19,
+      "groupId": null,
+      "stem": "While driving, Mary was stopped by police for a random drug test. What must Mary do?",
+      "images": [],
+      "options": {
+        "A": "Provide police with her name",
+        "B": "Answer all police questions",
+        "C": "She is not required to do anything",
+        "D": "Get out of the car to greet the police"
+      },
+      "answer": "A",
+      "answerSource": "paper",
+      "answerNote": "Marking guidelines answer key, PDF p. 16."
+    },
+    {
+      "number": 20,
+      "groupId": null,
+      "stem": "Legal Aid has been provided in the case of R v Sylvester (2016). Which of the following legal personnel will represented Sylvester in court?",
+      "images": [],
+      "options": {
+        "A": "Public defender",
+        "B": "Public prosecutor",
+        "C": "Barrister",
+        "D": "Police"
+      },
+      "answer": "A",
+      "answerSource": "paper",
+      "answerNote": "Marking guidelines answer key, PDF p. 16."
+    }
+  ]
+}

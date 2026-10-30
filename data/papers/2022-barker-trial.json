@@ -1,0 +1,313 @@
+{
+  "id": "2022-barker-trial",
+  "year": 2022,
+  "school": "Barker",
+  "kind": "trial",
+  "title": "2022 Barker Legal Studies Trial",
+  "sourceFile": "2022 Barker Legal Studies Trial.pdf",
+  "answerStatus": "none-found",
+  "notes": "The answer sheet in the PDF is unmarked; all answers are reasoned estimates. No shared stimuli or question figures occur in Section I.",
+  "groups": [],
+  "questions": [
+    {
+      "number": 1,
+      "groupId": null,
+      "stem": "Which of the following is an individual right?",
+      "images": [],
+      "options": {
+        "A": "Peace",
+        "B": "Suffrage",
+        "C": "Self-determination",
+        "D": "Clean environment"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "Suffrage is an individual civil and political right."
+    },
+    {
+      "number": 2,
+      "groupId": null,
+      "stem": "A person is charged with being drunk in a public place. What type of offence is this?",
+      "images": [],
+      "options": {
+        "A": "Property",
+        "B": "Conspiracy",
+        "C": "Preliminary",
+        "D": "Public order"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Public drunkenness is a public order offence."
+    },
+    {
+      "number": 3,
+      "groupId": null,
+      "stem": "What is the role of a Public Defender?",
+      "images": [],
+      "options": {
+        "A": "To represent the state in criminal cases",
+        "B": "To give general legal advice to the public",
+        "C": "To represent a person who has a grant of legal aid",
+        "D": "To advise the jury on legal matters arising during a trial"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "A Public Defender represents legally aided accused people."
+    },
+    {
+      "number": 4,
+      "groupId": null,
+      "stem": "Which body is responsible for creating statutory guidelines?",
+      "images": [],
+      "options": {
+        "A": "Parliament",
+        "B": "Coroner’s Court",
+        "C": "Court of Appeal",
+        "D": "Office of the Premier"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Statutory guidelines are created through legislation passed by Parliament."
+    },
+    {
+      "number": 5,
+      "groupId": null,
+      "stem": "Which of the following is an intergovernmental organisation?",
+      "images": [],
+      "options": {
+        "A": "High Court",
+        "B": "United Nations",
+        "C": "Amnesty International",
+        "D": "Human Rights Commission"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "The UN is composed of member states."
+    },
+    {
+      "number": 6,
+      "groupId": null,
+      "stem": "A non-citizen is released from a lengthy prison sentence. Which of the following is a possibility for this offender?",
+      "images": [],
+      "options": {
+        "A": "Aggravation",
+        "B": "Extradition",
+        "C": "Deportation",
+        "D": "Registration"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "A non-citizen may be deported after serving a sentence."
+    },
+    {
+      "number": 7,
+      "groupId": null,
+      "stem": "How can the NSW Drug Court best be described?",
+      "images": [],
+      "options": {
+        "A": "As a diversionary program",
+        "B": "As a court of first instance",
+        "C": "As a form of restorative justice",
+        "D": "As a court of last resort for an accused with a drug addiction"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Changed from B. The NSW Drug Court takes referrals from the Local and District Courts and is a court-based diversionary program (Drug Court Act 1998), so it is not really a court of first instance. B is the second option (https://www.ruleoflaw.org.au/crime/criminal-trial-processes/criminal-law-processes-court-jurisdiction/drug-court/)."
+    },
+    {
+      "number": 8,
+      "groupId": null,
+      "stem": "The Australian Government decides to pass an Act which sets out a Charter of Rights. Which of the following statements is true?",
+      "images": [],
+      "options": {
+        "A": "The Government must first hold a referendum.",
+        "B": "The Charter of Rights must be in the Constitution.",
+        "C": "The approval of the Governor-General is required first.",
+        "D": "This would fulfil Australia’s responsibilities under international law."
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "A statutory Charter needs no referendum, constitutional entrenchment or prior Governor-General approval, so D is the only option left; It is still a loose statement."
+    },
+    {
+      "number": 9,
+      "groupId": null,
+      "stem": "The Prime Minister predicts that the High Court will find that a Member of Parliament is not a citizen of two countries. Which concept does this prediction go against?",
+      "images": [],
+      "options": {
+        "A": "The rule of law",
+        "B": "The division of powers",
+        "C": "The separation of powers",
+        "D": "The Ministerial Code of Conduct"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "The executive should not seek to dictate a judicial decision."
+    },
+    {
+      "number": 10,
+      "groupId": null,
+      "stem": "How is a penalty unit used?",
+      "images": [],
+      "options": {
+        "A": "To calculate a fine for an offender",
+        "B": "To charge a suspect after being arrested",
+        "C": "To calculate an accused’s bail conditions",
+        "D": "To decide an offender’s parole conditions"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Penalty units standardise the calculation of fines."
+    },
+    {
+      "number": 11,
+      "groupId": null,
+      "stem": "Which of the following supports a person’s rehabilitation into society after a custodial sentence has been served?",
+      "images": [],
+      "options": {
+        "A": "Continued detention",
+        "B": "Control Orders",
+        "C": "Diversionary programs",
+        "D": "Parole"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Parole supports supervised reintegration after custody."
+    },
+    {
+      "number": 12,
+      "groupId": null,
+      "stem": "A major power which the police have when enforcing criminal law is?",
+      "images": [],
+      "options": {
+        "A": "To use reasonable force when attempting to arrest a suspect",
+        "B": "To arrest a suspect but only if the police have an arrest warrant",
+        "C": "To use as much force as necessary when attempting to arrest a suspect",
+        "D": "To arrest a suspect on the grounds that they have been charged with the same offence previously"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Police may use reasonable force when lawfully arresting a suspect."
+    },
+    {
+      "number": 13,
+      "groupId": null,
+      "stem": "A member of a joint enterprise is arrested in Sydney for smuggling weapons into the country. Where would his trial take place?",
+      "images": [],
+      "options": {
+        "A": "High Court",
+        "B": "Supreme Court",
+        "C": "International Criminal Court",
+        "D": "International Court of Justice"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "The alleged offence is prosecuted in a domestic court; The Supreme Court hears serious indictable matters."
+    },
+    {
+      "number": 14,
+      "groupId": null,
+      "stem": "Which of the following is true about the International Court of Justice?",
+      "images": [],
+      "options": {
+        "A": "It hears disputes between nations.",
+        "B": "It was established to deal with war crimes.",
+        "C": "It issues arrest warrants in cases of genocide.",
+        "D": "It does not consider the state sovereignty of nations."
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "The ICJ hears contentious cases between states."
+    },
+    {
+      "number": 15,
+      "groupId": null,
+      "stem": "A person, who is told a crime is about to be committed, is",
+      "images": [],
+      "options": {
+        "A": "a perpetrator.",
+        "B": "an accessory after the fact.",
+        "C": "an accessory before the fact.",
+        "D": "a principal in the second degree."
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "A person told a crime is about to happen is closest to an accessory before the fact (C)."
+    },
+    {
+      "number": 16,
+      "groupId": null,
+      "stem": "A 12 year old’s case is being heard in court. Which of the following statements is true about the case?",
+      "images": [],
+      "options": {
+        "A": "The child must establish that she knew what she did was wrong.",
+        "B": "The Prosecution must establish that the child knew what she did was wrong.",
+        "C": "The case can only proceed if there is written consent from the Attorney-General.",
+        "D": "The Magistrate must prove that the child understood that what she did was wrong."
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "For a child aged 10–14, the prosecution must rebut doli incapax."
+    },
+    {
+      "number": 17,
+      "groupId": null,
+      "stem": "What is the role of the victim in sentencing?",
+      "images": [],
+      "options": {
+        "A": "To advise the judge on sentencing",
+        "B": "To represent all witnesses at the hearing",
+        "C": "To advise the judge about post-sentencing options",
+        "D": "To tell the judge of the impact of the crime on them"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "A victim impact statement informs the court of the offence’s impact."
+    },
+    {
+      "number": 18,
+      "groupId": null,
+      "stem": "Which of the following can a trial judge NOT do?",
+      "images": [],
+      "options": {
+        "A": "Make decisions about points of law",
+        "B": "Sum up both sides of the case for the jury",
+        "C": "Instruct the jury about which facts are reliable",
+        "D": "Make decisions about the admissibility of evidence"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "The jury decides factual reliability; The judge directs on law and admissibility."
+    },
+    {
+      "number": 19,
+      "groupId": null,
+      "stem": "What does the Prosecution have to establish for a charge of speeding?",
+      "images": [],
+      "options": {
+        "A": "Actus reus",
+        "B": "Mens rea",
+        "C": "Causation",
+        "D": "Actus reus and mens rea"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Speeding is generally strict liability; The prohibited act must be established."
+    },
+    {
+      "number": 20,
+      "groupId": null,
+      "stem": "Which of the following is NOT considered to be an aggravating factor in sentencing an offender?",
+      "images": [],
+      "options": {
+        "A": "A weapon was used in committing the offence.",
+        "B": "The offender gained financially from the offence.",
+        "C": "The offence was carried out in the presence of a child.",
+        "D": "The offence was not part of a planned criminal activity."
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Lack of planning is not an aggravating factor, unlike weapon use, gain or child presence."
+    }
+  ]
+}

@@ -1,0 +1,313 @@
+{
+  "id": "2018-hurlstone-trial",
+  "year": 2018,
+  "school": "Hurlstone",
+  "kind": "trial",
+  "title": "2018 Hurlstone Legal Studies Trial",
+  "sourceFile": "2018 Hurlstone Legal Studies Trial.pdf",
+  "answerStatus": "some-guessed",
+  "notes": "All 20 Section I questions and answers transcribed from the paper and its answer key (page 18). No stimulus groups or non-text figures occur in the multiple-choice section.",
+  "groups": [],
+  "questions": [
+    {
+      "number": 1,
+      "groupId": null,
+      "stem": "Which of the following would be a complete defence to a crime?",
+      "images": [],
+      "options": {
+        "A": "Duress, mental illness, self defence",
+        "B": "Consent, mental illness, self defence",
+        "C": "Insanity, provocation, consent",
+        "D": "Self defence, mistake, insanity"
+      },
+      "answer": "A",
+      "answerSource": "paper",
+      "answerNote": "Answer key, page 18."
+    },
+    {
+      "number": 2,
+      "groupId": null,
+      "stem": "Who has the burden of proof in a Local Court?",
+      "images": [],
+      "options": {
+        "A": "Magistrate",
+        "B": "Director of Public Prosecutions",
+        "C": "Police prosecutor",
+        "D": "Public Defender"
+      },
+      "answer": "C",
+      "answerSource": "paper",
+      "answerNote": "Answer key, page 18."
+    },
+    {
+      "number": 3,
+      "groupId": null,
+      "stem": "Which of the following would be a mitigating factor during sentencing?",
+      "images": [],
+      "options": {
+        "A": "Excessive violence of the offence",
+        "B": "History of mental illness of the victim",
+        "C": "The use of a weapon during the offence",
+        "D": "The relatively young age of the offender"
+      },
+      "answer": "D",
+      "answerSource": "paper",
+      "answerNote": "Answer key, page 18."
+    },
+    {
+      "number": 4,
+      "groupId": null,
+      "stem": "Judy is 8 years old, Judy with two of her friends are caught stealing a truck. Why can’t Judy be charged with this offence?",
+      "images": [],
+      "options": {
+        "A": "Aggravating factors will prevent her being charged",
+        "B": "The concept of doli incapax applies",
+        "C": "Judicial discretion will prevent her being charged",
+        "D": "Mitigating factors, such as peer pressure, will prevent her being charged"
+      },
+      "answer": "B",
+      "answerSource": "paper",
+      "answerNote": "Answer key, page 18."
+    },
+    {
+      "number": 5,
+      "groupId": null,
+      "stem": "Which of the following is NOT a purpose of punishment?",
+      "images": [],
+      "options": {
+        "A": "Incapacitation",
+        "B": "Recidivism",
+        "C": "Deterrence",
+        "D": "Rehabilitation"
+      },
+      "answer": "B",
+      "answerSource": "paper",
+      "answerNote": "Answer key, page 18."
+    },
+    {
+      "number": 6,
+      "groupId": null,
+      "stem": "When can the prosecution appeal to a higher court?",
+      "images": [],
+      "options": {
+        "A": "The prosecution loses the case",
+        "B": "The defendant has committed further offences",
+        "C": "The prosecution believes the sentence is manifestly inadequate",
+        "D": "The defendant commits perjury while on the witness stand"
+      },
+      "answer": "C",
+      "answerSource": "paper",
+      "answerNote": "Answer key, page 18."
+    },
+    {
+      "number": 7,
+      "groupId": null,
+      "stem": "Which of the following characteristics illustrates that human rights are an automatic entitlement for all?",
+      "images": [],
+      "options": {
+        "A": "Universal",
+        "B": "Inherent",
+        "C": "Indivisible",
+        "D": "Inalienable"
+      },
+      "answer": "A",
+      "answerSource": "paper",
+      "answerNote": "Answer key, page 18."
+    },
+    {
+      "number": 8,
+      "groupId": null,
+      "stem": "Which of the following legal concepts places the greatest restriction on judicial discretion in sentencing?",
+      "images": [],
+      "options": {
+        "A": "Judicial guidelines",
+        "B": "Statutory guidelines",
+        "C": "Purpose of punishment",
+        "D": "Victim impact statements"
+      },
+      "answer": "B",
+      "answerSource": "paper",
+      "answerNote": "Answer key, page 18."
+    },
+    {
+      "number": 9,
+      "groupId": null,
+      "stem": "Which of the following is an alternative method of sentencing?",
+      "images": [],
+      "options": {
+        "A": "Fine",
+        "B": "Imprisonment",
+        "C": "Intensive correction order",
+        "D": "Circle sentencing"
+      },
+      "answer": "D",
+      "answerSource": "paper",
+      "answerNote": "Answer key, page 18."
+    },
+    {
+      "number": 10,
+      "groupId": null,
+      "stem": "What is the role of the jury in a criminal trial?",
+      "images": [],
+      "options": {
+        "A": "Determine the sentence of an accused",
+        "B": "Listen to the case and determine if an appeal can occur",
+        "C": "Determine what evidence is presented during the trial",
+        "D": "Listen to the case and determine verdict"
+      },
+      "answer": "D",
+      "answerSource": "paper",
+      "answerNote": "Answer key, page 18."
+    },
+    {
+      "number": 11,
+      "groupId": null,
+      "stem": "Which of the following is an intergovernmental organisation that promotes and protects human rights?",
+      "images": [],
+      "options": {
+        "A": "Commonwealth of Nations",
+        "B": "Amnesty International",
+        "C": "Redfern Legal Centre",
+        "D": "BBC News"
+      },
+      "answer": "A",
+      "answerSource": "paper",
+      "answerNote": "Answer key, page 18."
+    },
+    {
+      "number": 12,
+      "groupId": null,
+      "stem": "Which of the following organisations is most capable of prosecuting individuals accused of serious breaches of human rights?",
+      "images": [],
+      "options": {
+        "A": "United Nations Security Council",
+        "B": "International Criminal Court",
+        "C": "International Court of Justice",
+        "D": "North Atlantic Treaty Organisation"
+      },
+      "answer": "B",
+      "answerSource": "paper",
+      "answerNote": "Answer key, page 18."
+    },
+    {
+      "number": 13,
+      "groupId": null,
+      "stem": "Which of the following is a statutory authority that assists individuals with human rights violations?",
+      "images": [],
+      "options": {
+        "A": "The Supreme Court of NSW",
+        "B": "The International Criminal Court",
+        "C": "The Australian Human Rights Commission",
+        "D": "The International Committee of the Red Cross"
+      },
+      "answer": "C",
+      "answerSource": "paper",
+      "answerNote": "Answer key, page 18."
+    },
+    {
+      "number": 14,
+      "groupId": null,
+      "stem": "What is the purpose of charge negotiation?",
+      "images": [],
+      "options": {
+        "A": "To involve the victim in determining the outcome",
+        "B": "To provide training in negotiation for the police",
+        "C": "To ensure that justice is achieved",
+        "D": "To reduce costs and delays in the court system"
+      },
+      "answer": "D",
+      "answerSource": "paper",
+      "answerNote": "Answer key, page 18."
+    },
+    {
+      "number": 15,
+      "groupId": null,
+      "stem": "Statement 1: In NSW, an accused person has the right to silence. Statement 2: Human trafficking is a transnational crime.",
+      "images": [],
+      "options": {
+        "A": "Statement 1 is true and statement 2 is false",
+        "B": "Statement 1 is false and statement 2 is true",
+        "C": "Both statements are true",
+        "D": "Both statements are false"
+      },
+      "answer": "C",
+      "answerSource": "paper",
+      "answerNote": "Answer key, page 18."
+    },
+    {
+      "number": 16,
+      "groupId": null,
+      "stem": "What is the process by which one country apprehends and sends a person to another country for the purpose of criminal prosecution?",
+      "images": [],
+      "options": {
+        "A": "Parole",
+        "B": "Extradition",
+        "C": "Rendition",
+        "D": "Deportation"
+      },
+      "answer": "B",
+      "answerSource": "paper",
+      "answerNote": "Answer key, page 18."
+    },
+    {
+      "number": 17,
+      "groupId": null,
+      "stem": "What is the process used with juvenile offenders that involves a conference attended by the offender, the victim and other supporting members of society?",
+      "images": [],
+      "options": {
+        "A": "Circle sentencing",
+        "B": "Community reinvestment",
+        "C": "Plea bargaining",
+        "D": "Restorative justice"
+      },
+      "answer": "D",
+      "answerSource": "paper",
+      "answerNote": "Answer key, page 18."
+    },
+    {
+      "number": 18,
+      "groupId": null,
+      "stem": "Which group of rights has the International Covenant on Economic, Social and Cultural Rights contributed to?",
+      "images": [],
+      "options": {
+        "A": "Maternity leave, right to work, right to form trade unions",
+        "B": "Freedom, right to name and nationality",
+        "C": "Right to speech, freedom from torture, fair hearing",
+        "D": "Right to self-determination, right to life, freedom"
+      },
+      "answer": "A",
+      "answerSource": "paper",
+      "answerNote": "Answer key, page 18."
+    },
+    {
+      "number": 19,
+      "groupId": null,
+      "stem": "NSW and Commonwealth law allows a suspected terrorist to be instructed to wear a tracking device if there is a genuine threat of a terrorist act. What is such an order called?",
+      "images": [],
+      "options": {
+        "A": "A Control Order",
+        "B": "Continued Detention",
+        "C": "Preventative Detention",
+        "D": "A Community Priority Order"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "The printed key gives C (Preventative Detention), but wearing a tracking device is a control order, so the key looks wrong. A is a reasoned answer."
+    },
+    {
+      "number": 20,
+      "groupId": null,
+      "stem": "Which institution has the discretionary role to determine the early release of a prisoner before completing their full sentence?",
+      "images": [],
+      "options": {
+        "A": "Parole Board",
+        "B": "Sentencing Council",
+        "C": "Court of Criminal Appeal",
+        "D": "Department of Public Prosecution"
+      },
+      "answer": "A",
+      "answerSource": "paper",
+      "answerNote": "Answer key, page 18."
+    }
+  ]
+}

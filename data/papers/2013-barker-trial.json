@@ -1,0 +1,325 @@
+{
+  "id": "2013-barker-trial",
+  "year": 2013,
+  "school": "Barker",
+  "kind": "trial",
+  "title": "2013 Barker Legal Studies Trial",
+  "sourceFile": "2013 Barker Legal Studies Trial.pdf",
+  "answerStatus": "all-verified",
+  "notes": "",
+  "groups": [
+    {
+      "id": "2013-barker-g1",
+      "questionNumbers": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "stimulus": "Police surveillance units have detected the cultivation of drugs in a suburban house. They enter the property and arrest two males, Bill and Ben. A large quantity of cannabis, cultivation equipment, some assault rifles and cash are seized for evidence.",
+      "images": []
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "groupId": null,
+      "stem": "Which of the following is a public order offence?",
+      "images": [],
+      "options": {
+        "A": "Illegal download of music",
+        "B": "Sedition",
+        "C": "Drink driving",
+        "D": "A bomb hoax"
+      },
+      "answer": "D",
+      "answerSource": "paper",
+      "answerNote": "Answer key, PDF p. 21."
+    },
+    {
+      "number": 2,
+      "groupId": null,
+      "stem": "When is a victim impact statement presented in court?",
+      "images": [],
+      "options": {
+        "A": "At the committal hearing",
+        "B": "During the selection of the jury",
+        "C": "After the verdict is given and before sentencing",
+        "D": "During the prosecution’s evidence"
+      },
+      "answer": "C",
+      "answerSource": "paper",
+      "answerNote": "Answer key, PDF p. 21."
+    },
+    {
+      "number": 3,
+      "groupId": null,
+      "stem": "Justin is given the opportunity to apologise to the person whose shop he vandalised. What is this called?",
+      "images": [],
+      "options": {
+        "A": "Remand",
+        "B": "Restorative justice",
+        "C": "Parole",
+        "D": "Diversion"
+      },
+      "answer": "B",
+      "answerSource": "paper",
+      "answerNote": "Answer key, PDF p. 21."
+    },
+    {
+      "number": 4,
+      "groupId": null,
+      "stem": "What is the purpose of cross examination of a witness in a criminal trial?",
+      "images": [],
+      "options": {
+        "A": "To select the jury",
+        "B": "To make sentencing recommendations to the jury",
+        "C": "To allow the witness to explain their evidence to the jury",
+        "D": "To test the evidence given by the witness"
+      },
+      "answer": "D",
+      "answerSource": "paper",
+      "answerNote": "Answer key, PDF p. 21."
+    },
+    {
+      "number": 5,
+      "groupId": "2013-barker-g1",
+      "stem": "Which of the following statements best describes their chance of being released on bail?",
+      "images": [],
+      "options": {
+        "A": "Bail is likely to be granted because Bill and Ben did not resist arrest.",
+        "B": "Bail is likely to be granted because Bill and Ben answered all questions when interviewed by police.",
+        "C": "Bail is unlikely to be granted because of the nature of the crime.",
+        "D": "Bail is unlikely to be granted because they plan to plead guilty."
+      },
+      "answer": "C",
+      "answerSource": "paper",
+      "answerNote": "Answer key, PDF p. 21."
+    },
+    {
+      "number": 6,
+      "groupId": "2013-barker-g1",
+      "stem": "Which statement is true about the search of the property?",
+      "images": [],
+      "options": {
+        "A": "A search warrant is not required in drug related cases.",
+        "B": "A search warrant protects the rights of property owners.",
+        "C": "To be legal the search must be videotaped.",
+        "D": "A warrant is only required if a crime has been detected."
+      },
+      "answer": "B",
+      "answerSource": "paper",
+      "answerNote": "Answer key, PDF p. 21."
+    },
+    {
+      "number": 7,
+      "groupId": "2013-barker-g1",
+      "stem": "In return for information about other cannabis suppliers, Bill is offered a plea bargain by the prosecution. Which of the following best describes events if Bill accepts the offer?",
+      "images": [],
+      "options": {
+        "A": "Bill must plead not guilty and will be released on bail.",
+        "B": "Bill must plead guilty to the charges and will likely receive a lesser sentence.",
+        "C": "The jury is instructed to find Bill not guilty on some of the charges.",
+        "D": "Bill and his lawyer will negotiate his sentence."
+      },
+      "answer": "B",
+      "answerSource": "paper",
+      "answerNote": "Answer key, PDF p. 21."
+    },
+    {
+      "number": 8,
+      "groupId": "2013-barker-g1",
+      "stem": "In court Ben argues that the cultivation of cannabis was to support his own drug habit. Which of the following is true?",
+      "images": [],
+      "options": {
+        "A": "Ben can raise the defence of necessity.",
+        "B": "Ben can raise the defence of insanity.",
+        "C": "Ben can raise the defence of provocation.",
+        "D": "Ben’s drug habit has no bearing on his guilt."
+      },
+      "answer": "D",
+      "answerSource": "paper",
+      "answerNote": "Answer key, PDF p. 21."
+    },
+    {
+      "number": 9,
+      "groupId": null,
+      "stem": "The Antarctic Treaty forbids mining in Antarctica. The US, a signatory to the Treaty, decides to commence drilling for oil in Antarctica. Australia disputes this action and refers the matter to the UN. In which court would this dispute be heard?",
+      "images": [],
+      "options": {
+        "A": "The International Court of Justice",
+        "B": "The International Criminal Court",
+        "C": "The Security Council",
+        "D": "The Human Rights Council"
+      },
+      "answer": "A",
+      "answerSource": "paper",
+      "answerNote": "Answer key, PDF p. 21."
+    },
+    {
+      "number": 10,
+      "groupId": null,
+      "stem": "Amir, a Malaysian citizen, is wanted in Australia to face charges of people smuggling. He is arrested in a Malay fishing village by local authorities. Which of the following statements is true?",
+      "images": [],
+      "options": {
+        "A": "Amir should be released from custody because the arrest occurred outside the Australian jurisdiction.",
+        "B": "Australian police can immediately travel to Malaysia, arrest Amir and return him to Australia.",
+        "C": "Australian police must make an application in a Malaysian court to obtain permission to return Amir to Australia.",
+        "D": "Amir will be tried in the International Criminal Court."
+      },
+      "answer": "C",
+      "answerSource": "paper",
+      "answerNote": "Answer key, PDF p. 21."
+    },
+    {
+      "number": 11,
+      "groupId": null,
+      "stem": "The right to work is protected under which international law?",
+      "images": [],
+      "options": {
+        "A": "International Covenant on Economic, Social and Cultural Rights",
+        "B": "International Covenant on Civil and Political Rights",
+        "C": "The Slavery Convention",
+        "D": "The Convention on the Rights of the Child"
+      },
+      "answer": "A",
+      "answerSource": "paper",
+      "answerNote": "Answer key, PDF p. 21."
+    },
+    {
+      "number": 12,
+      "groupId": null,
+      "stem": "Which of the following does legal aid in NSW attempt to achieve?",
+      "images": [],
+      "options": {
+        "A": "Accessibility",
+        "B": "Self-representation",
+        "C": "Prevention of discrimination",
+        "D": "Employment of public defenders"
+      },
+      "answer": "A",
+      "answerSource": "paper",
+      "answerNote": "Answer key, PDF p. 21."
+    },
+    {
+      "number": 13,
+      "groupId": null,
+      "stem": "The Prime Minister of Australia signs a new international law aimed at abolishing the use of the internet for the distribution of child pornography. When does this law apply in Australia?",
+      "images": [],
+      "options": {
+        "A": "As a signatory to the law, it automatically applies in Australia",
+        "B": "When it is passed by referendum",
+        "C": "When the High Court approves it",
+        "D": "When the Parliament passes laws which reflect the intent of the law"
+      },
+      "answer": "D",
+      "answerSource": "paper",
+      "answerNote": "Answer key, PDF p. 21."
+    },
+    {
+      "number": 14,
+      "groupId": null,
+      "stem": "The NSW Council of Civil Liberties is best described as what type of organisation?",
+      "images": [],
+      "options": {
+        "A": "An intergovernmental organisation",
+        "B": "A tribunal",
+        "C": "A statutory authority",
+        "D": "A non-government organisation"
+      },
+      "answer": "D",
+      "answerSource": "paper",
+      "answerNote": "Answer key, PDF p. 21."
+    },
+    {
+      "number": 15,
+      "groupId": null,
+      "stem": "Which of the following statements is considered an argument against the passing of an Australian Human Rights Act?",
+      "images": [],
+      "options": {
+        "A": "It would require approval by the United Nations which is costly and time consuming.",
+        "B": "It is too difficult to pass as it needs a majority of voters in a majority of States.",
+        "C": "It transfers power from the legislature to unelected members of the judiciary.",
+        "D": "It would quickly become outdated."
+      },
+      "answer": "C",
+      "answerSource": "paper",
+      "answerNote": "Answer key, PDF p. 21."
+    },
+    {
+      "number": 16,
+      "groupId": null,
+      "stem": "Monty is given a two year suspended sentence for assault. What circumstances are associated with such a sentence?",
+      "images": [],
+      "options": {
+        "A": "Monty is allowed to live at home during weekdays and must attend prison on weekends.",
+        "B": "Monty must perform compulsory supervised work in the community for up to 500 hours.",
+        "C": "Monty is issued with a caution and would face more serious penalties if he re-offends.",
+        "D": "Monty is placed on a good behaviour bond and must obey the conditions of the bond or risk being sent to jail."
+      },
+      "answer": "D",
+      "answerSource": "paper",
+      "answerNote": "Answer key, PDF p. 21."
+    },
+    {
+      "number": 17,
+      "groupId": null,
+      "stem": "Isaac is 15 years old and has been arrested and charged with armed robbery. Which statement is correct about Isaac’s trial?",
+      "images": [],
+      "options": {
+        "A": "If found guilty, Isaac is responsible for the crime but may not have a conviction recorded.",
+        "B": "The Judge will dismiss the charges as Isaac is not able to be charged with a crime.",
+        "C": "Isaac’s identity is kept secret from the jury.",
+        "D": "The prosecution must first prove beyond a reasonable doubt that Isaac knew the act was wrong."
+      },
+      "answer": "A",
+      "answerSource": "paper",
+      "answerNote": "Answer key, PDF p. 21."
+    },
+    {
+      "number": 18,
+      "groupId": null,
+      "stem": "Who can appeal a sentence?",
+      "images": [],
+      "options": {
+        "A": "Both the defence and the prosecution",
+        "B": "The prosecution only",
+        "C": "The defence only",
+        "D": "The victim"
+      },
+      "answer": "A",
+      "answerSource": "paper",
+      "answerNote": "Answer key, PDF p. 21."
+    },
+    {
+      "number": 19,
+      "groupId": null,
+      "stem": "Which statement is true about sentencing in NSW?",
+      "images": [],
+      "options": {
+        "A": "Minimum sentences have been determined in legislation.",
+        "B": "Maximum sentences have been set in legislation.",
+        "C": "Judges must follow judicial guidelines.",
+        "D": "The jury recommends sentences to the judge."
+      },
+      "answer": "B",
+      "answerSource": "paper",
+      "answerNote": "Answer key, PDF p. 21."
+    },
+    {
+      "number": 20,
+      "groupId": null,
+      "stem": "Which of the following is an example of situational crime prevention?",
+      "images": [],
+      "options": {
+        "A": "Literacy programs for disadvantaged children",
+        "B": "Increased funding for on the job skills training",
+        "C": "Drug and alcohol rehabilitation",
+        "D": "Encryption of computer data"
+      },
+      "answer": "D",
+      "answerSource": "paper",
+      "answerNote": "Answer key, PDF p. 21."
+    }
+  ]
+}

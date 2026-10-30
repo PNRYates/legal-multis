@@ -1,0 +1,313 @@
+{
+  "id": "2017-hsc",
+  "year": 2017,
+  "school": "HSC",
+  "kind": "hsc",
+  "title": "2017 HSC Legal Studies",
+  "sourceFile": "2017 HSC Legal Studies.pdf",
+  "answerStatus": "all-verified",
+  "notes": "Section I contains 20 multiple-choice questions. The supplied PDF has no answer key or marking guidelines.",
+  "groups": [],
+  "questions": [
+    {
+      "number": 1,
+      "groupId": null,
+      "stem": "What is the standard of proof in a criminal case?",
+      "images": [],
+      "options": {
+        "A": "Mens rea",
+        "B": "Actus reus",
+        "C": "Beyond reasonable doubt",
+        "D": "On the balance of probabilities"
+      },
+      "answer": "C",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2017-hsc-mg-legal-studies.pdf"
+    },
+    {
+      "number": 2,
+      "groupId": null,
+      "stem": "What is the primary function of a judge in the adversarial system?",
+      "images": [],
+      "options": {
+        "A": "To question the witnesses",
+        "B": "To present the case to the jury",
+        "C": "To decide what evidence can be admitted",
+        "D": "To investigate the crime and gather all the facts of a case"
+      },
+      "answer": "C",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2017-hsc-mg-legal-studies.pdf"
+    },
+    {
+      "number": 3,
+      "groupId": null,
+      "stem": "A person is sentenced to imprisonment for a period of five years. The person thinks the sentence is too long and decides to appeal.\nWhat type of appeal can this best be described as?",
+      "images": [],
+      "options": {
+        "A": "Appeal against bias",
+        "B": "Appeal against severity",
+        "C": "Appeal on a point of law",
+        "D": "Appeal on the conviction"
+      },
+      "answer": "B",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2017-hsc-mg-legal-studies.pdf"
+    },
+    {
+      "number": 4,
+      "groupId": null,
+      "stem": "Which of the following describes the fundamental principles of human rights?",
+      "images": [],
+      "options": {
+        "A": "Universal and alienable",
+        "B": "Universal and inalienable",
+        "C": "Guaranteed and alienable",
+        "D": "Guaranteed and inalienable"
+      },
+      "answer": "B",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2017-hsc-mg-legal-studies.pdf"
+    },
+    {
+      "number": 5,
+      "groupId": null,
+      "stem": "What is the role of the Director of Public Prosecutions?",
+      "images": [],
+      "options": {
+        "A": "To appoint defence barristers",
+        "B": "To assign a judge to hear a case",
+        "C": "To appoint a jury for a trial of an accused person",
+        "D": "To review the charges against an accused person"
+      },
+      "answer": "D",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2017-hsc-mg-legal-studies.pdf"
+    },
+    {
+      "number": 6,
+      "groupId": null,
+      "stem": "Who would usually issue an arrest warrant?",
+      "images": [],
+      "options": {
+        "A": "The police",
+        "B": "The Premier",
+        "C": "A judicial officer",
+        "D": "The Attorney-General"
+      },
+      "answer": "C",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2017-hsc-mg-legal-studies.pdf"
+    },
+    {
+      "number": 7,
+      "groupId": null,
+      "stem": "Aberia is a colony of Belinia. Aberia wants to form an independent nation.\nThis situation is an example of which type of right?",
+      "images": [],
+      "options": {
+        "A": "Collective",
+        "B": "Environmental",
+        "C": "Peace",
+        "D": "Positive"
+      },
+      "answer": "A",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2017-hsc-mg-legal-studies.pdf"
+    },
+    {
+      "number": 8,
+      "groupId": null,
+      "stem": "Human rights are best protected in Australia when they are",
+      "images": [],
+      "options": {
+        "A": "subject to media attention.",
+        "B": "incorporated into legislation.",
+        "C": "incorporated into the common law.",
+        "D": "supported by non-government organisations."
+      },
+      "answer": "B",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2017-hsc-mg-legal-studies.pdf"
+    },
+    {
+      "number": 9,
+      "groupId": null,
+      "stem": "A sixteen-year-old person has been found in possession of a can of spray-paint.\nWhich of the following describes this category of offence?",
+      "images": [],
+      "options": {
+        "A": "Preliminary",
+        "B": "Public order",
+        "C": "White collar",
+        "D": "Strict liability"
+      },
+      "answer": "D",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2017-hsc-mg-legal-studies.pdf"
+    },
+    {
+      "number": 10,
+      "groupId": null,
+      "stem": "Jordan commits a serious criminal offence. Derek then helps Jordan conceal this offence.\nWhich offence has Derek committed?",
+      "images": [],
+      "options": {
+        "A": "Accessory after the fact",
+        "B": "Accessory before the fact",
+        "C": "Principal in the first degree",
+        "D": "Principal in the second degree"
+      },
+      "answer": "A",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2017-hsc-mg-legal-studies.pdf"
+    },
+    {
+      "number": 11,
+      "groupId": null,
+      "stem": "A local council is considering the installation of closed circuit television (CCTV) in a car park to deter criminal activity.\nWhat is this an example of?",
+      "images": [],
+      "options": {
+        "A": "Law enforcement",
+        "B": "Situational policing",
+        "C": "Social crime prevention",
+        "D": "Situational crime prevention"
+      },
+      "answer": "D",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2017-hsc-mg-legal-studies.pdf"
+    },
+    {
+      "number": 12,
+      "groupId": null,
+      "stem": "Which type of hearing establishes if there is a prima facie case?",
+      "images": [],
+      "options": {
+        "A": "Appeal",
+        "B": "Committal",
+        "C": "Coronial",
+        "D": "Summary"
+      },
+      "answer": "B",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2017-hsc-mg-legal-studies.pdf"
+    },
+    {
+      "number": 13,
+      "groupId": null,
+      "stem": "A former police officer is convicted of a crime and requests to be placed in protective custody.\nWhat is this an example of?",
+      "images": [],
+      "options": {
+        "A": "Restorative justice",
+        "B": "Continued detention",
+        "C": "Preventative detention",
+        "D": "Post-sentencing considerations"
+      },
+      "answer": "D",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2017-hsc-mg-legal-studies.pdf"
+    },
+    {
+      "number": 14,
+      "groupId": null,
+      "stem": "A person is charged with an offence of using obscene language.\nIn which court will the trial most likely take place?",
+      "images": [],
+      "options": {
+        "A": "Coroner’s",
+        "B": "District",
+        "C": "Local",
+        "D": "Supreme"
+      },
+      "answer": "C",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2017-hsc-mg-legal-studies.pdf"
+    },
+    {
+      "number": 15,
+      "groupId": null,
+      "stem": "The role of the International Court of Justice is to hear",
+      "images": [],
+      "options": {
+        "A": "the most serious international crimes.",
+        "B": "disputes between nation states and issue advice.",
+        "C": "cases involving human rights abuses brought by individuals.",
+        "D": "cases involving human rights abuses brought by non-member states."
+      },
+      "answer": "B",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2017-hsc-mg-legal-studies.pdf"
+    },
+    {
+      "number": 16,
+      "groupId": null,
+      "stem": "A country has been criticised by the United Nations for using capital punishment.\nWhich of the following allows the country to ignore this criticism?",
+      "images": [],
+      "options": {
+        "A": "State sovereignty",
+        "B": "Self-determination",
+        "C": "Division of powers",
+        "D": "Separation of powers"
+      },
+      "answer": "A",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2017-hsc-mg-legal-studies.pdf"
+    },
+    {
+      "number": 17,
+      "groupId": null,
+      "stem": "Why does the Director of Public Prosecutions issue Prosecution Guidelines?",
+      "images": [],
+      "options": {
+        "A": "To assist a magistrate to reach an informed decision",
+        "B": "To reduce the costs involved in running a defence case",
+        "C": "To help prosecution barristers to make a legal aid application",
+        "D": "To guide prosecutors and inform the public about actions taken in its name"
+      },
+      "answer": "D",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2017-hsc-mg-legal-studies.pdf"
+    },
+    {
+      "number": 18,
+      "groupId": null,
+      "stem": "Which of the following can be used as a partial defence?",
+      "images": [],
+      "options": {
+        "A": "Accident",
+        "B": "Insanity",
+        "C": "Necessity",
+        "D": "Self defence"
+      },
+      "answer": "D",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2017-hsc-mg-legal-studies.pdf"
+    },
+    {
+      "number": 19,
+      "groupId": null,
+      "stem": "A person is arrested for possession of illegal drugs.\nWhich of the following will definitely increase the possibility of bail being granted?",
+      "images": [],
+      "options": {
+        "A": "The accused is a minor",
+        "B": "The criminal history of the accused",
+        "C": "The accused intends to plead guilty",
+        "D": "The accused has legal representation"
+      },
+      "answer": "A",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2017-hsc-mg-legal-studies.pdf"
+    },
+    {
+      "number": 20,
+      "groupId": null,
+      "stem": "New legislation proposes mandatory sentencing. A judge comments that the proposed legislation challenges judicial discretion.\nThe judge is able to make these comments based on which legal principle?",
+      "images": [],
+      "options": {
+        "A": "Precedent",
+        "B": "Ratio decidendi",
+        "C": "Division of power",
+        "D": "Separation of powers"
+      },
+      "answer": "D",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2017-hsc-mg-legal-studies.pdf"
+    }
+  ]
+}

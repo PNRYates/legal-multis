@@ -1,0 +1,315 @@
+{
+  "id": "2022-pymble-trial",
+  "year": 2022,
+  "school": "Pymble",
+  "kind": "trial",
+  "title": "2022 Pymble Legal Studies Trial",
+  "sourceFile": "2022 Pymble Legal Studies Trial.pdf",
+  "answerStatus": "none-found",
+  "notes": "No answer key is included in the supplied paper; answers are reasoned guesses. Question 6 uses a cropped image stimulus.",
+  "groups": [],
+  "questions": [
+    {
+      "number": 1,
+      "groupId": null,
+      "stem": "Which of the following is an example of a social crime prevention method?",
+      "images": [],
+      "options": {
+        "A": "CCTV cameras",
+        "B": "Electronic tags on clothing",
+        "C": "Keeping supporters of rival teams on opposite sides of the field",
+        "D": "A domestic violence anger management course"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "A behaviour-change program addresses social causes of offending."
+    },
+    {
+      "number": 2,
+      "groupId": null,
+      "stem": "During sentencing, a judge makes the following remarks to the offender: “This sentence should serve as a warning to you”\n\nWhich purpose of punishment is the judge aiming to achieve?",
+      "images": [],
+      "options": {
+        "A": "Specific deterrence",
+        "B": "General deterrence",
+        "C": "Diversionary programs",
+        "D": "Retribution"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "A warning directed to this offender aims at specific deterrence."
+    },
+    {
+      "number": 3,
+      "groupId": null,
+      "stem": "Which of the following refers to a non-parole period?",
+      "images": [],
+      "options": {
+        "A": "A period of imprisonment where parole cannot be granted",
+        "B": "A non-definite period of imprisonment where parole cannot be granted",
+        "C": "A period of imprisonment where parole can be granted",
+        "D": "The period after the mandatory minimum sentence has been served"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "The non-parole period is the minimum term during which parole is unavailable."
+    },
+    {
+      "number": 4,
+      "groupId": null,
+      "stem": "Indiyah swung around quickly such that you thought she was going to give you a “light punch.” You reacted by punching Indiyah in the face on the right-hand side. This punch proved to be fatal.\n\nWhat category of crime is this an example of?",
+      "images": [],
+      "options": {
+        "A": "One punch laws",
+        "B": "Public order offences",
+        "C": "Offences against the person",
+        "D": "Preliminary offences"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "A fatal assault is an offence against the person."
+    },
+    {
+      "number": 5,
+      "groupId": null,
+      "stem": "Paige is convicted of armed robbery. The Director of Public Prosecutions is now seeking to have the severity of the sentence increased to better reflect community standards. Which court will hear the appeal?",
+      "images": [],
+      "options": {
+        "A": "High Court",
+        "B": "Court of Criminal Appeal",
+        "C": "Supreme Court",
+        "D": "District Court"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "The Court of Criminal Appeal hears prosecution appeals against sentence for serious indictable matters."
+    },
+    {
+      "number": 6,
+      "groupId": null,
+      "stem": "What human right is being promoted?",
+      "images": [
+        "img/2022-pymble-trial/q6.png"
+      ],
+      "options": {
+        "A": "Universal suffrage",
+        "B": "Climate",
+        "C": "Peace",
+        "D": "Environmental"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Image is a 'Climate Act Now' rally with bushfire imagery; The right promoted is the environmental (collective) right. B 'Climate' is not a recognised human right, so D is preferred, though a marker could argue B."
+    },
+    {
+      "number": 7,
+      "groupId": null,
+      "stem": "What are police most likely to do if a crime is committed and the offender flees the country?",
+      "images": [],
+      "options": {
+        "A": "They will send police overseas to search for the offender",
+        "B": "Nothing due to state sovereignty",
+        "C": "Contact the International Criminal Court to investigate the crime",
+        "D": "Seek an extradition order"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Extradition is the legal process for returning a suspect or offender from another country."
+    },
+    {
+      "number": 8,
+      "groupId": null,
+      "stem": "Zach is offered a charge negotiation in return for information about other participants in the crime. Which of the following best explains the charge negotiation process?",
+      "images": [],
+      "options": {
+        "A": "All charges will be dropped and Zach will be released",
+        "B": "Zach will plead not guilty and will be allowed to go free",
+        "C": "Zach will plead guilty and the jury will pass sentence",
+        "D": "Zach will plead guilty and the judge will likely pass a lesser sentence in return"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Charge negotiations usually involve a guilty plea and may result in a sentencing discount."
+    },
+    {
+      "number": 9,
+      "groupId": null,
+      "stem": "Which of the following punishments is considered the most severe?",
+      "images": [],
+      "options": {
+        "A": "Periodic detention",
+        "B": "Community Corrections Order",
+        "C": "Conditional Release Order",
+        "D": "Intensive Corrections Order"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "An Intensive Corrections Order is the most restrictive community-based sentence listed."
+    },
+    {
+      "number": 10,
+      "groupId": null,
+      "stem": "Which of the following best protects young people during the criminal investigation process?",
+      "images": [],
+      "options": {
+        "A": "A specialised Children’s Court",
+        "B": "Having free access to Legal Aid until 21 years old",
+        "C": "A support person must be present during interrogation",
+        "D": "The prosecution can rebut doli incapax"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "A child suspect is generally entitled to have a responsible adult present during questioning."
+    },
+    {
+      "number": 11,
+      "groupId": null,
+      "stem": "Is the International Covenant on Civil and Political Rights enforceable?",
+      "images": [],
+      "options": {
+        "A": "No. It is a guideline document for nation states to follow",
+        "B": "No. It only applies to those states who have signed the UDHR.",
+        "C": "Yes. Nation states are required to sign and ratify it",
+        "D": "Yes. It can be enforced as it applies to all states who have signed and ratified it"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "The ICCPR is a treaty that is binding on states that have ratified it, so D; A and C are wrong in saying it is merely a guideline or that ratification is compulsory. Domestic enforceability still depends on implementing legislation, so no option is perfect."
+    },
+    {
+      "number": 12,
+      "groupId": null,
+      "stem": "Afia is not an Australian citizen. She has finished a 2-year prison sentence in a NSW jail. Which of the following is true?",
+      "images": [],
+      "options": {
+        "A": "Afia cannot be deported",
+        "B": "The NSW Parliament must authorise Afia’s deportation",
+        "C": "The Minister for Immigration can order Afia’s deportation",
+        "D": "Afia must agree to be deported"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "Federal migration law allows the responsible Minister to cancel a non-citizen’s visa and enable removal."
+    },
+    {
+      "number": 13,
+      "groupId": null,
+      "stem": "20-year-old Luca is facing court on a charge of car theft. Can the Children’s Court hear this matter?",
+      "images": [],
+      "options": {
+        "A": "No. Luca is 20 years old",
+        "B": "No, unless he pleads guilty",
+        "C": "Yes, if he was under 18 at the time the offence was committed",
+        "D": "Yes, because Luca was living with his parents at the time of the offence"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "Children’s Court jurisdiction can depend on the accused’s age when the offence was committed."
+    },
+    {
+      "number": 14,
+      "groupId": null,
+      "stem": "Human rights are said to be inherent. What is the meaning of this?",
+      "images": [],
+      "options": {
+        "A": "That human rights exist from birth",
+        "B": "That human rights apply to everyone",
+        "C": "That human rights cannot be taken away",
+        "D": "That no human right is more important than any other"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "'Inherent' means rights belong to people from birth by virtue of being human (A). C (inalienable) is the other plausible reading, but that is a separate characteristic."
+    },
+    {
+      "number": 15,
+      "groupId": null,
+      "stem": "Which of the following elements of the criminal investigation process is in the correct order (first to last)?",
+      "images": [],
+      "options": {
+        "A": "Arrest, gathering evidence, bail, charge",
+        "B": "Reporting, gathering evidence, charge, bail",
+        "C": "Charge, arrest, gathering evidence, bail",
+        "D": "Search, interrogation, bail, arrest"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "A crime is reported, investigated, charged, and then bail is determined."
+    },
+    {
+      "number": 16,
+      "groupId": null,
+      "stem": "Which of the following statements is true about a jury’s verdict?",
+      "images": [],
+      "options": {
+        "A": "A jury must return a unanimous verdict",
+        "B": "Only 10 of the 12 jurors have to agree with the verdict",
+        "C": "A jury can return a majority verdict after 8 hours of deliberation.",
+        "D": "A judge must direct that a majority verdict is possible before the jury retires"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "NSW permits majority verdicts in eligible cases after jurors have deliberated for the required period."
+    },
+    {
+      "number": 17,
+      "groupId": null,
+      "stem": "Remi raises evidence at his trial for manslaughter that he has a mental illness. How would this defence be dealt with in court?",
+      "images": [],
+      "options": {
+        "A": "Remi must prove it on the balance of probabilities",
+        "B": "The evidence could only be used if the Prosecution agrees",
+        "C": "The judge must give the jury a warning that the evidence may not be reliable",
+        "D": "The Prosecution would only have to prove the mens rea on the balance of probabilities"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "The accused bears the burden of proving a mental illness defence on the balance of probabilities."
+    },
+    {
+      "number": 18,
+      "groupId": null,
+      "stem": "Which of the following is an example of a collective right?",
+      "images": [],
+      "options": {
+        "A": "The right to join a trade union",
+        "B": "Self determination",
+        "C": "The right to vote",
+        "D": "The right to education"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "Self-determination is exercised collectively by a people or nation."
+    },
+    {
+      "number": 19,
+      "groupId": null,
+      "stem": "Jay is 15 years old and has been suspected of carrying drugs into a music festival. Police intend to conduct a strip search. Does Jay have the right to resist a strip search?",
+      "images": [],
+      "options": {
+        "A": "Yes, a responsible adult must be present",
+        "B": "Yes, police need a warrant to conduct a strip search",
+        "C": "No, he must follow the orders of the police officer",
+        "D": "No, NSW police can conduct strip searches at any time"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "For a child, a strip search generally requires a support person unless exceptional urgency applies."
+    },
+    {
+      "number": 20,
+      "groupId": null,
+      "stem": "Davide has been fired from his job without reason. Which is true regarding his labour rights?",
+      "images": [],
+      "options": {
+        "A": "Davide’s trade union has the power to enforce his human rights",
+        "B": "Davide’s trade union can further his interests but has no legal power",
+        "C": "The International Labour Organisation governs Davide’s workplace rights",
+        "D": "The Universal Declaration of Human Rights ensures that Davide will get his job back."
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "A trade union can advocate for members but does not itself hold legal enforcement power over their rights."
+    }
+  ]
+}

@@ -1,0 +1,313 @@
+{
+  "id": "2023-fort-st-trial",
+  "year": 2023,
+  "school": "Fort St",
+  "kind": "trial",
+  "title": "2023 Fort St Legal Studies Trial",
+  "sourceFile": "2023 Fort St Legal Studies Trial.pdf",
+  "answerStatus": "all-verified",
+  "notes": "The paper includes the multiple-choice answer key in its marking guidelines.",
+  "groups": [],
+  "questions": [
+    {
+      "number": 1,
+      "groupId": null,
+      "stem": "Federal Parliament passes a law banning the use of plastic bags.\n\nWhich of the following human rights is being protected?",
+      "images": [],
+      "options": {
+        "A": "Environmental rights",
+        "B": "Peace rights",
+        "C": "Self-determination",
+        "D": "Universal suffrage"
+      },
+      "answer": "A",
+      "answerSource": "paper",
+      "answerNote": "Answer key in 2023 Trial HSC Legal Studies Exam Marking Guidelines, PDF page 21."
+    },
+    {
+      "number": 2,
+      "groupId": null,
+      "stem": "Who bears the burden of proof in a criminal trial in the Supreme Court?",
+      "images": [],
+      "options": {
+        "A": "Magistrate",
+        "B": "Judge",
+        "C": "Jury",
+        "D": "Director of Public Prosecution"
+      },
+      "answer": "D",
+      "answerSource": "paper",
+      "answerNote": "Answer key in 2023 Trial HSC Legal Studies Exam Marking Guidelines, PDF page 21."
+    },
+    {
+      "number": 3,
+      "groupId": null,
+      "stem": "Zeke receives a suspended sentence for committing a serious assault on Beth.\n\nWho would be most likely to appeal this sentence?",
+      "images": [],
+      "options": {
+        "A": "Judge",
+        "B": "Jury",
+        "C": "Director of Public Prosecution",
+        "D": "Public Defender"
+      },
+      "answer": "C",
+      "answerSource": "paper",
+      "answerNote": "Answer key in 2023 Trial HSC Legal Studies Exam Marking Guidelines, PDF page 21."
+    },
+    {
+      "number": 4,
+      "groupId": null,
+      "stem": "Which of the following purposes of punishment is achieved by diversionary programs?",
+      "images": [],
+      "options": {
+        "A": "Incapacitation",
+        "B": "Retribution",
+        "C": "Rehabilitation",
+        "D": "Deterrence"
+      },
+      "answer": "C",
+      "answerSource": "paper",
+      "answerNote": "Answer key in 2023 Trial HSC Legal Studies Exam Marking Guidelines, PDF page 21."
+    },
+    {
+      "number": 5,
+      "groupId": null,
+      "stem": "Which of the following is an argument against entrenching a Charter of Rights in the Australian Constitution?",
+      "images": [],
+      "options": {
+        "A": "It could be easily amended by Parliament",
+        "B": "It would promote a culture of respect for human rights in Australia",
+        "C": "It may be expensive to introduce",
+        "D": "It could never be amended"
+      },
+      "answer": "C",
+      "answerSource": "paper",
+      "answerNote": "Answer key in 2023 Trial HSC Legal Studies Exam Marking Guidelines, PDF page 21."
+    },
+    {
+      "number": 6,
+      "groupId": null,
+      "stem": "Which of the following is a mitigating factor in the sentencing of an offender?",
+      "images": [],
+      "options": {
+        "A": "The offender used a weapon",
+        "B": "The victim provoked the offender",
+        "C": "The offender has a record of previous convictions",
+        "D": "The victim was elderly"
+      },
+      "answer": "B",
+      "answerSource": "paper",
+      "answerNote": "Answer key in 2023 Trial HSC Legal Studies Exam Marking Guidelines, PDF page 21."
+    },
+    {
+      "number": 7,
+      "groupId": null,
+      "stem": "Which of the following is a situational crime prevention strategy?",
+      "images": [],
+      "options": {
+        "A": "A local charity introduces a reading program for teenagers",
+        "B": "A local council installs better lighting in a public park",
+        "C": "A magistrate sentences an offender to imprisonment",
+        "D": "A magistrate sentences an offender to a rehabilitation program"
+      },
+      "answer": "B",
+      "answerSource": "paper",
+      "answerNote": "Answer key in 2023 Trial HSC Legal Studies Exam Marking Guidelines, PDF page 21."
+    },
+    {
+      "number": 8,
+      "groupId": null,
+      "stem": "Richie is 10 years old. He assaults a person at a local shopping centre.\n\nWhich of the following statements is correct?",
+      "images": [],
+      "options": {
+        "A": "Richie has committed a public order offence",
+        "B": "Richie cannot be found guilty of a crime",
+        "C": "Richie can be found guilty of a crime",
+        "D": "Richie has committed a strict liability offence"
+      },
+      "answer": "C",
+      "answerSource": "paper",
+      "answerNote": "Answer key in 2023 Trial HSC Legal Studies Exam Marking Guidelines, PDF page 21."
+    },
+    {
+      "number": 9,
+      "groupId": null,
+      "stem": "Which of the following is a partial defence to an offence against the person?",
+      "images": [],
+      "options": {
+        "A": "Doli incapax",
+        "B": "Self defence",
+        "C": "Ignorance of the law",
+        "D": "Extreme provocation"
+      },
+      "answer": "D",
+      "answerSource": "paper",
+      "answerNote": "Answer key in 2023 Trial HSC Legal Studies Exam Marking Guidelines, PDF page 21."
+    },
+    {
+      "number": 10,
+      "groupId": null,
+      "stem": "Which of the following best describes the widespread or systematic murder of a civilian population?",
+      "images": [],
+      "options": {
+        "A": "Crimes against humanity",
+        "B": "Aggression",
+        "C": "Genocide",
+        "D": "War crimes"
+      },
+      "answer": "A",
+      "answerSource": "paper",
+      "answerNote": "Answer key in 2023 Trial HSC Legal Studies Exam Marking Guidelines, PDF page 21."
+    },
+    {
+      "number": 11,
+      "groupId": null,
+      "stem": "Trinity has been charged with committing a serious indictable offence.\n\nWhich of the following statements is correct?",
+      "images": [],
+      "options": {
+        "A": "Trinity will be refused bail",
+        "B": "Trinity may be refused bail",
+        "C": "Trinity will be granted bail",
+        "D": "Trinity cannot rely on self-defence as a complete defence to this charge"
+      },
+      "answer": "B",
+      "answerSource": "paper",
+      "answerNote": "Answer key in 2023 Trial HSC Legal Studies Exam Marking Guidelines, PDF page 21."
+    },
+    {
+      "number": 12,
+      "groupId": null,
+      "stem": "Which of the following best ensures the protection of human rights in Australia?",
+      "images": [],
+      "options": {
+        "A": "Ratification of an international human rights treaty",
+        "B": "A media investigation into human rights abuses occurring in Australia",
+        "C": "Enactment of Federal human rights legislation",
+        "D": "An Australian non-government organisation offering support to victims of human rights abuses"
+      },
+      "answer": "C",
+      "answerSource": "paper",
+      "answerNote": "Answer key in 2023 Trial HSC Legal Studies Exam Marking Guidelines, PDF page 21."
+    },
+    {
+      "number": 13,
+      "groupId": null,
+      "stem": "Which of the following is not a role of a jury in a criminal trial?",
+      "images": [],
+      "options": {
+        "A": "To apply the law as directed by the judge",
+        "B": "To decide whether the accused is guilty or not guilty",
+        "C": "To attend the scene of the crime if directed",
+        "D": "To participate in the sentencing process"
+      },
+      "answer": "C",
+      "answerSource": "paper",
+      "answerNote": "Answer key in 2023 Trial HSC Legal Studies Exam Marking Guidelines, PDF page 21."
+    },
+    {
+      "number": 14,
+      "groupId": null,
+      "stem": "Bree, who is 15 years old, has been charged with a summary offence.\n\nWhich of the following statements is correct?",
+      "images": [],
+      "options": {
+        "A": "Bree is not eligible to participate in a Youth Justice Conference",
+        "B": "Bree may be eligible to participate in a Youth Justice Conference",
+        "C": "Bree may be eligible to participate in Circle Sentencing",
+        "D": "Bree may be eligible to participate in Forum Sentencing"
+      },
+      "answer": "B",
+      "answerSource": "paper",
+      "answerNote": "Answer key in 2023 Trial HSC Legal Studies Exam Marking Guidelines, PDF page 21."
+    },
+    {
+      "number": 15,
+      "groupId": null,
+      "stem": "When a judge is deciding the punishment of an offender, which of the following represents the main objectives they may be trying to achieve?",
+      "images": [],
+      "options": {
+        "A": "Retribution, rehabilitation, deterrence and incapacitation",
+        "B": "Rehabilitation, retribution, reintegration in the community and incapacitation",
+        "C": "Retribution, rehabilitation, capital punishment and incapacitation",
+        "D": "Rehabilitation, retribution, behaviour modification and incapacitation"
+      },
+      "answer": "A",
+      "answerSource": "paper",
+      "answerNote": "Answer key in 2023 Trial HSC Legal Studies Exam Marking Guidelines, PDF page 21."
+    },
+    {
+      "number": 16,
+      "groupId": null,
+      "stem": "The Australian government decides to ignore a recommendation of the United Nations Human Rights Council.\n\nWhich of the following concepts does this decision best reflect?",
+      "images": [],
+      "options": {
+        "A": "State sovereignty",
+        "B": "Self-determination",
+        "C": "Separation of powers",
+        "D": "Division of power"
+      },
+      "answer": "A",
+      "answerSource": "paper",
+      "answerNote": "Answer key in 2023 Trial HSC Legal Studies Exam Marking Guidelines, PDF page 21."
+    },
+    {
+      "number": 17,
+      "groupId": null,
+      "stem": "Bailey, who is 17, has been charged with theft. He wishes to plead not guilty.\n\nWhich of the following statements is correct?",
+      "images": [],
+      "options": {
+        "A": "Bailey is eligible for Legal Aid",
+        "B": "Bailey is not eligible for Legal Aid",
+        "C": "Bailey’s trial will take place in the Local Court",
+        "D": "Bailey’s trial will take place in the District Court"
+      },
+      "answer": "A",
+      "answerSource": "paper",
+      "answerNote": "Answer key in 2023 Trial HSC Legal Studies Exam Marking Guidelines, PDF page 21."
+    },
+    {
+      "number": 18,
+      "groupId": null,
+      "stem": "Ben helps Di to plan a bank robbery. Di attempts to commit the bank robbery but is unsuccessful.\n\nWhich of the following statements is correct?",
+      "images": [],
+      "options": {
+        "A": "Ben has committed a preliminary crime; Di has committed a white-collar crime",
+        "B": "Ben is an accessory before the fact; Di is an accessory after the fact",
+        "C": "Ben and Di have both committed preliminary crimes",
+        "D": "Ben and Di are both principals in the first degree"
+      },
+      "answer": "C",
+      "answerSource": "paper",
+      "answerNote": "Answer key in 2023 Trial HSC Legal Studies Exam Marking Guidelines, PDF page 21."
+    },
+    {
+      "number": 19,
+      "groupId": null,
+      "stem": "Raynor has been detained by police because it is suspected that he will commit a terrorist act next week.\n\nWhich of the following statements is correct?",
+      "images": [],
+      "options": {
+        "A": "Raynor does not have the right to contact a lawyer",
+        "B": "Raynor is being held in protective custody",
+        "C": "Raynor is being held in continued detention",
+        "D": "Raynor is being held in preventative detention"
+      },
+      "answer": "D",
+      "answerSource": "paper",
+      "answerNote": "Answer key in 2023 Trial HSC Legal Studies Exam Marking Guidelines, PDF page 21."
+    },
+    {
+      "number": 20,
+      "groupId": null,
+      "stem": "Which of the following best represents the concept of the separation of powers?",
+      "images": [],
+      "options": {
+        "A": "The NSW State Parliament and the Federal Parliament both introduce anti-discrimination legislation on the same day",
+        "B": "A District Court judge instructs a jury that they may deliver a majority verdict",
+        "C": "The High Court rules that a piece of Federal legislation is constitutionally invalid",
+        "D": "The NSW Court of Criminal Appeal issues a guideline judgement"
+      },
+      "answer": "C",
+      "answerSource": "paper",
+      "answerNote": "Answer key in 2023 Trial HSC Legal Studies Exam Marking Guidelines, PDF page 21."
+    }
+  ]
+}

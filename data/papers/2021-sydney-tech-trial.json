@@ -1,0 +1,313 @@
+{
+  "id": "2021-sydney-tech-trial",
+  "year": 2021,
+  "school": "Sydney Tech",
+  "kind": "trial",
+  "title": "2021 Sydney Tech Legal Studies Trial",
+  "sourceFile": "2021 Sydney Tech Legal Studies Trial.pdf",
+  "answerStatus": "none-found",
+  "notes": "No answer key was included in the PDF. all answers are reasoned guesses.",
+  "groups": [],
+  "questions": [
+    {
+      "number": 1,
+      "groupId": null,
+      "stem": "Julie, an unemployed single mother, bashes a 90 year old lady and steals her wallet.\n\nWhat is an aggravating factor in sentencing Julie?",
+      "images": [],
+      "options": {
+        "A": "Julie’s economic circumstances",
+        "B": "Julie’s mental capacity",
+        "C": "The age of the victim",
+        "D": "The age of Julie’s children"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "The victim’s advanced age is an aggravating circumstance."
+    },
+    {
+      "number": 2,
+      "groupId": null,
+      "stem": "Harry is charged with murder.\n\nWhat court has original jurisdiction in hearing this case?",
+      "images": [],
+      "options": {
+        "A": "Supreme Court",
+        "B": "Local Court",
+        "C": "District Court",
+        "D": "Supreme Court of Appeal"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Murder is an indictable offence heard at first instance in the Supreme Court."
+    },
+    {
+      "number": 3,
+      "groupId": null,
+      "stem": "Under what process can South Australia Police return Kevin to NSW to face charges of extortion?",
+      "images": [],
+      "options": {
+        "A": "Plea bargaining",
+        "B": "Arrest",
+        "C": "Co-operation between states",
+        "D": "Extradition"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Interstate extradition returns an accused person to the state where the charge is to be heard."
+    },
+    {
+      "number": 4,
+      "groupId": null,
+      "stem": "The Universal Declaration of Human Rights is an example of which of the following?",
+      "images": [],
+      "options": {
+        "A": "International customary law",
+        "B": "Statute law",
+        "C": "International treaty",
+        "D": "International statute"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "The Declaration is not a treaty; Many of its principles are recognised as customary international law."
+    },
+    {
+      "number": 5,
+      "groupId": null,
+      "stem": "Bailey was convicted of having child pornography on his electronic devices. After being sentenced to 5 years imprisonment he was placed in isolation.\n\nWhat is this an example of?",
+      "images": [],
+      "options": {
+        "A": "Post-sentencing decision",
+        "B": "Pre sentencing decision",
+        "C": "Punishment",
+        "D": "Sentencing"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Placement in isolation after sentence is a decision made during the administration of the sentence."
+    },
+    {
+      "number": 6,
+      "groupId": null,
+      "stem": "Some Australian businesses have been underpaying their workers.\n\nWhat is this a breach of?",
+      "images": [],
+      "options": {
+        "A": "The International Covenant on Civil and Political Rights",
+        "B": "The International Covenant on Economic, Social and Cultural Rights",
+        "C": "The constitution",
+        "D": "The right to universal suffrage"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "Fair remuneration and just working conditions are protected under the ICESCR."
+    },
+    {
+      "number": 7,
+      "groupId": null,
+      "stem": "When sentencing a child convicted of a criminal offence, what guidelines do magistrates follow?",
+      "images": [],
+      "options": {
+        "A": "Deterrence is more important than restitution",
+        "B": "A fine should be imposed whenever possible",
+        "C": "A child’s education must never be disrupted",
+        "D": "A custodial sentence as a last resort"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Youth justice principles treat detention as a last resort."
+    },
+    {
+      "number": 8,
+      "groupId": null,
+      "stem": "What is the purpose of circle sentencing?",
+      "images": [],
+      "options": {
+        "A": "Rehabilitation of the accused",
+        "B": "Reduce recidivism in Aboriginal and Torres Strait communities",
+        "C": "Retribution for the victim",
+        "D": "Incapacitation of convicted individuals"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "Circle sentencing is aimed at reducing reoffending in Aboriginal communities (B); Rehabilitation (A) is a weaker second option."
+    },
+    {
+      "number": 9,
+      "groupId": null,
+      "stem": "Peter is charged with murder after he hit his partner over the head with a frying pan. In the past, Peter’s partner had assaulted him on numerous occasions. During his trial, Peter successfully raised a defence and was found guilty of manslaughter.\n\nWhich defence did he raise?",
+      "images": [],
+      "options": {
+        "A": "Provocation",
+        "B": "Aggravation",
+        "C": "Mental illness",
+        "D": "Self defence"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Provocation can reduce a murder conviction to manslaughter; Self-defence would result in acquittal if successful."
+    },
+    {
+      "number": 10,
+      "groupId": null,
+      "stem": "Which organisation has the power to prosecute ISIS for the execution of civilians in Jordan?",
+      "images": [],
+      "options": {
+        "A": "The United Nations Security Council",
+        "B": "The International Court of Justice",
+        "C": "The International Criminal Court",
+        "D": "The International Human Rights Commission"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "The ICC prosecutes individuals for international crimes, subject to its jurisdiction."
+    },
+    {
+      "number": 11,
+      "groupId": null,
+      "stem": "What is the role of the jury in a criminal trial?",
+      "images": [],
+      "options": {
+        "A": "Ask questions of the alleged offender",
+        "B": "Make suggestions about a suitable punishment",
+        "C": "Decide the innocence of the alleged offender",
+        "D": "Decide the guilt of the alleged offender"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "The jury determines guilt; Sentencing is for the judge."
+    },
+    {
+      "number": 12,
+      "groupId": null,
+      "stem": "The role of the UN General Assembly is to hear which of the following cases?",
+      "images": [],
+      "options": {
+        "A": "Domestic issues under international law",
+        "B": "Human right issues brought by individuals",
+        "C": "Disputes between nation states",
+        "D": "Challenges to the rule of law by nation states"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Unsure: the General Assembly debates and recommends on rule-of-law challenges by states (D); Disputes between states (C) are decided by the ICJ."
+    },
+    {
+      "number": 13,
+      "groupId": null,
+      "stem": "Jimmy hacks into the university computer and changes the results of his final year exams.\n\nWhat type of crime did Jimmy commit?",
+      "images": [],
+      "options": {
+        "A": "Public order offence",
+        "B": "Economic offence",
+        "C": "Crimes against the person",
+        "D": "Preliminary offence"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "Computer hacking to alter records is an economic or property related offence."
+    },
+    {
+      "number": 14,
+      "groupId": null,
+      "stem": "Which of the following is an argument in favour of Australia having a Charter of Rights?",
+      "images": [],
+      "options": {
+        "A": "It would give the United Nations more say in Australian legislation",
+        "B": "It would give better legal protection to vulnerable members of our society",
+        "C": "It would balance the community’s rights with their responsibilities",
+        "D": "It would decrease the power of common law in the legal response to social issues"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "A Charter can provide clearer domestic protection for people whose rights are vulnerable."
+    },
+    {
+      "number": 15,
+      "groupId": null,
+      "stem": "What is universal suffrage?",
+      "images": [],
+      "options": {
+        "A": "Right not to be exploited by sovereign states",
+        "B": "Right to live in a healthy environment",
+        "C": "Right to vote in government elections",
+        "D": "Right to a basic level of education"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "Universal suffrage is the right of eligible citizens to vote."
+    },
+    {
+      "number": 16,
+      "groupId": null,
+      "stem": "Which of the following is an example of a transnational crime?",
+      "images": [],
+      "options": {
+        "A": "Selling sex slaves",
+        "B": "Using chemical weapons",
+        "C": "Using child soldiers",
+        "D": "People trafficking"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "People trafficking is the standard transnational crime example. Selling sex slaves (A) could also be transnational, but D is the clearer fit."
+    },
+    {
+      "number": 17,
+      "groupId": null,
+      "stem": "Transport NSW installs CCTV on both manned and unmanned train platforms.\n\nWhat is this an example of?",
+      "images": [],
+      "options": {
+        "A": "Implementation of the Crimes Act 1900",
+        "B": "Situational crime prevention",
+        "C": "Government response to community demands",
+        "D": "Social crime prevention"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "CCTV increases surveillance and changes the opportunity for crime, which is situational prevention."
+    },
+    {
+      "number": 18,
+      "groupId": null,
+      "stem": "A NSW police officer does not issue a fine to two teenagers breaching the NSW COVID-19 stay at home laws.\n\nWhat is this an example of?",
+      "images": [],
+      "options": {
+        "A": "Discretion",
+        "B": "Favouritism",
+        "C": "Corruption",
+        "D": "Crimes against the state"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "An officer choosing whether to take enforcement action is exercising discretion."
+    },
+    {
+      "number": 19,
+      "groupId": null,
+      "stem": "Charles was arrested in Sydney and charged with human trafficking. In which court would this case be heard?",
+      "images": [],
+      "options": {
+        "A": "International Criminal Court",
+        "B": "The Supreme Court of NSW",
+        "C": "The High Court of Australia",
+        "D": "The International Court of Justice"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "Human trafficking is a Commonwealth offence tried in the state courts; The Supreme Court of NSW is the only plausible listed domestic court."
+    },
+    {
+      "number": 20,
+      "groupId": null,
+      "stem": "The police suspect Samantha of carrying a carving knife which was used in an attack. What powers of search and seizure do the police have?",
+      "images": [],
+      "options": {
+        "A": "Search Samantha and confiscate the knife if they have a warrant",
+        "B": "Only search Samantha and confiscate the knife if they arrest her",
+        "C": "Confiscate the knife but not search Samantha without arresting her",
+        "D": "Search Samantha without a warrant and confiscate the knife"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "NSW police may search a person without a warrant where statutory reasonable-suspicion grounds apply and seize evidence found."
+    }
+  ]
+}

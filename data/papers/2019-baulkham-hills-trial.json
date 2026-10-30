@@ -1,0 +1,313 @@
+{
+  "id": "2019-baulkham-hills-trial",
+  "year": 2019,
+  "school": "Baulkham Hills",
+  "kind": "trial",
+  "title": "2019 Baulkham Hills Legal Studies Trial",
+  "sourceFile": "2019 Baulkham Hills Legal Studies Trial.pdf",
+  "answerStatus": "none-found",
+  "notes": "No multiple-choice answer key was found in the paper; no shared stimulus groups or figures appeared in Section I.",
+  "groups": [],
+  "questions": [
+    {
+      "number": 1,
+      "groupId": null,
+      "stem": "What is the legal term for the physical act of committing a crime?",
+      "images": [],
+      "options": {
+        "A": "Mens rea",
+        "B": "Actus reus",
+        "C": "Causation",
+        "D": "Intention"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "Actus reus is the physical element of an offence."
+    },
+    {
+      "number": 2,
+      "groupId": null,
+      "stem": "What is the role of a victim’s impact statement?",
+      "images": [],
+      "options": {
+        "A": "It gives the victim a say in charge bargaining",
+        "B": "It allows the victim to have a say in the sentencing process",
+        "C": "It allows the victim to present written evidence in the determination of guilt",
+        "D": "It allows the victim a say in the determination of evidence"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "A victim impact statement informs sentencing about the offence’s impact on the victim."
+    },
+    {
+      "number": 3,
+      "groupId": null,
+      "stem": "Who has the burden of proof in the Children’s Court?",
+      "images": [],
+      "options": {
+        "A": "Plaintiff",
+        "B": "Defendant",
+        "C": "Prosecution",
+        "D": "Magistrate"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "The prosecution bears the burden of proving the charge."
+    },
+    {
+      "number": 4,
+      "groupId": null,
+      "stem": "Greg is stopped by the police for a random breath test. What must he do?",
+      "images": [],
+      "options": {
+        "A": "He must submit to the breath test",
+        "B": "He does not have to do anything",
+        "C": "He must answer all questions asked by the police",
+        "D": "He must get out of the car"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Drivers are legally required to submit to a random breath test when lawfully requested."
+    },
+    {
+      "number": 5,
+      "groupId": null,
+      "stem": "Ellen is arrested and charged as part of an international drug smuggling ring. What type of crime is this an example of?",
+      "images": [],
+      "options": {
+        "A": "Crime against the person",
+        "B": "Crime against the international community",
+        "C": "War crime",
+        "D": "Transnational crime"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Drug smuggling across national borders is transnational crime."
+    },
+    {
+      "number": 6,
+      "groupId": null,
+      "stem": "Selling alcohol to people under the age of 18 is an example of which type of crime?",
+      "images": [],
+      "options": {
+        "A": "Public order offence",
+        "B": "Preliminary offence",
+        "C": "Strict liability offence",
+        "D": "Drug offence"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "Selling alcohol to minors is a regulatory offence commonly taught as strict liability (C); A (public order offence) is a weaker second option."
+    },
+    {
+      "number": 7,
+      "groupId": null,
+      "stem": "What is the main consideration in determining parole?",
+      "images": [],
+      "options": {
+        "A": "Victim’s rights",
+        "B": "Prisoner’s rights",
+        "C": "Community safety",
+        "D": "The duration of sentence served"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "Parole authorities primarily assess the risk to community safety."
+    },
+    {
+      "number": 8,
+      "groupId": null,
+      "stem": "Which feature distinguishes a summary offence from an indictable offence?",
+      "images": [],
+      "options": {
+        "A": "The seriousness of the offence",
+        "B": "The court which will hear an appeal",
+        "C": "The parties to the crime",
+        "D": "Whether it is a white collar crime"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Summary offences are generally less serious than indictable offences."
+    },
+    {
+      "number": 9,
+      "groupId": null,
+      "stem": "During the criminal investigation process, young offenders are classified as ‘vulnerable people’. What does this mean?",
+      "images": [],
+      "options": {
+        "A": "They can’t be arrested for a serious offence",
+        "B": "They can’t be searched after being arrested",
+        "C": "They can’t be fingerprinted after being arrested",
+        "D": "They can’t be questioned without a support person"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "A young suspect must have a support person present during police questioning."
+    },
+    {
+      "number": 10,
+      "groupId": null,
+      "stem": "How is the truth of the evidence, tested in an adversarial trial?",
+      "images": [],
+      "options": {
+        "A": "Questions from the judge",
+        "B": "Cross examination",
+        "C": "Police statements",
+        "D": "Video evidence"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "Cross-examination tests the reliability and credibility of evidence."
+    },
+    {
+      "number": 11,
+      "groupId": null,
+      "stem": "What is the role of the Public Defender?",
+      "images": [],
+      "options": {
+        "A": "To represent public officials charged with criminal offences",
+        "B": "To represent victims of crime who have legal aid",
+        "C": "To represent police officers in the court of law",
+        "D": "To represent people charged with serious indictable offences who have legal aid"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Public Defenders represent eligible accused people in serious criminal matters."
+    },
+    {
+      "number": 12,
+      "groupId": null,
+      "stem": "Which of the following is a civil and political right?",
+      "images": [],
+      "options": {
+        "A": "The right to life",
+        "B": "The right to work",
+        "C": "The right to an adequate standard of living",
+        "D": "The right to education"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "The right to life is a civil and political right; The others are economic, social and cultural rights."
+    },
+    {
+      "number": 13,
+      "groupId": null,
+      "stem": "The minority Muslim group of a particular country are placed in concentration camps for ‘re-education purposes’. Which human right is being denied?",
+      "images": [],
+      "options": {
+        "A": "The right to education",
+        "B": "The right to privacy",
+        "C": "The right to freedom of religion",
+        "D": "The right to own property"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "The targeting of a Muslim minority for religious identity violates freedom of religion."
+    },
+    {
+      "number": 14,
+      "groupId": null,
+      "stem": "Which of the following defences can lead to an acquittal?",
+      "images": [],
+      "options": {
+        "A": "Provocation",
+        "B": "Panic",
+        "C": "Battered Women Syndrome",
+        "D": "Self-defence"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Self-defence, if established, is a complete defence and results in acquittal."
+    },
+    {
+      "number": 15,
+      "groupId": null,
+      "stem": "Which of the following has the power to prosecute human rights offenders?",
+      "images": [],
+      "options": {
+        "A": "International Court of Justice",
+        "B": "International Criminal Court",
+        "C": "Security Council",
+        "D": "Permanent Court of Arbitration"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "The ICC prosecutes individuals for core international crimes, including crimes against humanity and genocide."
+    },
+    {
+      "number": 16,
+      "groupId": null,
+      "stem": "Which of the following is a true statement about the Declaration of Human Rights?",
+      "images": [],
+      "options": {
+        "A": "It is binding and enforceable on all states under international law",
+        "B": "It is mostly ignored by states",
+        "C": "It is generally accepted statements that have become part of international customary law",
+        "D": "It is ratified by all nations"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "The Universal Declaration itself is not a binding treaty, though many of its principles are customary law."
+    },
+    {
+      "number": 17,
+      "groupId": null,
+      "stem": "JD has been charged with armed robbery and is awaiting his trial. Which of the following would be a reason that JD is held in remand?",
+      "images": [],
+      "options": {
+        "A": "He is deemed an unacceptable risk to the community",
+        "B": "He is under 18 years old",
+        "C": "He is unlikely to reoffend",
+        "D": "He has pleaded not guilty"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "A court may refuse bail and remand an accused considered an unacceptable community risk."
+    },
+    {
+      "number": 18,
+      "groupId": null,
+      "stem": "The fact that human rights cannot be taken away from anyone is an example of which characteristic?",
+      "images": [],
+      "options": {
+        "A": "Fairness",
+        "B": "Equality",
+        "C": "Universal",
+        "D": "Inalienable"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Inalienable rights cannot be surrendered or taken away."
+    },
+    {
+      "number": 19,
+      "groupId": null,
+      "stem": "Sam, who is 30, is charged with stealing from a department store. He has a number of prior convictions. The judge said he has good prospects of rehabilitation. What penalty is he most likely to receive?",
+      "images": [],
+      "options": {
+        "A": "Imprisonment",
+        "B": "An intensive Corrections Order",
+        "C": "A Non-Conviction Order",
+        "D": "A Control Order"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "Prior convictions make a non-conviction order unlikely and a good rehabilitation prospect points to a community-based sentence such as an Intensive Correction Order (B); Imprisonment (A) is the other plausible answer."
+    },
+    {
+      "number": 20,
+      "groupId": null,
+      "stem": "Harry is convicted of murder and appeals to the NSW Court of Criminal Appeal. What outcome will lead to an acquittal of the charges and release from prison?",
+      "images": [],
+      "options": {
+        "A": "An order quashing the conviction",
+        "B": "An order for a retrial before a different judge",
+        "C": "Referral to the Governor",
+        "D": "An order for administrative review"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Quashing the conviction sets it aside and allows release if no other basis for detention exists."
+    }
+  ]
+}

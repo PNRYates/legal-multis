@@ -1,0 +1,323 @@
+{
+  "id": "2018-pymble-trial",
+  "year": 2018,
+  "school": "Pymble",
+  "kind": "trial",
+  "title": "2018 Pymble Legal Studies Trial",
+  "sourceFile": "2018 Pymble Legal Studies Trial.pdf",
+  "answerStatus": "some-guessed",
+  "notes": "The paper includes a printed MCQ answer list on page 15. Questions 2–3 share one textual stimulus; Question 16’s single-use scenario is included in its stem.",
+  "groups": [
+    {
+      "id": "2018-pymble-trial-g1",
+      "questionNumbers": [
+        2,
+        3
+      ],
+      "stimulus": "Cassidy and Grant are charged with the indictable offence of murder. Cassidy enters a guilty plea at the committal hearing.",
+      "images": []
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "groupId": null,
+      "stem": "Which of the following human rights is promoted under the International Covenant on Civil and Political Rights (ICCPR)?",
+      "images": [],
+      "options": {
+        "A": "Peace rights",
+        "B": "Universal suffrage",
+        "C": "Universal education",
+        "D": "Environmental rights"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 2,
+      "groupId": "2018-pymble-trial-g1",
+      "stem": "The committal hearing will be heard in which court?",
+      "images": [],
+      "options": {
+        "A": "Local Court",
+        "B": "District Court",
+        "C": "Supreme Court",
+        "D": "High Court"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "A agrees with the syllabus: committal hearings are held in the Local Court."
+    },
+    {
+      "number": 3,
+      "groupId": "2018-pymble-trial-g1",
+      "stem": "Which of the following is a mitigating factor in sentencing?",
+      "images": [],
+      "options": {
+        "A": "Cassidy used a weapon.",
+        "B": "Cassidy is an alcoholic.",
+        "C": "Cassidy acted in company.",
+        "D": "Cassidy is remorseful."
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 4,
+      "groupId": null,
+      "stem": "Eden fatally assaults Erin. Which of the following defences would lead to a conviction for manslaughter?",
+      "images": [],
+      "options": {
+        "A": "Intoxication",
+        "B": "Mental Illness",
+        "C": "Substantial impairment of responsibility",
+        "D": "Negligence"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 5,
+      "groupId": null,
+      "stem": "After an investigation, Police arrest Millie on charges of terrorism. They decide to hold her in custody for 2 weeks. What is this an example of?",
+      "images": [],
+      "options": {
+        "A": "Continued detention",
+        "B": "Preventative detention",
+        "C": "Protective custody",
+        "D": "Deportation"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 6,
+      "groupId": null,
+      "stem": "Justin attends university and works part time for a fast food chain. His employer is not paying him the correct wage. Which type of international right is being breached in this situation?",
+      "images": [],
+      "options": {
+        "A": "Economic Social and Cultural Right",
+        "B": "Civil and Political Right",
+        "C": "Universal education",
+        "D": "Universal suffrage"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "A agrees with the syllabus: unpaid wages are an economic, social and cultural right."
+    },
+    {
+      "number": 7,
+      "groupId": null,
+      "stem": "Tayla commits an offence in NSW and flees to New Zealand. Which of the following statements is true in regards to the power the NSW police have?",
+      "images": [],
+      "options": {
+        "A": "The NSW police must get the Federal police to arrest Tayla.",
+        "B": "The NSW police cannot act due to state sovereignty.",
+        "C": "The NSW police can apply for Tayla to be deported.",
+        "D": "The NSW police can apply to have Tayla extradited."
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": ""
+    },
+    {
+      "number": 8,
+      "groupId": null,
+      "stem": "Josh was originally charged with a summary offence. This has now been upgraded to an indictable offence. Which of the following rights will Josh now have that he would not have had previously?",
+      "images": [],
+      "options": {
+        "A": "The right Legal Aid.",
+        "B": "The right to a trial by jury.",
+        "C": "The right to silence.",
+        "D": "The right to a charge negotiation."
+      },
+      "answer": "B",
+      "answerSource": "paper",
+      "answerNote": "Printed multiple-choice answer list, page 15."
+    },
+    {
+      "number": 9,
+      "groupId": null,
+      "stem": "Natasha is 12 years old and has committed a serious, indictable offence. Which of the following statements is true?",
+      "images": [],
+      "options": {
+        "A": "Natasha cannot be charged due to her age.",
+        "B": "As she is doli incapax Natasha cannot be charged with an indictable offence.",
+        "C": "The defence must prove that Natasha was doli incapax at the time of the offence.",
+        "D": "The prosecution must prove that Natasha was not doli incapax at the time of the offence."
+      },
+      "answer": "D",
+      "answerSource": "paper",
+      "answerNote": "Printed multiple-choice answer list, page 15."
+    },
+    {
+      "number": 10,
+      "groupId": null,
+      "stem": "In a criminal trial, following eight hours of deliberation, the jury have voted 9 to 3 in favour of a guilty verdict. This is an example of which of the following?",
+      "images": [],
+      "options": {
+        "A": "A unanimous verdict",
+        "B": "A majority verdict",
+        "C": "A hung jury",
+        "D": "A fair duty"
+      },
+      "answer": "C",
+      "answerSource": "paper",
+      "answerNote": "Printed multiple-choice answer list, page 15."
+    },
+    {
+      "number": 11,
+      "groupId": null,
+      "stem": "Which of the following is true about the International Court of Justice?",
+      "images": [],
+      "options": {
+        "A": "It was established by the Rome Statute.",
+        "B": "It can only hear cases about War Crimes",
+        "C": "It can only hear cases between individuals.",
+        "D": "It can only hear cases between nation states."
+      },
+      "answer": "D",
+      "answerSource": "paper",
+      "answerNote": "Printed multiple-choice answer list, page 15."
+    },
+    {
+      "number": 12,
+      "groupId": null,
+      "stem": "Legislative changes introduced by the Liquor Amendment Act (2014) include 1.30am lockouts at hotels and nightclubs. What are these changes an example of:",
+      "images": [],
+      "options": {
+        "A": "A breach of rights",
+        "B": "Preventative detention",
+        "C": "Social crime prevention",
+        "D": "Situational crime prevention"
+      },
+      "answer": "D",
+      "answerSource": "paper",
+      "answerNote": "Printed multiple-choice answer list, page 15."
+    },
+    {
+      "number": 13,
+      "groupId": null,
+      "stem": "Charlie has been given a 6-year head sentence for damaging a war memorial on ANZAC Day. After 4 years, he is granted parole. The decision to grant Lewis parole is an example of which of the following?",
+      "images": [],
+      "options": {
+        "A": "A post-sentencing decision",
+        "B": "A diversionary program",
+        "C": "The terms of the sentence",
+        "D": "Rehabilitation"
+      },
+      "answer": "A",
+      "answerSource": "paper",
+      "answerNote": "Printed multiple-choice answer list, page 15."
+    },
+    {
+      "number": 14,
+      "groupId": null,
+      "stem": "Which of the following statements does NOT describe the role of non-government organisations (NGO’s) in protecting human rights?",
+      "images": [],
+      "options": {
+        "A": "NGO’s can assist victims of human rights abuses.",
+        "B": "NGO’s play a central role in enforcing human rights law.",
+        "C": "NGO’s use the media to name and shame human rights violators.",
+        "D": "NGO’s assist better compliance with human rights law by governments."
+      },
+      "answer": "B",
+      "answerSource": "paper",
+      "answerNote": "Printed multiple-choice answer list, page 15."
+    },
+    {
+      "number": 15,
+      "groupId": null,
+      "stem": "Kim is arrested for a serious crime. She exercises her right to remain silent when arrested. However at her trial, she gives evidence that she was not at the crime scene. Which of the following is true?",
+      "images": [],
+      "options": {
+        "A": "The judge can instruct the jury that her evidence must be accepted.",
+        "B": "The judge should dismiss the case.",
+        "C": "The jury can question as to why this was not raised earlier.",
+        "D": "The judge can instruct the jury that this evidence may not be reliable."
+      },
+      "answer": "D",
+      "answerSource": "paper",
+      "answerNote": "Printed multiple-choice answer list, page 15."
+    },
+    {
+      "number": 16,
+      "groupId": null,
+      "stem": "14-year-old Sophie, whilst under the influence of alcohol, was caught driving a stolen car at 100km/hour in a school zone. In an attempt to evade the police she crashes the car injuring some students. If Sophie pleads guilty to car theft, this matter could be dealt with through which of the following?",
+      "images": [],
+      "options": {
+        "A": "Circle Sentencing",
+        "B": "Local Court hearing",
+        "C": "Children’s Court hearing",
+        "D": "Youth Justice Conferencing"
+      },
+      "answer": "D",
+      "answerSource": "paper",
+      "answerNote": "Printed multiple-choice answer list, page 15."
+    },
+    {
+      "number": 17,
+      "groupId": null,
+      "stem": "Choose the correct order for these parts of the criminal investigation process.",
+      "images": [],
+      "options": {
+        "A": "Crime is investigated, crime is reported, suspect is charged, suspect is arrested.",
+        "B": "Crime is reported, crime is investigated, suspect is charged, suspect is arrested.",
+        "C": "Suspect is reported, suspect is arrested, suspect is charged, suspect is bailed.",
+        "D": "Crime is investigated, suspect is arrested, suspect is charged, suspect is bailed."
+      },
+      "answer": "D",
+      "answerSource": "paper",
+      "answerNote": "Printed multiple-choice answer list, page 15."
+    },
+    {
+      "number": 18,
+      "groupId": null,
+      "stem": "An accused is found not guilty of murder because it could not be proved that their actions resulted in the death of the victim. The verdict is a result of the lack of which element?",
+      "images": [],
+      "options": {
+        "A": "Doli incapax",
+        "B": "Mens rea",
+        "C": "Causation",
+        "D": "Strict Liability"
+      },
+      "answer": "C",
+      "answerSource": "paper",
+      "answerNote": "Printed multiple-choice answer list, page 15."
+    },
+    {
+      "number": 19,
+      "groupId": null,
+      "stem": "What is the purpose of the division of powers?",
+      "images": [],
+      "options": {
+        "A": "To create an avenue for appeals in the Federal Court hierarchy",
+        "B": "To ensure that police and parliamentary corruption is minimised",
+        "C": "To provide checks and balances in the legal and parliamentary system",
+        "D": "To allow state and federal governments to specialise in specific areas of law"
+      },
+      "answer": "D",
+      "answerSource": "paper",
+      "answerNote": "Printed multiple-choice answer list, page 15."
+    },
+    {
+      "number": 20,
+      "groupId": null,
+      "stem": "In what way does a victim impact statement help to promote justice?",
+      "images": [],
+      "options": {
+        "A": "It provides the victim with a voice during the sentencing process.",
+        "B": "It allows the victim to present transcript evidence during the trial.",
+        "C": "It gives the victim some input into the charge negotiation process.",
+        "D": "It allows the victim to have a say regarding the collection of evidence."
+      },
+      "answer": "A",
+      "answerSource": "paper",
+      "answerNote": "Printed multiple-choice answer list, page 15."
+    }
+  ]
+}

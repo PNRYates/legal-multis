@@ -1,0 +1,313 @@
+{
+  "id": "2020-baulkham-hills-trial",
+  "year": 2020,
+  "school": "Baulkham Hills",
+  "kind": "trial",
+  "title": "2020 Baulkham Hills Legal Studies Trial",
+  "sourceFile": "2020 Baulkham Hills Legal Studies Trial.pdf",
+  "answerStatus": "all-verified",
+  "notes": "No multiple-choice answer key was found in the paper; no shared stimulus groups or figures appeared in Section I.",
+  "groups": [],
+  "questions": [
+    {
+      "number": 1,
+      "groupId": null,
+      "stem": "What is the role of the jury in a criminal trial?",
+      "images": [],
+      "options": {
+        "A": "To decide questions of fact",
+        "B": "To decide appropriate sentences",
+        "C": "To question witnesses",
+        "D": "To make rulings upon admissibility of evidence"
+      },
+      "answer": "A",
+      "answerSource": "thsc",
+      "answerNote": "Marking guidelines in THSC 'Baulkham Hills 2020 Legal Studies Trials & Solutions.pdf' (page 18, Section I key table), downloaded via thsconline.github.io/s/yr12/Legal%20Studies/trialpapers.html (THSC API file id 5028 'Baulkham Hills 2020 w. sol')."
+    },
+    {
+      "number": 2,
+      "groupId": null,
+      "stem": "Which party bears the burden of proof in a criminal matter?",
+      "images": [],
+      "options": {
+        "A": "The defence",
+        "B": "The prosecution",
+        "C": "The magistrate",
+        "D": "The jury"
+      },
+      "answer": "B",
+      "answerSource": "thsc",
+      "answerNote": "Marking guidelines in THSC 'Baulkham Hills 2020 Legal Studies Trials & Solutions.pdf' (page 18, Section I key table), downloaded via thsconline.github.io/s/yr12/Legal%20Studies/trialpapers.html (THSC API file id 5028 'Baulkham Hills 2020 w. sol')."
+    },
+    {
+      "number": 3,
+      "groupId": null,
+      "stem": "What human right is outlined in the Australian Constitution?",
+      "images": [],
+      "options": {
+        "A": "The right to free education",
+        "B": "The right to health care",
+        "C": "The right to information",
+        "D": "The right to vote"
+      },
+      "answer": "D",
+      "answerSource": "thsc",
+      "answerNote": "Marking guidelines in THSC 'Baulkham Hills 2020 Legal Studies Trials & Solutions.pdf' (page 18, Section I key table), downloaded via thsconline.github.io/s/yr12/Legal%20Studies/trialpapers.html (THSC API file id 5028 'Baulkham Hills 2020 w. sol')."
+    },
+    {
+      "number": 4,
+      "groupId": null,
+      "stem": "What is the term given for the early release of a prisoner from gaol?",
+      "images": [],
+      "options": {
+        "A": "Bail",
+        "B": "Remand",
+        "C": "Prohibition",
+        "D": "Parole"
+      },
+      "answer": "D",
+      "answerSource": "thsc",
+      "answerNote": "Marking guidelines in THSC 'Baulkham Hills 2020 Legal Studies Trials & Solutions.pdf' (page 18, Section I key table), downloaded via thsconline.github.io/s/yr12/Legal%20Studies/trialpapers.html (THSC API file id 5028 'Baulkham Hills 2020 w. sol')."
+    },
+    {
+      "number": 5,
+      "groupId": null,
+      "stem": "Which of the following would be an example of a complete defence?",
+      "images": [],
+      "options": {
+        "A": "Diminished responsibility",
+        "B": "Insanity",
+        "C": "Provocation",
+        "D": "Alcohol use"
+      },
+      "answer": "B",
+      "answerSource": "thsc",
+      "answerNote": "Marking guidelines in THSC 'Baulkham Hills 2020 Legal Studies Trials & Solutions.pdf' (page 18, Section I key table), downloaded via thsconline.github.io/s/yr12/Legal%20Studies/trialpapers.html (THSC API file id 5028 'Baulkham Hills 2020 w. sol')."
+    },
+    {
+      "number": 6,
+      "groupId": null,
+      "stem": "When do International Human Rights treaties become law in Australia?",
+      "images": [],
+      "options": {
+        "A": "When the Australian government signs the treaty",
+        "B": "When the Australian government ratifies the treaty",
+        "C": "When the Australian government enacts the treaty",
+        "D": "When the Australian government repeals the treaty"
+      },
+      "answer": "C",
+      "answerSource": "thsc",
+      "answerNote": "Marking guidelines in THSC 'Baulkham Hills 2020 Legal Studies Trials & Solutions.pdf' (page 18, Section I key table), downloaded via thsconline.github.io/s/yr12/Legal%20Studies/trialpapers.html (THSC API file id 5028 'Baulkham Hills 2020 w. sol')."
+    },
+    {
+      "number": 7,
+      "groupId": null,
+      "stem": "When can an offender’s criminal history be used?",
+      "images": [],
+      "options": {
+        "A": "When determining the sentence",
+        "B": "When determining the verdict",
+        "C": "When determining the juror directions",
+        "D": "When determining the meaning of the legislation"
+      },
+      "answer": "A",
+      "answerSource": "thsc",
+      "answerNote": "Marking guidelines in THSC 'Baulkham Hills 2020 Legal Studies Trials & Solutions.pdf' (page 18, Section I key table), downloaded via thsconline.github.io/s/yr12/Legal%20Studies/trialpapers.html (THSC API file id 5028 'Baulkham Hills 2020 w. sol')."
+    },
+    {
+      "number": 8,
+      "groupId": null,
+      "stem": "What is the most appropriate institution to try a person accused of genocide?",
+      "images": [],
+      "options": {
+        "A": "The International Court of Justice",
+        "B": "The International Tribunal for the Law of the Sea",
+        "C": "The International Criminal Court",
+        "D": "The Permanent Court of Arbitration"
+      },
+      "answer": "C",
+      "answerSource": "thsc",
+      "answerNote": "Marking guidelines in THSC 'Baulkham Hills 2020 Legal Studies Trials & Solutions.pdf' (page 18, Section I key table), downloaded via thsconline.github.io/s/yr12/Legal%20Studies/trialpapers.html (THSC API file id 5028 'Baulkham Hills 2020 w. sol')."
+    },
+    {
+      "number": 9,
+      "groupId": null,
+      "stem": "Which of these rights does an arrested person NOT have?",
+      "images": [],
+      "options": {
+        "A": "The right to medical care",
+        "B": "The right to know the charge",
+        "C": "The right to have the interview recorded",
+        "D": "The right to a phone call"
+      },
+      "answer": "D",
+      "answerSource": "thsc",
+      "answerNote": "Marking guidelines in THSC 'Baulkham Hills 2020 Legal Studies Trials & Solutions.pdf' (page 18, Section I key table), downloaded via thsconline.github.io/s/yr12/Legal%20Studies/trialpapers.html (THSC API file id 5028 'Baulkham Hills 2020 w. sol')."
+    },
+    {
+      "number": 10,
+      "groupId": null,
+      "stem": "What must happen prior to a defendant being tried in the District Court in NSW?",
+      "images": [],
+      "options": {
+        "A": "The defendant must attend a committal hearing in the Local Court",
+        "B": "The prosecution must hold a case conference with the defence counsel",
+        "C": "The judge must review the evidence",
+        "D": "A jury must be empanelled"
+      },
+      "answer": "B",
+      "answerSource": "thsc",
+      "answerNote": "Official THSC key says B (case conference). Disputed: A (committal hearing in the Local Court) is also plausible, as indictable matters are committed for trial to the District Court after committal. Source: THSC 'Baulkham Hills 2020 Legal Studies Trials & Solutions.pdf' via thsconline.github.io."
+    },
+    {
+      "number": 11,
+      "groupId": null,
+      "stem": "The decision by police to search an offender is an example of what power?",
+      "images": [],
+      "options": {
+        "A": "Profiling",
+        "B": "Discrimination",
+        "C": "Discretion",
+        "D": "Exclusive"
+      },
+      "answer": "C",
+      "answerSource": "thsc",
+      "answerNote": "Marking guidelines in THSC 'Baulkham Hills 2020 Legal Studies Trials & Solutions.pdf' (page 18, Section I key table), downloaded via thsconline.github.io/s/yr12/Legal%20Studies/trialpapers.html (THSC API file id 5028 'Baulkham Hills 2020 w. sol')."
+    },
+    {
+      "number": 12,
+      "groupId": null,
+      "stem": "What is the single element of a crime that needs to be proven for a strict liability offence?",
+      "images": [],
+      "options": {
+        "A": "Mens rea",
+        "B": "Actus reus",
+        "C": "Causation",
+        "D": "Contrition"
+      },
+      "answer": "B",
+      "answerSource": "thsc",
+      "answerNote": "Marking guidelines in THSC 'Baulkham Hills 2020 Legal Studies Trials & Solutions.pdf' (page 18, Section I key table), downloaded via thsconline.github.io/s/yr12/Legal%20Studies/trialpapers.html (THSC API file id 5028 'Baulkham Hills 2020 w. sol')."
+    },
+    {
+      "number": 13,
+      "groupId": null,
+      "stem": "What are some of the conditions than can lead a person to be deported for criminal activity?",
+      "images": [],
+      "options": {
+        "A": "The person is a non-citizen and has been sentenced to gaol for more than three years",
+        "B": "The person is a citizen and has been sentenced to gaol for more than three years",
+        "C": "The person is a non-citizen and been sentenced to gaol for at least one year",
+        "D": "The person is a citizen and has been sentenced to gaol for at least one year"
+      },
+      "answer": "C",
+      "answerSource": "thsc",
+      "answerNote": "Marking guidelines in THSC 'Baulkham Hills 2020 Legal Studies Trials & Solutions.pdf' (page 18, Section I key table), downloaded via thsconline.github.io/s/yr12/Legal%20Studies/trialpapers.html (THSC API file id 5028 'Baulkham Hills 2020 w. sol')."
+    },
+    {
+      "number": 14,
+      "groupId": null,
+      "stem": "The decision to refuse bail can be decided by which two bodies?",
+      "images": [],
+      "options": {
+        "A": "The courts and the Attorney General",
+        "B": "The police and the Police Minister",
+        "C": "The Police Minister and the Attorney General",
+        "D": "The courts and the police"
+      },
+      "answer": "D",
+      "answerSource": "thsc",
+      "answerNote": "Marking guidelines in THSC 'Baulkham Hills 2020 Legal Studies Trials & Solutions.pdf' (page 18, Section I key table), downloaded via thsconline.github.io/s/yr12/Legal%20Studies/trialpapers.html (THSC API file id 5028 'Baulkham Hills 2020 w. sol')."
+    },
+    {
+      "number": 15,
+      "groupId": null,
+      "stem": "What must be held for a human right to become protected by the Australia Constitution?",
+      "images": [],
+      "options": {
+        "A": "A referendum",
+        "B": "An election",
+        "C": "An international treaty",
+        "D": "A protest"
+      },
+      "answer": "A",
+      "answerSource": "thsc",
+      "answerNote": "Marking guidelines in THSC 'Baulkham Hills 2020 Legal Studies Trials & Solutions.pdf' (page 18, Section I key table), downloaded via thsconline.github.io/s/yr12/Legal%20Studies/trialpapers.html (THSC API file id 5028 'Baulkham Hills 2020 w. sol')."
+    },
+    {
+      "number": 16,
+      "groupId": null,
+      "stem": "What would be an example of a preliminary crime?",
+      "images": [],
+      "options": {
+        "A": "Conspiracy to import drugs",
+        "B": "Illegal use of motor vehicle",
+        "C": "Supply of drugs",
+        "D": "Malicious wounding"
+      },
+      "answer": "A",
+      "answerSource": "thsc",
+      "answerNote": "Marking guidelines in THSC 'Baulkham Hills 2020 Legal Studies Trials & Solutions.pdf' (page 18, Section I key table), downloaded via thsconline.github.io/s/yr12/Legal%20Studies/trialpapers.html (THSC API file id 5028 'Baulkham Hills 2020 w. sol')."
+    },
+    {
+      "number": 17,
+      "groupId": null,
+      "stem": "What is an example of a common law human right in Australia?",
+      "images": [],
+      "options": {
+        "A": "The right to trial by jury",
+        "B": "The right to represent an electorate in Federal Parliament",
+        "C": "The right to legal representation in defending indictable charges",
+        "D": "The right to free education in University"
+      },
+      "answer": "C",
+      "answerSource": "thsc",
+      "answerNote": "Marking guidelines in THSC 'Baulkham Hills 2020 Legal Studies Trials & Solutions.pdf' (page 18, Section I key table), downloaded via thsconline.github.io/s/yr12/Legal%20Studies/trialpapers.html (THSC API file id 5028 'Baulkham Hills 2020 w. sol')."
+    },
+    {
+      "number": 18,
+      "groupId": null,
+      "stem": "Which of the following is considered to be a post sentencing decision?",
+      "images": [],
+      "options": {
+        "A": "Bail refusal",
+        "B": "Charge negotiation",
+        "C": "Non parole period",
+        "D": "Continuing Detention Order"
+      },
+      "answer": "D",
+      "answerSource": "thsc",
+      "answerNote": "Marking guidelines in THSC 'Baulkham Hills 2020 Legal Studies Trials & Solutions.pdf' (page 18, Section I key table), downloaded via thsconline.github.io/s/yr12/Legal%20Studies/trialpapers.html (THSC API file id 5028 'Baulkham Hills 2020 w. sol')."
+    },
+    {
+      "number": 19,
+      "groupId": null,
+      "stem": "What action can the Federal Government take if the High Court makes a decision on a constitutional point that the Federal Government disagrees with?",
+      "images": [],
+      "options": {
+        "A": "It can appeal to the Privy Council",
+        "B": "It can order the High Court to rehear the matter",
+        "C": "It can legislate to override the decision",
+        "D": "It can amend the Constitution"
+      },
+      "answer": "C",
+      "answerSource": "thsc",
+      "answerNote": "Official THSC key says C (legislate to override). Disputed: legislation cannot override a constitutional ruling, so D (amend the Constitution by referendum) is arguably more accurate. Source: THSC 'Baulkham Hills 2020 Legal Studies Trials & Solutions.pdf' via thsconline.github.io."
+    },
+    {
+      "number": 20,
+      "groupId": null,
+      "stem": "Which of the following charges will result in automatic bail refusal?",
+      "images": [],
+      "options": {
+        "A": "Car theft",
+        "B": "Aggravated sexual assault",
+        "C": "Common assault",
+        "D": "Drug possession"
+      },
+      "answer": "B",
+      "answerSource": "thsc",
+      "answerNote": "Marking guidelines in THSC 'Baulkham Hills 2020 Legal Studies Trials & Solutions.pdf' (page 18, Section I key table), downloaded via thsconline.github.io/s/yr12/Legal%20Studies/trialpapers.html (THSC API file id 5028 'Baulkham Hills 2020 w. sol')."
+    }
+  ]
+}

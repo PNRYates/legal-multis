@@ -1,0 +1,313 @@
+{
+  "id": "2017-barker-trial",
+  "year": 2017,
+  "school": "Barker",
+  "kind": "trial",
+  "title": "2017 Barker Legal Studies Trial",
+  "sourceFile": "2017 Barker Legal Studies Trial.pdf",
+  "answerStatus": "none-found",
+  "notes": "The answer sheet in the PDF is blank. The marking-guidelines pages do not include a Section I answer key. The bundled multiple-choice questions contain no stimulus figures or diagrams.",
+  "groups": [],
+  "questions": [
+    {
+      "number": 1,
+      "groupId": null,
+      "stem": "Which of the following is a non-government organisation which promotes human rights?",
+      "images": [],
+      "options": {
+        "A": "World Vision",
+        "B": "The European Union",
+        "C": "The World Trade Organisation",
+        "D": "The International Criminal Court"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "World Vision is a non-government organisation; The other options are intergovernmental or judicial bodies."
+    },
+    {
+      "number": 2,
+      "groupId": null,
+      "stem": "Which purpose of punishment is achieved by fining a speeding driver?",
+      "images": [],
+      "options": {
+        "A": "Retribution",
+        "B": "Rehabilitation",
+        "C": "General deterrence",
+        "D": "Specific deterrence"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Specific deterrence: the fine is imposed on this driver to discourage that driver from reoffending. General deterrence (C) is also plausible because fines send a message to other drivers."
+    },
+    {
+      "number": 3,
+      "groupId": null,
+      "stem": "Which of the following is an example of situational crime prevention?",
+      "images": [],
+      "options": {
+        "A": "Anti-graffiti paint",
+        "B": "A community service order",
+        "C": "Providing scholarships for disadvantaged children",
+        "D": "Reducing the number of police officers patrolling during the daytime"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Anti-graffiti paint changes the environment to reduce opportunities for offending."
+    },
+    {
+      "number": 4,
+      "groupId": null,
+      "stem": "Who of the following is an accessory before the fact?",
+      "images": [],
+      "options": {
+        "A": "A person who robs a bank",
+        "B": "A person who agreed with the plan to rob the bank",
+        "C": "A person who advises another person how to rob a bank",
+        "D": "A person who hides the money after the bank has been robbed"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "An accessory before the fact assists or encourages the offence before it occurs; Advising the offender fits this role."
+    },
+    {
+      "number": 5,
+      "groupId": null,
+      "stem": "Which of the following was the first internationally recognised human right?",
+      "images": [],
+      "options": {
+        "A": "Self-determination",
+        "B": "Freedom of religion",
+        "C": "Universal education",
+        "D": "Freedom from slavery"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "The prohibition of slavery was recognised in early international instruments, including the 1926 Slavery Convention."
+    },
+    {
+      "number": 6,
+      "groupId": null,
+      "stem": "A person is convicted of a minor crime in the local court. He is required to report to the police station once a week.\n\nWhat type of penalty does this represent?",
+      "images": [],
+      "options": {
+        "A": "Fine",
+        "B": "Bond",
+        "C": "Imprisonment",
+        "D": "Criminal infringement notice"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "A bond may impose conditions such as reporting to police; The person is not imprisoned."
+    },
+    {
+      "number": 7,
+      "groupId": null,
+      "stem": "A person is accused of smuggling cocaine from Bangkok to Melbourne.\n\nWhat type of crime has he committed?",
+      "images": [],
+      "options": {
+        "A": "A transnational crime",
+        "B": "A crime against the person",
+        "C": "A crime against the sovereign",
+        "D": "A crime against the international community"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "The alleged drug smuggling crosses national borders, making it transnational crime."
+    },
+    {
+      "number": 8,
+      "groupId": null,
+      "stem": "What is it called when the police arrest someone and formally accuse them of a crime?",
+      "images": [],
+      "options": {
+        "A": "Bail",
+        "B": "Charge",
+        "C": "Indictment",
+        "D": "Conviction"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "Police formally accuse a person by charging them; Indictment is a later formal accusation for certain proceedings."
+    },
+    {
+      "number": 9,
+      "groupId": null,
+      "stem": "A young person is 15 when he is caught shoplifting.\n\nWhich of the following is NOT an alternative to court available to him?",
+      "images": [],
+      "options": {
+        "A": "A caution",
+        "B": "A warning",
+        "C": "Circle sentencing",
+        "D": "Youth justice conferencing"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "Circle sentencing is a sentencing process in court (mainly for Aboriginal offenders), not an alternative to court like a warning, caution or youth justice conference."
+    },
+    {
+      "number": 10,
+      "groupId": null,
+      "stem": "Which of the following is true once a prisoner has served his minimum sentence?",
+      "images": [],
+      "options": {
+        "A": "He will be released.",
+        "B": "He can apply for parole.",
+        "C": "He can request another sentencing hearing.",
+        "D": "He will be reclassified as a minimum security prisoner."
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "Serving the non-parole period makes the prisoner eligible to apply for parole; Release is not automatic."
+    },
+    {
+      "number": 11,
+      "groupId": null,
+      "stem": "How does the division of powers protect human rights in Australia?",
+      "images": [],
+      "options": {
+        "A": "By ensuring the rule of law is maintained",
+        "B": "By giving different responsibilities to the legislature, executive and judiciary",
+        "C": "By allowing both state and federal governments to pass laws enforcing human rights",
+        "D": "By allowing citizens to appeal to the High Court if they believe legislation violates human rights"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "The division of powers between Commonwealth and state governments allows both levels to legislate in areas affecting human rights."
+    },
+    {
+      "number": 12,
+      "groupId": null,
+      "stem": "How is the link between the behaviour of an accused and the injury to a victim best described?",
+      "images": [],
+      "options": {
+        "A": "Causation",
+        "B": "Mens rea",
+        "C": "Actus reus",
+        "D": "Recklessness"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Causation is the connection between the accused’s conduct and the resulting injury."
+    },
+    {
+      "number": 13,
+      "groupId": null,
+      "stem": "Evidence is seized during a police search of a property.\n\nWhich of the following statements is true?",
+      "images": [],
+      "options": {
+        "A": "The evidence is admissible if the police had a warrant.",
+        "B": "Police do not have the power to seize evidence from properties.",
+        "C": "The evidence is admissible if it is in the public interest to seize it.",
+        "D": "The evidence is only admissible if the suspect is present during the search."
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "A warrant authorises search and seizure; The other options are not general conditions. Public-interest admissibility (C) is a weaker second option under Evidence Act s138."
+    },
+    {
+      "number": 14,
+      "groupId": null,
+      "stem": "Which of the following is true about a criminal trial in NSW?",
+      "images": [],
+      "options": {
+        "A": "The accused must present a defence.",
+        "B": "All witnesses must be cross examined.",
+        "C": "The judge rules on the admissibility of evidence.",
+        "D": "The judge instructs the jury about which evidence it should believe."
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "The judge determines legal questions, including admissibility of evidence; Jurors assess the facts."
+    },
+    {
+      "number": 15,
+      "groupId": null,
+      "stem": "A salesperson sells alcohol to a 16 year old without an ID.\n\nWhich of the following statements is true?",
+      "images": [],
+      "options": {
+        "A": "In this case, the burden of proof shifts to the defendant.",
+        "B": "The prosecution has to prove its case on the balance of probabilities.",
+        "C": "The prosecution has to prove that the salesperson knew that the buyer was 16.",
+        "D": "The prosecution does not have to prove that the salesperson knew that the buyer was 16."
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "This is a strict liability offence, so the prosecution need not prove the salesperson knew the buyer’s age."
+    },
+    {
+      "number": 16,
+      "groupId": null,
+      "stem": "Which of the following statements is true about a jury’s verdict?",
+      "images": [],
+      "options": {
+        "A": "A jury must return a unanimous verdict.",
+        "B": "Only ten of the twelve jurors have to agree with the verdict.",
+        "C": "A jury can return a majority verdict after eight hours of deliberation.",
+        "D": "A judge must direct that a majority verdict is possible before the jury retires."
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "NSW permits a majority verdict after the prescribed deliberation period, which is generally eight hours."
+    },
+    {
+      "number": 17,
+      "groupId": null,
+      "stem": "An accused argues at his hearing that he was provoked when he assaulted the victim.\n\nHow is this evidence relevant?",
+      "images": [],
+      "options": {
+        "A": "The magistrate can reduce the charge.",
+        "B": "The evidence of provocation is only relevant in sentencing.",
+        "C": "The defence must prove the victim provoked the accused.",
+        "D": "If successful, the evidence of provocation will lead to an acquittal."
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "Provocation is a partial defence to murder, not assault; For assault it may be relevant as a mitigating sentencing factor."
+    },
+    {
+      "number": 18,
+      "groupId": null,
+      "stem": "Which of the following rights is best protected in Australia by the common law?",
+      "images": [],
+      "options": {
+        "A": "The right to vote",
+        "B": "The right to equal pay",
+        "C": "Freedom of association",
+        "D": "The right to legal representation"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Common law recognises procedural protections including access to legal representation; The other rights rely more directly on legislation or constitutional protection."
+    },
+    {
+      "number": 19,
+      "groupId": null,
+      "stem": "Which of the following best describes the role of regional intergovernmental organisations in the promotion and enforcement of human rights?",
+      "images": [],
+      "options": {
+        "A": "They encourage victims to take action.",
+        "B": "They create international human rights law.",
+        "C": "They raise awareness of human rights issues.",
+        "D": "They take action to remedy breaches of human rights."
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Regional systems can provide mechanisms and institutions that investigate and remedy human rights breaches."
+    },
+    {
+      "number": 20,
+      "groupId": null,
+      "stem": "An accused pleads guilty, and gives evidence against her co-conspirators.\n\nWhich of the following best describes the key factor the judge will consider in sentencing?",
+      "images": [],
+      "options": {
+        "A": "She has saved the court time, which is a mitigating factor.",
+        "B": "She gave evidence as a witness, which is an aggravating factor.",
+        "C": "She is an accessory after the fact, which is an aggravating factor.",
+        "D": "She is a principal in the first degree, which is a mitigating factor."
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "A guilty plea can reduce the burden on the court and is a mitigating sentencing consideration."
+    }
+  ]
+}

@@ -1,0 +1,324 @@
+{
+  "id": "2013-baulkham-hills-trial",
+  "year": 2013,
+  "school": "Baulkham Hills",
+  "kind": "trial",
+  "title": "2013 Baulkham Hills Legal Studies Trial",
+  "sourceFile": "2013 Baulkham Hills Legal Studies Trial.pdf",
+  "answerStatus": "none-found",
+  "notes": "Scanned source read visually. No answer key is included; all answers are reasoned guesses.",
+  "groups": [
+    {
+      "id": "2013-baulkham-hills-trial-g1",
+      "questionNumbers": [
+        5,
+        6,
+        7
+      ],
+      "stimulus": "O.B is the ex – president of the nation of Nadus who has ordered the mass deportation and murder of an ethnic minority in his nation. He has fled to Australia and been indicted by the International Criminal Court.",
+      "images": []
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "groupId": null,
+      "stem": "The role of a magistrate in a committal hearing is to",
+      "images": [],
+      "options": {
+        "A": "To decide the verdict",
+        "B": "To chose the jury",
+        "C": "To decide the sentence",
+        "D": "To decide whether there is sufficient evidence for a prosecution"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "A committal hearing determines whether evidence is sufficient to send an indictable matter for trial."
+    },
+    {
+      "number": 2,
+      "groupId": null,
+      "stem": "An example of an offence which would be tried in the Local Court might be",
+      "images": [],
+      "options": {
+        "A": "Murder",
+        "B": "Shoplifting",
+        "C": "Drug Trafficking",
+        "D": "Armed Robbery"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "Shoplifting is ordinarily dealt with as a summary offence in the Local Court."
+    },
+    {
+      "number": 3,
+      "groupId": null,
+      "stem": "The sentencing process will be influenced by",
+      "images": [],
+      "options": {
+        "A": "Aggravating factors only",
+        "B": "Mitigating factors only",
+        "C": "Aggravating and mitigating factors",
+        "D": "Political beliefs"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "Sentencing takes account of both aggravating and mitigating factors."
+    },
+    {
+      "number": 4,
+      "groupId": null,
+      "stem": "Which of the following does NOT have to be proven in a strict liability offence",
+      "images": [],
+      "options": {
+        "A": "Mens rea",
+        "B": "Actus reus",
+        "C": "Causation",
+        "D": "Injury"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Strict liability removes the requirement to prove mens rea."
+    },
+    {
+      "number": 5,
+      "groupId": "2013-baulkham-hills-trial-g1",
+      "stem": "What category of international crime has O.B. allegedly committed",
+      "images": [],
+      "options": {
+        "A": "War Crime",
+        "B": "Murder",
+        "C": "A transnational crime",
+        "D": "Crime Against Humanity"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Mass deportation and murder of an ethnic minority are crimes against humanity."
+    },
+    {
+      "number": 6,
+      "groupId": "2013-baulkham-hills-trial-g1",
+      "stem": "What legal process needs to be completed for O.B. to face the International Criminal Court",
+      "images": [],
+      "options": {
+        "A": "Rendition",
+        "B": "Extradition",
+        "C": "Deportation",
+        "D": "Non refoulement"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "Extradition (B) is the closest option for surrender to face the ICC; Rendition (A) is also arguably plausible. Technically it is 'surrender' under the Rome Statute."
+    },
+    {
+      "number": 7,
+      "groupId": "2013-baulkham-hills-trial-g1",
+      "stem": "What punishment could be given to O.B.",
+      "images": [],
+      "options": {
+        "A": "Death",
+        "B": "Exile",
+        "C": "Imprisonment",
+        "D": "Public shaming"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "The ICC may impose imprisonment but not capital punishment."
+    },
+    {
+      "number": 8,
+      "groupId": null,
+      "stem": "The right to self determination is an example of what type of right",
+      "images": [],
+      "options": {
+        "A": "Civil rights",
+        "B": "Universal suffrage",
+        "C": "Trade union membership",
+        "D": "Indigenous Land Councils"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Self-determination is a collective (peoples') right; Indigenous Land Councils (D) is the closest option, though Civil rights (A) is also plausible via ICCPR Art 1."
+    },
+    {
+      "number": 9,
+      "groupId": null,
+      "stem": "An example of a partial defence to a homicide could be",
+      "images": [],
+      "options": {
+        "A": "Insanity",
+        "B": "Self defence",
+        "C": "Accident",
+        "D": "Diminished Responsibility"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Diminished responsibility can reduce murder to manslaughter and is a partial defence."
+    },
+    {
+      "number": 10,
+      "groupId": null,
+      "stem": "The State Government of Victoria commences legal proceedings to declare that a new Federal Government law that recognises same sex marriages under the Marriage Act 1961 is invalid. The court that would hear this matter would be",
+      "images": [],
+      "options": {
+        "A": "Family Court",
+        "B": "High Court",
+        "C": "Supreme Court",
+        "D": "Federal Court"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "The High Court decides constitutional disputes between the Commonwealth and a state."
+    },
+    {
+      "number": 11,
+      "groupId": null,
+      "stem": "The power given to nation states that allows them to enforce law within their own territories is termed",
+      "images": [],
+      "options": {
+        "A": "Nationalism",
+        "B": "Self Determination",
+        "C": "Sovereignty",
+        "D": "Non co-operation"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "Sovereignty includes a state’s authority to enforce law within its territory."
+    },
+    {
+      "number": 12,
+      "groupId": null,
+      "stem": "The purpose of having the offence of driving under the influence of alcohol is to act as a",
+      "images": [],
+      "options": {
+        "A": "Deterrent",
+        "B": "Incapacitation",
+        "C": "Retribution",
+        "D": "Rehabilitation"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Deterrent (A) is the main purpose of drink-driving offences; Retribution (C) is a second plausible answer."
+    },
+    {
+      "number": 13,
+      "groupId": null,
+      "stem": "Which of the following is a purpose of a criminal punishment",
+      "images": [],
+      "options": {
+        "A": "Justice",
+        "B": "Incapacitation",
+        "C": "Political gain",
+        "D": "The use of forensics"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "Incapacitation (B) is the only recognised purpose of punishment listed; Justice (A) is a second plausible answer."
+    },
+    {
+      "number": 14,
+      "groupId": null,
+      "stem": "The legal principle of double jeopardy refers to",
+      "images": [],
+      "options": {
+        "A": "Being tried for two crimes at once",
+        "B": "Being charged with two different crimes at the same crime scene",
+        "C": "Being tried twice for the same offence",
+        "D": "Being forced to give evidence against other suspects"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "Double jeopardy protects against being tried twice for the same offence after final determination."
+    },
+    {
+      "number": 15,
+      "groupId": null,
+      "stem": "The document that allows police to search a premises is called",
+      "images": [],
+      "options": {
+        "A": "An affidavit",
+        "B": "A summons",
+        "C": "A subpoena",
+        "D": "A warrant"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "A warrant authorises police to search premises under specified conditions."
+    },
+    {
+      "number": 16,
+      "groupId": null,
+      "stem": "The only parties that can bring actions in the International Court of Justice are",
+      "images": [],
+      "options": {
+        "A": "Non government organisations",
+        "B": "States",
+        "C": "Lobby groups",
+        "D": "Terrorists"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "Only states may be parties to contentious cases before the International Court of Justice."
+    },
+    {
+      "number": 17,
+      "groupId": null,
+      "stem": "If the Federal Government brings in a law that is not consistent with an established principle of common law the legislation is",
+      "images": [],
+      "options": {
+        "A": "Enforceable",
+        "B": "Non – enforceable",
+        "C": "Unconstitutional",
+        "D": "Unfair"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Valid federal legislation overrides inconsistent common law and remains enforceable."
+    },
+    {
+      "number": 18,
+      "groupId": null,
+      "stem": "In NSW if a jury is hung 11-1 in favour of a conviction in a criminal trial the defendant will be",
+      "images": [],
+      "options": {
+        "A": "Acquitted",
+        "B": "Guilty",
+        "C": "Retried",
+        "D": "Not punished as harshly"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "A hung jury returns no verdict so retrial (C) is the likely answer; Guilty (B) is plausible if the 11-1 majority verdict provisions are applied."
+    },
+    {
+      "number": 19,
+      "groupId": null,
+      "stem": "In Australia the right to vote is best protected by",
+      "images": [],
+      "options": {
+        "A": "The Government",
+        "B": "The State Parliament",
+        "C": "The Supreme Court",
+        "D": "The Constitution"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Constitutional provisions constrain Parliament’s ability to remove voting rights."
+    },
+    {
+      "number": 20,
+      "groupId": null,
+      "stem": "What is the name given to the trial system where the judge takes an active part in determining the facts of the case",
+      "images": [],
+      "options": {
+        "A": "Summary",
+        "B": "Adversarial",
+        "C": "Inquisitorial",
+        "D": "Judicial"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "An inquisitorial system gives the judge an active role in investigating and determining facts."
+    }
+  ]
+}

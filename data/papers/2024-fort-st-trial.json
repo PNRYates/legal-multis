@@ -1,0 +1,324 @@
+{
+  "id": "2024-fort-st-trial",
+  "year": 2024,
+  "school": "Fort St",
+  "kind": "trial",
+  "title": "2024 Fort St Legal Studies Trial",
+  "sourceFile": "2024 Fort St Legal Studies Trial.pdf",
+  "answerStatus": "all-verified",
+  "notes": "Section I key and rationales are included in the source booklet (PDF page 20).",
+  "groups": [
+    {
+      "id": "2024-fort-st-trial-g1",
+      "questionNumbers": [
+        4,
+        5,
+        6
+      ],
+      "stimulus": "Bronwyn is charged with a speeding offence. Bronwyn was speeding in order to get to a peaceful protest against the Prime Minister. Bronwyn pleads not guilty to the offence. A magistrate finds Bronwyn guilty of the offence and sentences her to community service.",
+      "images": []
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "groupId": null,
+      "stem": "Continued detention best reflects which of the following purposes of punishment?",
+      "images": [],
+      "options": {
+        "A": "Incapacitation",
+        "B": "Rehabilitation",
+        "C": "General deterrence",
+        "D": "Retribution"
+      },
+      "answer": "A",
+      "answerSource": "paper",
+      "answerNote": "Source booklet Section I multiple-choice answer key and rationale, PDF page 20."
+    },
+    {
+      "number": 2,
+      "groupId": null,
+      "stem": "Under New South Wales legislation, at what age are children considered capable of committing a crime?",
+      "images": [],
+      "options": {
+        "A": "Ten",
+        "B": "Eleven",
+        "C": "Thirteen",
+        "D": "Fourteen"
+      },
+      "answer": "A",
+      "answerSource": "paper",
+      "answerNote": "Source booklet Section I multiple-choice answer key and rationale, PDF page 20."
+    },
+    {
+      "number": 3,
+      "groupId": null,
+      "stem": "Which of the following is an example of social crime prevention?",
+      "images": [],
+      "options": {
+        "A": "An accused person being remanded in custody",
+        "B": "A curfew banning young people from being out in public at night",
+        "C": "Police drug-detection dogs at music festivals",
+        "D": "An employment program for young people"
+      },
+      "answer": "D",
+      "answerSource": "paper",
+      "answerNote": "Source booklet Section I multiple-choice answer key and rationale, PDF page 20."
+    },
+    {
+      "number": 4,
+      "groupId": "2024-fort-st-trial-g1",
+      "stem": "Which of the following factors most likely affected Bronwyn’s criminal behaviour?",
+      "images": [],
+      "options": {
+        "A": "Social",
+        "B": "Economic",
+        "C": "Genetic",
+        "D": "Political"
+      },
+      "answer": "D",
+      "answerSource": "paper",
+      "answerNote": "Source booklet Section I multiple-choice answer key and rationale, PDF page 20."
+    },
+    {
+      "number": 5,
+      "groupId": "2024-fort-st-trial-g1",
+      "stem": "Which of the following is the best description of Bronwyn’s offence?",
+      "images": [],
+      "options": {
+        "A": "Summary, strict liability and driving",
+        "B": "Summary, strict liability and offence against the sovereign",
+        "C": "Indictable, driving and offence against the sovereign",
+        "D": "Summary, driving and preliminary crime"
+      },
+      "answer": "A",
+      "answerSource": "paper",
+      "answerNote": "Source booklet Section I multiple-choice answer key and rationale, PDF page 20."
+    },
+    {
+      "number": 6,
+      "groupId": "2024-fort-st-trial-g1",
+      "stem": "Which court would hear an appeal against the leniency of Bronwyn’s sentence?",
+      "images": [],
+      "options": {
+        "A": "High Court",
+        "B": "District Court",
+        "C": "Supreme Court",
+        "D": "Court of Criminal Appeal"
+      },
+      "answer": "B",
+      "answerSource": "paper",
+      "answerNote": "Source booklet Section I multiple-choice answer key and rationale, PDF page 20."
+    },
+    {
+      "number": 7,
+      "groupId": null,
+      "stem": "Which of the following is the best example of state sovereignty?",
+      "images": [],
+      "options": {
+        "A": "New South Wales Parliament passes a law relating to crime",
+        "B": "The High Court rules human rights legislation breaches the Constitution",
+        "C": "The International Criminal Court sentences an individual to imprisonment",
+        "D": "Federal Parliament passes a law that limits the protection of human rights"
+      },
+      "answer": "D",
+      "answerSource": "paper",
+      "answerNote": "Source booklet Section I multiple-choice answer key and rationale, PDF page 20."
+    },
+    {
+      "number": 8,
+      "groupId": null,
+      "stem": "Which of the following is a role of a Public Defender?",
+      "images": [],
+      "options": {
+        "A": "To provide general legal advice to the public",
+        "B": "To prove a defendant’s innocence on the balance of probabilities",
+        "C": "To prove a defendant’s innocence beyond reasonable doubt",
+        "D": "To cross-examine the Prosecution’s witness"
+      },
+      "answer": "D",
+      "answerSource": "paper",
+      "answerNote": "Source booklet Section I multiple-choice answer key and rationale, PDF page 20."
+    },
+    {
+      "number": 9,
+      "groupId": null,
+      "stem": "Which of the following statements about the Universal Declaration of Human Rights is correct?",
+      "images": [],
+      "options": {
+        "A": "It cannot be ratified by states",
+        "B": "It is not a formal statement of rights",
+        "C": "It does not mention the right to universal suffrage",
+        "D": "It does not mention the right to freedom from slavery"
+      },
+      "answer": "A",
+      "answerSource": "paper",
+      "answerNote": "Source booklet Section I multiple-choice answer key and rationale, PDF page 20."
+    },
+    {
+      "number": 10,
+      "groupId": null,
+      "stem": "Harley, who is fifteen years of age, is taken to the police station for questioning. Who must be present when police officers interview Harley?",
+      "images": [],
+      "options": {
+        "A": "A Legal Aid NSW lawyer",
+        "B": "Harley’s parent or carer",
+        "C": "A responsible adult chosen by Harley",
+        "D": "A responsible adult chosen by the police"
+      },
+      "answer": "C",
+      "answerSource": "paper",
+      "answerNote": "Source booklet Section I multiple-choice answer key and rationale, PDF page 20."
+    },
+    {
+      "number": 11,
+      "groupId": null,
+      "stem": "Which of the following is an argument for an Australian Charter of Rights?",
+      "images": [],
+      "options": {
+        "A": "It would not be enforceable",
+        "B": "It would promote human rights",
+        "C": "It would not be subject to interpretation by the High Court",
+        "D": "It would remove the need for domestic human rights tribunals"
+      },
+      "answer": "B",
+      "answerSource": "paper",
+      "answerNote": "Source booklet Section I multiple-choice answer key and rationale, PDF page 20."
+    },
+    {
+      "number": 12,
+      "groupId": null,
+      "stem": "The United Nations develops a human rights treaty. Australia signs the treaty. New Zealand refuses to sign the treaty. Which of the following statements is correct?",
+      "images": [],
+      "options": {
+        "A": "The treaty is legally binding in Australia but not in New Zealand.",
+        "B": "The treaty is not legally binding in either Australia or New Zealand.",
+        "C": "The treaty is legally binding in both Australia and New Zealand.",
+        "D": "The treaty is legally binding in New Zealand but not in Australia."
+      },
+      "answer": "B",
+      "answerSource": "paper",
+      "answerNote": "Source booklet Section I multiple-choice answer key and rationale, PDF page 20."
+    },
+    {
+      "number": 13,
+      "groupId": null,
+      "stem": "Which of the following is an intergovernmental organisation?",
+      "images": [],
+      "options": {
+        "A": "The High Court",
+        "B": "The United Nations",
+        "C": "The International Criminal Court",
+        "D": "The Australian Human Rights Commission"
+      },
+      "answer": "B",
+      "answerSource": "paper",
+      "answerNote": "Source booklet Section I multiple-choice answer key and rationale, PDF page 20."
+    },
+    {
+      "number": 14,
+      "groupId": null,
+      "stem": "Which of the following is a part of the criminal trial process?",
+      "images": [],
+      "options": {
+        "A": "Bail",
+        "B": "Parole",
+        "C": "Summons",
+        "D": "Charge negotiation"
+      },
+      "answer": "D",
+      "answerSource": "paper",
+      "answerNote": "Source booklet Section I multiple-choice answer key and rationale, PDF page 20."
+    },
+    {
+      "number": 15,
+      "groupId": null,
+      "stem": "Elizabeth, who is a former Supreme Court judge, stands trial for murder in New South Wales. The jury returns a special verdict of “act proven but not criminally responsible because of mental health impairment”. What will most likely happen to Elizabeth next?",
+      "images": [],
+      "options": {
+        "A": "She will be sentenced",
+        "B": "She will be placed in protective custody",
+        "C": "She will be released into the community",
+        "D": "She will be assessed by the Mental Health Review Tribunal"
+      },
+      "answer": "D",
+      "answerSource": "paper",
+      "answerNote": "Source booklet Section I multiple-choice answer key and rationale, PDF page 20."
+    },
+    {
+      "number": 16,
+      "groupId": null,
+      "stem": "Harry was convicted of having terrorist propaganda on his computer. Whilst in prison, he was isolated from other inmates. This is an example of which of the following?",
+      "images": [],
+      "options": {
+        "A": "Parole",
+        "B": "Remand",
+        "C": "Post sentencing consideration",
+        "D": "Preventative detention"
+      },
+      "answer": "C",
+      "answerSource": "paper",
+      "answerNote": "Source booklet Section I multiple-choice answer key and rationale, PDF page 20."
+    },
+    {
+      "number": 17,
+      "groupId": null,
+      "stem": "Jared is found guilty of assaulting Rose, an 86-year-old woman. Rose’s injury is a slightly bruised hand. Rose’s Victim Impact Statement includes a request that the judge not punish Jared. Jared has five previous convictions for assault. Which of the following could be a mitigating factor that might affect the judge’s sentencing decision?",
+      "images": [],
+      "options": {
+        "A": "Rose’s age",
+        "B": "Rose’s injury",
+        "C": "Rose’s Victim Impact Statement",
+        "D": "Jared’s previous convictions"
+      },
+      "answer": "B",
+      "answerSource": "paper",
+      "answerNote": "Source booklet Section I multiple-choice answer key and rationale, PDF page 20."
+    },
+    {
+      "number": 18,
+      "groupId": null,
+      "stem": "Which of the following is a role of the foreperson of the jury in a criminal trial?",
+      "images": [],
+      "options": {
+        "A": "To deliver the offender’s sentence on the jury’s behalf",
+        "B": "To deliver the verdict on the jury’s behalf",
+        "C": "To research the facts of the case on the jury’s behalf",
+        "D": "To ensure the jury reaches a unanimous verdict"
+      },
+      "answer": "B",
+      "answerSource": "paper",
+      "answerNote": "Source booklet Section I multiple-choice answer key and rationale, PDF page 20."
+    },
+    {
+      "number": 19,
+      "groupId": null,
+      "stem": "While driving, Mary was stopped by police for a random drug test. What must Mary do?",
+      "images": [],
+      "options": {
+        "A": "Provide police with her name",
+        "B": "Answer all police questions",
+        "C": "She is not required to do anything",
+        "D": "Get out of the car and greet the police"
+      },
+      "answer": "A",
+      "answerSource": "paper",
+      "answerNote": "Source booklet Section I multiple-choice answer key and rationale, PDF page 20."
+    },
+    {
+      "number": 20,
+      "groupId": null,
+      "stem": "An Australian soldier is believed to have committed war crimes in a foreign country. Interpol informs the Australian Federal Police (AFP) that the soldier is hiding in the USA. Which of the following would be the best measure to deal with this alleged crime?",
+      "images": [],
+      "options": {
+        "A": "Interpol should immediately refer the soldier to the International Criminal Court",
+        "B": "The USA should attempt to extradite the soldier to face prosecution in Australia",
+        "C": "The AFP should attempt to arrest the soldier in the USA",
+        "D": "Interpol should immediately refer the soldier to the International Court of Justice"
+      },
+      "answer": "B",
+      "answerSource": "paper",
+      "answerNote": "Source booklet Section I multiple-choice answer key and rationale, PDF page 20."
+    }
+  ]
+}

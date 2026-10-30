@@ -1,0 +1,323 @@
+{
+  "id": "2024-riverview-trial",
+  "year": 2024,
+  "school": "Riverview",
+  "kind": "trial",
+  "title": "2024 Riverview Legal Studies Trial",
+  "sourceFile": "2024 Riverview Legal Studies Trial.pdf",
+  "answerStatus": "none-found",
+  "notes": "The trial paper contains no answer key and online searches surfaced the paper but no answer sheet. Answers are reasoned guesses. Q5–6 share a scenario; Q16’s single-question scenario is included in its stem. No figures occur in Section I.",
+  "groups": [
+    {
+      "id": "2024-riverview-trial-g1",
+      "questionNumbers": [
+        5,
+        6
+      ],
+      "stimulus": "Both the Commonwealth and New South Wales Parliament pass laws to protect the human rights of the disabled. The federal law conflicts with state legislation.",
+      "images": []
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "groupId": null,
+      "stem": "What is the difference between a summary and an indictable offence?",
+      "images": [],
+      "options": {
+        "A": "The seriousness of the offence",
+        "B": "The vulnerability of the victim",
+        "C": "The age of the offender",
+        "D": "Judicial guidelines"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "The classification primarily reflects the seriousness of the offence."
+    },
+    {
+      "number": 2,
+      "groupId": null,
+      "stem": "Which of the following should be considered a mitigating factor in sentencing an offender for assault?",
+      "images": [],
+      "options": {
+        "A": "The old age of the victim",
+        "B": "The offender showed remorse",
+        "C": "The offender pleaded not guilty",
+        "D": "The use of violence by the offender"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "Remorse is a recognised mitigating sentencing factor."
+    },
+    {
+      "number": 3,
+      "groupId": null,
+      "stem": "Ita punches another person who falls and hits their head. They die as a result of their injuries. Ita is charged with murder. Which element of the offence is difficult to prove to gain a murder conviction?",
+      "images": [],
+      "options": {
+        "A": "Actus reus",
+        "B": "Mens rea",
+        "C": "Liability",
+        "D": "Motive"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "The difficult issue is whether the required intention or recklessness for murder can be proved."
+    },
+    {
+      "number": 4,
+      "groupId": null,
+      "stem": "The New South Wales government increased random breath testing operations during the Christmas holidays. This is best described as an example of which of the following?",
+      "images": [],
+      "options": {
+        "A": "Sedition",
+        "B": "Social crime prevention",
+        "C": "A breach of the rule of law",
+        "D": "Situational crime prevention"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Visible RBT increases the perceived risk of detection, a situational strategy."
+    },
+    {
+      "number": 5,
+      "groupId": "2024-riverview-trial-g1",
+      "stem": "Which legal concept is demonstrated in this scenario?",
+      "images": [],
+      "options": {
+        "A": "Judicial review",
+        "B": "State sovereignty",
+        "C": "Division of powers",
+        "D": "Separation of powers"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "The conflict concerns the allocation of Commonwealth and state legislative powers."
+    },
+    {
+      "number": 6,
+      "groupId": "2024-riverview-trial-g1",
+      "stem": "Which court or tribunal would hear a dispute on this matter and what is the likely outcome?",
+      "images": [],
+      "options": {
+        "A": "High Court — State legislation will be upheld",
+        "B": "Administrative Appeals Tribunal — Both laws are invalid",
+        "C": "International Court of Justice — Commonwealth legislation will be upheld",
+        "D": "High Court — Commonwealth legislation will be upheld"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "The High Court resolves constitutional inconsistency and the valid Commonwealth law prevails."
+    },
+    {
+      "number": 7,
+      "groupId": null,
+      "stem": "Why may Legal Aid NOT be granted for a criminal case?",
+      "images": [],
+      "options": {
+        "A": "The Director of Public Prosecutions declines the accused’s request.",
+        "B": "The police determine the offender does not qualify for Legal Aid.",
+        "C": "The accused does not meet the means test requirements.",
+        "D": "The matter is an indictable offence."
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "Eligibility is assessed against means and merits criteria."
+    },
+    {
+      "number": 8,
+      "groupId": null,
+      "stem": "Lonnie protests against the Local Council’s decision not to build a skate park. She graffitis the Council offices. What factor affecting criminal behaviour does this best relate to?",
+      "images": [],
+      "options": {
+        "A": "Greed",
+        "B": "Social",
+        "C": "Political",
+        "D": "Economic"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "The act is motivated by protest against a government decision, a political factor."
+    },
+    {
+      "number": 9,
+      "groupId": null,
+      "stem": "Ignoring the land rights of Indigenous Peoples represents a failure to protect which human right?",
+      "images": [],
+      "options": {
+        "A": "Self-determination",
+        "B": "Environmental rights",
+        "C": "Universal suffrage",
+        "D": "Property rights"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Recognition of Indigenous land rights is connected to peoples’ self-determination."
+    },
+    {
+      "number": 10,
+      "groupId": null,
+      "stem": "How is Australia best able to uphold international obligations to protect human rights?",
+      "images": [],
+      "options": {
+        "A": "By passing domestic laws",
+        "B": "By signing bilateral treaties",
+        "C": "By joining the United Nations",
+        "D": "By signing multilateral treaties"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Domestic legislation gives international obligations effect; D (signing multilateral treaties) is the other plausible answer but signing alone does not uphold obligations."
+    },
+    {
+      "number": 11,
+      "groupId": null,
+      "stem": "Granting a defendant bail reflects which fundamental legal principle?",
+      "images": [],
+      "options": {
+        "A": "The right to a fair trial",
+        "B": "Procedural fairness",
+        "C": "The right to trial by peers",
+        "D": "The presumption of innocence"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Bail reflects that an accused is presumed innocent before conviction."
+    },
+    {
+      "number": 12,
+      "groupId": null,
+      "stem": "Luke and his friends are instructed by police to leave a public place. Luke is abusive but the officer decides against issuing him with an infringement notice. This is an example of what aspect of police powers?",
+      "images": [],
+      "options": {
+        "A": "A warrant",
+        "B": "Discretion",
+        "C": "Arrest",
+        "D": "Abuse"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "The officer chooses whether to issue a notice, exercising discretion."
+    },
+    {
+      "number": 13,
+      "groupId": null,
+      "stem": "Lauren is 16 years old. Two older boys force her, with threats, to steal from a service station. The police apprehend her. Which defence could Lauren raise in this matter?",
+      "images": [],
+      "options": {
+        "A": "Duress",
+        "B": "Self-defence",
+        "C": "Provocation",
+        "D": "Doli incapax"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Threats forcing a person to commit an offence may establish duress."
+    },
+    {
+      "number": 14,
+      "groupId": null,
+      "stem": "Police charge a 16-year-old with unlicensed driving and a number of traffic offences. In which court will the matter be heard?",
+      "images": [],
+      "options": {
+        "A": "Children’s",
+        "B": "Supreme",
+        "C": "District",
+        "D": "Local"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Traffic offences are dealt with in the Local Court rather than the Children’s Court."
+    },
+    {
+      "number": 15,
+      "groupId": null,
+      "stem": "Which legal authority has responsibility for preparing the case for the prosecution of an indictable offence in the District Court?",
+      "images": [],
+      "options": {
+        "A": "Legal Aid",
+        "B": "The Public Defender",
+        "C": "The Police Prosecutor",
+        "D": "The Director of Public Prosecutions"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "The DPP prepares and conducts prosecutions for serious indictable offences."
+    },
+    {
+      "number": 16,
+      "groupId": null,
+      "stem": "Person W provides stolen security access codes to a bank; person X demands money from the teller while holding a gun. Person Y keeps other bank employees in line; person Z drives the getaway vehicle. Who are the principal offenders in this scenario?",
+      "images": [],
+      "options": {
+        "A": "Person X",
+        "B": "Persons X and Y",
+        "C": "Persons W, X and Y",
+        "D": "Persons W, X, Y and Z"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "X (gunman) and Y (keeping employees in line, present at scene) are the principals of the first and second degree; W is an accessory before the fact. Z (getaway driver) could arguably be a second-degree principal, but no option is X, Y and Z, so B is the best fit."
+    },
+    {
+      "number": 17,
+      "groupId": null,
+      "stem": "Who will determine whether illegally obtained evidence is admissible in the trial of a murder suspect?",
+      "images": [],
+      "options": {
+        "A": "The Attorney General",
+        "B": "A High Court judge",
+        "C": "A Supreme Court judge",
+        "D": "A magistrate in a Committal Conference"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "A murder trial is heard in the Supreme Court, whose judge rules on admissibility."
+    },
+    {
+      "number": 18,
+      "groupId": null,
+      "stem": "Sentencing designed to make the accused redress the harm done to society is best reflected by which of the following?",
+      "images": [],
+      "options": {
+        "A": "Restorative justice",
+        "B": "Rehabilitation",
+        "C": "Retribution",
+        "D": "Deterrence"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Restorative justice (making the offender repair the harm) fits best; C (retribution) is the other plausible answer given the 'harm done to society' wording."
+    },
+    {
+      "number": 19,
+      "groupId": null,
+      "stem": "Which of the following best promotes the coordination of the global protection of human rights?",
+      "images": [],
+      "options": {
+        "A": "The media",
+        "B": "Non-governmental organisations",
+        "C": "Intergovernmental organisations",
+        "D": "Statutory authorities"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "Intergovernmental organisations coordinate state cooperation and international frameworks."
+    },
+    {
+      "number": 20,
+      "groupId": null,
+      "stem": "A former Australian solider has been charged with war crimes under the Commonwealth Criminal Code, 1995. He was arrested in Sydney. Which body will make a determination in this case?",
+      "images": [],
+      "options": {
+        "A": "The Australian High Court",
+        "B": "The Supreme Court of NSW",
+        "C": "The International Criminal Court",
+        "D": "The Federal Circuit Court"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "A domestic criminal prosecution of a Commonwealth offence is heard in a competent state court; The ICC is not the trial court."
+    }
+  ]
+}

@@ -1,0 +1,313 @@
+{
+  "id": "2022-hsc",
+  "year": 2022,
+  "school": "HSC",
+  "kind": "hsc",
+  "title": "2022 HSC Legal Studies",
+  "sourceFile": "2022 HSC Legal Studies.pdf",
+  "answerStatus": "all-verified",
+  "notes": "The NESA answer key was not present in the supplied PDF. all answers are reasoned guesses.",
+  "groups": [],
+  "questions": [
+    {
+      "number": 1,
+      "groupId": null,
+      "stem": "In which court does a police prosecutor present a case?",
+      "images": [],
+      "options": {
+        "A": "District",
+        "B": "High",
+        "C": "Local",
+        "D": "Supreme"
+      },
+      "answer": "C",
+      "answerSource": "official",
+      "answerNote": "NESA 2022 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2022-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 2,
+      "groupId": null,
+      "stem": "A person charged with a crime is sent to prison to await trial. What is this known as?",
+      "images": [],
+      "options": {
+        "A": "Bail",
+        "B": "Parole",
+        "C": "Probation",
+        "D": "Remand"
+      },
+      "answer": "D",
+      "answerSource": "official",
+      "answerNote": "NESA 2022 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2022-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 3,
+      "groupId": null,
+      "stem": "Which of the following is correct for a criminal trial?",
+      "images": [],
+      "options": {
+        "A": "Burden of proof rests with the accused; standard of proof is beyond reasonable doubt.",
+        "B": "Burden of proof rests with the accused; standard of proof is on the balance of probabilities.",
+        "C": "Burden of proof rests with the prosecution; standard of proof is beyond reasonable doubt.",
+        "D": "Burden of proof rests with the prosecution; standard of proof is on the balance of probabilities."
+      },
+      "answer": "C",
+      "answerSource": "official",
+      "answerNote": "NESA 2022 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2022-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 4,
+      "groupId": null,
+      "stem": "Charlie was caught smuggling illegal substances into Australia from Mozambique. She was arrested and charged upon her arrival into Australia. Which court would hear this matter?",
+      "images": [],
+      "options": {
+        "A": "An Australian court",
+        "B": "A Mozambican court",
+        "C": "The International Criminal Court",
+        "D": "The International Court of Justice"
+      },
+      "answer": "A",
+      "answerSource": "official",
+      "answerNote": "NESA 2022 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2022-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 5,
+      "groupId": null,
+      "stem": "Which of the following is an intergovernmental organisation?",
+      "images": [],
+      "options": {
+        "A": "Greenpeace",
+        "B": "The European Union",
+        "C": "Doctors Without Borders",
+        "D": "The Federal Court of Australia"
+      },
+      "answer": "B",
+      "answerSource": "official",
+      "answerNote": "NESA 2022 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2022-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 6,
+      "groupId": null,
+      "stem": "A local council introduces an alcohol consumption ban along Sydney Harbour for New Year’s Eve. This ban is best described as an example of",
+      "images": [],
+      "options": {
+        "A": "sedition.",
+        "B": "an indictable offence.",
+        "C": "social crime prevention.",
+        "D": "situational crime prevention."
+      },
+      "answer": "D",
+      "answerSource": "official",
+      "answerNote": "NESA 2022 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2022-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 7,
+      "groupId": null,
+      "stem": "Australia signs an international human rights document regarding refugees. How can the Federal Government best meet its obligations as set out in this document?",
+      "images": [],
+      "options": {
+        "A": "Enact domestic legislation",
+        "B": "Raise awareness at an international summit",
+        "C": "Vote in the United Nations General Assembly",
+        "D": "Obtain a seat on the United Nations Human Rights Council"
+      },
+      "answer": "A",
+      "answerSource": "official",
+      "answerNote": "NESA 2022 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2022-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 8,
+      "groupId": null,
+      "stem": "Joe is in prison and provides evidence to the police which leads to the conviction of another prisoner. Which of the following is Joe likely to experience?",
+      "images": [],
+      "options": {
+        "A": "Protective custody",
+        "B": "Extended detention",
+        "C": "Preventative detention",
+        "D": "A diversionary program"
+      },
+      "answer": "A",
+      "answerSource": "official",
+      "answerNote": "NESA 2022 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2022-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 9,
+      "groupId": null,
+      "stem": "How does charge negotiation contribute to justice for society?",
+      "images": [],
+      "options": {
+        "A": "It helps the jury to determine guilt.",
+        "B": "It leads to a more efficient criminal process.",
+        "C": "It guarantees a suitable sentence for the offender.",
+        "D": "It allows the victim to cross-examine the accused person in court."
+      },
+      "answer": "B",
+      "answerSource": "official",
+      "answerNote": "NESA 2022 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2022-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 10,
+      "groupId": null,
+      "stem": "A judge delivers a maximum sentence to an offender. One of the aims of this penalty is to discourage others from committing similar crimes. What is this known as?",
+      "images": [],
+      "options": {
+        "A": "Deterrence",
+        "B": "Incapacitation",
+        "C": "Rehabilitation",
+        "D": "Retribution"
+      },
+      "answer": "A",
+      "answerSource": "official",
+      "answerNote": "NESA 2022 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2022-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 11,
+      "groupId": null,
+      "stem": "Which of the following is NOT covered by the International Covenant on Economic, Social and Cultural Rights (1976)?",
+      "images": [],
+      "options": {
+        "A": "Fair wages",
+        "B": "Primary education",
+        "C": "Freedom of movement",
+        "D": "An adequate standard of living"
+      },
+      "answer": "C",
+      "answerSource": "official",
+      "answerNote": "NESA 2022 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2022-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 12,
+      "groupId": null,
+      "stem": "Which of the following is a feature of the adversary system?",
+      "images": [],
+      "options": {
+        "A": "The admission of all evidence",
+        "B": "The use of precedent by juries",
+        "C": "The judge is an impartial decision maker",
+        "D": "All accused people are provided with a public defender"
+      },
+      "answer": "C",
+      "answerSource": "official",
+      "answerNote": "NESA 2022 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2022-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 13,
+      "groupId": null,
+      "stem": "Kerry and Blair enter a local supermarket together. Kerry asks Blair to keep a look out for a security guard while she places several packets of batteries inside her jacket. In-store video surveillance captures the incident. Which term best describes Blair’s role?",
+      "images": [],
+      "options": {
+        "A": "Accessory after the fact",
+        "B": "Accessory before the fact",
+        "C": "Principal in the first degree",
+        "D": "Principal in the second degree"
+      },
+      "answer": "D",
+      "answerSource": "official",
+      "answerNote": "NESA 2022 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2022-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 14,
+      "groupId": null,
+      "stem": "Why is the availability of Legal Aid important in the criminal justice system?",
+      "images": [],
+      "options": {
+        "A": "It assists the judge in a sentencing decision.",
+        "B": "It allows the accused to represent themselves.",
+        "C": "It supports the accused to seek legal representation.",
+        "D": "It ensures that both sides have access to equal resources."
+      },
+      "answer": "C",
+      "answerSource": "official",
+      "answerNote": "NESA 2022 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2022-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 15,
+      "groupId": null,
+      "stem": "Frankie is a victim of common assault at an outdoor event. As a victim of crime, they have the right to",
+      "images": [],
+      "options": {
+        "A": "request their identity be protected.",
+        "B": "receive compensation for their injuries.",
+        "C": "determine the bail terms of the accused.",
+        "D": "determine the charge against the accused."
+      },
+      "answer": "A",
+      "answerSource": "official",
+      "answerNote": "NESA 2022 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2022-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 16,
+      "groupId": null,
+      "stem": "Which of the following is an argument for Australia having a Charter of Rights?",
+      "images": [],
+      "options": {
+        "A": "The rights of all groups will be ensured.",
+        "B": "Australia will be aligned with other democracies.",
+        "C": "Unelected judges will have power to make political decisions.",
+        "D": "The Australian Human Rights Commission will have the authority to amend legislation."
+      },
+      "answer": "B",
+      "answerSource": "official",
+      "answerNote": "NESA 2022 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2022-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 17,
+      "groupId": null,
+      "stem": "Sam is 13 years old. They are arrested and fingerprinted. Under what circumstances can police officers conduct this type of forensic procedure?",
+      "images": [],
+      "options": {
+        "A": "With a court order",
+        "B": "With Sam’s consent",
+        "C": "When Sam is arrested for an offence",
+        "D": "At the request of the Director of Public Prosecutions"
+      },
+      "answer": "A",
+      "answerSource": "official",
+      "answerNote": "NESA 2022 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2022-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 18,
+      "groupId": null,
+      "stem": "Which of the following is NOT true when a judge delivers a sentencing decision?",
+      "images": [],
+      "options": {
+        "A": "Statutory guidelines should be followed.",
+        "B": "The judge will decide the security classification of the offender.",
+        "C": "Precedent from previous court cases may guide the judge’s thinking.",
+        "D": "For certain crimes the judge will need to apply a minimum sentence."
+      },
+      "answer": "B",
+      "answerSource": "official",
+      "answerNote": "NESA 2022 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2022-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 19,
+      "groupId": null,
+      "stem": "A soldier accused of war crimes is detained in their country of birth. The country is a signatory to the Rome Statute and has a permanent judicial system. In which court will the soldier most likely be tried?",
+      "images": [],
+      "options": {
+        "A": "A court in a neutral country",
+        "B": "The International Criminal Court",
+        "C": "The International Court of Justice",
+        "D": "A court in the soldier’s country of origin"
+      },
+      "answer": "D",
+      "answerSource": "official",
+      "answerNote": "NESA 2022 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2022-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 20,
+      "groupId": null,
+      "stem": "The High Court of Australia rules against a Federal Minister’s decision to deport a child. The court decides that this would be against Australia’s obligations under an international instrument. Which legal concept is demonstrated in this scenario?",
+      "images": [],
+      "options": {
+        "A": "Ratification",
+        "B": "State sovereignty",
+        "C": "Division of powers",
+        "D": "Separation of powers"
+      },
+      "answer": "D",
+      "answerSource": "official",
+      "answerNote": "NESA 2022 HSC Legal Studies Marking Guidelines, Section I answer key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2022-hsc-legal-studies-mg.pdf"
+    }
+  ]
+}

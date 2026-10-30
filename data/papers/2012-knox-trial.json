@@ -1,0 +1,325 @@
+{
+  "id": "2012-knox-trial",
+  "year": 2012,
+  "school": "Knox",
+  "kind": "trial",
+  "title": "2012 Knox Legal Studies Trial",
+  "sourceFile": "2012 Knox Legal Studies Trial.pdf",
+  "answerStatus": "none-found",
+  "notes": "The PDF contains no answer key. Questions 15–18 share the scenario printed on page 6; no non-text figures are needed. all answers are reasoned guesses.",
+  "groups": [
+    {
+      "id": "2012-knox-trial-g1",
+      "questionNumbers": [
+        15,
+        16,
+        17,
+        18
+      ],
+      "stimulus": "After years of physical abuse and repeated death threats, Catherine enlists the help of her son Silas to kill her husband, Darren. She shoots Darren while he is watching television. Silas helps plan the murder and buries Darren’s body afterwards.",
+      "images": []
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "groupId": null,
+      "stem": "What is the role of the Director of Public Prosecutions?",
+      "images": [],
+      "options": {
+        "A": "To make recommendations regarding criminal law reform",
+        "B": "To preside over committal hearings",
+        "C": "To protect the public from crime",
+        "D": "To prosecute offenders in the District and Supreme Court"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "The DPP prosecutes serious criminal matters on behalf of the state."
+    },
+    {
+      "number": 2,
+      "groupId": null,
+      "stem": "The Government of Gillardia passes a statute allowing mining companies to release unprocessed waste water into rivers. Protesters can be arrested and imprisoned without trial if they attempt to prevent water releases.\n\nWhich of the following rights are being violated?",
+      "images": [],
+      "options": {
+        "A": "Economic, social and cultural rights and the collective right to self determination",
+        "B": "Civil and political rights and the individual right to self determination",
+        "C": "The right to a clean environment and economic, social and cultural rights",
+        "D": "Civil and political rights and the right to a clean environment"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Imprisonment without trial infringes civil and political rights, while pollution threatens the right to a clean environment."
+    },
+    {
+      "number": 3,
+      "groupId": null,
+      "stem": "Which of the following is a public order offence?",
+      "images": [],
+      "options": {
+        "A": "Shoplifting",
+        "B": "Offensive language",
+        "C": "Treason",
+        "D": "Dangerous driving"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "Offensive language in public is a public order offence."
+    },
+    {
+      "number": 4,
+      "groupId": null,
+      "stem": "What is the main purpose of bail?",
+      "images": [],
+      "options": {
+        "A": "To protect victims of crime",
+        "B": "To reduce prison numbers",
+        "C": "To protect the rights of the accused",
+        "D": "To promote specific deterrence"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "Bail preserves the accused person’s liberty and presumption of innocence while proceedings continue."
+    },
+    {
+      "number": 5,
+      "groupId": null,
+      "stem": "Kai has been in foster care since he was eight. He left school at 13 and has committed a series of increasingly serious offences ever since. He is now on trial for armed robbery.\n\nWhich of the following factors affect Kai’s criminal behaviour?",
+      "images": [],
+      "options": {
+        "A": "Environmental factors",
+        "B": "Genetic factors",
+        "C": "Political factors",
+        "D": "Social factors"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Foster care and leaving school early are social factors; A (environmental) is a weaker alternative."
+    },
+    {
+      "number": 6,
+      "groupId": null,
+      "stem": "Alex is charged with sexual assault after his DNA is found on the victim’s clothes. His defence lawyer introduces witnesses who testify that Alex was at work at the time of the crime.\n\nWhich element of the crime is Alex disputing?",
+      "images": [],
+      "options": {
+        "A": "Causation",
+        "B": "Actus reus",
+        "C": "Mens rea",
+        "D": "Mental illness"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "The alibi disputes that Alex committed the prohibited act."
+    },
+    {
+      "number": 7,
+      "groupId": null,
+      "stem": "Which purpose of punishment is achieved by fining a speeding driver?",
+      "images": [],
+      "options": {
+        "A": "Specific deterrence",
+        "B": "General deterrence",
+        "C": "Rehabilitation",
+        "D": "Retribution"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "A speeding fine is usually taught as deterring drivers generally; A (specific deterrence) is also plausible."
+    },
+    {
+      "number": 8,
+      "groupId": null,
+      "stem": "Which of the following people is most likely to receive legal aid?",
+      "images": [],
+      "options": {
+        "A": "An accused with no prior offences who is pleading not guilty",
+        "B": "A young offender who is pleading not guilty",
+        "C": "An accused with prior offences who is pleading guilty",
+        "D": "An accused person with a mental illness"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "Young offenders are a priority group for legal aid; D (mental illness) is also plausible."
+    },
+    {
+      "number": 9,
+      "groupId": null,
+      "stem": "Which of the following is a characteristic of summary offences?",
+      "images": [],
+      "options": {
+        "A": "They are heard by a jury in a local court.",
+        "B": "They require a committal hearing.",
+        "C": "They are only punishable by a fine.",
+        "D": "They are less serious offences."
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Summary offences are the less serious category and are generally dealt with summarily."
+    },
+    {
+      "number": 10,
+      "groupId": null,
+      "stem": "Patrick stabs Julia in the course of a robbery. He then calls an ambulance. At the hospital, Julia refuses a blood transfusion because she believes that the doctors are trying to poison her. She dies and Patrick is charged with her murder.\n\nWhich element of the crime can Patrick dispute?",
+      "images": [],
+      "options": {
+        "A": "Causation",
+        "B": "Actus reus",
+        "C": "Mens rea",
+        "D": "Mental illness"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "The refusal of treatment may be raised to dispute the causal link between Patrick’s act and Julia’s death."
+    },
+    {
+      "number": 11,
+      "groupId": null,
+      "stem": "The Federal Parliament passes a statute protecting freedom of speech.\n\nHow is this right now enforceable?",
+      "images": [],
+      "options": {
+        "A": "By the High Court using the Charter of Rights",
+        "B": "By customary law recognised in tribunals",
+        "C": "By common law precedent",
+        "D": "By courts and tribunals"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "A statutory right can be enforced through the courts and tribunals applying the legislation."
+    },
+    {
+      "number": 12,
+      "groupId": null,
+      "stem": "Which of the following is an example of social crime prevention?",
+      "images": [],
+      "options": {
+        "A": "A program to get truants back to school",
+        "B": "Security guards and closed-circuit cameras in a shopping centre",
+        "C": "Drug detection dogs at a concert",
+        "D": "A community service order"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "School engagement addresses social conditions associated with offending."
+    },
+    {
+      "number": 13,
+      "groupId": null,
+      "stem": "Which of the following is an intergovernmental organisation which promotes human rights?",
+      "images": [],
+      "options": {
+        "A": "Amnesty International",
+        "B": "The World Trade Organisation",
+        "C": "The European Union",
+        "D": "The International Criminal Court"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "The European Union is an intergovernmental organisation with human rights responsibilities."
+    },
+    {
+      "number": 14,
+      "groupId": null,
+      "stem": "The High Court of Australia overturns a statute limiting welfare payments to indigenous people on the grounds that the government is violating international law.\n\nWhich of the following best describes how human rights have been protected?",
+      "images": [],
+      "options": {
+        "A": "By international law",
+        "B": "By the separation of powers",
+        "C": "By statute law",
+        "D": "By constitutional law"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "The question states the High Court acted because of a breach of international law; A fits the stem as written, though in reality Australian courts cannot strike down statutes on that basis."
+    },
+    {
+      "number": 15,
+      "groupId": "2012-knox-trial-g1",
+      "stem": "Which of the following best describes Silas’ role in the crime?",
+      "images": [],
+      "options": {
+        "A": "He is an accessory before the fact.",
+        "B": "He is the principal in the first degree.",
+        "C": "He is the principal in the second degree.",
+        "D": "He is an accessory after the fact."
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Silas helped plan the murder (accessory before the fact); D is plausible because he also buried the body, but the planning is his role in the crime."
+    },
+    {
+      "number": 16,
+      "groupId": "2012-knox-trial-g1",
+      "stem": "What is the main reason for providing Catherine with legal aid?",
+      "images": [],
+      "options": {
+        "A": "To achieve fairness in the adversary system",
+        "B": "To improve Catherine’s compliance with the legal system",
+        "C": "To help her as she is disadvantaged",
+        "D": "To equally distribute legal costs"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Legal aid exists mainly so an accused facing the state's prosecution has proper representation, which makes the adversary system fair; C is plausible but the scenario never says Catherine is disadvantaged."
+    },
+    {
+      "number": 17,
+      "groupId": "2012-knox-trial-g1",
+      "stem": "If you were Catherine’s lawyer, which defence would you advise in order to obtain an acquittal?",
+      "images": [],
+      "options": {
+        "A": "Mental illness",
+        "B": "Provocation",
+        "C": "Necessity",
+        "D": "Self defence"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "The repeated abuse and death threats support an argument that Catherine acted to protect herself from threatened harm."
+    },
+    {
+      "number": 18,
+      "groupId": "2012-knox-trial-g1",
+      "stem": "Which of the following statements is true?",
+      "images": [],
+      "options": {
+        "A": "Catherine must outline her defence.",
+        "B": "The Prosecution must prove Catherine’s defence.",
+        "C": "Catherine must prove mens rea.",
+        "D": "The judge must prove to the jury that Catherine’s defence has no precedent."
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "The accused must raise sufficient evidence to put a defence in issue; The prosecution then bears the applicable burden to disprove it."
+    },
+    {
+      "number": 19,
+      "groupId": null,
+      "stem": "Which of the following rights is promoted in the Universal Declaration of Human Rights?",
+      "images": [],
+      "options": {
+        "A": "The right to bear arms",
+        "B": "The right to freedom of religion",
+        "C": "The right to own slaves",
+        "D": "The right to trial by jury"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "The UDHR protects freedom of thought, conscience and religion."
+    },
+    {
+      "number": 20,
+      "groupId": null,
+      "stem": "When do police in NSW have the right to take a blood sample?",
+      "images": [],
+      "options": {
+        "A": "When they arrest a suspect",
+        "B": "When they have a court order",
+        "C": "When a young offender gives consent",
+        "D": "When there is reasonable suspicion the suspect committed the crime"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "A court order is an authorised route to obtain a forensic sample where consent is not otherwise available."
+    }
+  ]
+}

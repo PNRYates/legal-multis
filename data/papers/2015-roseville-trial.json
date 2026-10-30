@@ -1,0 +1,323 @@
+{
+  "id": "2015-roseville-trial",
+  "year": 2015,
+  "school": "Roseville",
+  "kind": "trial",
+  "title": "2015 Roseville Legal Studies Trial",
+  "sourceFile": "2015 Roseville Legal Studies Trial.pdf",
+  "answerStatus": "none-found",
+  "notes": "The paper has no answer key; an exact-paper search found the exam listing but no separate answers. Answers are reasoned guesses. Questions 12–13 share a scenario. The MC pages contain no figures needed to answer questions.",
+  "groups": [
+    {
+      "id": "2015-roseville-trial-g1",
+      "questionNumbers": [
+        12,
+        13
+      ],
+      "stimulus": "Peter, 15, has been detained by the police on suspicion of being involved in a series of vandalism offences in the local area.",
+      "images": []
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "groupId": null,
+      "stem": "What is the legal term for the mental element of a crime?",
+      "images": [],
+      "options": {
+        "A": "Actus reus",
+        "B": "Mens rea",
+        "C": "Intention",
+        "D": "Causation"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "Mens rea is the legal term for the mental element of an offence."
+    },
+    {
+      "number": 2,
+      "groupId": null,
+      "stem": "Which of the following is a public order offence?",
+      "images": [],
+      "options": {
+        "A": "Swearing on the train",
+        "B": "Driving without a licence",
+        "C": "Using illicit drugs in public",
+        "D": "Stealing $100 worth of cosmetics"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Swearing in public is the public order offence among these options."
+    },
+    {
+      "number": 3,
+      "groupId": null,
+      "stem": "Danielle is being tried for importing illegal drugs into Australia. She claims she was compelled to commit the crime. Which of the following defences is she relying on?",
+      "images": [],
+      "options": {
+        "A": "Self-defence",
+        "B": "Automatism",
+        "C": "Provocation",
+        "D": "Duress"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Duress applies where threats compel a person to commit an offence."
+    },
+    {
+      "number": 4,
+      "groupId": null,
+      "stem": "The right to life is best protected under which human rights instrument?",
+      "images": [],
+      "options": {
+        "A": "The Family Law Act 1975 (Cth)",
+        "B": "The Universal Declaration of Human Rights",
+        "C": "The Commonwealth of Australia Constitution",
+        "D": "The International Covenant on Civil and Political Rights"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "ICCPR Art 6 is the binding instrument protecting the right to life; B (UDHR Art 3) is the other plausible answer but the UDHR is not binding."
+    },
+    {
+      "number": 5,
+      "groupId": null,
+      "stem": "Which of the following statements is true of the role of witnesses in a criminal trial?",
+      "images": [],
+      "options": {
+        "A": "They must have actually seen the offence.",
+        "B": "They can give evidence through oral testimony.",
+        "C": "They can tell the court what they heard about an offence.",
+        "D": "They can be questioned by the victim and the victim’s barrister."
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "Witnesses can give evidence orally; The other choices impose incorrect limits or identify the wrong examiner."
+    },
+    {
+      "number": 6,
+      "groupId": null,
+      "stem": "What is the role of the jury in a criminal trial?",
+      "images": [],
+      "options": {
+        "A": "To provide reasons for their decision in the case",
+        "B": "To decide on an appropriate sentence for the accused",
+        "C": "To find the evidence to determine the verdict of the case",
+        "D": "To listen to the evidence and then hand down their verdict"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "A jury hears the evidence and determines the verdict."
+    },
+    {
+      "number": 7,
+      "groupId": null,
+      "stem": "In sentencing a convicted offender, Justice Davis must hand down a sentence of at least 5 years imprisonment. Which of the following will most affect the judge’s sentencing decision?",
+      "images": [],
+      "options": {
+        "A": "Aggravating circumstances",
+        "B": "Mitigating circumstances",
+        "C": "Statutory guidelines",
+        "D": "Judicial guidelines"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "A statutory minimum constrains the available sentence through legislation."
+    },
+    {
+      "number": 8,
+      "groupId": null,
+      "stem": "The right of all peoples to live free from conflict is an example of which of the following?",
+      "images": [],
+      "options": {
+        "A": "Self-determination",
+        "B": "Labour rights",
+        "C": "Right to life",
+        "D": "Peace rights"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Freedom from conflict is a collective peace right."
+    },
+    {
+      "number": 9,
+      "groupId": null,
+      "stem": "Shaun is nineteen and has been charged with a serious indictable offence. This charge will first be heard in which court?",
+      "images": [],
+      "options": {
+        "A": "Local Court",
+        "B": "District Court",
+        "C": "Supreme Court",
+        "D": "Children’s Court"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Serious indictable matters begin with committal proceedings in the Local Court."
+    },
+    {
+      "number": 10,
+      "groupId": null,
+      "stem": "In sentencing an offender, the judge states that the offender “is remorseful and understands the consequences of her actions”. What has the judge considered in this sentencing decision?",
+      "images": [],
+      "options": {
+        "A": "Aggravating factors",
+        "B": "Mitigating factors",
+        "C": "Specific deterrence",
+        "D": "Charge negotiation"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "Remorse is a mitigating factor."
+    },
+    {
+      "number": 11,
+      "groupId": null,
+      "stem": "Which of the following is NOT true about human rights?",
+      "images": [],
+      "options": {
+        "A": "Violations occur daily across the globe",
+        "B": "They are universal, inalienable, inherent and indivisible",
+        "C": "They enable people to achieve their full potential in society",
+        "D": "They are enforced by the Universal Declaration of Human Rights"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "The UDHR is a declaration and does not itself enforce rights."
+    },
+    {
+      "number": 12,
+      "groupId": "2015-roseville-trial-g1",
+      "stem": "In the event that Peter’s matter goes to court, the burden of proving Peter’s guilt will fall on which of the following?",
+      "images": [],
+      "options": {
+        "A": "The victims",
+        "B": "The plaintiff",
+        "C": "The prosecution",
+        "D": "The local people"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "The prosecution bears the burden in criminal proceedings."
+    },
+    {
+      "number": 13,
+      "groupId": "2015-roseville-trial-g1",
+      "stem": "Which of the following statements is true for Peter?",
+      "images": [],
+      "options": {
+        "A": "He cannot be charged for at least 4 hours.",
+        "B": "One of his parents can be present when he is questioned.",
+        "C": "If he is charged, the matter will be heard in the Local Court.",
+        "D": "He can be questioned for as long as necessary to find the truth."
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "A parent or responsible adult may be present during police questioning of a young person."
+    },
+    {
+      "number": 14,
+      "groupId": null,
+      "stem": "Which of the following is NOT part of the criminal investigation process?",
+      "images": [],
+      "options": {
+        "A": "Charge negotiation",
+        "B": "Detention of a suspect",
+        "C": "Use of a search warrant",
+        "D": "Collection of DNA from the crime scene"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Charge negotiation occurs within case processing/prosecution rather than criminal investigation."
+    },
+    {
+      "number": 15,
+      "groupId": null,
+      "stem": "In relation to human rights, the media is most effective at which of the following?",
+      "images": [],
+      "options": {
+        "A": "Promotion",
+        "B": "Protection",
+        "C": "Enforcement",
+        "D": "Incorporation"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Media reporting raises awareness and promotes human rights."
+    },
+    {
+      "number": 16,
+      "groupId": null,
+      "stem": "Which of the following would be the most effective legal measure the Australian government could use to deal with transnational crimes?",
+      "images": [],
+      "options": {
+        "A": "Appearing before the International Criminal Court",
+        "B": "Boycotting the United Nations General Assembly",
+        "C": "Entering into cooperative arrangements with other nation states",
+        "D": "Publicising crimes with the aim of deterring future offenders"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "Transnational crime requires legal cooperation between affected states."
+    },
+    {
+      "number": 17,
+      "groupId": null,
+      "stem": "In what way does a victim impact statement help to promote justice?",
+      "images": [],
+      "options": {
+        "A": "It provides the victim with a voice during the sentencing process.",
+        "B": "It allows the victim to present transcript evidence during the trial.",
+        "C": "It gives the victim some input into the charge negotiation process.",
+        "D": "It allows the victim to have a say regarding the collection of evidence."
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "A victim impact statement gives the victim’s account of harm to the sentencing court."
+    },
+    {
+      "number": 18,
+      "groupId": null,
+      "stem": "Which of the following best defines doli incapax?",
+      "images": [],
+      "options": {
+        "A": "The preferential treatment of a child in the Children’s Court",
+        "B": "The rebuttable presumption of incapacity for 10–14 year olds",
+        "C": "The presumption that a child is incapable of committing a crime",
+        "D": "The absence of a committal hearing for a child under 15 years of age"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "Doli incapax is the rebuttable presumption that a child aged 10–14 lacks criminal capacity."
+    },
+    {
+      "number": 19,
+      "groupId": null,
+      "stem": "Which of the following is an argument against Australia adopting a Charter of Rights?",
+      "images": [],
+      "options": {
+        "A": "It lacks widespread community support",
+        "B": "The marginalised and disadvantaged won’t be supported",
+        "C": "Human rights are already adequately protected in Australia",
+        "D": "It will inhibit the building of a culture of respect for human rights"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "Opponents argue that existing protections make a statutory charter unnecessary."
+    },
+    {
+      "number": 20,
+      "groupId": null,
+      "stem": "While committing an armed robbery, Emily accidently fires her weapon and injures a worker. She co-operates with police and pleads guilty to the offence. Which of the following is true regarding Emily?",
+      "images": [],
+      "options": {
+        "A": "She will appear before a jury.",
+        "B": "She will not be cross-examined.",
+        "C": "Her case will be finalised in the Local Court.",
+        "D": "She can use the defence of mistake during her trial."
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "A guilty plea removes the need for a contested trial, so Emily would not be cross-examined as an accused giving evidence."
+    }
+  ]
+}

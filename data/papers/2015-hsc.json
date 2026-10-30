@@ -1,0 +1,313 @@
+{
+  "id": "2015-hsc",
+  "year": 2015,
+  "school": "HSC",
+  "kind": "hsc",
+  "title": "2015 HSC Legal Studies",
+  "sourceFile": "2015 HSC Legal Studies.pdf",
+  "answerStatus": "all-verified",
+  "notes": "No answer key is included in the supplied paper; answers are reasoned guesses.",
+  "groups": [],
+  "questions": [
+    {
+      "number": 1,
+      "groupId": null,
+      "stem": "Which of the following best explains state sovereignty?",
+      "images": [],
+      "options": {
+        "A": "A head of state can make all laws.",
+        "B": "A head of state can enter into international treaties.",
+        "C": "Nation states are in control of their own domestic affairs.",
+        "D": "Nation states can intervene to protect human rights in other nations."
+      },
+      "answer": "C",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/legal-studies-hsc-mg-2015.pdf"
+    },
+    {
+      "number": 2,
+      "groupId": null,
+      "stem": "Which of the following best describes criminal law in NSW?",
+      "images": [],
+      "options": {
+        "A": "Public law that uses the adversary system",
+        "B": "Public law that uses the inquisitorial system",
+        "C": "Private law that uses the adversary system",
+        "D": "Private law that uses the inquisitorial system"
+      },
+      "answer": "A",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/legal-studies-hsc-mg-2015.pdf"
+    },
+    {
+      "number": 3,
+      "groupId": null,
+      "stem": "Michael travels by public transport to his office in the city. He has been caught travelling without a valid ticket.\n\nWhat types of offences have been committed by Michael?",
+      "images": [],
+      "options": {
+        "A": "Summary and public order",
+        "B": "Summary and strict liability",
+        "C": "White collar and public order",
+        "D": "White collar and strict liability"
+      },
+      "answer": "B",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/legal-studies-hsc-mg-2015.pdf"
+    },
+    {
+      "number": 4,
+      "groupId": null,
+      "stem": "Sam helped Chris plan a crime. Chris drove to Sam’s house on his way to a bank. Sam gave Chris a weapon. Sam then stayed at home. Chris used the weapon to rob the bank.\n\nWhat is Sam likely to be charged with?",
+      "images": [],
+      "options": {
+        "A": "Accessory after the fact",
+        "B": "Accessory before the fact",
+        "C": "Principal in the first degree",
+        "D": "Principal in the second degree"
+      },
+      "answer": "B",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/legal-studies-hsc-mg-2015.pdf"
+    },
+    {
+      "number": 5,
+      "groupId": null,
+      "stem": "Belinda is on trial for treason.\n\nWho has the role of ensuring that this trial is conducted fairly?",
+      "images": [],
+      "options": {
+        "A": "Jury",
+        "B": "Judge",
+        "C": "Magistrate",
+        "D": "Public defender"
+      },
+      "answer": "B",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/legal-studies-hsc-mg-2015.pdf"
+    },
+    {
+      "number": 6,
+      "groupId": null,
+      "stem": "The International Covenant on Economic, Social and Cultural Rights is an example of which of the following?",
+      "images": [],
+      "options": {
+        "A": "A statute",
+        "B": "A treaty",
+        "C": "Common law",
+        "D": "Customary law"
+      },
+      "answer": "B",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/legal-studies-hsc-mg-2015.pdf"
+    },
+    {
+      "number": 7,
+      "groupId": null,
+      "stem": "Which court has appellate jurisdiction to hear criminal law matters?",
+      "images": [],
+      "options": {
+        "A": "Local Court",
+        "B": "District Court",
+        "C": "Coroner’s Court",
+        "D": "Children’s Court"
+      },
+      "answer": "B",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/legal-studies-hsc-mg-2015.pdf"
+    },
+    {
+      "number": 8,
+      "groupId": null,
+      "stem": "Which of the following requires a person to attend court?",
+      "images": [],
+      "options": {
+        "A": "Caution",
+        "B": "Arrest",
+        "C": "Summons",
+        "D": "Infringement notice"
+      },
+      "answer": "C",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/legal-studies-hsc-mg-2015.pdf"
+    },
+    {
+      "number": 9,
+      "groupId": null,
+      "stem": "Which of the following is a purpose of punishment?",
+      "images": [],
+      "options": {
+        "A": "Interrogation",
+        "B": "Imprisonment",
+        "C": "Rehabilitation",
+        "D": "Restorative justice"
+      },
+      "answer": "C",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/legal-studies-hsc-mg-2015.pdf"
+    },
+    {
+      "number": 10,
+      "groupId": null,
+      "stem": "Mark is charged with an offence and the matter is brought to court by a police prosecutor. It is his first offence. Mark is found guilty and sentenced.\n\nWhat type of offence and penalty would most likely apply to Mark?",
+      "images": [],
+      "options": {
+        "A": "A summary offence and a fine",
+        "B": "A summary offence and imprisonment",
+        "C": "An indictable offence and a suspended sentence",
+        "D": "An indictable offence and a good behaviour bond"
+      },
+      "answer": "A",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/legal-studies-hsc-mg-2015.pdf"
+    },
+    {
+      "number": 11,
+      "groupId": null,
+      "stem": "Mary has been charged with manslaughter. Mary has told her lawyer that she was acting in self-defence. Her lawyer gives her the following information:\n\n• Self-defence is a partial defence.\n\n• Her case may be heard in a judge-only trial.\n\nWhy is some of this information incorrect?",
+      "images": [],
+      "options": {
+        "A": "The trial must be heard before a jury.",
+        "B": "The trial must be heard before a magistrate.",
+        "C": "Self-defence is a complete defence to manslaughter.",
+        "D": "Self-defence cannot be used as a defence to manslaughter."
+      },
+      "answer": "C",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/legal-studies-hsc-mg-2015.pdf"
+    },
+    {
+      "number": 12,
+      "groupId": null,
+      "stem": "Daniel, a 14-year-old, is convicted of a public order offence. This is his first recorded conviction. Which of the following is the most likely penalty for Daniel?",
+      "images": [],
+      "options": {
+        "A": "Caution",
+        "B": "Warning",
+        "C": "Probation",
+        "D": "Community service"
+      },
+      "answer": "D",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/legal-studies-hsc-mg-2015.pdf"
+    },
+    {
+      "number": 13,
+      "groupId": null,
+      "stem": "Anne is charged with murder. The prosecution and defence enter a charge negotiation and Anne agrees to plead guilty to manslaughter.\n\nWhat must the judge do?",
+      "images": [],
+      "options": {
+        "A": "Reject the agreement",
+        "B": "Accept the agreement",
+        "C": "Change the agreement",
+        "D": "Consider the agreement"
+      },
+      "answer": "D",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/legal-studies-hsc-mg-2015.pdf"
+    },
+    {
+      "number": 14,
+      "groupId": null,
+      "stem": "A well‑known public figure has served his full sentence of 20 years for a violent crime. He has been denied release because of aggressive behaviour in prison.\n\nWhat is this an example of?",
+      "images": [],
+      "options": {
+        "A": "Periodic detention",
+        "B": "Protective custody",
+        "C": "Continued detention",
+        "D": "Security reclassification"
+      },
+      "answer": "C",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/legal-studies-hsc-mg-2015.pdf"
+    },
+    {
+      "number": 15,
+      "groupId": null,
+      "stem": "Which of the following involves both a human rights issue and a criminal law issue in Australia?",
+      "images": [],
+      "options": {
+        "A": "A woman demands equal pay.",
+        "B": "A refugee is arrested for assault.",
+        "C": "A child is forced to work in a factory.",
+        "D": "A same-sex couple is denied the right to marry."
+      },
+      "answer": "C",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/legal-studies-hsc-mg-2015.pdf"
+    },
+    {
+      "number": 16,
+      "groupId": null,
+      "stem": "International human rights are best protected in NSW by",
+      "images": [],
+      "options": {
+        "A": "common law.",
+        "B": "international law.",
+        "C": "the NSW Constitution.",
+        "D": "the Australian Constitution."
+      },
+      "answer": "A",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/legal-studies-hsc-mg-2015.pdf"
+    },
+    {
+      "number": 17,
+      "groupId": null,
+      "stem": "A government prevents women from voting in an election. This action violates the state’s own domestic legislation.\n\nWhich of the following does this action demonstrate?",
+      "images": [],
+      "options": {
+        "A": "Non-compliance",
+        "B": "Changing values",
+        "C": "Universal suffrage",
+        "D": "A non-legal measure"
+      },
+      "answer": "A",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/legal-studies-hsc-mg-2015.pdf"
+    },
+    {
+      "number": 18,
+      "groupId": null,
+      "stem": "A community centre provides activities to improve the behaviour of local teenagers.\n\nWhat is this an example of?",
+      "images": [],
+      "options": {
+        "A": "General deterrence",
+        "B": "Specific deterrence",
+        "C": "Diversionary program",
+        "D": "Social crime prevention"
+      },
+      "answer": "D",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/legal-studies-hsc-mg-2015.pdf"
+    },
+    {
+      "number": 19,
+      "groupId": null,
+      "stem": "A person has been found guilty of aggravated assault. The judge has heard from the victim as well as referring to similar court cases prior to sentencing.\n\nWhy has the judge referred to similar cases?",
+      "images": [],
+      "options": {
+        "A": "To follow judicial guidelines",
+        "B": "To follow statutory guidelines",
+        "C": "To ensure community expectations are met",
+        "D": "To ensure the sentence reflects the victim impact statement"
+      },
+      "answer": "A",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/legal-studies-hsc-mg-2015.pdf"
+    },
+    {
+      "number": 20,
+      "groupId": null,
+      "stem": "Legislation has been changed to require mandatory imprisonment for a particular offence. Ken commits this offence and it is recorded on CCTV. This is his first offence. Ken is convicted and is awaiting sentencing. A community group expresses concern about this law.\n\nWhat action should the community group take to best help Ken?",
+      "images": [],
+      "options": {
+        "A": "Argue the law is unconstitutional",
+        "B": "Provide references for Ken’s good character",
+        "C": "Lobby parliament to repeal this law",
+        "D": "Advise Ken to deny the actus reus and mens rea of the offence"
+      },
+      "answer": "C",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/legal-studies-hsc-mg-2015.pdf"
+    }
+  ]
+}

@@ -1,0 +1,313 @@
+{
+  "id": "2016-barker-trial",
+  "year": 2016,
+  "school": "Barker",
+  "kind": "trial",
+  "title": "2016 Barker Legal Studies Trial",
+  "sourceFile": "2016 Barker Legal Studies Trial.pdf",
+  "answerStatus": "all-verified",
+  "notes": "The answer key is in the accompanying marking guidelines on page 20. No shared stimuli or question figures occur in Section I.",
+  "groups": [],
+  "questions": [
+    {
+      "number": 1,
+      "groupId": null,
+      "stem": "In which court would an appeal against a murder conviction be heard?",
+      "images": [],
+      "options": {
+        "A": "The Local Court",
+        "B": "The Coroner’s Court",
+        "C": "The NSW Supreme Court",
+        "D": "The NSW Court of Criminal Appeal"
+      },
+      "answer": "D",
+      "answerSource": "paper",
+      "answerNote": "The marking guidelines’ Section I key is on page 20."
+    },
+    {
+      "number": 2,
+      "groupId": null,
+      "stem": "A young girl has been caught travelling on a train without a ticket. What type of offence is this?",
+      "images": [],
+      "options": {
+        "A": "Traffic offence",
+        "B": "Indictable offence",
+        "C": "Economic offence",
+        "D": "Strict liability offence"
+      },
+      "answer": "D",
+      "answerSource": "paper",
+      "answerNote": "The marking guidelines’ Section I key is on page 20."
+    },
+    {
+      "number": 3,
+      "groupId": null,
+      "stem": "Which statement is true about the Universal Declaration of Human Rights?",
+      "images": [],
+      "options": {
+        "A": "It is binding and must be signed by all nations.",
+        "B": "It outlines the operation of the International Criminal Court.",
+        "C": "It outlines the rights and obligations of members nations of the United Nations.",
+        "D": "It is non-binding but provides the foundation for international human rights law."
+      },
+      "answer": "D",
+      "answerSource": "paper",
+      "answerNote": "The marking guidelines’ Section I key is on page 20."
+    },
+    {
+      "number": 4,
+      "groupId": null,
+      "stem": "How long can police in NSW initially detain an adult suspect for questioning without charge?",
+      "images": [],
+      "options": {
+        "A": "2 hours",
+        "B": "4 hours",
+        "C": "6 hours",
+        "D": "8 hours"
+      },
+      "answer": "B",
+      "answerSource": "paper",
+      "answerNote": "The marking guidelines’ Section I key is on page 20."
+    },
+    {
+      "number": 5,
+      "groupId": null,
+      "stem": "What is the purpose of a sentencing hearing?",
+      "images": [],
+      "options": {
+        "A": "To determine the penalty to be given to the accused",
+        "B": "To determine the penalty to be given to the convicted",
+        "C": "To establish the range of penalties to be given by the prosecutor",
+        "D": "To establish that the accused has committed a punishable offence"
+      },
+      "answer": "B",
+      "answerSource": "paper",
+      "answerNote": "The marking guidelines’ Section I key is on page 20."
+    },
+    {
+      "number": 6,
+      "groupId": null,
+      "stem": "Which of the following statements does NOT describe the role of non-government organisations (NGO’s) in protecting human rights?",
+      "images": [],
+      "options": {
+        "A": "NGO’s can assist victims of human rights abuses.",
+        "B": "NGO’s play a central role in enforcing human rights law.",
+        "C": "NGO’s use the media to name and shame human rights violators.",
+        "D": "NGO’s assist better compliance with human rights law by governments."
+      },
+      "answer": "B",
+      "answerSource": "paper",
+      "answerNote": "The marking guidelines’ Section I key is on page 20."
+    },
+    {
+      "number": 7,
+      "groupId": null,
+      "stem": "A 13-year-old boy has been found guilty of theft. Which of the following is most likely to be a priority for the magistrate during sentencing?",
+      "images": [],
+      "options": {
+        "A": "Deterrence",
+        "B": "Incapacitation",
+        "C": "Rehabilitation",
+        "D": "Retribution"
+      },
+      "answer": "C",
+      "answerSource": "paper",
+      "answerNote": "The marking guidelines’ Section I key is on page 20."
+    },
+    {
+      "number": 8,
+      "groupId": null,
+      "stem": "Which of the following is an example of a transnational crime?",
+      "images": [],
+      "options": {
+        "A": "Sedition",
+        "B": "Genocide",
+        "C": "Sexual assault",
+        "D": "Drug trafficking"
+      },
+      "answer": "D",
+      "answerSource": "paper",
+      "answerNote": "The marking guidelines’ Section I key is on page 20."
+    },
+    {
+      "number": 9,
+      "groupId": null,
+      "stem": "What is the role of the jury in a criminal trial?",
+      "images": [],
+      "options": {
+        "A": "To provide reasons for their decision in the case",
+        "B": "To decide on an appropriate sentence for the accused",
+        "C": "To find the evidence to determine the verdict of the case",
+        "D": "To listen to the evidence and then hand down their verdict"
+      },
+      "answer": "D",
+      "answerSource": "paper",
+      "answerNote": "The marking guidelines’ Section I key is on page 20."
+    },
+    {
+      "number": 10,
+      "groupId": null,
+      "stem": "Which of the following is NOT a function of the Coroner’s Court?",
+      "images": [],
+      "options": {
+        "A": "To investigate the cause of death",
+        "B": "To determine the guilt of an accused person",
+        "C": "To refer suspected criminal behaviour to the Director of Public Prosecutions",
+        "D": "To make recommendations for law reforms or changes in regulations to protect society"
+      },
+      "answer": "B",
+      "answerSource": "paper",
+      "answerNote": "The marking guidelines’ Section I key is on page 20."
+    },
+    {
+      "number": 11,
+      "groupId": null,
+      "stem": "Which of the following is NOT a characteristic of a state in international law?",
+      "images": [],
+      "options": {
+        "A": "A defined territory",
+        "B": "A common language",
+        "C": "A permanent population",
+        "D": "An ability to enter into international relations"
+      },
+      "answer": "B",
+      "answerSource": "paper",
+      "answerNote": "The marking guidelines’ Section I key is on page 20."
+    },
+    {
+      "number": 12,
+      "groupId": null,
+      "stem": "Which of the following is an example of social crime prevention?",
+      "images": [],
+      "options": {
+        "A": "Police patrols at music concerts",
+        "B": "No alcohol zones in public places",
+        "C": "Parenting courses for young parents",
+        "D": "Closed-circuit television cameras in city streets"
+      },
+      "answer": "C",
+      "answerSource": "paper",
+      "answerNote": "The marking guidelines’ Section I key is on page 20."
+    },
+    {
+      "number": 13,
+      "groupId": null,
+      "stem": "In sentencing an offender, the judge states that the offender “is remorseful and understands the consequences of her actions”. What has the judge considered in this sentencing decision?",
+      "images": [],
+      "options": {
+        "A": "Mitigating factors",
+        "B": "Aggravating factors",
+        "C": "Specific deterrence",
+        "D": "Charge negotiation"
+      },
+      "answer": "A",
+      "answerSource": "paper",
+      "answerNote": "The marking guidelines’ Section I key is on page 20."
+    },
+    {
+      "number": 14,
+      "groupId": null,
+      "stem": "When assessing an application for legal aid for a person accused of a crime, what does the means test refer to?",
+      "images": [],
+      "options": {
+        "A": "The nature of the crime",
+        "B": "The assets and income of the applicant",
+        "C": "The likelihood of a not guilty verdict in the trial",
+        "D": "Whether the accused meant to commit the crime"
+      },
+      "answer": "B",
+      "answerSource": "paper",
+      "answerNote": "The marking guidelines’ Section I key is on page 20."
+    },
+    {
+      "number": 15,
+      "groupId": null,
+      "stem": "The Australian government has commenced mining in Antarctica. This is a breach of the Antarctic Treaty, of which Australia is a signatory. What is the likely response from the UN?",
+      "images": [],
+      "options": {
+        "A": "Expel Australia from the UN.",
+        "B": "Do nothing as the Australian government can use its territory as it wishes.",
+        "C": "Arrest the employees of the mining company and prosecute them in the ICC.",
+        "D": "Use diplomatic pressure to stop the mining and then refer the matter to the ICJ."
+      },
+      "answer": "D",
+      "answerSource": "paper",
+      "answerNote": "The marking guidelines’ Section I key is on page 20."
+    },
+    {
+      "number": 16,
+      "groupId": null,
+      "stem": "When raising the defence of duress in a criminal trial, what does the accused have to prove?",
+      "images": [],
+      "options": {
+        "A": "They did not commit the crime.",
+        "B": "Their actions were involuntary and could not be controlled.",
+        "C": "They carried out the offence in the act of protecting themselves or others.",
+        "D": "Unlawful pressure forced them to commit the offence against their own free will."
+      },
+      "answer": "D",
+      "answerSource": "paper",
+      "answerNote": "The marking guidelines’ Section I key is on page 20."
+    },
+    {
+      "number": 17,
+      "groupId": null,
+      "stem": "Jack and Jill plan to steal expensive items from Jack’s place of work. Jack remains at home and uses his mobile phone to guide Jill whist she carries out the robbery. Both Jack and Jill are arrested and charged. Which statement describes Jack’s role in this crime?",
+      "images": [],
+      "options": {
+        "A": "He is an accessory after the fact.",
+        "B": "He is an accessory before the fact.",
+        "C": "He is a principle in the first degree.",
+        "D": "He is a principle in the second degree."
+      },
+      "answer": "D",
+      "answerSource": "paper",
+      "answerNote": "The marking guidelines’ Section I key is on page 20."
+    },
+    {
+      "number": 18,
+      "groupId": null,
+      "stem": "In what way does a victim impact statement help to promote justice?",
+      "images": [],
+      "options": {
+        "A": "It provides the victim with a voice during the sentencing process.",
+        "B": "It allows the victim to present transcript evidence during the trial.",
+        "C": "It gives the victim some input into the charge negotiation process.",
+        "D": "It allows the victim to have a say regarding the collection of evidence."
+      },
+      "answer": "A",
+      "answerSource": "paper",
+      "answerNote": "The marking guidelines’ Section I key is on page 20."
+    },
+    {
+      "number": 19,
+      "groupId": null,
+      "stem": "Sam is initially charged with murder but in return for entering a guilty plea, he now faces the lesser charge of manslaughter. This is an example of which of the following?",
+      "images": [],
+      "options": {
+        "A": "Procedural fairness",
+        "B": "Charge negotiation",
+        "C": "Restorative justice",
+        "D": "Efficient use of police powers"
+      },
+      "answer": "B",
+      "answerSource": "paper",
+      "answerNote": "The marking guidelines’ Section I key is on page 20."
+    },
+    {
+      "number": 20,
+      "groupId": null,
+      "stem": "Josie is a reporter in Syria during a time of civil war. Under which formal statement on human rights does she have the right to communicate the situation to the world media?",
+      "images": [],
+      "options": {
+        "A": "The USA Bill of Rights",
+        "B": "The Convention on the Rights of the Child",
+        "C": "The International Covenant on Civil and Political Rights",
+        "D": "The International Covenant on Economic, Social and Cultural Rights"
+      },
+      "answer": "C",
+      "answerSource": "paper",
+      "answerNote": "The marking guidelines’ Section I key is on page 20."
+    }
+  ]
+}

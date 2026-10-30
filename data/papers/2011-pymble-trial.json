@@ -1,0 +1,324 @@
+{
+  "id": "2011-pymble-trial",
+  "year": 2011,
+  "school": "Pymble",
+  "kind": "trial",
+  "title": "2011 Pymble Legal Studies Trial",
+  "sourceFile": "2011 Pymble Legal Studies Trial.pdf",
+  "answerStatus": "none-found",
+  "notes": "Scanned paper read from rendered pages. No answer key is included. Question 17 has a wording error (“charges” for “charged”).",
+  "groups": [
+    {
+      "id": "2011-pymble-g1",
+      "questionNumbers": [
+        12,
+        13,
+        14
+      ],
+      "stimulus": "In the course of holding up a bottle shop and stealing the money from the cash register, John deliberately fired bullets into all the fridges, breaking many of the bottles.",
+      "images": []
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "groupId": null,
+      "stem": "Julio is on trial for murder. With whom does the burden of proof lie?",
+      "images": [],
+      "options": {
+        "A": "Julio",
+        "B": "The Crown",
+        "C": "The Victim",
+        "D": "The Plaintiff"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "Crown bears the burden of proof."
+    },
+    {
+      "number": 2,
+      "groupId": null,
+      "stem": "John is cleaning his rifle when it discharges. A bullet from the gun hits Paul and kills him. Which element of criminal liability is lacking in this case?",
+      "images": [],
+      "options": {
+        "A": "Actus reus",
+        "B": "Accident",
+        "C": "Mens rea",
+        "D": "Provocation"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "Accidental discharge lacks mens rea (intent/recklessness); 'accident' is not an element."
+    },
+    {
+      "number": 3,
+      "groupId": null,
+      "stem": "Which of the following is an example of situational crime prevention?",
+      "images": [],
+      "options": {
+        "A": "Increased prison sentences",
+        "B": "Media campaigns",
+        "C": "Police patrols",
+        "D": "Rehabilitation programs"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "Police patrols increase surveillance/risk to the offender; Situational prevention changes the environment. Others are deterrence or social prevention."
+    },
+    {
+      "number": 4,
+      "groupId": null,
+      "stem": "Which of the following are rights of an accused person in NSW?",
+      "images": [],
+      "options": {
+        "A": "Security of person and property",
+        "B": "Right to silence and right to a lawyer",
+        "C": "Right to silence and right to a phone call",
+        "D": "Security of person and right to a lawyer"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "Right to silence and right to a lawyer (LEPRA)."
+    },
+    {
+      "number": 5,
+      "groupId": null,
+      "stem": "Which of the following mechanisms best protects an Australian citizen’s human rights?",
+      "images": [],
+      "options": {
+        "A": "Common and Statute Law",
+        "B": "Treaties and Conventions",
+        "C": "The Constitution",
+        "D": "A Bill of Rights"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Australia has no federal Bill of Rights, so D is not an existing mechanism; Common and statute law provide most real protection (Constitution has few express rights, treaties not directly enforceable). Plausible alternative: D, if the setter meant a Bill of Rights as the strongest mechanism in theory; Or C."
+    },
+    {
+      "number": 6,
+      "groupId": null,
+      "stem": "The term universal suffrage refers to which of the following rights?",
+      "images": [],
+      "options": {
+        "A": "To be free from suffering",
+        "B": "To have a university education",
+        "C": "To remain silent when questioned by the police",
+        "D": "To vote freely for one’s elected representatives"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Universal suffrage is the right of all adults to vote."
+    },
+    {
+      "number": 7,
+      "groupId": null,
+      "stem": "The United Nations has criticised the country of Nazalia over its human rights. Which of the following allows Nazalia to ignore the UN?",
+      "images": [],
+      "options": {
+        "A": "State sovereignty",
+        "B": "Self-determination",
+        "C": "Division of powers",
+        "D": "Separation of powers"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "State sovereignty lets a nation reject external interference."
+    },
+    {
+      "number": 8,
+      "groupId": null,
+      "stem": "The police in Cooperville attempt to address high juvenile crime rates through establishing a Community Youth Centre to operate out of school hours. This is an example of which of the following?",
+      "images": [],
+      "options": {
+        "A": "Making crime more difficult to commit",
+        "B": "Situational crime prevention",
+        "C": "Social crime prevention",
+        "D": "Deterrence"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "Youth centre is a social/community crime prevention measure."
+    },
+    {
+      "number": 9,
+      "groupId": null,
+      "stem": "Fred is charged with sexual assault. What is the standard of proof in this case?",
+      "images": [],
+      "options": {
+        "A": "On the balance of probabilities",
+        "B": "On the doctrine of natural justice",
+        "C": "Beyond reasonable doubt",
+        "D": "Beyond all doubt"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "Criminal standard is beyond reasonable doubt."
+    },
+    {
+      "number": 10,
+      "groupId": null,
+      "stem": "Which of the following could be considered preliminary crimes?",
+      "images": [],
+      "options": {
+        "A": "Murder and robbery",
+        "B": "Treason and incitement",
+        "C": "Conspiracy and attempted armed robbery",
+        "D": "Offensive language and illegal gambling"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "Conspiracy and attempt are preliminary (inchoate) crimes. B includes treason (not preliminary) and A, D are not."
+    },
+    {
+      "number": 11,
+      "groupId": null,
+      "stem": "What is the main role of the police in New South Wales?",
+      "images": [],
+      "options": {
+        "A": "Make criminal laws",
+        "B": "Send people who are guilty of crimes to prison",
+        "C": "Ensure victims of crime receive justice",
+        "D": "Enforce the criminal laws of the state"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Police enforce the criminal law."
+    },
+    {
+      "number": 12,
+      "groupId": "2011-pymble-g1",
+      "stem": "The offence John has committed can be described using which of the following terms?",
+      "images": [],
+      "options": {
+        "A": "Summary and economic offence",
+        "B": "Indictable and economic offence",
+        "C": "Summary and offence against the person",
+        "D": "Indictable and offence against the person"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Armed robbery is indictable and generally classed as an offence against the person (violence/threat). Plausible alternative: B if robbery is classed as economic/property."
+    },
+    {
+      "number": 13,
+      "groupId": "2011-pymble-g1",
+      "stem": "During sentencing, the judge would consider the breaking of the bottles to be which of the following?",
+      "images": [],
+      "options": {
+        "A": "An aggravating factor",
+        "B": "An extraneous factor",
+        "C": "A mitigating factor",
+        "D": "A deterrent factor"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Damage beyond what was needed is an aggravating factor in sentencing."
+    },
+    {
+      "number": 14,
+      "groupId": "2011-pymble-g1",
+      "stem": "Which of the following penalties is John most likely to receive?",
+      "images": [],
+      "options": {
+        "A": "A caution",
+        "B": "Imprisonment",
+        "C": "No conviction recorded",
+        "D": "A criminal infringement notice"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "Armed robbery with firearm discharged attracts imprisonment."
+    },
+    {
+      "number": 15,
+      "groupId": null,
+      "stem": "Which of the following rights are included in the International Covenant on Civil and Political Rights?",
+      "images": [],
+      "options": {
+        "A": "Peace",
+        "B": "Liberty",
+        "C": "Safe environment",
+        "D": "Right to fair wages"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "ICCPR protects liberty (art 9)."
+    },
+    {
+      "number": 16,
+      "groupId": null,
+      "stem": "The idea that a child under 10 is considered incapable of committing a crime is contained in which of the following principles?",
+      "images": [],
+      "options": {
+        "A": "Absence of actus reus",
+        "B": "Age of majority",
+        "C": "Natural justice",
+        "D": "Doli incapax"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Doli incapax."
+    },
+    {
+      "number": 17,
+      "groupId": null,
+      "stem": "Danny has been charges with shoplifting. He is 17. In which court will the matter be heard?",
+      "images": [],
+      "options": {
+        "A": "High Court",
+        "B": "Local Court",
+        "C": "Children’s Court",
+        "D": "Coroner’s Court"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "17-year-old is a child (under 18), so Children's Court."
+    },
+    {
+      "number": 18,
+      "groupId": null,
+      "stem": "Which of the following organisations would undertake a trial about genocide?",
+      "images": [],
+      "options": {
+        "A": "International Court of Justice",
+        "B": "International Criminal Court",
+        "C": "United Nations",
+        "D": "Interpol"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "ICC tries genocide."
+    },
+    {
+      "number": 19,
+      "groupId": null,
+      "stem": "What human rights are identified as express rights in the Australian Constitution?",
+      "images": [],
+      "options": {
+        "A": "Freedom of thought and expression",
+        "B": "Freedom of religion and sexual preference",
+        "C": "Freedom of religion and right of assembly",
+        "D": "Freedom of religion and trial by jury"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Express rights: s116 religion, s80 jury trial for indictable federal offences."
+    },
+    {
+      "number": 20,
+      "groupId": null,
+      "stem": "Which of the following courts does not have appellate criminal jurisdiction?",
+      "images": [],
+      "options": {
+        "A": "Local Court",
+        "B": "High Court",
+        "C": "Supreme Court",
+        "D": "Court of Criminal Appeal"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Local Court has no criminal appellate jurisdiction (appeals from Local Court go to District Court)."
+    }
+  ]
+}

@@ -1,0 +1,313 @@
+{
+  "id": "2017-knox-trial",
+  "year": 2017,
+  "school": "Knox",
+  "kind": "trial",
+  "title": "2017 Knox Legal Studies Trial",
+  "sourceFile": "2017 Knox Legal Studies Trial.pdf",
+  "answerStatus": "none-found",
+  "notes": "No answer key is included in the PDF; all answers are reasoned estimates. Question 5 is ambiguous: both substantial impairment and provocation could reduce murder to manslaughter if established; A is selected as the likely intended answer. No shared stimuli or figures occur in Section I.",
+  "groups": [],
+  "questions": [
+    {
+      "number": 1,
+      "groupId": null,
+      "stem": "What is a limitation of a Charter of Rights embedded in the Constitution?",
+      "images": [],
+      "options": {
+        "A": "Adaptability",
+        "B": "Enforceability",
+        "C": "Knowledge",
+        "D": "Accessibility"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Constitutional entrenchment makes amendment and adaptation difficult."
+    },
+    {
+      "number": 2,
+      "groupId": null,
+      "stem": "Increased police presence and a “double demerits” policy is implemented over the long weekend. What type of crime prevention strategy is this?",
+      "images": [],
+      "options": {
+        "A": "Situational",
+        "B": "Traffic Act",
+        "C": "Social",
+        "D": "Strategic"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Visible enforcement and deterrence at a specific place and time are situational prevention."
+    },
+    {
+      "number": 3,
+      "groupId": null,
+      "stem": "A woman commits an indictable offence. What is the role of the magistrate?",
+      "images": [],
+      "options": {
+        "A": "To determine the law",
+        "B": "To determine the facts",
+        "C": "To act impartially and guide the jury",
+        "D": "To determine if there is a prima facie case"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "At committal, the magistrate determines whether there is a prima facie case."
+    },
+    {
+      "number": 4,
+      "groupId": null,
+      "stem": "The right to safe working conditions, education and an adequate standard of living are classified as which of the following types of international rights?",
+      "images": [],
+      "options": {
+        "A": "civil and political rights",
+        "B": "economic, social and cultural rights",
+        "C": "anti-discrimination, legal and suffrage rights",
+        "D": "equal opportunity and racial vilification rights"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "These are economic, social and cultural rights."
+    },
+    {
+      "number": 5,
+      "groupId": null,
+      "stem": "A man shoots his ex-partner while she is having lunch in a crowded restaurant in Circular Quay. Which of the following defences would result in him being convicted of manslaughter?",
+      "images": [],
+      "options": {
+        "A": "Substantial impairment",
+        "B": "Mental illness",
+        "C": "Negligence of restaurant owner",
+        "D": "Provocation"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Substantial impairment (partial defence) reduces murder to manslaughter; Mental illness gives a special verdict not manslaughter. Provocation (D) is also a partial defence, but the scenario (ex-partner eating lunch) gives no facts for it, and it was replaced by extreme provocation in 2014."
+    },
+    {
+      "number": 6,
+      "groupId": null,
+      "stem": "Which of the following is considered a mitigating factor?",
+      "images": [],
+      "options": {
+        "A": "The victim was young",
+        "B": "The offender was young",
+        "C": "The offender was intoxicated",
+        "D": "The crime was committed for financial gain"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "Youth of the offender is a recognised mitigating consideration."
+    },
+    {
+      "number": 7,
+      "groupId": null,
+      "stem": "Phillip, a 17- year old P plater, has been charged drink driving. In which court will the matter be heard?",
+      "images": [],
+      "options": {
+        "A": "Drug Court",
+        "B": "Local Court",
+        "C": "Coroner’s Court",
+        "D": "Children’s Court"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "Traffic offences by young people are generally dealt with in the Local Court."
+    },
+    {
+      "number": 8,
+      "groupId": null,
+      "stem": "A drug syndicate in Europe has recently been discovered with offenders operating in five different countries. INTERPOL has investigated and has recommended three men be charged. In which court will the matter be heard?",
+      "images": [],
+      "options": {
+        "A": "The European Court of Human Rights",
+        "B": "The International Criminal Court",
+        "C": "The International Court of Justice",
+        "D": "A domestic court"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Drug trafficking is prosecuted in domestic courts, not the ICC or ICJ."
+    },
+    {
+      "number": 9,
+      "groupId": null,
+      "stem": "A man is charged with conspiring to commit offences using an unregistered firearm. The police initially deny him bail and he is required to attend court to apply. What will his legal team need to prove so he MAY get bail?",
+      "images": [],
+      "options": {
+        "A": "show cause as to why he should get bail",
+        "B": "any unacceptable risk can be mitigated that would stop him from getting bail",
+        "C": "his solicitor presents a case that there is no unacceptable risk for him to get bail as the offence was only preliminary",
+        "D": "he can show cause why it is a denial of his procedural rights to be held on remand"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Firearm-related offences may be show-cause offences, requiring the accused to show cause for release."
+    },
+    {
+      "number": 10,
+      "groupId": null,
+      "stem": "Odette commits an offence in Australia and flees to Thailand. Which of the following statements is true in regards to the power the Australian police have?",
+      "images": [],
+      "options": {
+        "A": "The NSW police can arrest Odette if they go to Thailand",
+        "B": "The NSW police cannot act due to state sovereignty",
+        "C": "The NSW police will apply to the Attorney General for Odette’s deportation",
+        "D": "The NSW police will apply to the Attorney General for Odette’s extradition"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Australia seeks extradition to return an accused person for prosecution."
+    },
+    {
+      "number": 11,
+      "groupId": null,
+      "stem": "Adam, a 13 year old, has committed a serious assault. Which of the following statements is true?",
+      "images": [],
+      "options": {
+        "A": "Adam will not be charged due to his age",
+        "B": "Adam cannot be charged with a criminal offence as he is doli incapax",
+        "C": "The prosecution must prove that Adam was not doli incapax at the time of the offence",
+        "D": "The defence must prove that Adam was doli incapax at the time of the offence"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "For children aged 10–14, the prosecution must rebut the presumption of doli incapax."
+    },
+    {
+      "number": 12,
+      "groupId": null,
+      "stem": "Of the following statements, which is TRUE in regards to unanimous verdicts in NSW?",
+      "images": [],
+      "options": {
+        "A": "Majority verdicts are allowed where it is unlikely the jury will reach a unanimous verdict after 8 hours",
+        "B": "Unanimous verdicts are to be used for all serious indictable offences",
+        "C": "Majority verdicts are allowed when a juror becomes ill during the trial and at the judges orders.",
+        "D": "Unanimous verdicts are not used in NSW anymore."
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "A judge may accept a majority verdict after the required deliberation period when unanimity is unlikely."
+    },
+    {
+      "number": 13,
+      "groupId": null,
+      "stem": "In Australia, an individual’s right to universal suffrage is protected by",
+      "images": [],
+      "options": {
+        "A": "an Australian Charter of Rights",
+        "B": "common law",
+        "C": "statute law",
+        "D": "the Australian Constitution"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Textbooks list the right to vote (s 41) among express constitutional rights; C (statute law, Commonwealth Electoral Act) is also plausible."
+    },
+    {
+      "number": 14,
+      "groupId": null,
+      "stem": "After sentencing, Peter received classification of AA due to terrorism offences. What is the purpose of this classification?",
+      "images": [],
+      "options": {
+        "A": "For security of other inmates",
+        "B": "For security of the community",
+        "C": "Rehabilitiation",
+        "D": "Retribution"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "An AA classification is a high security measure intended to protect the community."
+    },
+    {
+      "number": 15,
+      "groupId": null,
+      "stem": "A defendant in court who was charged with a summary offence has now been charged with an indictable offence. Which of the following rights will the defendant now have which she would not have had previously?",
+      "images": [],
+      "options": {
+        "A": "The right to bail",
+        "B": "The right to legal aid",
+        "C": "The right to a trial by jury",
+        "D": "The right to a charge negotiation"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "Indictable proceedings may carry a right to jury trial, unlike summary proceedings."
+    },
+    {
+      "number": 16,
+      "groupId": null,
+      "stem": "Which of the following would NOT be a valid reason for the prosecution to enter into charge negotiation with an accused person?",
+      "images": [],
+      "options": {
+        "A": "The charge is quite severe and the accused is willing to plead guilty to a lesser charge.",
+        "B": "The accused is facing a variety of different charges and it may be difficult to prove all of them.",
+        "C": "The accused is willing to give up other perpetrators in exchange for a lesser charge or sentence.",
+        "D": "The trial is taking longer than expected and the court needs to be freed up to hear other matters."
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Charge negotiation is not justified merely to clear a delayed trial."
+    },
+    {
+      "number": 17,
+      "groupId": null,
+      "stem": "When dealing with young persons in the criminal justice system, when may police issue a caution?",
+      "images": [],
+      "options": {
+        "A": "Only if the juvenile has no official criminal history and commits a summary offence",
+        "B": "Only if the juvenile apologises for the wrong-doing",
+        "C": "Only when the juvenile admits to committing the offence",
+        "D": "Only if the juvenile acted alone in committing the offence"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "A young person must admit the offence before a police caution can be given."
+    },
+    {
+      "number": 18,
+      "groupId": null,
+      "stem": "A person has been the victim of an unlawful arrest without the right to compensation. In this example, which human rights have been denied?",
+      "images": [],
+      "options": {
+        "A": "Peace rights",
+        "B": "Environmental rights",
+        "C": "Civil and political rights",
+        "D": "Economic, social and cultural rights"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "Liberty and protection from unlawful arrest are civil and political rights."
+    },
+    {
+      "number": 19,
+      "groupId": null,
+      "stem": "When are disputes over the rights of an individual within Australia best protected by international treaties?",
+      "images": [],
+      "options": {
+        "A": "When the International Court of Justice hears the dispute between the Australian Government and the individual",
+        "B": "When the High Court hears the dispute after the Commonwealth Government has ratified the treaty",
+        "C": "When the High Court hears the dispute after Australia has voted for the treaty in the United Nations",
+        "D": "When the High Court hears the dispute after the Commonwealth Parliament has incorporated the treaty into domestic law."
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Treaty rights become enforceable domestically after incorporation into Australian legislation."
+    },
+    {
+      "number": 20,
+      "groupId": null,
+      "stem": "A magistrate sentences Bernadette to attend counselling and report to a probation officer each month or she will need to return to court. What is this an example of?",
+      "images": [],
+      "options": {
+        "A": "A good behaviour bond",
+        "B": "Home detention",
+        "C": "Parole",
+        "D": "A suspended sentence"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Supervision and counselling conditions imposed in the community are characteristic of a good behaviour bond."
+    }
+  ]
+}

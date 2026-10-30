@@ -1,0 +1,321 @@
+{
+  "id": "2018-hsc",
+  "year": 2018,
+  "school": "HSC",
+  "kind": "hsc",
+  "title": "2018 HSC Legal Studies",
+  "sourceFile": "2018 HSC Legal Studies.pdf",
+  "answerStatus": "all-verified",
+  "notes": "The PDF contains the complete 20-question multiple-choice section and no answer key. No shared stimuli or figures appear in the section.",
+  "groups": [],
+  "questions": [
+    {
+      "number": 1,
+      "groupId": null,
+      "stem": "Human rights in Australia are best protected when they are",
+      "images": [],
+      "options": {
+        "A": "promoted by the media.",
+        "B": "incorporated into domestic laws.",
+        "C": "included in the Charter of Rights.",
+        "D": "monitored by the United Nations."
+      },
+      "answer": "B",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2018-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 2,
+      "groupId": null,
+      "stem": "What is the main role of a jury in a criminal trial?",
+      "images": [],
+      "options": {
+        "A": "To determine the penalty",
+        "B": "To represent the views of victims",
+        "C": "To decide if the accused person is guilty",
+        "D": "To advise the judge on community standards"
+      },
+      "answer": "C",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2018-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 3,
+      "groupId": null,
+      "stem": "In sentencing an offender, the judge focuses on the importance of retribution.\nWhat is the judge’s aim in focusing on this?",
+      "images": [],
+      "options": {
+        "A": "To penalise the offender",
+        "B": "To reduce future criminal behaviour",
+        "C": "To give the offender employment skills",
+        "D": "To educate the community about criminal behaviour"
+      },
+      "answer": "A",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2018-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 4,
+      "groupId": null,
+      "stem": "Which of the following is an example of an intergovernmental organisation?",
+      "images": [],
+      "options": {
+        "A": "Red Cross",
+        "B": "United Nations",
+        "C": "Amnesty International",
+        "D": "Australian Human Rights Commission"
+      },
+      "answer": "B",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2018-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 5,
+      "groupId": null,
+      "stem": "A person is found dead at the scene of a house fire. The police have evidence that the fire was lit on purpose.\nWhich court would investigate the unexplained death?",
+      "images": [],
+      "options": {
+        "A": "Local",
+        "B": "District",
+        "C": "Coroner’s",
+        "D": "Supreme"
+      },
+      "answer": "C",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2018-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 6,
+      "groupId": null,
+      "stem": "Melanie is arrested for assault. A magistrate decides not to release Melanie while she waits for her trial.\nThis means that Melanie is on",
+      "images": [],
+      "options": {
+        "A": "bail.",
+        "B": "parole.",
+        "C": "probation.",
+        "D": "remand."
+      },
+      "answer": "D",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2018-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 7,
+      "groupId": null,
+      "stem": "Which of the following is true of victim impact statements?",
+      "images": [],
+      "options": {
+        "A": "They are used at committal hearings.",
+        "B": "They do not affect the sentencing of offenders.",
+        "C": "They include the interests of victims in the criminal justice system.",
+        "D": "They are presented in court by the victim before the accused is found guilty."
+      },
+      "answer": "C",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2018-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 8,
+      "groupId": null,
+      "stem": "Mary was found to be an accessory before the fact in a bank robbery. \nWhich of the following would have led to this finding?",
+      "images": [],
+      "options": {
+        "A": "Mary supplied the gun that was used.",
+        "B": "Mary used the gun at the crime scene.",
+        "C": "Mary carried the money out of the bank.",
+        "D": "Mary hid the money taken from the bank."
+      },
+      "answer": "A",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2018-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 9,
+      "groupId": null,
+      "stem": "Andrew is 15 years old and is caught shoplifting. \nWhich of the following is correct in Andrew’s case?",
+      "images": [],
+      "options": {
+        "A": "He may have a conviction recorded.",
+        "B": "He cannot be charged with the offence.",
+        "C": "His case will be heard in the Local Court.",
+        "D": "He is presumed to be incapable of committing the offence."
+      },
+      "answer": "A",
+      "answerSource": "official",
+      "answerNote": "NESA Section I answer key (https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2018-hsc-legal-studies-mg.pdf): 'No best answer*' - all four options were accepted as correct. A is recorded only as a placeholder.",
+      "alsoAccept": [
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "number": 10,
+      "groupId": null,
+      "stem": "The International Covenant on Economic, Social and Cultural Rights is an example of",
+      "images": [],
+      "options": {
+        "A": "a statute law.",
+        "B": "a constitutional law.",
+        "C": "an international customary law.",
+        "D": "a formal statement of human rights."
+      },
+      "answer": "D",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2018-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 11,
+      "groupId": null,
+      "stem": "During an argument, Don punches Jack, who later dies. Don is convicted of murder.\nWhich of the following must have been established in court for this finding to be reached?",
+      "images": [],
+      "options": {
+        "A": "Causation",
+        "B": "Mitigation",
+        "C": "Provocation",
+        "D": "Self-defence"
+      },
+      "answer": "A",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2018-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 12,
+      "groupId": null,
+      "stem": "A police officer orders a person to come with her to a police station.\nWhat is this an example of?",
+      "images": [],
+      "options": {
+        "A": "Seizing evidence",
+        "B": "Arresting a person",
+        "C": "Issuing a summons",
+        "D": "Interrogating a person"
+      },
+      "answer": "B",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2018-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 13,
+      "groupId": null,
+      "stem": "Which statement is true of strict liability offences?",
+      "images": [],
+      "options": {
+        "A": "Mens rea must be proved",
+        "B": "Actus reus must be proved",
+        "C": "Burden of proof is not relevant",
+        "D": "Standard of proof is not relevant"
+      },
+      "answer": "B",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2018-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 14,
+      "groupId": null,
+      "stem": "Of the following, the person most likely to be granted legal aid under NSW law is a person",
+      "images": [],
+      "options": {
+        "A": "who pleads guilty.",
+        "B": "involved in a divorce.",
+        "C": "accused of a serious crime.",
+        "D": "appealing a criminal conviction."
+      },
+      "answer": "C",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2018-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 15,
+      "groupId": null,
+      "stem": "The Australian Government provides a report to a United Nations committee under the International Covenant on Economic, Social and Cultural Rights. \nWhat is this an example of?",
+      "images": [],
+      "options": {
+        "A": "Exercising state sovereignty",
+        "B": "Cooperating with a non-governmental organisation",
+        "C": "Complying with an order from an international tribunal",
+        "D": "Recognising the power of an independent statutory authority"
+      },
+      "answer": "A",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2018-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 16,
+      "groupId": null,
+      "stem": "The Australian Government accuses the leader of another country of committing genocide.\nWhere could the matter be heard and a punishment determined?",
+      "images": [],
+      "options": {
+        "A": "High Court of Australia",
+        "B": "International Criminal Court",
+        "C": "International Court of Justice",
+        "D": "United Nations Security Council"
+      },
+      "answer": "B",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2018-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 17,
+      "groupId": null,
+      "stem": "As a result of crowd violence leading to arrests at previous games, fans from opposing teams are now required to sit on different sides of the playing field.\nWhat is this an example of?",
+      "images": [],
+      "options": {
+        "A": "A diversionary program",
+        "B": "An exercise of police discretion",
+        "C": "A social crime prevention strategy",
+        "D": "A situational crime prevention strategy"
+      },
+      "answer": "D",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2018-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 18,
+      "groupId": null,
+      "stem": "Which of the following best describes the relationship between the criminal trial process in NSW and the Universal Declaration of Human Rights (UDHR)?",
+      "images": [],
+      "options": {
+        "A": "The criminal trial process is consistent with the principles of the UDHR.",
+        "B": "The criminal trial process is required by the Australian Government to comply with the UDHR.",
+        "C": "The UDHR is incorporated into the laws that determine the criminal trial process.",
+        "D": "The UDHR provides a remedy to a convicted person who considers their conviction unfair."
+      },
+      "answer": "A",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2018-hsc-legal-studies-mg.pdf"
+    },
+    {
+      "number": 19,
+      "groupId": null,
+      "stem": "A driver under the influence of alcohol causes damage to the value of $10 000 to another car. The driver is sentenced to imprisonment for drink driving.\nWhat sort of offence has the driver been convicted of?",
+      "images": [],
+      "options": {
+        "A": "Economic",
+        "B": "Indictable",
+        "C": "Public order",
+        "D": "Summary"
+      },
+      "answer": "D",
+      "answerSource": "official",
+      "answerNote": "NESA Section I answer key (https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2018-hsc-legal-studies-mg.pdf): 'B and D*' - both B and D were accepted as correct; D (summary) is recorded.",
+      "alsoAccept": [
+        "B"
+      ]
+    },
+    {
+      "number": 20,
+      "groupId": null,
+      "stem": "Trevor, who is not an Australian citizen, is to be released from a NSW prison after serving a sentence of two years.\nOn his release, can Trevor be deported to his country of origin?",
+      "images": [],
+      "options": {
+        "A": "No, as he was sentenced by a NSW court and deportation is a federal matter.",
+        "B": "No, as the deportation should have been determined at the time of sentencing.",
+        "C": "Yes, as deportation can occur after serving a sentence of one year or more.",
+        "D": "Yes, as the judge can use discretion to order deportation as part of the sentence."
+      },
+      "answer": "C",
+      "answerSource": "official",
+      "answerNote": "NESA Section I Multiple-choice Answer Key: https://www.nsw.gov.au/sites/default/files/noindex/2025-05/2018-hsc-legal-studies-mg.pdf"
+    }
+  ]
+}

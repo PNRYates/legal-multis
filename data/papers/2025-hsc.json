@@ -1,0 +1,313 @@
+{
+  "id": "2025-hsc",
+  "year": 2025,
+  "school": "HSC",
+  "kind": "hsc",
+  "title": "2025 HSC Legal Studies",
+  "sourceFile": "2025 HSC Legal Studies.pdf",
+  "answerStatus": "all-verified",
+  "notes": "No answer key is included in the supplied paper; answers are reasoned guesses.",
+  "groups": [],
+  "questions": [
+    {
+      "number": 1,
+      "groupId": null,
+      "stem": "In a court case, it is the responsibility of the prosecution to prove the accused is guilty. Which of the following does this refer to?",
+      "images": [],
+      "options": {
+        "A": "Burden of proof",
+        "B": "Standard of proof",
+        "C": "Reasonable doubt",
+        "D": "Presumption of innocence"
+      },
+      "answer": "A",
+      "answerSource": "official",
+      "answerNote": "NESA 2025 HSC Legal Studies Marking Guidelines, Section I answer key: https://cdn.simplestudy.io/assets/backend/uploads/exam_papers/15636_answer.pdf (copy of NESA guidelines hosted on simplestudy.io; official: https://www.nsw.gov.au/education-and-training/nesa/curriculum/hsc-exam-papers/legal-studies/2025)"
+    },
+    {
+      "number": 2,
+      "groupId": null,
+      "stem": "Which of the following allows for individuals to decide the government of a nation?",
+      "images": [],
+      "options": {
+        "A": "State sovereignty",
+        "B": "Universal suffrage",
+        "C": "Self-determination",
+        "D": "Freedom of speech"
+      },
+      "answer": "B",
+      "answerSource": "official",
+      "answerNote": "NESA 2025 HSC Legal Studies Marking Guidelines, Section I answer key: https://cdn.simplestudy.io/assets/backend/uploads/exam_papers/15636_answer.pdf (copy of NESA guidelines hosted on simplestudy.io; official: https://www.nsw.gov.au/education-and-training/nesa/curriculum/hsc-exam-papers/legal-studies/2025)"
+    },
+    {
+      "number": 3,
+      "groupId": null,
+      "stem": "Which of the following is an individual right stated in the Australian Constitution?",
+      "images": [],
+      "options": {
+        "A": "Freedom of speech",
+        "B": "Freedom of religion",
+        "C": "Trial by judge-alone",
+        "D": "Trade between the states"
+      },
+      "answer": "B",
+      "answerSource": "official",
+      "answerNote": "NESA 2025 HSC Legal Studies Marking Guidelines, Section I answer key: https://cdn.simplestudy.io/assets/backend/uploads/exam_papers/15636_answer.pdf (copy of NESA guidelines hosted on simplestudy.io; official: https://www.nsw.gov.au/education-and-training/nesa/curriculum/hsc-exam-papers/legal-studies/2025)"
+    },
+    {
+      "number": 4,
+      "groupId": null,
+      "stem": "What is the maximum length of time, excluding break times, an adult suspect can be detained by NSW Police without being charged?",
+      "images": [],
+      "options": {
+        "A": "Two hours",
+        "B": "Ten hours only if approved by a court",
+        "C": "As many hours as police need to gather evidence",
+        "D": "Six hours initially and a further six hours if approved by a court"
+      },
+      "answer": "D",
+      "answerSource": "official",
+      "answerNote": "NESA 2025 HSC Legal Studies Marking Guidelines, Section I answer key: https://cdn.simplestudy.io/assets/backend/uploads/exam_papers/15636_answer.pdf (copy of NESA guidelines hosted on simplestudy.io; official: https://www.nsw.gov.au/education-and-training/nesa/curriculum/hsc-exam-papers/legal-studies/2025)"
+    },
+    {
+      "number": 5,
+      "groupId": null,
+      "stem": "Bailey, who is 9 years old, has been detained by the police. Which legal concept prevents police from charging Bailey?",
+      "images": [],
+      "options": {
+        "A": "Court order",
+        "B": "Doli incapax",
+        "C": "Formal warning",
+        "D": "Binding precedent"
+      },
+      "answer": "B",
+      "answerSource": "official",
+      "answerNote": "NESA 2025 HSC Legal Studies Marking Guidelines, Section I answer key: https://cdn.simplestudy.io/assets/backend/uploads/exam_papers/15636_answer.pdf (copy of NESA guidelines hosted on simplestudy.io; official: https://www.nsw.gov.au/education-and-training/nesa/curriculum/hsc-exam-papers/legal-studies/2025)"
+    },
+    {
+      "number": 6,
+      "groupId": null,
+      "stem": "Which of the following increases the likelihood of bail being granted for an indictable offence?",
+      "images": [],
+      "options": {
+        "A": "Use of a weapon",
+        "B": "The length of time on remand",
+        "C": "A lengthy history of offending",
+        "D": "A risk of interfering with witnesses"
+      },
+      "answer": "B",
+      "answerSource": "official",
+      "answerNote": "NESA 2025 HSC Legal Studies Marking Guidelines, Section I answer key: https://cdn.simplestudy.io/assets/backend/uploads/exam_papers/15636_answer.pdf (copy of NESA guidelines hosted on simplestudy.io; official: https://www.nsw.gov.au/education-and-training/nesa/curriculum/hsc-exam-papers/legal-studies/2025)"
+    },
+    {
+      "number": 7,
+      "groupId": null,
+      "stem": "If a Charter of Rights were to be included in Australia’s Constitution, which of the following statements would be true?",
+      "images": [],
+      "options": {
+        "A": "A referendum has occurred to adopt the Charter of Rights.",
+        "B": "The United Nations has approved the Charter of Rights.",
+        "C": "The Prime Minister has given assent to the Charter of Rights.",
+        "D": "NSW can pass valid legislation inconsistent with the Charter of Rights."
+      },
+      "answer": "A",
+      "answerSource": "official",
+      "answerNote": "NESA 2025 HSC Legal Studies Marking Guidelines, Section I answer key: https://cdn.simplestudy.io/assets/backend/uploads/exam_papers/15636_answer.pdf (copy of NESA guidelines hosted on simplestudy.io; official: https://www.nsw.gov.au/education-and-training/nesa/curriculum/hsc-exam-papers/legal-studies/2025)"
+    },
+    {
+      "number": 8,
+      "groupId": null,
+      "stem": "An offender is released from prison prior to the end of their sentence. Which of the following best describes what has occurred?",
+      "images": [],
+      "options": {
+        "A": "Continued detention has been imposed.",
+        "B": "A Community Corrections Order has been made by the Parole Board.",
+        "C": "An Intensive Corrections Order has been imposed to protect public interest.",
+        "D": "Parole has been granted to enable ongoing supervision within the community."
+      },
+      "answer": "D",
+      "answerSource": "official",
+      "answerNote": "NESA 2025 HSC Legal Studies Marking Guidelines, Section I answer key: https://cdn.simplestudy.io/assets/backend/uploads/exam_papers/15636_answer.pdf (copy of NESA guidelines hosted on simplestudy.io; official: https://www.nsw.gov.au/education-and-training/nesa/curriculum/hsc-exam-papers/legal-studies/2025)"
+    },
+    {
+      "number": 9,
+      "groupId": null,
+      "stem": "Which of the following legal processes improves the resource efficiency of the criminal justice system?",
+      "images": [],
+      "options": {
+        "A": "Jury trials and remand",
+        "B": "Parole and protective custody",
+        "C": "Legal aid applications and appeals",
+        "D": "Police discretion and charge negotiation"
+      },
+      "answer": "D",
+      "answerSource": "official",
+      "answerNote": "NESA 2025 HSC Legal Studies Marking Guidelines, Section I answer key: https://cdn.simplestudy.io/assets/backend/uploads/exam_papers/15636_answer.pdf (copy of NESA guidelines hosted on simplestudy.io; official: https://www.nsw.gov.au/education-and-training/nesa/curriculum/hsc-exam-papers/legal-studies/2025)"
+    },
+    {
+      "number": 10,
+      "groupId": null,
+      "stem": "Which of the following is the most significant barrier to developing the recognition of environmental rights?",
+      "images": [],
+      "options": {
+        "A": "The economic self-interest of nation states",
+        "B": "The United Nations not making this right a priority",
+        "C": "International instruments not recognising this right",
+        "D": "Failure of non-government organisations to enforce this right"
+      },
+      "answer": "A",
+      "answerSource": "official",
+      "answerNote": "NESA 2025 HSC Legal Studies Marking Guidelines, Section I answer key: https://cdn.simplestudy.io/assets/backend/uploads/exam_papers/15636_answer.pdf (copy of NESA guidelines hosted on simplestudy.io; official: https://www.nsw.gov.au/education-and-training/nesa/curriculum/hsc-exam-papers/legal-studies/2025)"
+    },
+    {
+      "number": 11,
+      "groupId": null,
+      "stem": "If a state government were to mandate that pill testing be available at all music festivals, which of the following would this be an example of?",
+      "images": [],
+      "options": {
+        "A": "Law reform to reflect changes to moral and ethical standards",
+        "B": "The discretionary use of law enforcement powers for community safety",
+        "C": "The Court of Criminal Appeal creating a guideline judgment to ensure fairness",
+        "D": "Using warrants to address tension between individual rights and community standards"
+      },
+      "answer": "A",
+      "answerSource": "official",
+      "answerNote": "NESA 2025 HSC Legal Studies Marking Guidelines, Section I answer key: https://cdn.simplestudy.io/assets/backend/uploads/exam_papers/15636_answer.pdf (copy of NESA guidelines hosted on simplestudy.io; official: https://www.nsw.gov.au/education-and-training/nesa/curriculum/hsc-exam-papers/legal-studies/2025)"
+    },
+    {
+      "number": 12,
+      "groupId": null,
+      "stem": "Jo, following instructions from Chris via ‘live stream’, enters a shop armed with a gun to commit a robbery. Alex drives Jo from the scene with cash stolen during the robbery. Which row of the table correctly identifies the role and name(s) of the party/parties involved?",
+      "images": [],
+      "options": {
+        "A": "Principal in the first degree — Alex only",
+        "B": "Principal in the second degree — Chris only",
+        "C": "Principals in the first degree — Jo and Chris",
+        "D": "Principals in the second degree — Jo and Alex"
+      },
+      "answer": "C",
+      "answerSource": "official",
+      "answerNote": "NESA 2025 HSC Legal Studies Marking Guidelines, Section I answer key: https://cdn.simplestudy.io/assets/backend/uploads/exam_papers/15636_answer.pdf (copy of NESA guidelines hosted on simplestudy.io; official: https://www.nsw.gov.au/education-and-training/nesa/curriculum/hsc-exam-papers/legal-studies/2025)"
+    },
+    {
+      "number": 13,
+      "groupId": null,
+      "stem": "Sam admitted criminal offending but raised a defence. What does this mean for Sam?",
+      "images": [],
+      "options": {
+        "A": "Sam must exercise the right to silence.",
+        "B": "Criminal culpability needs to be determined.",
+        "C": "Sam will be found guilty of a reduced charge.",
+        "D": "The sentence will now be decided by the jury."
+      },
+      "answer": "B",
+      "answerSource": "official",
+      "answerNote": "NESA 2025 HSC Legal Studies Marking Guidelines, Section I answer key: https://cdn.simplestudy.io/assets/backend/uploads/exam_papers/15636_answer.pdf (copy of NESA guidelines hosted on simplestudy.io; official: https://www.nsw.gov.au/education-and-training/nesa/curriculum/hsc-exam-papers/legal-studies/2025)"
+    },
+    {
+      "number": 14,
+      "groupId": null,
+      "stem": "Which of the following is a key difference between a trial by jury and a judge-alone trial?",
+      "images": [],
+      "options": {
+        "A": "A judge must provide reasons for the verdict.",
+        "B": "A judge-alone trial is less likely to result in an acquittal.",
+        "C": "Only a jury can decide if the victim has received justice.",
+        "D": "A jury is better equipped to resolve complex and prejudicial issues."
+      },
+      "answer": "A",
+      "answerSource": "official",
+      "answerNote": "NESA 2025 HSC Legal Studies Marking Guidelines, Section I answer key: https://cdn.simplestudy.io/assets/backend/uploads/exam_papers/15636_answer.pdf (copy of NESA guidelines hosted on simplestudy.io; official: https://www.nsw.gov.au/education-and-training/nesa/curriculum/hsc-exam-papers/legal-studies/2025)"
+    },
+    {
+      "number": 15,
+      "groupId": null,
+      "stem": "Which of the following is an example of restorative justice?",
+      "images": [],
+      "options": {
+        "A": "A violent offender avoiding prosecution by pleading guilty",
+        "B": "The offender and victim meeting to reflect on the offending",
+        "C": "Achieving justice for victims through social crime prevention",
+        "D": "An offender cooperating with authorities to improve resource efficiency"
+      },
+      "answer": "B",
+      "answerSource": "official",
+      "answerNote": "NESA 2025 HSC Legal Studies Marking Guidelines, Section I answer key: https://cdn.simplestudy.io/assets/backend/uploads/exam_papers/15636_answer.pdf (copy of NESA guidelines hosted on simplestudy.io; official: https://www.nsw.gov.au/education-and-training/nesa/curriculum/hsc-exam-papers/legal-studies/2025)"
+    },
+    {
+      "number": 16,
+      "groupId": null,
+      "stem": "Which row of the table correctly identifies the legal institution and its responsibility?",
+      "images": [],
+      "options": {
+        "A": "Corrective Services NSW — Deciding security classifications for offenders",
+        "B": "NSW State Parole Authority — Providing eligible parties with financial support",
+        "C": "NSW Police — Prosecuting indictable offences in the District Court",
+        "D": "Legal Aid — Funding matters about property damage to any property caused by a motor vehicle"
+      },
+      "answer": "A",
+      "answerSource": "official",
+      "answerNote": "NESA 2025 HSC Legal Studies Marking Guidelines, Section I answer key: https://cdn.simplestudy.io/assets/backend/uploads/exam_papers/15636_answer.pdf (copy of NESA guidelines hosted on simplestudy.io; official: https://www.nsw.gov.au/education-and-training/nesa/curriculum/hsc-exam-papers/legal-studies/2025)"
+    },
+    {
+      "number": 17,
+      "groupId": null,
+      "stem": "Which of the following is the main concern regarding the effectiveness of forfeiture of assets as a crime deterrent?",
+      "images": [],
+      "options": {
+        "A": "The costs of processing the orders outweigh the value of assets seized.",
+        "B": "It fails to ensure all seized assets are used to support community programs.",
+        "C": "There is limited evidence that asset forfeiture significantly deters criminal activity.",
+        "D": "It is criticised for sometimes targeting low-level offenders instead of major criminals."
+      },
+      "answer": "C",
+      "answerSource": "official",
+      "answerNote": "NESA 2025 HSC Legal Studies Marking Guidelines, Section I answer key: https://cdn.simplestudy.io/assets/backend/uploads/exam_papers/15636_answer.pdf (copy of NESA guidelines hosted on simplestudy.io; official: https://www.nsw.gov.au/education-and-training/nesa/curriculum/hsc-exam-papers/legal-studies/2025)"
+    },
+    {
+      "number": 18,
+      "groupId": null,
+      "stem": "Police legally enter an adult suspect’s home. Which of the following is correct?",
+      "images": [],
+      "options": {
+        "A": "Consent from the suspect is mandatory.",
+        "B": "The suspect has waived the right to legal advice.",
+        "C": "Judicial oversight of police powers has occurred.",
+        "D": "All property seized by police is admissible evidence."
+      },
+      "answer": "C",
+      "answerSource": "official",
+      "answerNote": "NESA 2025 HSC Legal Studies Marking Guidelines, Section I answer key: https://cdn.simplestudy.io/assets/backend/uploads/exam_papers/15636_answer.pdf (copy of NESA guidelines hosted on simplestudy.io; official: https://www.nsw.gov.au/education-and-training/nesa/curriculum/hsc-exam-papers/legal-studies/2025)"
+    },
+    {
+      "number": 19,
+      "groupId": null,
+      "stem": "Consider the following hypothetical scenario. A state government mandates that only a particular type of crypto-currency can be used as legal tender in that state. Which legal doctrines are best invoked by the Federal Government to challenge this decision in the High Court?",
+      "images": [],
+      "options": {
+        "A": "Separation of Powers and Rule of Law",
+        "B": "Division of Powers and procedural fairness",
+        "C": "Rule of Law and parliamentary independence",
+        "D": "Separation of Powers and Division of Powers"
+      },
+      "answer": "D",
+      "answerSource": "official",
+      "answerNote": "NESA 2025 HSC Legal Studies Marking Guidelines, Section I answer key: https://cdn.simplestudy.io/assets/backend/uploads/exam_papers/15636_answer.pdf (copy of NESA guidelines hosted on simplestudy.io; official: https://www.nsw.gov.au/education-and-training/nesa/curriculum/hsc-exam-papers/legal-studies/2025)"
+    },
+    {
+      "number": 20,
+      "groupId": null,
+      "stem": "A jury found Kim guilty of fraud. Kim successfully appeals the conviction on the basis that prejudicial evidence was admitted into court. Which of the following is correct?",
+      "images": [],
+      "options": {
+        "A": "The Director of Public Prosecutions must now agree to a retrial.",
+        "B": "The NSW Supreme Court found that jury misconduct had occurred.",
+        "C": "The Public Defender was required to represent Kim in the appeal process.",
+        "D": "The NSW Court of Criminal Appeal accepted the trial was procedurally unfair."
+      },
+      "answer": "D",
+      "answerSource": "official",
+      "answerNote": "NESA 2025 HSC Legal Studies Marking Guidelines, Section I answer key: https://cdn.simplestudy.io/assets/backend/uploads/exam_papers/15636_answer.pdf (copy of NESA guidelines hosted on simplestudy.io; official: https://www.nsw.gov.au/education-and-training/nesa/curriculum/hsc-exam-papers/legal-studies/2025)"
+    }
+  ]
+}

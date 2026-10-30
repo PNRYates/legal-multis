@@ -1,0 +1,313 @@
+{
+  "id": "2022-baulkham-hills-trial",
+  "year": 2022,
+  "school": "Baulkham Hills",
+  "kind": "trial",
+  "title": "2022 Baulkham Hills Legal Studies Trial",
+  "sourceFile": "2022 Baulkham Hills Legal Studies Trial.pdf",
+  "answerStatus": "all-verified",
+  "notes": "",
+  "groups": [],
+  "questions": [
+    {
+      "number": 1,
+      "groupId": null,
+      "stem": "Human rights are described as inherent. This means that these rights",
+      "images": [],
+      "options": {
+        "A": "apply to everyone regardless of race, sex and religion.",
+        "B": "apply to all humans because they are human.",
+        "C": "are connected and indivisible.",
+        "D": "cannot be taken away."
+      },
+      "answer": "B",
+      "answerSource": "paper",
+      "answerNote": "Answer key on page 21 of the source PDF lists Question 1 as B."
+    },
+    {
+      "number": 2,
+      "groupId": null,
+      "stem": "Why are young offenders treated differently to adult offenders in the criminal justice system?",
+      "images": [],
+      "options": {
+        "A": "It is required by international law",
+        "B": "Young offenders do not reoffend as often as adults",
+        "C": "The offences they commit are usually not as serious",
+        "D": "They are less likely to understand the consequences of their actions"
+      },
+      "answer": "D",
+      "answerSource": "paper",
+      "answerNote": "Answer key on page 21 of the source PDF lists Question 2 as D."
+    },
+    {
+      "number": 3,
+      "groupId": null,
+      "stem": "Anna is being prosecuted for a robbery in NSW. Anna gives evidence that she was in Queensland at the time of the offence.\n\nWhich of the following does this evidence challenge?",
+      "images": [],
+      "options": {
+        "A": "Mens Rea",
+        "B": "Causation",
+        "C": "Actus Reus",
+        "D": "Doli incapax"
+      },
+      "answer": "C",
+      "answerSource": "paper",
+      "answerNote": "Answer key on page 21 of the source PDF lists Question 3 as C."
+    },
+    {
+      "number": 4,
+      "groupId": null,
+      "stem": "Which of the following rights is recognised in the International Covenant on Economic Social and Cultural Rights?",
+      "images": [],
+      "options": {
+        "A": "The right to vote",
+        "B": "The right to education",
+        "C": "Freedom from torture",
+        "D": "The inherent right to life."
+      },
+      "answer": "B",
+      "answerSource": "paper",
+      "answerNote": "Answer key on page 21 of the source PDF lists Question 4 as B."
+    },
+    {
+      "number": 5,
+      "groupId": null,
+      "stem": "The prosecution and defence agree that an offender will plead guilty of theft instead of armed robbery.\n\nWhat is this an example of?",
+      "images": [],
+      "options": {
+        "A": "Charge negotiation",
+        "B": "Leniency of the criminal justice system",
+        "C": "A diversionary program",
+        "D": "The role of the adversary system"
+      },
+      "answer": "A",
+      "answerSource": "paper",
+      "answerNote": "Answer key on page 21 of the source PDF lists Question 5 as A."
+    },
+    {
+      "number": 6,
+      "groupId": null,
+      "stem": "What is an important guideline for a judge to consider when sentencing a young offender convicted of a criminal offence?",
+      "images": [],
+      "options": {
+        "A": "Retribution",
+        "B": "Education",
+        "C": "Custodial sentence",
+        "D": "Deterrence"
+      },
+      "answer": "D",
+      "answerSource": "paper",
+      "answerNote": "Answer key on page 21 of the source PDF lists Question 6 as D."
+    },
+    {
+      "number": 7,
+      "groupId": null,
+      "stem": "Which term defines the right of Indigenous people to control their local territory?",
+      "images": [],
+      "options": {
+        "A": "Civilian law",
+        "B": "Natural rights",
+        "C": "Self-determination",
+        "D": "Environmental rights"
+      },
+      "answer": "C",
+      "answerSource": "paper",
+      "answerNote": "Answer key on page 21 of the source PDF lists Question 7 as C."
+    },
+    {
+      "number": 8,
+      "groupId": null,
+      "stem": "Rosie and Ren have a baby daughter who is seriously ill. They fail to provide adequate medical treatment, which subsequently results in her death.\n\nWhat is the charge which is most likely to lead to a custodial sentence?",
+      "images": [],
+      "options": {
+        "A": "Manslaughter",
+        "B": "Murder",
+        "C": "Child abduction",
+        "D": "Assault"
+      },
+      "answer": "A",
+      "answerSource": "paper",
+      "answerNote": "Answer key on page 21 of the source PDF lists Question 8 as A."
+    },
+    {
+      "number": 9,
+      "groupId": null,
+      "stem": "Through which of the following does the process involving prosecution, defence and a magistrate agreeing on a set of facts and an early guilty plea occur?",
+      "images": [],
+      "options": {
+        "A": "Sentencing",
+        "B": "A committal hearing",
+        "C": "Charge negotiation",
+        "D": "A case conference"
+      },
+      "answer": "D",
+      "answerSource": "paper",
+      "answerNote": "Answer key on page 21 of the source PDF lists Question 9 as D."
+    },
+    {
+      "number": 10,
+      "groupId": null,
+      "stem": "Cross examination of witnesses is a characteristic of which of the following?",
+      "images": [],
+      "options": {
+        "A": "An adversarial system",
+        "B": "A jury trial",
+        "C": "An inquisitorial trial",
+        "D": "The committal process"
+      },
+      "answer": "A",
+      "answerSource": "paper",
+      "answerNote": "Answer key on page 21 of the source PDF lists Question 10 as A."
+    },
+    {
+      "number": 11,
+      "groupId": null,
+      "stem": "Ella has been detained for 48 hours without charge because police believe that she was about to engage in a terrorist act.\n\nWhat is this type of detention known as?",
+      "images": [],
+      "options": {
+        "A": "Probation",
+        "B": "Protective",
+        "C": "Preventative",
+        "D": "Periodic"
+      },
+      "answer": "C",
+      "answerSource": "paper",
+      "answerNote": "Answer key on page 21 of the source PDF lists Question 11 as C."
+    },
+    {
+      "number": 12,
+      "groupId": null,
+      "stem": "Ben helps Di plan a bank robbery. Di attempts to commit the bank robbery but is unsuccessful.\n\nWhich of the following statements is correct?",
+      "images": [],
+      "options": {
+        "A": "Ben has committed a preliminary crime; Di has committed a white-collar crime",
+        "B": "Ben and Di have both committed preliminary crimes",
+        "C": "Ben and Di are both principals in the second degree",
+        "D": "Ben is an accessory before the fact; Di is an accessory after the fact"
+      },
+      "answer": "B",
+      "answerSource": "paper",
+      "answerNote": "Answer key on page 21 of the source PDF."
+    },
+    {
+      "number": 13,
+      "groupId": null,
+      "stem": "During a murder trial, the defendant’s barrister argues that a prosecution witness is lying.\n\nWhat is the barrister attempting to show?",
+      "images": [],
+      "options": {
+        "A": "Deterrence",
+        "B": "Actus Reus",
+        "C": "Strict liability",
+        "D": "Reasonable doubt"
+      },
+      "answer": "D",
+      "answerSource": "paper",
+      "answerNote": "Answer key on page 21 of the source PDF."
+    },
+    {
+      "number": 14,
+      "groupId": null,
+      "stem": "Bailey, who is 17, has been charged with an indictable offence. He wishes to plead not guilty.\n\nWhich of the following statements is correct?",
+      "images": [],
+      "options": {
+        "A": "Bailey is not eligible for Legal Aid",
+        "B": "Bailey is likely to be eligible for Legal Aid",
+        "C": "Bailey’s trial will take place in the Local Court",
+        "D": "Bailey’s trial will take place in the Supreme Court"
+      },
+      "answer": "B",
+      "answerSource": "paper",
+      "answerNote": "Answer key on page 21 of the source PDF lists Question 14 as B."
+    },
+    {
+      "number": 15,
+      "groupId": null,
+      "stem": "Riley had been drinking. While being driven home, Riley was swearing at people out of the car window. The driver was stopped by police and Riley was issued a fine for using offensive language.\n\nIn which category of crime does this offence fall?",
+      "images": [],
+      "options": {
+        "A": "Drug",
+        "B": "Driving",
+        "C": "Public order",
+        "D": "Economic"
+      },
+      "answer": "C",
+      "answerSource": "paper",
+      "answerNote": "Answer key on page 21 of the source PDF lists Question 15 as C."
+    },
+    {
+      "number": 16,
+      "groupId": null,
+      "stem": "A mining company has destroyed a local site which is sacred to indigenous people.\n\nWhat type of breach is this to Aboriginal people?",
+      "images": [],
+      "options": {
+        "A": "Civil and political rights",
+        "B": "Social and cultural rights",
+        "C": "Collective rights",
+        "D": "Property rights"
+      },
+      "answer": "B",
+      "answerSource": "paper",
+      "answerNote": "Answer key on page 21 of the source PDF lists Question 16 as B."
+    },
+    {
+      "number": 17,
+      "groupId": null,
+      "stem": "A person is convicted of a transnational crime in the Federal Court. The person wishes to have this conviction reviewed.\n\nWhat court would the person go to?",
+      "images": [],
+      "options": {
+        "A": "Drug Court",
+        "B": "Court of Criminal Appeal",
+        "C": "Supreme Court",
+        "D": "High Court"
+      },
+      "answer": "D",
+      "answerSource": "paper",
+      "answerNote": "Answer key on page 21 of the source PDF lists Question 17 as D."
+    },
+    {
+      "number": 18,
+      "groupId": null,
+      "stem": "Empanelling a jury refers to which of the following?",
+      "images": [],
+      "options": {
+        "A": "Selecting a jury",
+        "B": "Challenging a juror",
+        "C": "Dismissing a juror",
+        "D": "Dismissing a jury"
+      },
+      "answer": "A",
+      "answerSource": "paper",
+      "answerNote": "Answer key on page 21 of the source PDF lists Question 18 as A."
+    },
+    {
+      "number": 19,
+      "groupId": null,
+      "stem": "Sam kills her partner after a 15 year relationship. Sam’s sentence is reduced because of 15 years of abuse by the victim.\n\nWhat is this an example of?",
+      "images": [],
+      "options": {
+        "A": "Rehabilitation factor",
+        "B": "Aggravating factor",
+        "C": "Mitigating factor",
+        "D": "General deterrence"
+      },
+      "answer": "C",
+      "answerSource": "paper",
+      "answerNote": "Answer key on page 21 of the source PDF lists Question 19 as C."
+    },
+    {
+      "number": 20,
+      "groupId": null,
+      "stem": "Which of the following statements is correct about human rights?",
+      "images": [],
+      "options": {
+        "A": "Human rights are guaranteed in domestic law",
+        "B": "Human rights only apply to those who do not break the law",
+        "C": "They are recognised and applied by all nations",
+        "D": "Human rights are often impacted by state sovereignty"
+      },
+      "answer": "D",
+      "answerSource": "paper",
+      "answerNote": "Answer key on page 21 of the source PDF lists Question 20 as D."
+    }
+  ]
+}

@@ -1,0 +1,323 @@
+{
+  "id": "2013-cranbrook-trial",
+  "year": 2013,
+  "school": "Cranbrook",
+  "kind": "trial",
+  "title": "2013 Cranbrook Legal Studies Trial",
+  "sourceFile": "2013 Cranbrook Legal Studies Trial.pdf",
+  "answerStatus": "none-found",
+  "notes": "No answer key is included in the PDF; all answers are reasoned estimates. The Juliette scenario is shared by questions 9 and 10. No figures occur in Section I.",
+  "groups": [
+    {
+      "id": "2013-cranbrook-trial-g1",
+      "questionNumbers": [
+        9,
+        10
+      ],
+      "stimulus": "Juliette is the personal assistant of an international company based in Melbourne. She is charged with embezzling $250 000 from the company.",
+      "images": []
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "groupId": null,
+      "stem": "Max hides Rodolfo in his holiday home after he is involved in an armed robbery. Max can be charged as?",
+      "images": [],
+      "options": {
+        "A": "Principal in the first degree",
+        "B": "Principal in the second degree",
+        "C": "Accessory before the fact",
+        "D": "Accessory after the fact"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Helping an offender after the offence makes Max an accessory after the fact."
+    },
+    {
+      "number": 2,
+      "groupId": null,
+      "stem": "Which of the following is a treaty that enshrines human rights?",
+      "images": [],
+      "options": {
+        "A": "Magna Carta",
+        "B": "The Convention on the Rights of the Child",
+        "C": "The United States Bill of Rights",
+        "D": "The Law of the Sea"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "The Convention on the Rights of the Child is a human rights treaty."
+    },
+    {
+      "number": 3,
+      "groupId": null,
+      "stem": "Which of the following best describes state sovereignty?",
+      "images": [],
+      "options": {
+        "A": "The right of a person to vote in a state government election",
+        "B": "The right of a group of people to determine its own future",
+        "C": "The right of a state to make laws for its citizens",
+        "D": "The right of a person to vote in a federal government election"
+      },
+      "answer": "C",
+      "answerSource": "guess",
+      "answerNote": "State sovereignty includes a state’s authority to make laws for its population."
+    },
+    {
+      "number": 4,
+      "groupId": null,
+      "stem": "Penelope was speeding on her new Honda 125cc motorbike and was stopped by a male police officer who decided not to issue a speeding ticket. What feature of the legal system does this scenario demonstrate?",
+      "images": [],
+      "options": {
+        "A": "Police discretion",
+        "B": "Alternative dispute resolution",
+        "C": "Natural injustice",
+        "D": "Natural justice"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "The officer’s choice whether to issue a ticket is police discretion."
+    },
+    {
+      "number": 5,
+      "groupId": null,
+      "stem": "Which of the following is an example of situational crime prevention?",
+      "images": [],
+      "options": {
+        "A": "Creating alcohol free zones to reduce alcohol related crime",
+        "B": "Establishing social skill programs for “children at risk”",
+        "C": "Raising the school leaving age in NSW to 17 years",
+        "D": "Establishing parenting workshops in disadvantaged areas"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Alcohol-free zones alter the immediate environment and opportunities for offending."
+    },
+    {
+      "number": 6,
+      "groupId": null,
+      "stem": "Which of the following human rights are regarded as a collective right?",
+      "images": [],
+      "options": {
+        "A": "Universal education",
+        "B": "Self-determination",
+        "C": "Universal suffrage",
+        "D": "Freedom from slavery"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "Self-determination is exercised collectively by peoples."
+    },
+    {
+      "number": 7,
+      "groupId": null,
+      "stem": "Selling alcohol to people under the age of 18 is an example of what type of crime?",
+      "images": [],
+      "options": {
+        "A": "Strict liability offence",
+        "B": "Public order offence",
+        "C": "Preliminary offence",
+        "D": "Drug offence"
+      },
+      "answer": "A",
+      "answerSource": "guess",
+      "answerNote": "Selling alcohol to a minor is a strict liability offence."
+    },
+    {
+      "number": 8,
+      "groupId": null,
+      "stem": "Stuart, a 15 year old indigenous youth, is held in remand on drug possession charges. He is found dead in his cell the following morning. An inquest into Stuart’s death will be held in what court?",
+      "images": [],
+      "options": {
+        "A": "The Drug Court",
+        "B": "The Children’s Court",
+        "C": "The Aboriginal Local Court",
+        "D": "The Coroner’s Court"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "A coroner investigates deaths requiring an inquest."
+    },
+    {
+      "number": 9,
+      "groupId": "2013-cranbrook-trial-g1",
+      "stem": "The main factors affecting Juliette’s criminal behaviour are",
+      "images": [],
+      "options": {
+        "A": "Social factors",
+        "B": "Economic factors",
+        "C": "Political factors",
+        "D": "Self-interest"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "The scenario describes embezzlement to benefit the offender, indicating self-interest."
+    },
+    {
+      "number": 10,
+      "groupId": "2013-cranbrook-trial-g1",
+      "stem": "Juliette’s committal hearing will be heard in what court?",
+      "images": [],
+      "options": {
+        "A": "The Federal Magistrates Court",
+        "B": "The Local Court",
+        "C": "The District Court",
+        "D": "The Supreme Court"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "Committal proceedings are heard in the Local Court."
+    },
+    {
+      "number": 11,
+      "groupId": null,
+      "stem": "Which group of defences below constitute complete defences in criminal charges?",
+      "images": [],
+      "options": {
+        "A": "Self-defence, provocation and insanity",
+        "B": "Self-defence, consent and diminished responsibility",
+        "C": "Self-defence, diminished responsibility and insanity",
+        "D": "Self-defence, duress and insanity"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Self-defence, duress and insanity can be complete defences; Provocation and diminished responsibility are partial defences."
+    },
+    {
+      "number": 12,
+      "groupId": null,
+      "stem": "Which one of the following crimes is heard by the International Criminal Court?",
+      "images": [],
+      "options": {
+        "A": "Credit card fraud",
+        "B": "Genocide",
+        "C": "Piracy",
+        "D": "Drug smuggling"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "Genocide is one of the ICC’s core crimes."
+    },
+    {
+      "number": 13,
+      "groupId": null,
+      "stem": "Which one of the following is a non-legal measure that addresses human rights issues?",
+      "images": [],
+      "options": {
+        "A": "Investigations by the Commonwealth Ombudsman",
+        "B": "Decisions by the International Court of Justice",
+        "C": "Amendments to the NSW Constitution",
+        "D": "Published reports in the Australian media"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Media reporting is a non-legal response."
+    },
+    {
+      "number": 14,
+      "groupId": null,
+      "stem": "What is the main aim of diversionary programs?",
+      "images": [],
+      "options": {
+        "A": "Retribution",
+        "B": "Rehabilitation",
+        "C": "Incapacitation",
+        "D": "Deterrent"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "Diversionary programs (cautions, conferences, Drug Court) aim mainly at rehabilitation (B); D 'Deterrent' is the other plausible choice but is secondary."
+    },
+    {
+      "number": 15,
+      "groupId": null,
+      "stem": "Extradition involves:",
+      "images": [],
+      "options": {
+        "A": "Charging a person with the same crime in two locations",
+        "B": "A person being prosecuted in the International Criminal Court",
+        "C": "Charging a person with a transnational crime",
+        "D": "Returning a person to the jurisdiction in which they committed the crime"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Extradition returns a suspect or offender to the jurisdiction seeking them."
+    },
+    {
+      "number": 16,
+      "groupId": null,
+      "stem": "At her sentencing hearing, Helga’s defence lawyer asks the judge to reduce the sentence because she is a young, single mother. This is an example of:",
+      "images": [],
+      "options": {
+        "A": "A complete defence",
+        "B": "A partial defence",
+        "C": "Aggravating circumstances",
+        "D": "Mitigating circumstances"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Personal circumstances may mitigate sentence."
+    },
+    {
+      "number": 17,
+      "groupId": null,
+      "stem": "Which group of factors constitute post-sentencing decisions?",
+      "images": [],
+      "options": {
+        "A": "Security classification, parole, level of violence used",
+        "B": "Protective custody, sexual offenders registration, parole",
+        "C": "Security classification, preventative and continued detention, age of the victim",
+        "D": "Parole, criminal record of the victim, sexual offenders registration"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "Protective custody, sex offenders registration and parole are all post-sentencing (B); The other options include sentencing factors such as level of violence or victim's age/record."
+    },
+    {
+      "number": 18,
+      "groupId": null,
+      "stem": "Donald pleads guilty to a lesser charge in exchange for other charges being dropped. This is known as:",
+      "images": [],
+      "options": {
+        "A": "Prima facie",
+        "B": "Charge negotiation",
+        "C": "Plea bargaining",
+        "D": "Double jeopardy"
+      },
+      "answer": "B",
+      "answerSource": "guess",
+      "answerNote": "Charge negotiation is the NSW term for pleading guilty to a lesser charge in return for others being dropped (B). C 'Plea bargaining' is the informal equivalent, so two options are arguably correct."
+    },
+    {
+      "number": 19,
+      "groupId": null,
+      "stem": "When does an international treaty become enforceable in Australia?",
+      "images": [],
+      "options": {
+        "A": "When Australia becomes a signatory to the treaty",
+        "B": "When the High Court of Australia ratifies the treaty",
+        "C": "When the United Nations assents to the application of the treaty in Australia",
+        "D": "When the government enacts legislation incorporating the treaty"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "Treaty provisions generally need implementing legislation to be enforceable domestically."
+    },
+    {
+      "number": 20,
+      "groupId": null,
+      "stem": "What is the role of the jury in a murder trial in NSW?",
+      "images": [],
+      "options": {
+        "A": "Rule on points of law",
+        "B": "Determine the sentence of the accused",
+        "C": "Rule on plea bargaining",
+        "D": "Determine innocence or guilt of the accused"
+      },
+      "answer": "D",
+      "answerSource": "guess",
+      "answerNote": "The jury determines guilt; The judge rules on law and sentence."
+    }
+  ]
+}

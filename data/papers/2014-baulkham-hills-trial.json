@@ -1,0 +1,313 @@
+{
+  "id": "2014-baulkham-hills-trial",
+  "year": 2014,
+  "school": "Baulkham Hills",
+  "kind": "trial",
+  "title": "2014 Baulkham Hills Legal Studies Trial",
+  "sourceFile": "2014 Baulkham Hills Legal Studies Trial.pdf",
+  "answerStatus": "all-verified",
+  "notes": "Text extracted from the multiple-choice pages. No non-text figures were present in this section.",
+  "groups": [],
+  "questions": [
+    {
+      "number": 1,
+      "groupId": null,
+      "stem": "What is the final court of appeal for a criminal case?",
+      "images": [],
+      "options": {
+        "A": "The NSW Court of Criminal Appeal",
+        "B": "The Local Court",
+        "C": "The High Court",
+        "D": "The NSW Supreme Court"
+      },
+      "answer": "C",
+      "answerSource": "thsc",
+      "answerNote": "Marking guidelines in THSC 'Baulkham Hills 2014 Legal Studies Trials & Solutions.pdf': https://thsc.zaxu.xyz/Year%2012/Trial/HSIE/Legal%20Studies/Baulkham%20Hills/Baulkham%20Hills%202014%20Legal%20Studies%20Trials%20%26%20Solutions.pdf (Section I key on page 14; read from image; Q1-5 text checked against paper)."
+    },
+    {
+      "number": 2,
+      "groupId": null,
+      "stem": "Who has the burden  of proof in a murder case?",
+      "images": [],
+      "options": {
+        "A": "The prosecution",
+        "B": "The defendant",
+        "C": "Queens Counsel",
+        "D": "Plaintiff"
+      },
+      "answer": "A",
+      "answerSource": "thsc",
+      "answerNote": "Marking guidelines in THSC 'Baulkham Hills 2014 Legal Studies Trials & Solutions.pdf': https://thsc.zaxu.xyz/Year%2012/Trial/HSIE/Legal%20Studies/Baulkham%20Hills/Baulkham%20Hills%202014%20Legal%20Studies%20Trials%20%26%20Solutions.pdf (Section I key on page 14; read from image; Q1-5 text checked against paper)."
+    },
+    {
+      "number": 3,
+      "groupId": null,
+      "stem": "David decides to go to court instead of paying a speeding fine. What will happen next?",
+      "images": [],
+      "options": {
+        "A": "He will be charged with a driving offence",
+        "B": "He will be issued with a Court Attendance Notice",
+        "C": "He will be arrested and taken to the police station",
+        "D": "He will be remanded in custody until his case goes to court"
+      },
+      "answer": "B",
+      "answerSource": "thsc",
+      "answerNote": "Marking guidelines in THSC 'Baulkham Hills 2014 Legal Studies Trials & Solutions.pdf': https://thsc.zaxu.xyz/Year%2012/Trial/HSIE/Legal%20Studies/Baulkham%20Hills/Baulkham%20Hills%202014%20Legal%20Studies%20Trials%20%26%20Solutions.pdf (Section I key on page 14; read from image; Q1-5 text checked against paper)."
+    },
+    {
+      "number": 4,
+      "groupId": null,
+      "stem": "13 year old Gerry has been found guilty of car theft. Which of the following is most likely to be a priority for the magistrate during sentencing?",
+      "images": [],
+      "options": {
+        "A": "Rehabilitation",
+        "B": "Incapacitation",
+        "C": "Deterrence",
+        "D": "Retribution"
+      },
+      "answer": "A",
+      "answerSource": "thsc",
+      "answerNote": "Marking guidelines in THSC 'Baulkham Hills 2014 Legal Studies Trials & Solutions.pdf': https://thsc.zaxu.xyz/Year%2012/Trial/HSIE/Legal%20Studies/Baulkham%20Hills/Baulkham%20Hills%202014%20Legal%20Studies%20Trials%20%26%20Solutions.pdf (Section I key on page 14; read from image; Q1-5 text checked against paper)."
+    },
+    {
+      "number": 5,
+      "groupId": null,
+      "stem": "Ashley is initially charged with murder but in return for entering a guilty plea, he now faces the lesser charge of manslaughter. This is an example of which of the following?",
+      "images": [],
+      "options": {
+        "A": "Procedural fairness",
+        "B": "Charge negotiation",
+        "C": "Good negotiation skills",
+        "D": "Efficient use of police powers"
+      },
+      "answer": "B",
+      "answerSource": "thsc",
+      "answerNote": "Marking guidelines in THSC 'Baulkham Hills 2014 Legal Studies Trials & Solutions.pdf': https://thsc.zaxu.xyz/Year%2012/Trial/HSIE/Legal%20Studies/Baulkham%20Hills/Baulkham%20Hills%202014%20Legal%20Studies%20Trials%20%26%20Solutions.pdf (Section I key on page 14; read from image; Q1-5 text checked against paper)."
+    },
+    {
+      "number": 6,
+      "groupId": null,
+      "stem": "State sovereignty protects human rights by ensuring a nation state has the right to which of the following?",
+      "images": [],
+      "options": {
+        "A": "To participate in the Olympics",
+        "B": "To elect to become a monarchy",
+        "C": "To develop its natural resources",
+        "D": "To enact anti-discrimination legislation"
+      },
+      "answer": "D",
+      "answerSource": "thsc",
+      "answerNote": "Marking guidelines in THSC 'Baulkham Hills 2014 Legal Studies Trials & Solutions.pdf': https://thsc.zaxu.xyz/Year%2012/Trial/HSIE/Legal%20Studies/Baulkham%20Hills/Baulkham%20Hills%202014%20Legal%20Studies%20Trials%20%26%20Solutions.pdf (Section I key on page 14; read from image; Q1-5 text checked against paper)."
+    },
+    {
+      "number": 7,
+      "groupId": null,
+      "stem": "Which of the following best describes the role of the media in the promotion and enforcement of human rights?",
+      "images": [],
+      "options": {
+        "A": "It encourages victims to take action",
+        "B": "It raises awareness of human rights issues",
+        "C": "It organises public demonstrations about human rights",
+        "D": "It ensures action is taken to remedy breaches of human rights"
+      },
+      "answer": "B",
+      "answerSource": "thsc",
+      "answerNote": "Marking guidelines in THSC 'Baulkham Hills 2014 Legal Studies Trials & Solutions.pdf': https://thsc.zaxu.xyz/Year%2012/Trial/HSIE/Legal%20Studies/Baulkham%20Hills/Baulkham%20Hills%202014%20Legal%20Studies%20Trials%20%26%20Solutions.pdf (Section I key on page 14; read from image; Q1-5 text checked against paper)."
+    },
+    {
+      "number": 8,
+      "groupId": null,
+      "stem": "If the Police Commissioner was to be sentenced to a term of imprisonment, which of the following would need to be considered?",
+      "images": [],
+      "options": {
+        "A": "Preventative detention",
+        "B": "Security classification",
+        "C": "Continued detention",
+        "D": "Protective custody"
+      },
+      "answer": "D",
+      "answerSource": "thsc",
+      "answerNote": "Marking guidelines in THSC 'Baulkham Hills 2014 Legal Studies Trials & Solutions.pdf': https://thsc.zaxu.xyz/Year%2012/Trial/HSIE/Legal%20Studies/Baulkham%20Hills/Baulkham%20Hills%202014%20Legal%20Studies%20Trials%20%26%20Solutions.pdf (Section I key on page 14; read from image; Q1-5 text checked against paper)."
+    },
+    {
+      "number": 9,
+      "groupId": null,
+      "stem": "The conduct of criminal cases in NSW courts is subject to strict rules of evidence. What is the main reason for this?",
+      "images": [],
+      "options": {
+        "A": "To ensure the prosecution case is strong",
+        "B": "To ensure that the rights of the accused are upheld",
+        "C": "To assist the judge in deciding on a sentence",
+        "D": "To assist the jury in deciding the innocence or guilt of the accused"
+      },
+      "answer": "B",
+      "answerSource": "thsc",
+      "answerNote": "Marking guidelines in THSC 'Baulkham Hills 2014 Legal Studies Trials & Solutions.pdf': https://thsc.zaxu.xyz/Year%2012/Trial/HSIE/Legal%20Studies/Baulkham%20Hills/Baulkham%20Hills%202014%20Legal%20Studies%20Trials%20%26%20Solutions.pdf (Section I key on page 14; read from image; Q1-5 text checked against paper)."
+    },
+    {
+      "number": 10,
+      "groupId": null,
+      "stem": "The lack of action, at international level to agree to limit climate change, represents a failure to recognise which human right?",
+      "images": [],
+      "options": {
+        "A": "Universal suffrage",
+        "B": "Universal education",
+        "C": "Collective self-determination",
+        "D": "Environmental rights"
+      },
+      "answer": "D",
+      "answerSource": "thsc",
+      "answerNote": "Marking guidelines in THSC 'Baulkham Hills 2014 Legal Studies Trials & Solutions.pdf': https://thsc.zaxu.xyz/Year%2012/Trial/HSIE/Legal%20Studies/Baulkham%20Hills/Baulkham%20Hills%202014%20Legal%20Studies%20Trials%20%26%20Solutions.pdf (Section I key on page 14; read from image; Q1-5 text checked against paper)."
+    },
+    {
+      "number": 11,
+      "groupId": null,
+      "stem": "What is a limitation of a Charter of Rights embedded in the Constitution?",
+      "images": [],
+      "options": {
+        "A": "Enforceability",
+        "B": "Accessibility",
+        "C": "Adaptability",
+        "D": "Knowledge"
+      },
+      "answer": "C",
+      "answerSource": "thsc",
+      "answerNote": "Marking guidelines in THSC 'Baulkham Hills 2014 Legal Studies Trials & Solutions.pdf': https://thsc.zaxu.xyz/Year%2012/Trial/HSIE/Legal%20Studies/Baulkham%20Hills/Baulkham%20Hills%202014%20Legal%20Studies%20Trials%20%26%20Solutions.pdf (Section I key on page 14; read from image; Q1-5 text checked against paper)."
+    },
+    {
+      "number": 12,
+      "groupId": null,
+      "stem": "Ellen is arrested and charged as part of an international people smuggling ring. Of what type of crime is than an example?",
+      "images": [],
+      "options": {
+        "A": "Crime against the person",
+        "B": "Transnational crime",
+        "C": "Crime against the international community",
+        "D": "War crime"
+      },
+      "answer": "B",
+      "answerSource": "thsc",
+      "answerNote": "Marking guidelines in THSC 'Baulkham Hills 2014 Legal Studies Trials & Solutions.pdf': https://thsc.zaxu.xyz/Year%2012/Trial/HSIE/Legal%20Studies/Baulkham%20Hills/Baulkham%20Hills%202014%20Legal%20Studies%20Trials%20%26%20Solutions.pdf (Section I key on page 14; read from image; Q1-5 text checked against paper)."
+    },
+    {
+      "number": 13,
+      "groupId": null,
+      "stem": "Shatana is fined for speeding while driving. Shatana tells police that she wasn’t concentrating, while looking at her new nail polish colour. Shatana said she did not intend to exceed the speed limit. Which of the following statements is true regarding this situation?",
+      "images": [],
+      "options": {
+        "A": "Shatana has the actus reus so the fine is valid",
+        "B": "Shatana has NO actus reus so the fine is NOT valid",
+        "C": "Shatana lacks the mens rea so the fine is NOT valid",
+        "D": "Shatana has both the mens rea and actus reus so the fine is valid"
+      },
+      "answer": "A",
+      "answerSource": "thsc",
+      "answerNote": "Marking guidelines in THSC 'Baulkham Hills 2014 Legal Studies Trials & Solutions.pdf': https://thsc.zaxu.xyz/Year%2012/Trial/HSIE/Legal%20Studies/Baulkham%20Hills/Baulkham%20Hills%202014%20Legal%20Studies%20Trials%20%26%20Solutions.pdf (Section I key on page 14; read from image; Q1-5 text checked against paper)."
+    },
+    {
+      "number": 14,
+      "groupId": null,
+      "stem": "The Commonwealth government prevents media coverage of its dealings with asylum seekers. What types of rights does this infringe?",
+      "images": [],
+      "options": {
+        "A": "Peace rights",
+        "B": "Collective rights",
+        "C": "Civil and political rights",
+        "D": "Economic, social and cultural rights"
+      },
+      "answer": "C",
+      "answerSource": "thsc",
+      "answerNote": "Marking guidelines in THSC 'Baulkham Hills 2014 Legal Studies Trials & Solutions.pdf': https://thsc.zaxu.xyz/Year%2012/Trial/HSIE/Legal%20Studies/Baulkham%20Hills/Baulkham%20Hills%202014%20Legal%20Studies%20Trials%20%26%20Solutions.pdf (Section I key on page 14; read from image; Q1-5 text checked against paper)."
+    },
+    {
+      "number": 15,
+      "groupId": null,
+      "stem": "During a trial, a magistrate learns that a defendant has a serious drug addiction. The magistrate decides to recommend the defendant for the ‘Magistrates Early Referral into Treatment’ (MERIT) program. Of what is this, an example?",
+      "images": [],
+      "options": {
+        "A": "Retribution",
+        "B": "A custodial sentence",
+        "C": "A diversionary program",
+        "D": "A Community Service Order"
+      },
+      "answer": "C",
+      "answerSource": "thsc",
+      "answerNote": "Marking guidelines in THSC 'Baulkham Hills 2014 Legal Studies Trials & Solutions.pdf': https://thsc.zaxu.xyz/Year%2012/Trial/HSIE/Legal%20Studies/Baulkham%20Hills/Baulkham%20Hills%202014%20Legal%20Studies%20Trials%20%26%20Solutions.pdf (Section I key on page 14; read from image; Q1-5 text checked against paper)."
+    },
+    {
+      "number": 16,
+      "groupId": null,
+      "stem": "What is the role of a magistrate in an indictable offence?",
+      "images": [],
+      "options": {
+        "A": "To determine the law",
+        "B": "To determine the facts",
+        "C": "To determine both the facts and the law",
+        "D": "To determine if there is a prima facie case"
+      },
+      "answer": "D",
+      "answerSource": "thsc",
+      "answerNote": "Marking guidelines in THSC 'Baulkham Hills 2014 Legal Studies Trials & Solutions.pdf': https://thsc.zaxu.xyz/Year%2012/Trial/HSIE/Legal%20Studies/Baulkham%20Hills/Baulkham%20Hills%202014%20Legal%20Studies%20Trials%20%26%20Solutions.pdf (Section I key on page 14; read from image; Q1-5 text checked against paper)."
+    },
+    {
+      "number": 17,
+      "groupId": null,
+      "stem": "The role of the International Court of Justice is best described as",
+      "images": [],
+      "options": {
+        "A": "An inter-governmental organisation which tries people accused of war crimes",
+        "B": "An ad hoc criminal tribunal that hears cases involving crimes against humanity",
+        "C": "A permanent and independent non-legal mechanism",
+        "D": "A court within the United Nations which settles disputes between sovereign states"
+      },
+      "answer": "D",
+      "answerSource": "thsc",
+      "answerNote": "Marking guidelines in THSC 'Baulkham Hills 2014 Legal Studies Trials & Solutions.pdf': https://thsc.zaxu.xyz/Year%2012/Trial/HSIE/Legal%20Studies/Baulkham%20Hills/Baulkham%20Hills%202014%20Legal%20Studies%20Trials%20%26%20Solutions.pdf (Section I key on page 14; read from image; Q1-5 text checked against paper)."
+    },
+    {
+      "number": 18,
+      "groupId": null,
+      "stem": "In an indictable criminal case, what is the burden of proof and standard of proof?",
+      "images": [],
+      "options": {
+        "A": "The burden of proof is on the public defender and the standard of proof is on the balance of probabilities",
+        "B": "The burden of proof is on the victim and the standard of proof is beyond reasonable doubt",
+        "C": "The burden of proof is on the state and the standard of proof is beyond reasonable doubt",
+        "D": "The burden of proof is on the plaintiff and the standard of proof is beyond reasonable doubt"
+      },
+      "answer": "C",
+      "answerSource": "thsc",
+      "answerNote": "Marking guidelines in THSC 'Baulkham Hills 2014 Legal Studies Trials & Solutions.pdf': https://thsc.zaxu.xyz/Year%2012/Trial/HSIE/Legal%20Studies/Baulkham%20Hills/Baulkham%20Hills%202014%20Legal%20Studies%20Trials%20%26%20Solutions.pdf (Section I key on page 14; read from image; Q1-5 text checked against paper)."
+    },
+    {
+      "number": 19,
+      "groupId": null,
+      "stem": "According to the separation of powers in the Constitution of the Commonwealth of Australia, who has the power to interpret the law?",
+      "images": [],
+      "options": {
+        "A": "The executive",
+        "B": "The legislature",
+        "C": "The Governor General",
+        "D": "The judiciary"
+      },
+      "answer": "D",
+      "answerSource": "thsc",
+      "answerNote": "Marking guidelines in THSC 'Baulkham Hills 2014 Legal Studies Trials & Solutions.pdf': https://thsc.zaxu.xyz/Year%2012/Trial/HSIE/Legal%20Studies/Baulkham%20Hills/Baulkham%20Hills%202014%20Legal%20Studies%20Trials%20%26%20Solutions.pdf (Section I key on page 14; read from image; Q1-5 text checked against paper)."
+    },
+    {
+      "number": 20,
+      "groupId": null,
+      "stem": "Which of the following would be considered transnational crimes?",
+      "images": [],
+      "options": {
+        "A": "people smuggling, internet fraud, tax evasion",
+        "B": "genocide, torture, human trafficking",
+        "C": "apartheid, sexual slavery, war crimes",
+        "D": "international terrorism, war crimes, genocide"
+      },
+      "answer": "A",
+      "answerSource": "thsc",
+      "answerNote": "Marking guidelines in THSC 'Baulkham Hills 2014 Legal Studies Trials & Solutions.pdf': https://thsc.zaxu.xyz/Year%2012/Trial/HSIE/Legal%20Studies/Baulkham%20Hills/Baulkham%20Hills%202014%20Legal%20Studies%20Trials%20%26%20Solutions.pdf (Section I key on page 14; read from image; Q1-5 text checked against paper)."
+    }
+  ]
+}
