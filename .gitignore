@@ -6,5 +6,6 @@ __pycache__/
 .env
 .env.*
 data/disputes.json
+data/disputes.json.tmp
 data/papers/*.json-*
 tools/scans/

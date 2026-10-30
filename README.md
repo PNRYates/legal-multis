@@ -16,6 +16,8 @@ The deployment target is Coolify at <https://legal.peteryates.net>, serving the 
 
 Mount a persistent Coolify volume at **`/app/storage`**. The Docker image sets `DISPUTES_FILE=/app/storage/disputes.json`; the writable directory belongs to the unprivileged `node` user (UID/GID 1000). Keep one application replica so the shared JSON file has a single writer. Do **not** mount a volume over `/app/data` or `/app/data/papers`: papers are bundled with each image.
 
+Set Coolify's health-check type to **command**, with command `node /app/healthcheck.js`. This checks the shared backend and all 52 papers using Node itself; the slim image does not include curl. Automatic deployments use the existing Coolify GitHub App on pushes to `main`.
+
 Outside Docker, `DISPUTES_FILE` can select another persistent file path; the default remains `data/disputes.json`. Writes use atomic replacement. Back up the storage volume separately; container/image rollbacks do not roll back disputes. To verify a deployment, check `/api/papers` returns 52 papers and create a temporary dispute, redeploy, confirm it survives, then delete only that test dispute.
 
 ## Static build
