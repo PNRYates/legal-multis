@@ -155,7 +155,7 @@ function renderSetup() {
       { class: "card" },
       h("div", { class: "row" }, h("span", {}, "Questions:"), pool, h("span", {}, "Up to"), count),
       h("label", { class: "opt" }, shuffled, "Shuffle order"),
-      h("label", { class: "opt" }, withGuesses, "Include questions with unverified (guessed) answers")
+      h("label", { class: "opt" }, withGuesses, "Include questions with unverified answers")
     ),
     h("div", { class: "row" }, h("button", { class: "primary", onclick: start }, "Start quiz"), msg)
   );
@@ -198,7 +198,7 @@ function renderQuestion() {
         );
       }),
     ];
-    if (st.submitted) els.push(...renderFeedback(p, q, chosen, right));
+    if (st.submitted) els.push(renderFeedback(q, right));
     return h("div", { class: "question" }, els);
   });
 
@@ -236,6 +236,9 @@ function renderQuestion() {
     h("div", { class: "row" },
       h("button", { onclick: () => { if (confirm("End this quiz?")) renderSetup(); } }, "Quit"),
       h("span", { class: "spacer" }),
+      st.submitted ? u.questions.map((q) => h("button", {
+        onclick: () => openDispute(p, q),
+      }, u.questions.length > 1 ? `Dispute Q${q.number}` : "Dispute")) : null,
       st.submitted
         ? h("button", { class: "primary", onclick: next }, last ? "See results" : "Next")
         : h("button", { class: "primary", disabled: !allAnswered, onclick: submit }, "Submit")
@@ -243,48 +246,61 @@ function renderQuestion() {
   );
 }
 
-function renderFeedback(p, q, chosen, right) {
-  const out = [
-    h("div", { class: `result ${right ? "good" : "bad"}` }, right ? "Correct" : `Incorrect. The answer is ${accepted(q).join(" or ")}.`),
-  ];
-  if (isGuess(q)) {
-    out.push(
-      h("div", { class: "guess" }, h("strong", {}, "Unverified, no answer key. "), q.answerNote),
-      disputeBox(p, q)
-    );
-  } else if (q.answerNote) {
-    out.push(h("div", { class: "muted", style: "margin-top:6px" }, `Source: ${q.answerSource}. ${q.answerNote}`));
-  }
-  return out;
+function renderFeedback(q, right) {
+  return h("div", { class: `result ${right ? "good" : "bad"}` }, right ? "Correct" : `Incorrect. The answer is ${accepted(q).join(" or ")}.`);
 }
 
-function disputeBox(p, q) {
-  const comment = h("textarea", { placeholder: "Why do you think this answer is wrong? (optional)" });
+function openDispute(p, q) {
+  const comment = h("textarea", { id: "dispute-comment" });
   const suggested = h("select", {}, h("option", { value: "" }, "Not sure"), LETTERS.map((L) => h("option", { value: L }, L)));
-  const status = h("span", { class: "muted" });
+  const status = h("p", { class: "muted", role: "status" });
   const save = h("button", {
+    class: "primary",
     onclick: async () => {
       save.disabled = true;
-      await api("/api/disputes", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          paperId: p.id,
-          questionNumber: q.number,
-          questionStem: q.stem,
-          storedAnswer: q.answer,
-          suggestedAnswer: suggested.value,
-          comment: comment.value,
-        }),
-      });
-      status.textContent = "Saved. You can review it under Disputes.";
-      refreshDisputeCount();
+      try {
+        await api("/api/disputes", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({
+            paperId: p.id,
+            questionNumber: q.number,
+            questionStem: q.stem,
+            storedAnswer: q.answer,
+            suggestedAnswer: suggested.value,
+            comment: comment.value,
+          }),
+        });
+        status.textContent = "Saved. You can review it under Disputes.";
+        save.textContent = "Saved";
+        refreshDisputeCount();
+      } catch {
+        status.textContent = "Couldn't save your dispute. Please try again.";
+        save.disabled = false;
+      }
     },
-  }, "Dispute this answer");
-  return h("div", { class: "dispute" },
-    comment,
-    h("div", { class: "row" }, h("span", {}, "I think it's:"), suggested, save, status)
+  }, "Submit dispute");
+  const sourceNames = { paper: "Paper answer key", official: "Official marking guidelines", thsc: "THSC", web: "Online source", guess: "Unverified answer" };
+  const dialog = h("dialog", { class: "dispute", onclose: () => dialog.remove() },
+    h("h1", { id: "dispute-title", tabIndex: -1 }, "Dispute answer"),
+    h("p", { class: "muted" }, `${p.year} ${p.school} · Q${q.number}`),
+    h("p", {}, `Answer: ${accepted(q).join(" or ")}`),
+    h("h2", {}, "Explanation and source"),
+    h("p", {}, sourceNames[q.answerSource] || "Source unavailable"),
+    q.answerNote ? h("p", { class: "answer-note" }, q.answerNote) : null,
+    h("label", { class: "opt" }, "Suggested answer", suggested),
+    h("label", { htmlFor: "dispute-comment" }, "Why do you think this answer is wrong? (optional)"),
+    comment, status,
+    h("div", { class: "row" },
+      h("span", { class: "spacer" }),
+      h("button", { onclick: () => dialog.close() }, "Close"),
+      save
+    )
   );
+  dialog.setAttribute("aria-labelledby", "dispute-title");
+  app.append(dialog);
+  dialog.showModal();
+  dialog.querySelector("h1").focus();
 }
 
 /* ---------- results ---------- */
@@ -317,7 +333,7 @@ function renderResults() {
                 h("td", {}, `${u.paper.year} ${u.paper.school}`),
                 h("td", {}, q.number),
                 h("td", {}, chosen),
-                h("td", {}, accepted(q).join("/"), isGuess(q) ? h("span", { class: "badge" }, "guess") : null)
+                h("td", {}, accepted(q).join("/"))
               )
             )
           )
@@ -368,7 +384,7 @@ function route() {
 window.addEventListener("hashchange", () => (location.hash === "#/disputes" ? renderDisputes() : quiz ? renderQuestion() : renderSetup()));
 
 document.addEventListener("keydown", (e) => {
-  if (!quiz || /^(TEXTAREA|SELECT|INPUT)$/.test(e.target.tagName)) return;
+  if (!quiz || document.querySelector("dialog[open]") || /^(TEXTAREA|SELECT|INPUT)$/.test(e.target.tagName)) return;
   const st = quiz.state[quiz.index];
   const u = quiz.units[quiz.index];
   if (!st) return;

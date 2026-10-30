@@ -9,8 +9,6 @@
   --good-bg: #e4f4e9;
   --bad: #b3261e;
   --bad-bg: #fbe7e5;
-  --warn: #8a5a00;
-  --warn-bg: #fff3d6;
 }
 @media (prefers-color-scheme: dark) {
   :root {
@@ -24,8 +22,6 @@
     --good-bg: #15301e;
     --bad: #ff8b82;
     --bad-bg: #3a1c1a;
-    --warn: #f0c66a;
-    --warn-bg: #352a10;
   }
 }
 * { box-sizing: border-box; }
@@ -70,10 +66,9 @@ img.fig { max-width: 100%; display: block; margin: 8px 0 12px; border-radius: 4p
 .result.good { color: var(--good); }
 .result.bad { color: var(--bad); }
 
-.badge { display: inline-block; font-size: 0.8rem; padding: 1px 8px; border-radius: 10px; background: var(--border); color: var(--muted); margin-left: 6px; }
-.guess { background: var(--warn-bg); color: var(--warn); border-radius: 6px; padding: 10px 14px; margin-top: 10px; font-size: 0.92rem; }
-.dispute { margin-top: 10px; padding: 12px; border: 1px dashed var(--warn); border-radius: 6px; }
-.dispute .row { margin-top: 8px; }
+.dispute { width: min(600px, calc(100% - 32px)); max-height: calc(100% - 32px); padding: 24px; border: 1px solid var(--border); border-radius: 10px; background: var(--card); color: var(--text); }
+.dispute::backdrop { background: rgb(0 0 0 / 60%); }
+.answer-note { white-space: pre-wrap; overflow-wrap: anywhere; }
 
 .score { font-size: 2.2rem; font-weight: 700; }
 table { border-collapse: collapse; width: 100%; }
