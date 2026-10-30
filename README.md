@@ -10,9 +10,13 @@ npm start
 
 Open <http://localhost:3000>. Quiz history is saved in the browser; disputes are saved by the local server in `data/disputes.json`.
 
-## GitHub Pages
+## Deployment
 
-The site is published at <https://pnryates.github.io/legal-multis/>. Pushes to `main` validate the papers, build the static site, and deploy it using GitHub Actions.
+The deployment target is Coolify at <https://legal.peteryates.net>, running `npm start` on port 3000. Persist `data/disputes.json` across deployments so disputes remain shared between users.
+
+## Static build
+
+A static build is also available for hosts such as GitHub Pages:
 
 ```sh
 python3 tools/validate.py data/papers/*.json
