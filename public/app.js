@@ -350,8 +350,8 @@ async function renderDisputes() {
   const byId = new Map(papers.map((p) => [p.id, p]));
   app.replaceChildren(
     h("h1", {}, "Disputed answers"),
-    list.length ? null : h("p", { class: "muted" }, "Nothing disputed yet."),
-    [...list].reverse().map((d) => {
+    ...(list.length ? [] : [h("p", { class: "muted" }, "Nothing disputed yet.")]),
+    ...[...list].reverse().map((d) => {
       const p = byId.get(d.paperId);
       const q = p && p.questions.find((x) => x.number === d.questionNumber);
       return h("div", { class: "card" },
