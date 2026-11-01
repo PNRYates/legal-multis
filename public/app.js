@@ -96,14 +96,24 @@ function renderSetup() {
     h("option", { value: "wrong" }, "Previously wrong only")
   );
   pool.value = saved.pool || "all";
+  const maxQuestion = Math.max(...papers.flatMap((p) => p.questions.map((q) => q.number)));
+  const fromQuestion = h("input", { type: "number", min: 1, max: maxQuestion, required: true, value: saved.fromQuestion ?? 1, style: "width:80px" });
+  const toQuestion = h("input", { type: "number", min: 1, max: maxQuestion, required: true, value: saved.toQuestion ?? maxQuestion, style: "width:80px" });
+  const setRange = (from, to) => {
+    fromQuestion.value = from;
+    toQuestion.value = to;
+    msg.textContent = "";
+  };
   const count = h("input", { type: "number", min: 1, value: saved.count || 20, style: "width:80px" });
   const shuffled = h("input", { type: "checkbox", checked: saved.shuffle ?? true });
   const withGuesses = h("input", { type: "checkbox", checked: saved.guesses ?? true });
   const msg = h("div", { class: "muted" });
 
   const start = () => {
+    if (!fromQuestion.reportValidity() || !toQuestion.reportValidity()) return;
+    if (+fromQuestion.value > +toQuestion.value) return (msg.textContent = "The starting question must be at or before the ending question.");
     const ids = [...boxes].filter(([, cb]) => cb.checked).map(([id]) => id);
-    const settings = { selected: ids, pool: pool.value, count: +count.value, shuffle: shuffled.checked, guesses: withGuesses.checked };
+    const settings = { selected: ids, pool: pool.value, fromQuestion: +fromQuestion.value, toQuestion: +toQuestion.value, count: +count.value, shuffle: shuffled.checked, guesses: withGuesses.checked };
     store.set("setup", settings);
 
     let units = [];
@@ -114,7 +124,8 @@ function renderSetup() {
         const group = q.groupId ? p.groups.find((g) => g.id === q.groupId) : null;
         const qs = group ? group.questionNumbers.map((n) => p.questions.find((x) => x.number === n)) : [q];
         qs.forEach((x) => seen.add(x.number));
-        units.push({ paper: p, group, questions: qs });
+        const matching = qs.filter((x) => x.number >= settings.fromQuestion && x.number <= settings.toQuestion);
+        if (matching.length) units.push({ paper: p, group, questions: matching });
       }
     }
     units = units.filter((u) => {
@@ -154,6 +165,13 @@ function renderSetup() {
       "div",
       { class: "card" },
       h("div", { class: "row" }, h("span", {}, "Questions:"), pool, h("span", {}, "Up to"), count),
+      h("div", { class: "row", style: "margin-top:12px" },
+        h("span", {}, "Question numbers:"),
+        h("label", { class: "opt" }, "From", fromQuestion),
+        h("label", { class: "opt" }, "To", toQuestion),
+        h("button", { onclick: () => setRange(1, maxQuestion) }, "All"),
+        h("button", { onclick: () => setRange(Math.max(1, maxQuestion - 4), maxQuestion) }, "Last 5")
+      ),
       h("label", { class: "opt" }, shuffled, "Shuffle order"),
       h("label", { class: "opt" }, withGuesses, "Include questions with unverified answers")
     ),
