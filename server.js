@@ -30,7 +30,7 @@ const writeDisputes = (list) => {
 };
 
 const send = (res, status, body, type = "application/json") => {
-  res.writeHead(status, { "Content-Type": type });
+  res.writeHead(status, { "Content-Type": type, "Cache-Control": "no-cache" });
   res.end(typeof body === "string" || Buffer.isBuffer(body) ? body : JSON.stringify(body));
 };
 

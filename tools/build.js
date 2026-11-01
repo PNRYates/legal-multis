@@ -13,7 +13,7 @@ const papers = fs.readdirSync(papersDir)
 fs.rmSync(output, { recursive: true, force: true });
 fs.cpSync(path.join(root, "public"), output, { recursive: true });
 const index = path.join(output, "index.html");
-fs.writeFileSync(index, fs.readFileSync(index, "utf8").replace('src="app.js"', 'src="app.js" data-static="true"'));
+fs.writeFileSync(index, fs.readFileSync(index, "utf8").replace('<script src="app.js', '<script data-static="true" src="app.js'));
 fs.writeFileSync(path.join(output, "papers.json"), JSON.stringify(papers));
 fs.writeFileSync(path.join(output, ".nojekyll"), "");
 console.log(`Built ${papers.length} papers for GitHub Pages in dist/`);
